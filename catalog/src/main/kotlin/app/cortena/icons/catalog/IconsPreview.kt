@@ -33,7 +33,7 @@ import framework.cortena.icons.PhosphorIcons
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun App() {
+fun IconsPreview() {
     Column(modifier = Modifier.fillMaxSize().background(Color(0xFFF4F1EA))) {
         Box(
             modifier =
@@ -57,18 +57,18 @@ fun App() {
             horizontalArrangement = Arrangement.spacedBy(16.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
-            IconItem(name = "Acorn", iconCode = PhosphorIcons.Acorn)
-            IconItem(name = "Airplane", iconCode = PhosphorIcons.Airplane)
-            IconItem(name = "Alarm", iconCode = PhosphorIcons.Alarm)
-            IconItem(name = "Alien", iconCode = PhosphorIcons.Alien)
-            IconItem(name = "Anchor", iconCode = PhosphorIcons.Anchor)
-            IconItem(name = "AndroidLogo", iconCode = PhosphorIcons.AndroidLogo)
+            IconItem(name = "Acorn", iconId = PhosphorIcons.Acorn)
+            IconItem(name = "Airplane", iconId = PhosphorIcons.Airplane)
+            IconItem(name = "Alarm", iconId = PhosphorIcons.Alarm)
+            IconItem(name = "Alien", iconId = PhosphorIcons.Alien)
+            IconItem(name = "Anchor", iconId = PhosphorIcons.Anchor)
+            IconItem(name = "AndroidLogo", iconId = PhosphorIcons.AndroidLogo)
         }
     }
 }
 
 @Composable
-fun IconItem(name: String, iconCode: String) {
+fun IconItem(name: String, iconId: String) {
     Column(
         modifier =
             Modifier.size(width = 132.dp, height = 128.dp)
@@ -80,7 +80,7 @@ fun IconItem(name: String, iconCode: String) {
     ) {
         Spacer(modifier = Modifier.weight(1f))
         PhosphorIcon(
-            iconCode = iconCode,
+            iconId = iconId,
             contentDescription = name,
             size = 34.dp,
             tint = Color(0xFF171717),

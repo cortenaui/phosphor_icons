@@ -20,11 +20,10 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-
 @Suppress("ModifierParameter")
 @Composable
 fun PhosphorIcon(
-    iconCode: String,
+    iconId: String,
     contentDescription: String? = null,
     modifier: Modifier = Modifier,
     size: Dp = 24.dp,
@@ -42,7 +41,7 @@ fun PhosphorIcon(
         contentAlignment = Alignment.Center,
     ) {
         BasicText(
-            text = iconCode,
+            text = iconId,
             style =
                 TextStyle(
                     color = if (tint.isSpecified) tint else Color.Black,
