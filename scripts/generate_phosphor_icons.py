@@ -4,8 +4,6 @@ import keyword
 import shutil
 from pathlib import Path
 
-FONT_RESOURCE_NAME = "phosphor_regular"
-
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", required=True)
@@ -56,12 +54,7 @@ def write_icons_file(output_dir: Path, icons: list[dict]) -> None:
             [
                 "package framework.cortena.icons",
                 "",
-                "import androidx.compose.ui.text.font.Font",
-                "import androidx.compose.ui.text.font.FontFamily",
-                "",
                 "object PhosphorIcons {",
-                f'    val DefaultFontFamily: FontFamily = FontFamily(Font(R.font.{FONT_RESOURCE_NAME}))',
-                "",
                 *icon_lines,
                 "}",
                 "",

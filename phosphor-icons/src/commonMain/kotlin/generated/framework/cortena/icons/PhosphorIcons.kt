@@ -1,11 +1,6 @@
 package framework.cortena.icons
 
-import androidx.compose.ui.text.font.Font
-import androidx.compose.ui.text.font.FontFamily
-
 object PhosphorIcons {
-    val DefaultFontFamily: FontFamily = FontFamily(Font(R.font.phosphor_regular))
-
     const val Acorn: String = "\uEB9A"
     const val AddressBook: String = "\uE6F8"
     const val AddressBookTabs: String = "\uEE4E"

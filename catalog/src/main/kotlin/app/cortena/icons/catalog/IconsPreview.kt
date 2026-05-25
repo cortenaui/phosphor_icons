@@ -26,6 +26,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import framework.cortena.icons.PhosphorIcon
@@ -57,18 +58,25 @@ fun IconsPreview() {
             horizontalArrangement = Arrangement.spacedBy(16.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
-            IconItem(name = "Acorn", iconId = PhosphorIcons.Acorn)
-            IconItem(name = "Airplane", iconId = PhosphorIcons.Airplane)
-            IconItem(name = "Alarm", iconId = PhosphorIcons.Alarm)
-            IconItem(name = "Alien", iconId = PhosphorIcons.Alien)
-            IconItem(name = "Anchor", iconId = PhosphorIcons.Anchor)
-            IconItem(name = "AndroidLogo", iconId = PhosphorIcons.AndroidLogo)
+            IconItem(name = "Acorn", icon = PhosphorIcon(PhosphorIcons.Acorn))
+            IconItem(name = "Airplane", icon = PhosphorIcon(PhosphorIcons.Airplane))
+            IconItem(name = "Alarm", icon = PhosphorIcon(PhosphorIcons.Alarm))
+            IconItem(name = "Alien", icon = PhosphorIcon(PhosphorIcons.Alien))
+            IconItem(name = "Anchor", icon = PhosphorIcon(PhosphorIcons.Anchor))
+            IconItem(name = "AndroidLogo", icon = PhosphorIcon(PhosphorIcons.AndroidLogo))
         }
     }
 }
 
 @Composable
-fun IconItem(name: String, iconId: String) {
+fun IconItem(
+    name: String,
+    icon:
+        @Composable
+        (
+            modifier: Modifier, tint: Color, size: Dp, enabled: Boolean, contentDescription: String?,
+        ) -> Unit,
+) {
     Column(
         modifier =
             Modifier.size(width = 132.dp, height = 128.dp)
@@ -79,12 +87,7 @@ fun IconItem(name: String, iconId: String) {
         verticalArrangement = Arrangement.spacedBy(8.dp),
     ) {
         Spacer(modifier = Modifier.weight(1f))
-        PhosphorIcon(
-            iconId = iconId,
-            contentDescription = name,
-            size = 34.dp,
-            tint = Color(0xFF171717),
-        )
+        icon(Modifier, Color(0xFF171717), 34.dp, true, name)
         Spacer(modifier = Modifier.weight(1f))
         BasicText(
             text = name,

@@ -11,7 +11,7 @@ plugins {
     alias(libs.plugins.maven.publish)
 }
 
-val generatedKotlinDir = layout.projectDirectory.dir("src/androidMain/kotlin/generated")
+val generatedKotlinDir = layout.projectDirectory.dir("src/commonMain/kotlin/generated")
 
 val generatePhosphorIcons by
     tasks.registering(Exec::class) {
@@ -43,9 +43,15 @@ kotlin {
         commonMain.dependencies {
             implementation(libs.compose.runtime)
             implementation(libs.compose.foundation)
+            implementation(libs.compose.resources)
             implementation(libs.compose.ui)
         }
     }
+}
+
+compose.resources {
+    publicResClass = false
+    packageOfResClass = "framework.cortena.icons.resources"
 }
 
 tasks
@@ -74,7 +80,7 @@ mavenPublishing {
 
     pom {
         name.set("CortenaUI Icons")
-        description.set("")
+        description.set("Phosphor icons for Compose Multiplatform")
         url.set("https://github.com/cortenaui/phosphor_icons")
         licenses {
             license {
