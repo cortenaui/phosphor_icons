@@ -18,7 +18,13 @@ val generatePhosphorIcons by
         group = "code generation"
         description = "Generates Phosphor font glyph sources from selection.json assets."
 
-        inputs.file(rootProject.layout.projectDirectory.file("ref/Fonts/regular/selection.json"))
+        val variants = listOf("regular", "bold", "light", "fill", "duotone", "thin")
+        variants.forEach { weight ->
+            inputs.file(
+                rootProject.layout.projectDirectory.file("scripts/$weight/selection.json"),
+            )
+        }
+        inputs.file(rootProject.layout.projectDirectory.file("scripts/generate_phosphor_icons.py"))
         outputs.dir(generatedKotlinDir)
 
         workingDir = rootProject.projectDir
