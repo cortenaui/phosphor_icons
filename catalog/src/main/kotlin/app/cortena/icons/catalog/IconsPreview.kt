@@ -32,7 +32,7 @@ import framework.cortena.ui.theme.LocalColors
 fun IconsPreview() {
     val colors = LocalColors.current
     ScrollView {
-        SafeArea {
+        SafeArea(horizontal = 12.dp) {
             Column(
                 modifier = Modifier.fillMaxWidth(),
                 verticalArrangement = Arrangement.spacedBy(16.dp),
