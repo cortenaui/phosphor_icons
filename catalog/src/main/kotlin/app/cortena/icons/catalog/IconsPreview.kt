@@ -5,93 +5,82 @@
 package app.cortena.icons.catalog
 
 import androidx.compose.foundation.background
-import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.ExperimentalLayoutApi
-import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.foundation.text.BasicText
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.text.TextStyle
-import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import framework.cortena.icons.PhosphorIcon
-import framework.cortena.icons.PhosphorIcons
+import framework.cortena.ui.components.Text
+import framework.cortena.ui.components.TextRole
+import framework.cortena.ui.layout.SafeArea
+import framework.cortena.ui.layout.ScrollView
+import framework.cortena.ui.shape.RoundedShape
+import framework.cortena.ui.theme.LocalColors
 
-@OptIn(ExperimentalLayoutApi::class)
+/**
+ * Catalog screen that lists every Phosphor icon shipped with the library in a fixed 3-column grid.
+ */
 @Composable
 fun IconsPreview() {
-    Column(modifier = Modifier.fillMaxSize().background(Color(0xFFF4F1EA))) {
-        Box(
-            modifier =
-                Modifier.fillMaxWidth()
-                    .background(Color(0xFF171717))
-                    .padding(horizontal = 20.dp, vertical = 16.dp)
-        ) {
-            BasicText(
-                text = "Phosphor Icons Catalog",
-                style =
-                    TextStyle(
-                        color = Color.White,
-                        fontSize = 22.sp,
-                        fontWeight = FontWeight.SemiBold,
-                    ),
-            )
-        }
-
-        FlowRow(
-            modifier = Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(16.dp),
-            horizontalArrangement = Arrangement.spacedBy(16.dp),
-            verticalArrangement = Arrangement.spacedBy(16.dp),
-        ) {
-            IconItem(name = "Acorn", icon = PhosphorIcon(PhosphorIcons.Acorn))
-            IconItem(name = "Airplane", icon = PhosphorIcon(PhosphorIcons.Airplane))
-            IconItem(name = "Alarm", icon = PhosphorIcon(PhosphorIcons.Alarm))
-            IconItem(name = "Alien", icon = PhosphorIcon(PhosphorIcons.Alien))
-            IconItem(name = "Anchor", icon = PhosphorIcon(PhosphorIcons.Anchor))
-            IconItem(name = "AndroidLogo", icon = PhosphorIcon(PhosphorIcons.AndroidLogo))
+    val colors = LocalColors.current
+    ScrollView {
+        SafeArea {
+            Column(
+                modifier = Modifier.fillMaxWidth(),
+                verticalArrangement = Arrangement.spacedBy(16.dp),
+            ) {
+                Text(
+                    text = "Phosphor Icons",
+                    color = Color(colors.primary),
+                    role = TextRole.TitleLarge,
+                )
+                Column(
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalArrangement = Arrangement.spacedBy(12.dp),
+                ) {
+                    PhosphorIconCatalog.chunked(3).forEach { rowEntries ->
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.spacedBy(12.dp),
+                        ) {
+                            rowEntries.forEach { entry ->
+                                Column(modifier = Modifier.weight(1f)) {
+                                    IconItem(name = entry.name, code = entry.code)
+                                }
+                            }
+                            // Pad the last row so the trailing cells keep equal width.
+                            repeat(3 - rowEntries.size) { Spacer(modifier = Modifier.weight(1f)) }
+                        }
+                    }
+                }
+            }
         }
     }
 }
 
 @Composable
-fun IconItem(
-    name: String,
-    icon:
-        @Composable
-        (
-            modifier: Modifier, tint: Color, size: Dp, enabled: Boolean, contentDescription: String?,
-        ) -> Unit,
-) {
+private fun IconItem(name: String, code: String) {
+    val colors = LocalColors.current
+    val render = PhosphorIcon(codeId = code)
     Column(
         modifier =
-            Modifier.size(width = 132.dp, height = 128.dp)
-                .background(Color.White, RoundedCornerShape(18.dp))
-                .border(1.dp, Color(0xFFE2DED2), RoundedCornerShape(18.dp))
-                .padding(horizontal = 12.dp, vertical = 14.dp),
+            Modifier.fillMaxWidth()
+                .height(120.dp)
+                .background(Color(colors.surfaceVariant), RoundedShape(24.dp))
+                .padding(horizontal = 8.dp, vertical = 14.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.spacedBy(8.dp),
+        verticalArrangement = Arrangement.Center,
     ) {
-        Spacer(modifier = Modifier.weight(1f))
-        icon(Modifier, Color(0xFF171717), 34.dp, true, name)
-        Spacer(modifier = Modifier.weight(1f))
-        BasicText(
-            text = name,
-            style = TextStyle(color = Color(0xFF3A3A3A), fontSize = 12.sp, lineHeight = 16.sp),
-        )
+        render(Modifier, Color(colors.onSurfaceVariant), 48.dp, true, name)
+        Spacer(modifier = Modifier.height(12.dp))
+        Text(text = name, color = Color(colors.onSurfaceVariant), role = TextRole.BodySmall)
     }
 }
