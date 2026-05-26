@@ -17,7 +17,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import framework.cortena.icons.PhosphorGlyph
 import framework.cortena.icons.PhosphorIcon
+import framework.cortena.icons.PhosphorIconWeight
 import framework.cortena.ui.components.Text
 import framework.cortena.ui.components.TextRole
 import framework.cortena.ui.layout.SafeArea
@@ -27,10 +29,14 @@ import framework.cortena.ui.theme.LocalColors
 
 /**
  * Catalog screen that lists every Phosphor icon shipped with the library in a fixed 3-column grid.
+ *
+ * Currently, renders the Regular weight only; the full multi-weight registry stays available in
+ * [PhosphorIconCatalog] for future variant browsing.
  */
 @Composable
 fun IconsPreview() {
     val colors = LocalColors.current
+    val entries = RegularIcons
     ScrollView {
         SafeArea(horizontal = 12.dp) {
             Column(
@@ -46,14 +52,14 @@ fun IconsPreview() {
                     modifier = Modifier.fillMaxWidth(),
                     verticalArrangement = Arrangement.spacedBy(12.dp),
                 ) {
-                    PhosphorIconCatalog.chunked(3).forEach { rowEntries ->
+                    entries.chunked(3).forEach { rowEntries ->
                         Row(
                             modifier = Modifier.fillMaxWidth(),
                             horizontalArrangement = Arrangement.spacedBy(12.dp),
                         ) {
                             rowEntries.forEach { entry ->
                                 Column(modifier = Modifier.weight(1f)) {
-                                    IconItem(name = entry.name, code = entry.code)
+                                    IconItem(name = entry.name, glyph = entry.glyph)
                                 }
                             }
                             // Pad the last row so the trailing cells keep equal width.
@@ -66,10 +72,13 @@ fun IconsPreview() {
     }
 }
 
+private val RegularIcons: List<PhosphorIconEntry> =
+    PhosphorIconCatalog.filter { it.weight == PhosphorIconWeight.Regular }
+
 @Composable
-private fun IconItem(name: String, code: String) {
+private fun IconItem(name: String, glyph: PhosphorGlyph) {
     val colors = LocalColors.current
-    val render = PhosphorIcon(codeId = code)
+    val render = PhosphorIcon(glyph = glyph)
     Column(
         modifier =
             Modifier.fillMaxWidth()

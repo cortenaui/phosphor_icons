@@ -13,14 +13,14 @@ Public shape:
     object PhosphorIcons {
         // Regular constants are also promoted to the top level so that
         // existing call sites like `PhosphorIcons.Alarm` keep working.
-        const val Alarm: String = "..."
+        val Alarm: PhosphorGlyph = Regular.Alarm
 
-        object Regular { const val Alarm: String = "..." }
-        object Bold    { const val Alarm: String = "..." }
-        object Light   { const val Alarm: String = "..." }
-        object Fill    { const val Alarm: String = "..." }
-        object Duotone { const val Alarm: String = "..." }
-        object Thin    { const val Alarm: String = "..." }
+        object Regular { val Alarm: PhosphorGlyph = PhosphorGlyph("\\u...", PhosphorIconWeight.Regular) }
+        object Bold    { val Alarm: PhosphorGlyph = PhosphorGlyph("\\u...", PhosphorIconWeight.Bold) }
+        object Light   { ... }
+        object Fill    { ... }
+        object Duotone { ... }
+        object Thin    { ... }
     }
 """
 
@@ -94,19 +94,20 @@ def load_variant(scripts_dir: Path, weight: str) -> dict[str, str]:
         mapping[icon_name] = f"\\u{code_point:04X}"
     return mapping
 
-def render_const_block(indent: str, icons: dict[str, str]) -> list[str]:
-    return [f'{indent}const val {name}: String = "{value}"' for name, value in icons.items()]
-
-def render_object(name: str, icons: dict[str, str]) -> list[str]:
-    return [
-        f"    object {name} {{",
-        *render_const_block("        ", icons),
-        "    }",
-    ]
+def render_variant_object(weight: str, icons: dict[str, str]) -> list[str]:
+    object_name = weight.capitalize()
+    weight_token = f"PhosphorIconWeight.{object_name}"
+    lines = [f"    object {object_name} {{"]
+    for name, code in icons.items():
+        lines.append(
+            f'        val {name}: PhosphorGlyph = PhosphorGlyph("{code}", {weight_token})'
+        )
+    lines.append("    }")
+    return lines
 
 def render_top_level_aliases(icons: dict[str, str]) -> list[str]:
     """Top-level Regular aliases for backward compatibility."""
-    return render_const_block("    ", icons)
+    return [f"    val {name}: PhosphorGlyph = Regular.{name}" for name in icons]
 
 def write_icons_file(output_dir: Path, variants: dict[str, dict[str, str]]) -> None:
     file_path = output_dir / "framework" / "cortena" / "icons" / "PhosphorIcons.kt"
@@ -116,16 +117,15 @@ def write_icons_file(output_dir: Path, variants: dict[str, dict[str, str]]) -> N
         "package framework.cortena.icons",
         "",
         "object PhosphorIcons {",
-        *render_top_level_aliases(variants["regular"]),
-        "",
     ]
     for weight in WEIGHTS:
-        lines.extend(render_object(weight.capitalize(), variants[weight]))
+        lines.extend(render_variant_object(weight, variants[weight]))
         lines.append("")
 
-    # Drop the trailing blank that would otherwise create a double newline.
-    if lines and lines[-1] == "":
-        lines.pop()
+    # Aliases must come after Regular is declared, but Kotlin object members
+    # resolve regardless of textual order, so we emit them at the end.
+    lines.extend(render_top_level_aliases(variants["regular"]))
+
     lines.append("}")
     lines.append("")
 
