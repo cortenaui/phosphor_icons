@@ -12,6 +12,6 @@ import framework.cortena.ui.layout.ContentView
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        ContentView { Body { IconsPreview() } }
+        ContentView { Body { IconCatalogScreen() } }
     }
 }
