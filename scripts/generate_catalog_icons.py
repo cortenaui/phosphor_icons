@@ -19,7 +19,7 @@ LICENSE_HEADER = (
     "/*\n"
     " * SPDX-License-Identifier: GPL-3.0-or-later\n"
     " * Copyright (C) 2026-present The CortenaOS Project\n"
-    " */\n"
+    " */"
 )
 
 WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "duotone", "thin")

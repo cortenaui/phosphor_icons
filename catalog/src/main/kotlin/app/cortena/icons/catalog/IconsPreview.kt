@@ -57,9 +57,6 @@ import framework.cortena.ui.typography.TextWeight
  */
 @Composable
 fun IconCatalogScreen() {
-    // Search query state.
-    var searchQuery by rememberSaveable { mutableStateOf("") }
-
     // Selected weight filter. null means show all weights.
     var selectedWeight by rememberSaveable {
         mutableStateOf<PhosphorIconWeight?>(PhosphorIconWeight.Regular)
@@ -70,22 +67,18 @@ fun IconCatalogScreen() {
 
     // Derive the filtered icon list from the catalog.
     val filteredIcons by
-        remember(searchQuery, selectedWeight) {
+        remember(selectedWeight) {
             derivedStateOf {
                 PhosphorIconCatalog.filter { entry ->
                     val matchesWeight = selectedWeight == null || entry.weight == selectedWeight
-                    val matchesQuery =
-                        searchQuery.isBlank() ||
-                            entry.name.contains(searchQuery.trim(), ignoreCase = true)
-                    matchesWeight && matchesQuery
+                    matchesWeight
                 }
             }
         }
 
     Column(modifier = Modifier.fillMaxSize()) {
         SafeArea {
-            Column(
-                verticalArrangement = Arrangement.spacedBy(16.dp),) {
+            Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
                 WeightFilterRow(
                     selectedWeight = selectedWeight,
                     onWeightSelected = { selectedWeight = it },
@@ -214,28 +207,5 @@ private fun IconCell(name: String, glyph: PhosphorGlyph, iconSize: Dp) {
             maxLines = 1,
             overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis,
         )
-    }
-}
-
-@Composable
-private fun EmptyState(query: String) {
-    val colors = LocalColors.current
-    Box(modifier = Modifier.fillMaxSize().padding(32.dp), contentAlignment = Alignment.Center) {
-        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-            val emptyIcon = PhosphorIcon(glyph = PhosphorIcons.Regular.MagnifyingGlass)
-            emptyIcon(
-                Modifier,
-                Color(colors.onSurfaceVariant).copy(alpha = 0.3f),
-                48.dp,
-                true,
-                null,
-            )
-            Spacer(modifier = Modifier.height(16.dp))
-            Text(
-                text = if (query.isBlank()) "No icons available" else "No icons match \"$query\"",
-                role = TextRole.BodyMedium,
-                color = Color(colors.onSurfaceVariant).copy(alpha = 0.5f),
-            )
-        }
     }
 }
