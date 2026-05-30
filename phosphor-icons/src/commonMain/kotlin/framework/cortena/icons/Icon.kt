@@ -35,12 +35,12 @@ import org.jetbrains.compose.resources.FontResource
  *
  * `Icon(PhosphorIcon(PhosphorIcons.Bold.Alarm), contentDescription = null)`
  *
- * The glyph carries its own font weight, so callers never pass a [FontFamily].
- * This keeps the icon pack lightweight while still allowing CortenaUI to own tint, size,
- * accessibility, and enabled-state behavior.
+ * The glyph carries its own font weight, so callers never pass a [FontFamily]. This keeps the icon
+ * pack lightweight while still allowing CortenaUI to own tint, size, accessibility, and
+ * enabled-state behavior.
  */
 fun PhosphorIcon(
-    glyph: PhosphorGlyph,
+    glyph: PhosphorGlyph
 ): @Composable
 (modifier: Modifier, tint: Color, size: Dp, enabled: Boolean, contentDescription: String?) -> Unit =
     { modifier, tint, size, enabled, _ ->

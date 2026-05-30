@@ -114,6 +114,10 @@ def write_icons_file(output_dir: Path, variants: dict[str, dict[str, str]]) -> N
     file_path.parent.mkdir(parents=True, exist_ok=True)
 
     lines: list[str] = [
+        "/*",
+        " * SPDX-License-Identifier: GPL-3.0-or-later",
+        " * Copyright (C) 2026-present The CortenaOS Project",
+        " */",
         "package framework.cortena.icons",
         "",
         "object PhosphorIcons {",
