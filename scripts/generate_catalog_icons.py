@@ -22,7 +22,7 @@ LICENSE_HEADER = (
     " */"
 )
 
-WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "duotone", "thin")
+WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "thin")
 
 # Conservative chunk size: each entry pushes ~40 bytes of bytecode in the
 # enclosing method, so 512 entries land near 20KB which keeps every <clinit>

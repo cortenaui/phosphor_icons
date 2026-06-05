@@ -19,7 +19,6 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.sp
 import framework.cortena.icons.resources.Res
 import framework.cortena.icons.resources.phosphor_bold
-import framework.cortena.icons.resources.phosphor_duotone
 import framework.cortena.icons.resources.phosphor_fill
 import framework.cortena.icons.resources.phosphor_light
 import framework.cortena.icons.resources.phosphor_regular
@@ -70,6 +69,5 @@ private fun fontResourceFor(weight: PhosphorIconWeight): FontResource =
         PhosphorIconWeight.Bold -> Res.font.phosphor_bold
         PhosphorIconWeight.Light -> Res.font.phosphor_light
         PhosphorIconWeight.Fill -> Res.font.phosphor_fill
-        PhosphorIconWeight.Duotone -> Res.font.phosphor_duotone
         PhosphorIconWeight.Thin -> Res.font.phosphor_thin
     }

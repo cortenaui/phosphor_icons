@@ -53,7 +53,7 @@ import framework.cortena.ui.typography.TextWeight
 
 /**
  * Main catalog screen that displays all Phosphor icons with search, weight filtering, and size
- * adjustment — all built with CortenaUI components.
+ * adjustment � all built with CortenaUI components.
  */
 @Composable
 fun IconCatalogScreen() {
@@ -104,7 +104,6 @@ private val WeightOptions: List<Pair<String, PhosphorIconWeight?>> =
         "Bold" to PhosphorIconWeight.Bold,
         "Light" to PhosphorIconWeight.Light,
         "Fill" to PhosphorIconWeight.Fill,
-        "Duotone" to PhosphorIconWeight.Duotone,
         "Thin" to PhosphorIconWeight.Thin,
     )
 

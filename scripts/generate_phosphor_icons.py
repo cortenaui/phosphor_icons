@@ -1,7 +1,7 @@
 """Generates the Phosphor glyph constants for every supported font weight.
 
 Sources are read from this script's own folder, one subdirectory per
-weight (regular, bold, light, fill, duotone, thin), each containing the
+weight (regular, bold, light, fill, thin), each containing the
 upstream IcoMoon `selection.json`.
 
 Output is a single Kotlin file:
@@ -19,7 +19,6 @@ Public shape:
         object Bold    { val Alarm: PhosphorGlyph = PhosphorGlyph("\\u...", PhosphorIconWeight.Bold) }
         object Light   { ... }
         object Fill    { ... }
-        object Duotone { ... }
         object Thin    { ... }
     }
 """
@@ -31,7 +30,7 @@ import shutil
 from pathlib import Path
 
 # Ordered so the generated file is deterministic.
-WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "duotone", "thin")
+WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "thin")
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
