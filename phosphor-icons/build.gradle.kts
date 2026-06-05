@@ -18,7 +18,7 @@ val generatePhosphorIcons by
         group = "code generation"
         description = "Generates Phosphor font glyph sources from selection.json assets."
 
-        val variants = listOf("regular", "bold", "light", "fill", "duotone", "thin")
+        val variants = listOf("regular", "bold", "light", "fill", "thin")
         variants.forEach { weight ->
             inputs.file(
                 rootProject.layout.projectDirectory.file("scripts/$weight/selection.json"),
