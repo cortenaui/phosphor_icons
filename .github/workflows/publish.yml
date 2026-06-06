@@ -51,6 +51,7 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Publish to Maven Central
+        continue-on-error: true
         env:
           ORG_GRADLE_PROJECT_mavenCentralUsername: ${{ secrets.MAVEN_CENTRAL_USERNAME }}
           ORG_GRADLE_PROJECT_mavenCentralPassword: ${{ secrets.MAVEN_CENTRAL_PASSWORD }}
@@ -63,18 +64,19 @@ jobs:
             ./gradlew publishToMavenCentral --stacktrace --no-configuration-cache
           fi
 
-      - name: Assemble release AARs for GitHub Release
-        run: ./gradlew :phosphor-icons:assemble --stacktrace
+      - name: Assemble release Artifacts for GitHub Release
+        run: ./gradlew :phosphor-icons:assemble :catalog:assembleRelease --stacktrace
 
-      - name: Collect AARs
+      - name: Collect Artifacts
         run: |
           mkdir -p release-artifacts
           cp phosphor-icons/build/outputs/aar/phosphor-icons.aar release-artifacts/phosphor-icons-${{ steps.version.outputs.value }}.aar
+          find catalog/build/outputs/apk/release/ -name "*.apk" -exec cp {} release-artifacts/catalog-${{ steps.version.outputs.value }}.apk \;
           ls -la release-artifacts
 
-      - name: Attach AARs to GitHub Release
+      - name: Attach Artifacts to GitHub Release
         if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
-          files: release-artifacts/*.aar
+          files: release-artifacts/*
           generate_release_notes: true
