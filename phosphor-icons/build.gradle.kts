@@ -61,7 +61,7 @@ compose.resources {
 }
 
 tasks
-    .matching { it.name == "compileAndroidMain" }
+    .matching { it.name == "compileAndroidMain" || it.name.endsWith("SourcesJar") }
     .configureEach { dependsOn(generatePhosphorIcons) }
 
 mavenPublishing {
