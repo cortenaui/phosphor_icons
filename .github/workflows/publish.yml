@@ -69,7 +69,7 @@ jobs:
       - name: Collect AARs
         run: |
           mkdir -p release-artifacts
-          cp phosphor-icons/build/outputs/aar/phosphor-icons-release.aar release-artifacts/phosphor-icons-${{ steps.version.outputs.value }}.aar
+          cp phosphor-icons/build/outputs/aar/phosphor-icons.aar release-artifacts/phosphor-icons-${{ steps.version.outputs.value }}.aar
           ls -la release-artifacts
 
       - name: Attach AARs to GitHub Release
