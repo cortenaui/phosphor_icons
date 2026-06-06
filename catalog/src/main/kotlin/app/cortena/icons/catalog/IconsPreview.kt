@@ -6,16 +6,15 @@ package app.cortena.icons.catalog
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.defaultMinSize
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
@@ -28,6 +27,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import framework.cortena.icons.PhosphorGlyph
@@ -47,13 +47,11 @@ import framework.cortena.ui.layout.LazyGridView
 import framework.cortena.ui.layout.SafeArea
 import framework.cortena.ui.layout.ScrollView
 import framework.cortena.ui.shape.RoundedShape
-import framework.cortena.ui.size.SizeToken
 import framework.cortena.ui.theme.LocalColors
-import framework.cortena.ui.typography.TextWeight
 
 /**
  * Main catalog screen that displays all Phosphor icons with search, weight filtering, and size
- * adjustment � all built with CortenaUI components.
+ * adjustment ? all built with CortenaUI components.
  */
 @Composable
 fun IconCatalogScreen() {
@@ -78,7 +76,7 @@ fun IconCatalogScreen() {
 
     Column(modifier = Modifier.fillMaxSize()) {
         SafeArea {
-            Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
+            Column(verticalArrangement = Arrangement.spacedBy(24.dp)) {
                 WeightFilterRow(
                     selectedWeight = selectedWeight,
                     onWeightSelected = { selectedWeight = it },
@@ -90,7 +88,6 @@ fun IconCatalogScreen() {
                     iconSize = { iconSize },
                     onIconSizeChange = { iconSize = it },
                 )
-                Separator()
             }
         }
         // Icon grid
@@ -118,9 +115,9 @@ private fun WeightFilterRow(
                 val isSelected = selectedWeight == weight
                 Button(
                     onClick = { onWeightSelected(weight) },
-                    size = SizeToken.Small,
                     style = if (isSelected) ButtonStyle.Primary else ButtonStyle.Ghost,
                     variant = if (isSelected) ButtonVariant.Default else ButtonVariant.Soft,
+                    modifier = Modifier.defaultMinSize(minWidth = 72.dp)
                 ) {
                     Text(label)
                 }
@@ -132,39 +129,24 @@ private fun WeightFilterRow(
 @Composable
 private fun ControlsRow(size: Float, iconSize: () -> Float, onIconSizeChange: (Float) -> Unit) {
     val colors = LocalColors.current
-    SafeArea {
-        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-            // Size slider
-            Row(
-                verticalAlignment = Alignment.CenterVertically,
-                modifier = Modifier.fillMaxWidth(),
-            ) {
-                val textAaIcon = PhosphorIcon(glyph = PhosphorIcons.Regular.TextAa)
-                textAaIcon(Modifier, Color(colors.onSurfaceVariant), 16.dp, true, null)
-                Spacer(modifier = Modifier.width(8.dp))
-                Text(
-                    text = "Size",
-                    role = TextRole.BodySmall,
-                    weight = TextWeight.Medium,
-                    color = Color(colors.onSurfaceVariant),
-                )
-                Spacer(modifier = Modifier.width(12.dp))
-                Box(modifier = Modifier.weight(1f)) {
-                    Slider(
-                        value = iconSize,
-                        onValueChange = onIconSizeChange,
-                        valueRange = 24f..64f,
-                        size = SizeToken.Small,
-                    )
-                }
-                Spacer(modifier = Modifier.width(12.dp))
-                Text(
-                    text = "${size.toInt()}dp",
-                    role = TextRole.BodySmall,
-                    color = Color(colors.onSurfaceVariant).copy(alpha = 0.6f),
-                )
-            }
+    Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
+            modifier = Modifier.fillMaxWidth(),
+        ) {
+            val textAaIcon = PhosphorIcon(glyph = PhosphorIcons.Regular.TextAa)
+            textAaIcon(Modifier, Color(colors.onSurfaceVariant), 18.dp, true, null)
+            Spacer(modifier = Modifier.weight(1f))
+            Text(
+                text = "${size.toInt()}dp",
+                color = Color(colors.onSurfaceVariant),
+            )
         }
+        Slider(
+            value = iconSize,
+            onValueChange = onIconSizeChange,
+            valueRange = 24f..64f,
+        )
     }
 }
 
@@ -204,7 +186,7 @@ private fun IconCell(name: String, glyph: PhosphorGlyph, iconSize: Dp) {
             color = Color(colors.onSurfaceVariant).copy(alpha = 0.7f),
             role = TextRole.BodySmall,
             maxLines = 1,
-            overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis,
+            overflow = TextOverflow.Ellipsis,
         )
     }
 }
