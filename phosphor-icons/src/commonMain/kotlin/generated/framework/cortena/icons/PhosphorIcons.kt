@@ -21,13 +21,10 @@ object PhosphorIcons {
         val Alien: PhosphorGlyph = PhosphorGlyph("\uE8A6", PhosphorIconWeight.Regular)
         val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Regular)
         val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Regular)
-        val AlignCenterHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE50A", PhosphorIconWeight.Regular)
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Regular)
+        val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Regular)
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Regular)
         val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Regular)
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Regular)
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Regular)
         val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Regular)
         val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Regular)
         val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Regular)
@@ -51,10 +48,8 @@ object PhosphorIcons {
         val Armchair: PhosphorGlyph = PhosphorGlyph("\uE012", PhosphorIconWeight.Regular)
         val ArrowArcLeft: PhosphorGlyph = PhosphorGlyph("\uE014", PhosphorIconWeight.Regular)
         val ArrowArcRight: PhosphorGlyph = PhosphorGlyph("\uE016", PhosphorIconWeight.Regular)
-        val ArrowBendDoubleUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE03A", PhosphorIconWeight.Regular)
-        val ArrowBendDoubleUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE03C", PhosphorIconWeight.Regular)
+        val ArrowBendDoubleUpLeft: PhosphorGlyph = PhosphorGlyph("\uE03A", PhosphorIconWeight.Regular)
+        val ArrowBendDoubleUpRight: PhosphorGlyph = PhosphorGlyph("\uE03C", PhosphorIconWeight.Regular)
         val ArrowBendDownLeft: PhosphorGlyph = PhosphorGlyph("\uE018", PhosphorIconWeight.Regular)
         val ArrowBendDownRight: PhosphorGlyph = PhosphorGlyph("\uE01A", PhosphorIconWeight.Regular)
         val ArrowBendLeftDown: PhosphorGlyph = PhosphorGlyph("\uE01C", PhosphorIconWeight.Regular)
@@ -65,16 +60,14 @@ object PhosphorIcons {
         val ArrowBendUpRight: PhosphorGlyph = PhosphorGlyph("\uE026", PhosphorIconWeight.Regular)
         val ArrowCircleDown: PhosphorGlyph = PhosphorGlyph("\uE028", PhosphorIconWeight.Regular)
         val ArrowCircleDownLeft: PhosphorGlyph = PhosphorGlyph("\uE02A", PhosphorIconWeight.Regular)
-        val ArrowCircleDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE02C", PhosphorIconWeight.Regular)
+        val ArrowCircleDownRight: PhosphorGlyph = PhosphorGlyph("\uE02C", PhosphorIconWeight.Regular)
         val ArrowCircleLeft: PhosphorGlyph = PhosphorGlyph("\uE05A", PhosphorIconWeight.Regular)
         val ArrowCircleRight: PhosphorGlyph = PhosphorGlyph("\uE02E", PhosphorIconWeight.Regular)
         val ArrowCircleUp: PhosphorGlyph = PhosphorGlyph("\uE030", PhosphorIconWeight.Regular)
         val ArrowCircleUpLeft: PhosphorGlyph = PhosphorGlyph("\uE032", PhosphorIconWeight.Regular)
         val ArrowCircleUpRight: PhosphorGlyph = PhosphorGlyph("\uE034", PhosphorIconWeight.Regular)
         val ArrowClockwise: PhosphorGlyph = PhosphorGlyph("\uE036", PhosphorIconWeight.Regular)
-        val ArrowCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE038", PhosphorIconWeight.Regular)
+        val ArrowCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE038", PhosphorIconWeight.Regular)
         val ArrowDown: PhosphorGlyph = PhosphorGlyph("\uE03E", PhosphorIconWeight.Regular)
         val ArrowDownLeft: PhosphorGlyph = PhosphorGlyph("\uE040", PhosphorIconWeight.Regular)
         val ArrowDownRight: PhosphorGlyph = PhosphorGlyph("\uE042", PhosphorIconWeight.Regular)
@@ -112,8 +105,7 @@ object PhosphorIcons {
         val ArrowRight: PhosphorGlyph = PhosphorGlyph("\uE06C", PhosphorIconWeight.Regular)
         val ArrowSquareDown: PhosphorGlyph = PhosphorGlyph("\uE06E", PhosphorIconWeight.Regular)
         val ArrowSquareDownLeft: PhosphorGlyph = PhosphorGlyph("\uE070", PhosphorIconWeight.Regular)
-        val ArrowSquareDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE072", PhosphorIconWeight.Regular)
+        val ArrowSquareDownRight: PhosphorGlyph = PhosphorGlyph("\uE072", PhosphorIconWeight.Regular)
         val ArrowSquareIn: PhosphorGlyph = PhosphorGlyph("\uE5DC", PhosphorIconWeight.Regular)
         val ArrowSquareLeft: PhosphorGlyph = PhosphorGlyph("\uE074", PhosphorIconWeight.Regular)
         val ArrowSquareOut: PhosphorGlyph = PhosphorGlyph("\uE5DE", PhosphorIconWeight.Regular)
@@ -133,25 +125,20 @@ object PhosphorIcons {
         val ArrowUpLeft: PhosphorGlyph = PhosphorGlyph("\uE090", PhosphorIconWeight.Regular)
         val ArrowUpRight: PhosphorGlyph = PhosphorGlyph("\uE092", PhosphorIconWeight.Regular)
         val ArrowsClockwise: PhosphorGlyph = PhosphorGlyph("\uE094", PhosphorIconWeight.Regular)
-        val ArrowsCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE096", PhosphorIconWeight.Regular)
+        val ArrowsCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE096", PhosphorIconWeight.Regular)
         val ArrowsDownUp: PhosphorGlyph = PhosphorGlyph("\uE098", PhosphorIconWeight.Regular)
         val ArrowsHorizontal: PhosphorGlyph = PhosphorGlyph("\uEB06", PhosphorIconWeight.Regular)
         val ArrowsIn: PhosphorGlyph = PhosphorGlyph("\uE09A", PhosphorIconWeight.Regular)
         val ArrowsInCardinal: PhosphorGlyph = PhosphorGlyph("\uE09C", PhosphorIconWeight.Regular)
-        val ArrowsInLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE530", PhosphorIconWeight.Regular)
-        val ArrowsInLineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE532", PhosphorIconWeight.Regular)
+        val ArrowsInLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE530", PhosphorIconWeight.Regular)
+        val ArrowsInLineVertical: PhosphorGlyph = PhosphorGlyph("\uE532", PhosphorIconWeight.Regular)
         val ArrowsInSimple: PhosphorGlyph = PhosphorGlyph("\uE09E", PhosphorIconWeight.Regular)
         val ArrowsLeftRight: PhosphorGlyph = PhosphorGlyph("\uE0A0", PhosphorIconWeight.Regular)
         val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Regular)
         val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Regular)
         val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Regular)
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Regular)
-        val ArrowsOutLineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE536", PhosphorIconWeight.Regular)
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Regular)
+        val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Regular)
         val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Regular)
         val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Regular)
         val ArrowsVertical: PhosphorGlyph = PhosphorGlyph("\uEB04", PhosphorIconWeight.Regular)
@@ -185,8 +172,7 @@ object PhosphorIcons {
         val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Regular)
         val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Regular)
         val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Regular)
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Regular)
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Regular)
         val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Regular)
         val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Regular)
         val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Regular)
@@ -194,16 +180,13 @@ object PhosphorIcons {
         val BatteryMedium: PhosphorGlyph = PhosphorGlyph("\uE0C6", PhosphorIconWeight.Regular)
         val BatteryPlus: PhosphorGlyph = PhosphorGlyph("\uE808", PhosphorIconWeight.Regular)
         val BatteryPlusVertical: PhosphorGlyph = PhosphorGlyph("\uEC50", PhosphorIconWeight.Regular)
-        val BatteryVerticalEmpty: PhosphorGlyph =
-            PhosphorGlyph("\uE7C6", PhosphorIconWeight.Regular)
+        val BatteryVerticalEmpty: PhosphorGlyph = PhosphorGlyph("\uE7C6", PhosphorIconWeight.Regular)
         val BatteryVerticalFull: PhosphorGlyph = PhosphorGlyph("\uE7C4", PhosphorIconWeight.Regular)
         val BatteryVerticalHigh: PhosphorGlyph = PhosphorGlyph("\uE7C2", PhosphorIconWeight.Regular)
         val BatteryVerticalLow: PhosphorGlyph = PhosphorGlyph("\uE7BE", PhosphorIconWeight.Regular)
-        val BatteryVerticalMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE7C0", PhosphorIconWeight.Regular)
+        val BatteryVerticalMedium: PhosphorGlyph = PhosphorGlyph("\uE7C0", PhosphorIconWeight.Regular)
         val BatteryWarning: PhosphorGlyph = PhosphorGlyph("\uE0C8", PhosphorIconWeight.Regular)
-        val BatteryWarningVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0CA", PhosphorIconWeight.Regular)
+        val BatteryWarningVertical: PhosphorGlyph = PhosphorGlyph("\uE0CA", PhosphorIconWeight.Regular)
         val BeachBall: PhosphorGlyph = PhosphorGlyph("\uED24", PhosphorIconWeight.Regular)
         val Beanie: PhosphorGlyph = PhosphorGlyph("\uEA2A", PhosphorIconWeight.Regular)
         val Bed: PhosphorGlyph = PhosphorGlyph("\uE0CC", PhosphorIconWeight.Regular)
@@ -304,12 +287,9 @@ object PhosphorIcons {
         val Cardholder: PhosphorGlyph = PhosphorGlyph("\uE5FA", PhosphorIconWeight.Regular)
         val Cards: PhosphorGlyph = PhosphorGlyph("\uE0F8", PhosphorIconWeight.Regular)
         val CardsThree: PhosphorGlyph = PhosphorGlyph("\uEE50", PhosphorIconWeight.Regular)
-        val CaretCircleDoubleDown: PhosphorGlyph =
-            PhosphorGlyph("\uE116", PhosphorIconWeight.Regular)
-        val CaretCircleDoubleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE118", PhosphorIconWeight.Regular)
-        val CaretCircleDoubleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE11A", PhosphorIconWeight.Regular)
+        val CaretCircleDoubleDown: PhosphorGlyph = PhosphorGlyph("\uE116", PhosphorIconWeight.Regular)
+        val CaretCircleDoubleLeft: PhosphorGlyph = PhosphorGlyph("\uE118", PhosphorIconWeight.Regular)
+        val CaretCircleDoubleRight: PhosphorGlyph = PhosphorGlyph("\uE11A", PhosphorIconWeight.Regular)
         val CaretCircleDoubleUp: PhosphorGlyph = PhosphorGlyph("\uE11C", PhosphorIconWeight.Regular)
         val CaretCircleDown: PhosphorGlyph = PhosphorGlyph("\uE11E", PhosphorIconWeight.Regular)
         val CaretCircleLeft: PhosphorGlyph = PhosphorGlyph("\uE120", PhosphorIconWeight.Regular)
@@ -408,8 +388,7 @@ object PhosphorIcons {
         val ClockAfternoon: PhosphorGlyph = PhosphorGlyph("\uE19C", PhosphorIconWeight.Regular)
         val ClockClockwise: PhosphorGlyph = PhosphorGlyph("\uE19E", PhosphorIconWeight.Regular)
         val ClockCountdown: PhosphorGlyph = PhosphorGlyph("\uED2C", PhosphorIconWeight.Regular)
-        val ClockCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE1A0", PhosphorIconWeight.Regular)
+        val ClockCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE1A0", PhosphorIconWeight.Regular)
         val ClockUser: PhosphorGlyph = PhosphorGlyph("\uEDEC", PhosphorIconWeight.Regular)
         val ClosedCaptioning: PhosphorGlyph = PhosphorGlyph("\uE1A4", PhosphorIconWeight.Regular)
         val Cloud: PhosphorGlyph = PhosphorGlyph("\uE1AA", PhosphorIconWeight.Regular)
@@ -478,12 +457,10 @@ object PhosphorIcons {
         val CubeFocus: PhosphorGlyph = PhosphorGlyph("\uED0A", PhosphorIconWeight.Regular)
         val CubeTransparent: PhosphorGlyph = PhosphorGlyph("\uEC7C", PhosphorIconWeight.Regular)
         val CurrencyBtc: PhosphorGlyph = PhosphorGlyph("\uE618", PhosphorIconWeight.Regular)
-        val CurrencyCircleDollar: PhosphorGlyph =
-            PhosphorGlyph("\uE54C", PhosphorIconWeight.Regular)
+        val CurrencyCircleDollar: PhosphorGlyph = PhosphorGlyph("\uE54C", PhosphorIconWeight.Regular)
         val CurrencyCny: PhosphorGlyph = PhosphorGlyph("\uE54E", PhosphorIconWeight.Regular)
         val CurrencyDollar: PhosphorGlyph = PhosphorGlyph("\uE550", PhosphorIconWeight.Regular)
-        val CurrencyDollarSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE552", PhosphorIconWeight.Regular)
+        val CurrencyDollarSimple: PhosphorGlyph = PhosphorGlyph("\uE552", PhosphorIconWeight.Regular)
         val CurrencyEth: PhosphorGlyph = PhosphorGlyph("\uEADA", PhosphorIconWeight.Regular)
         val CurrencyEur: PhosphorGlyph = PhosphorGlyph("\uE554", PhosphorIconWeight.Regular)
         val CurrencyGbp: PhosphorGlyph = PhosphorGlyph("\uE556", PhosphorIconWeight.Regular)
@@ -535,11 +512,9 @@ object PhosphorIcons {
         val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Regular)
         val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Regular)
         val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Regular)
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Regular)
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Regular)
         val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Regular)
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Regular)
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Regular)
         val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Regular)
         val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Regular)
         val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Regular)
@@ -813,8 +788,7 @@ object PhosphorIcons {
         val HourglassSimple: PhosphorGlyph = PhosphorGlyph("\uE2BA", PhosphorIconWeight.Regular)
         val HourglassSimpleHigh: PhosphorGlyph = PhosphorGlyph("\uE2BC", PhosphorIconWeight.Regular)
         val HourglassSimpleLow: PhosphorGlyph = PhosphorGlyph("\uE2BE", PhosphorIconWeight.Regular)
-        val HourglassSimpleMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE2C0", PhosphorIconWeight.Regular)
+        val HourglassSimpleMedium: PhosphorGlyph = PhosphorGlyph("\uE2C0", PhosphorIconWeight.Regular)
         val House: PhosphorGlyph = PhosphorGlyph("\uE2C2", PhosphorIconWeight.Regular)
         val HouseLine: PhosphorGlyph = PhosphorGlyph("\uE2C4", PhosphorIconWeight.Regular)
         val HouseSimple: PhosphorGlyph = PhosphorGlyph("\uE2C6", PhosphorIconWeight.Regular)
@@ -877,10 +851,8 @@ object PhosphorIcons {
         val LinkBreak: PhosphorGlyph = PhosphorGlyph("\uE2E4", PhosphorIconWeight.Regular)
         val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Regular)
         val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Regular)
-        val LinkSimpleHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE2EA", PhosphorIconWeight.Regular)
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Regular)
+        val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Regular)
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Regular)
         val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Regular)
         val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Regular)
         val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Regular)
@@ -907,8 +879,7 @@ object PhosphorIcons {
         val Magnet: PhosphorGlyph = PhosphorGlyph("\uE680", PhosphorIconWeight.Regular)
         val MagnetStraight: PhosphorGlyph = PhosphorGlyph("\uE682", PhosphorIconWeight.Regular)
         val MagnifyingGlass: PhosphorGlyph = PhosphorGlyph("\uE30C", PhosphorIconWeight.Regular)
-        val MagnifyingGlassMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE30E", PhosphorIconWeight.Regular)
+        val MagnifyingGlassMinus: PhosphorGlyph = PhosphorGlyph("\uE30E", PhosphorIconWeight.Regular)
         val MagnifyingGlassPlus: PhosphorGlyph = PhosphorGlyph("\uE310", PhosphorIconWeight.Regular)
         val Mailbox: PhosphorGlyph = PhosphorGlyph("\uEC1E", PhosphorIconWeight.Regular)
         val MapPin: PhosphorGlyph = PhosphorGlyph("\uE316", PhosphorIconWeight.Regular)
@@ -943,10 +914,8 @@ object PhosphorIcons {
         val MicrophoneStage: PhosphorGlyph = PhosphorGlyph("\uE75C", PhosphorIconWeight.Regular)
         val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Regular)
         val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Regular)
-        val MicrosoftOutlookLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB70", PhosphorIconWeight.Regular)
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Regular)
+        val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Regular)
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Regular)
         val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Regular)
         val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Regular)
         val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Regular)
@@ -1086,8 +1055,7 @@ object PhosphorIcons {
         val PersonSimpleHike: PhosphorGlyph = PhosphorGlyph("\uED54", PhosphorIconWeight.Regular)
         val PersonSimpleRun: PhosphorGlyph = PhosphorGlyph("\uE730", PhosphorIconWeight.Regular)
         val PersonSimpleSki: PhosphorGlyph = PhosphorGlyph("\uE71C", PhosphorIconWeight.Regular)
-        val PersonSimpleSnowboard: PhosphorGlyph =
-            PhosphorGlyph("\uE71E", PhosphorIconWeight.Regular)
+        val PersonSimpleSnowboard: PhosphorGlyph = PhosphorGlyph("\uE71E", PhosphorIconWeight.Regular)
         val PersonSimpleSwim: PhosphorGlyph = PhosphorGlyph("\uE736", PhosphorIconWeight.Regular)
         val PersonSimpleTaiChi: PhosphorGlyph = PhosphorGlyph("\uED5C", PhosphorIconWeight.Regular)
         val PersonSimpleThrow: PhosphorGlyph = PhosphorGlyph("\uE732", PhosphorIconWeight.Regular)
@@ -1148,8 +1116,7 @@ object PhosphorIcons {
         val Prohibit: PhosphorGlyph = PhosphorGlyph("\uE3DE", PhosphorIconWeight.Regular)
         val ProhibitInset: PhosphorGlyph = PhosphorGlyph("\uE3E0", PhosphorIconWeight.Regular)
         val ProjectorScreen: PhosphorGlyph = PhosphorGlyph("\uE658", PhosphorIconWeight.Regular)
-        val ProjectorScreenChart: PhosphorGlyph =
-            PhosphorGlyph("\uE65A", PhosphorIconWeight.Regular)
+        val ProjectorScreenChart: PhosphorGlyph = PhosphorGlyph("\uE65A", PhosphorIconWeight.Regular)
         val Pulse: PhosphorGlyph = PhosphorGlyph("\uE000", PhosphorIconWeight.Regular)
         val PushPin: PhosphorGlyph = PhosphorGlyph("\uE3E2", PhosphorIconWeight.Regular)
         val PushPinSimple: PhosphorGlyph = PhosphorGlyph("\uE65C", PhosphorIconWeight.Regular)
@@ -1314,8 +1281,7 @@ object PhosphorIcons {
         val SquareHalf: PhosphorGlyph = PhosphorGlyph("\uE462", PhosphorIconWeight.Regular)
         val SquareHalfBottom: PhosphorGlyph = PhosphorGlyph("\uEB16", PhosphorIconWeight.Regular)
         val SquareLogo: PhosphorGlyph = PhosphorGlyph("\uE690", PhosphorIconWeight.Regular)
-        val SquareSplitHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE870", PhosphorIconWeight.Regular)
+        val SquareSplitHorizontal: PhosphorGlyph = PhosphorGlyph("\uE870", PhosphorIconWeight.Regular)
         val SquareSplitVertical: PhosphorGlyph = PhosphorGlyph("\uE874", PhosphorIconWeight.Regular)
         val SquaresFour: PhosphorGlyph = PhosphorGlyph("\uE464", PhosphorIconWeight.Regular)
         val Stack: PhosphorGlyph = PhosphorGlyph("\uE466", PhosphorIconWeight.Regular)
@@ -1571,11 +1537,9 @@ object PhosphorIcons {
         val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Bold)
         val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Bold)
         val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Bold)
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Bold)
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Bold)
         val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Bold)
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Bold)
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Bold)
         val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Bold)
         val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Bold)
         val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Bold)
@@ -1688,8 +1652,7 @@ object PhosphorIcons {
         val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Bold)
         val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Bold)
         val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Bold)
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Bold)
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Bold)
         val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Bold)
         val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Bold)
         val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Bold)
@@ -1724,8 +1687,7 @@ object PhosphorIcons {
         val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Bold)
         val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Bold)
         val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Bold)
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Bold)
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Bold)
         val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Bold)
         val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Bold)
         val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Bold)
@@ -2065,11 +2027,9 @@ object PhosphorIcons {
         val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Bold)
         val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Bold)
         val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Bold)
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Bold)
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Bold)
         val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Bold)
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Bold)
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Bold)
         val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Bold)
         val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Bold)
         val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Bold)
@@ -2407,8 +2367,7 @@ object PhosphorIcons {
         val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Bold)
         val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Bold)
         val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Bold)
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Bold)
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Bold)
         val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Bold)
         val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Bold)
         val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Bold)
@@ -2471,8 +2430,7 @@ object PhosphorIcons {
         val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Bold)
         val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Bold)
         val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Bold)
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Bold)
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Bold)
         val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Bold)
         val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Bold)
         val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Bold)
@@ -3094,11 +3052,9 @@ object PhosphorIcons {
         val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Light)
         val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Light)
         val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Light)
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Light)
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Light)
         val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Light)
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Light)
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Light)
         val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Light)
         val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Light)
         val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Light)
@@ -3123,8 +3079,7 @@ object PhosphorIcons {
         val ArrowArcLeft: PhosphorGlyph = PhosphorGlyph("\uE014", PhosphorIconWeight.Light)
         val ArrowArcRight: PhosphorGlyph = PhosphorGlyph("\uE016", PhosphorIconWeight.Light)
         val ArrowBendDoubleUpLeft: PhosphorGlyph = PhosphorGlyph("\uE03A", PhosphorIconWeight.Light)
-        val ArrowBendDoubleUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE03C", PhosphorIconWeight.Light)
+        val ArrowBendDoubleUpRight: PhosphorGlyph = PhosphorGlyph("\uE03C", PhosphorIconWeight.Light)
         val ArrowBendDownLeft: PhosphorGlyph = PhosphorGlyph("\uE018", PhosphorIconWeight.Light)
         val ArrowBendDownRight: PhosphorGlyph = PhosphorGlyph("\uE01A", PhosphorIconWeight.Light)
         val ArrowBendLeftDown: PhosphorGlyph = PhosphorGlyph("\uE01C", PhosphorIconWeight.Light)
@@ -3200,22 +3155,19 @@ object PhosphorIcons {
         val ArrowUpLeft: PhosphorGlyph = PhosphorGlyph("\uE090", PhosphorIconWeight.Light)
         val ArrowUpRight: PhosphorGlyph = PhosphorGlyph("\uE092", PhosphorIconWeight.Light)
         val ArrowsClockwise: PhosphorGlyph = PhosphorGlyph("\uE094", PhosphorIconWeight.Light)
-        val ArrowsCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE096", PhosphorIconWeight.Light)
+        val ArrowsCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE096", PhosphorIconWeight.Light)
         val ArrowsDownUp: PhosphorGlyph = PhosphorGlyph("\uE098", PhosphorIconWeight.Light)
         val ArrowsHorizontal: PhosphorGlyph = PhosphorGlyph("\uEB06", PhosphorIconWeight.Light)
         val ArrowsIn: PhosphorGlyph = PhosphorGlyph("\uE09A", PhosphorIconWeight.Light)
         val ArrowsInCardinal: PhosphorGlyph = PhosphorGlyph("\uE09C", PhosphorIconWeight.Light)
-        val ArrowsInLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE530", PhosphorIconWeight.Light)
+        val ArrowsInLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE530", PhosphorIconWeight.Light)
         val ArrowsInLineVertical: PhosphorGlyph = PhosphorGlyph("\uE532", PhosphorIconWeight.Light)
         val ArrowsInSimple: PhosphorGlyph = PhosphorGlyph("\uE09E", PhosphorIconWeight.Light)
         val ArrowsLeftRight: PhosphorGlyph = PhosphorGlyph("\uE0A0", PhosphorIconWeight.Light)
         val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Light)
         val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Light)
         val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Light)
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Light)
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Light)
         val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Light)
         val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Light)
         val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Light)
@@ -3250,8 +3202,7 @@ object PhosphorIcons {
         val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Light)
         val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Light)
         val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Light)
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Light)
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Light)
         val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Light)
         val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Light)
         val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Light)
@@ -3265,8 +3216,7 @@ object PhosphorIcons {
         val BatteryVerticalLow: PhosphorGlyph = PhosphorGlyph("\uE7BE", PhosphorIconWeight.Light)
         val BatteryVerticalMedium: PhosphorGlyph = PhosphorGlyph("\uE7C0", PhosphorIconWeight.Light)
         val BatteryWarning: PhosphorGlyph = PhosphorGlyph("\uE0C8", PhosphorIconWeight.Light)
-        val BatteryWarningVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0CA", PhosphorIconWeight.Light)
+        val BatteryWarningVertical: PhosphorGlyph = PhosphorGlyph("\uE0CA", PhosphorIconWeight.Light)
         val BeachBall: PhosphorGlyph = PhosphorGlyph("\uED24", PhosphorIconWeight.Light)
         val Beanie: PhosphorGlyph = PhosphorGlyph("\uEA2A", PhosphorIconWeight.Light)
         val Bed: PhosphorGlyph = PhosphorGlyph("\uE0CC", PhosphorIconWeight.Light)
@@ -3369,8 +3319,7 @@ object PhosphorIcons {
         val CardsThree: PhosphorGlyph = PhosphorGlyph("\uEE50", PhosphorIconWeight.Light)
         val CaretCircleDoubleDown: PhosphorGlyph = PhosphorGlyph("\uE116", PhosphorIconWeight.Light)
         val CaretCircleDoubleLeft: PhosphorGlyph = PhosphorGlyph("\uE118", PhosphorIconWeight.Light)
-        val CaretCircleDoubleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE11A", PhosphorIconWeight.Light)
+        val CaretCircleDoubleRight: PhosphorGlyph = PhosphorGlyph("\uE11A", PhosphorIconWeight.Light)
         val CaretCircleDoubleUp: PhosphorGlyph = PhosphorGlyph("\uE11C", PhosphorIconWeight.Light)
         val CaretCircleDown: PhosphorGlyph = PhosphorGlyph("\uE11E", PhosphorIconWeight.Light)
         val CaretCircleLeft: PhosphorGlyph = PhosphorGlyph("\uE120", PhosphorIconWeight.Light)
@@ -3593,11 +3542,9 @@ object PhosphorIcons {
         val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Light)
         val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Light)
         val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Light)
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Light)
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Light)
         val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Light)
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Light)
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Light)
         val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Light)
         val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Light)
         val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Light)
@@ -3935,8 +3882,7 @@ object PhosphorIcons {
         val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Light)
         val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Light)
         val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Light)
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Light)
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Light)
         val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Light)
         val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Light)
         val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Light)
@@ -3999,8 +3945,7 @@ object PhosphorIcons {
         val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Light)
         val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Light)
         val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Light)
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Light)
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Light)
         val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Light)
         val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Light)
         val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Light)
@@ -4622,11 +4567,9 @@ object PhosphorIcons {
         val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Fill)
         val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Fill)
         val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Fill)
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Fill)
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Fill)
         val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Fill)
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Fill)
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Fill)
         val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Fill)
         val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Fill)
         val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Fill)
@@ -4739,8 +4682,7 @@ object PhosphorIcons {
         val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Fill)
         val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Fill)
         val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Fill)
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Fill)
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Fill)
         val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Fill)
         val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Fill)
         val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Fill)
@@ -4775,8 +4717,7 @@ object PhosphorIcons {
         val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Fill)
         val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Fill)
         val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Fill)
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Fill)
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Fill)
         val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Fill)
         val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Fill)
         val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Fill)
@@ -5116,11 +5057,9 @@ object PhosphorIcons {
         val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Fill)
         val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Fill)
         val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Fill)
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Fill)
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Fill)
         val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Fill)
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Fill)
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Fill)
         val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Fill)
         val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Fill)
         val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Fill)
@@ -5458,8 +5397,7 @@ object PhosphorIcons {
         val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Fill)
         val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Fill)
         val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Fill)
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Fill)
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Fill)
         val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Fill)
         val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Fill)
         val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Fill)
@@ -5522,8 +5460,7 @@ object PhosphorIcons {
         val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Fill)
         val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Fill)
         val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Fill)
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Fill)
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Fill)
         val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Fill)
         val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Fill)
         val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Fill)
@@ -6145,11 +6082,9 @@ object PhosphorIcons {
         val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Thin)
         val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Thin)
         val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Thin)
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Thin)
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Thin)
         val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Thin)
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Thin)
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Thin)
         val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Thin)
         val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Thin)
         val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Thin)
@@ -6262,8 +6197,7 @@ object PhosphorIcons {
         val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Thin)
         val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Thin)
         val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Thin)
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Thin)
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Thin)
         val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Thin)
         val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Thin)
         val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Thin)
@@ -6298,8 +6232,7 @@ object PhosphorIcons {
         val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Thin)
         val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Thin)
         val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Thin)
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Thin)
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Thin)
         val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Thin)
         val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Thin)
         val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Thin)
@@ -6639,11 +6572,9 @@ object PhosphorIcons {
         val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Thin)
         val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Thin)
         val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Thin)
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Thin)
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Thin)
         val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Thin)
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Thin)
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Thin)
         val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Thin)
         val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Thin)
         val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Thin)
@@ -6981,8 +6912,7 @@ object PhosphorIcons {
         val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Thin)
         val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Thin)
         val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Thin)
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Thin)
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Thin)
         val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Thin)
         val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Thin)
         val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Thin)
@@ -7045,8 +6975,7 @@ object PhosphorIcons {
         val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Thin)
         val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Thin)
         val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Thin)
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Thin)
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Thin)
         val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Thin)
         val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Thin)
         val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Thin)
@@ -7652,3030 +7581,1518 @@ object PhosphorIcons {
     }
 
     object Duotone {
-        val Acorn: PhosphorGlyph =
-            PhosphorGlyph("\uEB9A", PhosphorIconWeight.Duotone, "\uEB9A", "\uEB9A")
-        val AddressBook: PhosphorGlyph =
-            PhosphorGlyph("\uE6F8", PhosphorIconWeight.Duotone, "\uE6F8", "\uE6F8")
-        val AddressBookTabs: PhosphorGlyph =
-            PhosphorGlyph("\uEE4E", PhosphorIconWeight.Duotone, "\uEE4E", "\uEE4E")
-        val AirTrafficControl: PhosphorGlyph =
-            PhosphorGlyph("\uECD8", PhosphorIconWeight.Duotone, "\uECD8", "\uECD8")
-        val Airplane: PhosphorGlyph =
-            PhosphorGlyph("\uE002", PhosphorIconWeight.Duotone, "\uE002", "\uE002")
-        val AirplaneInFlight: PhosphorGlyph =
-            PhosphorGlyph("\uE4FE", PhosphorIconWeight.Duotone, "\uE4FE", "\uE4FE")
-        val AirplaneLanding: PhosphorGlyph =
-            PhosphorGlyph("\uE502", PhosphorIconWeight.Duotone, "\uE502", "\uE502")
-        val AirplaneTakeoff: PhosphorGlyph =
-            PhosphorGlyph("\uE504", PhosphorIconWeight.Duotone, "\uE504", "\uE504")
-        val AirplaneTaxiing: PhosphorGlyph =
-            PhosphorGlyph("\uE500", PhosphorIconWeight.Duotone, "\uE500", "\uE500")
-        val AirplaneTilt: PhosphorGlyph =
-            PhosphorGlyph("\uE5D6", PhosphorIconWeight.Duotone, "\uE5D6", "\uE5D6")
-        val Airplay: PhosphorGlyph =
-            PhosphorGlyph("\uE004", PhosphorIconWeight.Duotone, "\uE004", "\uE004")
-        val Alarm: PhosphorGlyph =
-            PhosphorGlyph("\uE006", PhosphorIconWeight.Duotone, "\uE006", "\uE006")
-        val Alien: PhosphorGlyph =
-            PhosphorGlyph("\uE8A6", PhosphorIconWeight.Duotone, "\uE8A6", "\uE8A6")
-        val AlignBottom: PhosphorGlyph =
-            PhosphorGlyph("\uE506", PhosphorIconWeight.Duotone, "\uE506", "\uE506")
-        val AlignBottomSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0C", PhosphorIconWeight.Duotone, "\uEB0C", "\uEB0C")
-        val AlignCenterHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE50A", PhosphorIconWeight.Duotone, "\uE50A", "\uE50A")
-        val AlignCenterHorizontalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB0E", PhosphorIconWeight.Duotone, "\uEB0E", "\uEB0E")
-        val AlignCenterVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE50C", PhosphorIconWeight.Duotone, "\uE50C", "\uE50C")
-        val AlignCenterVerticalSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB10", PhosphorIconWeight.Duotone, "\uEB10", "\uEB10")
-        val AlignLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE50E", PhosphorIconWeight.Duotone, "\uE50E", "\uE50E")
-        val AlignLeftSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEAEE", PhosphorIconWeight.Duotone, "\uEAEE", "\uEAEE")
-        val AlignRight: PhosphorGlyph =
-            PhosphorGlyph("\uE510", PhosphorIconWeight.Duotone, "\uE510", "\uE510")
-        val AlignRightSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB12", PhosphorIconWeight.Duotone, "\uEB12", "\uEB12")
-        val AlignTop: PhosphorGlyph =
-            PhosphorGlyph("\uE512", PhosphorIconWeight.Duotone, "\uE512", "\uE512")
-        val AlignTopSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEB14", PhosphorIconWeight.Duotone, "\uEB14", "\uEB14")
-        val AmazonLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE96C", PhosphorIconWeight.Duotone, "\uE96C", "\uE96C")
-        val Ambulance: PhosphorGlyph =
-            PhosphorGlyph("\uE572", PhosphorIconWeight.Duotone, "\uE572", "\uE572")
-        val Anchor: PhosphorGlyph =
-            PhosphorGlyph("\uE514", PhosphorIconWeight.Duotone, "\uE514", "\uE514")
-        val AnchorSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5D8", PhosphorIconWeight.Duotone, "\uE5D8", "\uE5D8")
-        val AndroidLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE008", PhosphorIconWeight.Duotone, "\uE008", "\uE008")
-        val Angle: PhosphorGlyph =
-            PhosphorGlyph("\uE7BC", PhosphorIconWeight.Duotone, "\uE7BC", "\uE7BC")
-        val AngularLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB80", PhosphorIconWeight.Duotone, "\uEB80", "\uEB80")
-        val Aperture: PhosphorGlyph =
-            PhosphorGlyph("\uE00A", PhosphorIconWeight.Duotone, "\uE00A", "\uE00A")
-        val AppStoreLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE974", PhosphorIconWeight.Duotone, "\uE974", "\uE974")
-        val AppWindow: PhosphorGlyph =
-            PhosphorGlyph("\uE5DA", PhosphorIconWeight.Duotone, "\uE5DA", "\uE5DA")
-        val AppleLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE516", PhosphorIconWeight.Duotone, "\uE516", "\uE516")
-        val ApplePodcastsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB96", PhosphorIconWeight.Duotone, "\uEB96", "\uEB96")
-        val ApproximateEquals: PhosphorGlyph =
-            PhosphorGlyph("\uEDAA", PhosphorIconWeight.Duotone, "\uEDAA", "\uEDAA")
-        val Archive: PhosphorGlyph =
-            PhosphorGlyph("\uE00C", PhosphorIconWeight.Duotone, "\uE00C", "\uE00C")
-        val Armchair: PhosphorGlyph =
-            PhosphorGlyph("\uE012", PhosphorIconWeight.Duotone, "\uE012", "\uE012")
-        val ArrowArcLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE014", PhosphorIconWeight.Duotone, "\uE014", "\uE014")
-        val ArrowArcRight: PhosphorGlyph =
-            PhosphorGlyph("\uE016", PhosphorIconWeight.Duotone, "\uE016", "\uE016")
-        val ArrowBendDoubleUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE03A", PhosphorIconWeight.Duotone, "\uE03A", "\uE03A")
-        val ArrowBendDoubleUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE03C", PhosphorIconWeight.Duotone, "\uE03C", "\uE03C")
-        val ArrowBendDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE018", PhosphorIconWeight.Duotone, "\uE018", "\uE018")
-        val ArrowBendDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE01A", PhosphorIconWeight.Duotone, "\uE01A", "\uE01A")
-        val ArrowBendLeftDown: PhosphorGlyph =
-            PhosphorGlyph("\uE01C", PhosphorIconWeight.Duotone, "\uE01C", "\uE01C")
-        val ArrowBendLeftUp: PhosphorGlyph =
-            PhosphorGlyph("\uE01E", PhosphorIconWeight.Duotone, "\uE01E", "\uE01E")
-        val ArrowBendRightDown: PhosphorGlyph =
-            PhosphorGlyph("\uE020", PhosphorIconWeight.Duotone, "\uE020", "\uE020")
-        val ArrowBendRightUp: PhosphorGlyph =
-            PhosphorGlyph("\uE022", PhosphorIconWeight.Duotone, "\uE022", "\uE022")
-        val ArrowBendUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE024", PhosphorIconWeight.Duotone, "\uE024", "\uE024")
-        val ArrowBendUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE026", PhosphorIconWeight.Duotone, "\uE026", "\uE026")
-        val ArrowCircleDown: PhosphorGlyph =
-            PhosphorGlyph("\uE028", PhosphorIconWeight.Duotone, "\uE028", "\uE028")
-        val ArrowCircleDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE02A", PhosphorIconWeight.Duotone, "\uE02A", "\uE02A")
-        val ArrowCircleDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE02C", PhosphorIconWeight.Duotone, "\uE02C", "\uE02C")
-        val ArrowCircleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE05A", PhosphorIconWeight.Duotone, "\uE05A", "\uE05A")
-        val ArrowCircleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE02E", PhosphorIconWeight.Duotone, "\uE02E", "\uE02E")
-        val ArrowCircleUp: PhosphorGlyph =
-            PhosphorGlyph("\uE030", PhosphorIconWeight.Duotone, "\uE030", "\uE030")
-        val ArrowCircleUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE032", PhosphorIconWeight.Duotone, "\uE032", "\uE032")
-        val ArrowCircleUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE034", PhosphorIconWeight.Duotone, "\uE034", "\uE034")
-        val ArrowClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE036", PhosphorIconWeight.Duotone, "\uE036", "\uE036")
-        val ArrowCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE038", PhosphorIconWeight.Duotone, "\uE038", "\uE038")
-        val ArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uE03E", PhosphorIconWeight.Duotone, "\uE03E", "\uE03E")
-        val ArrowDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE040", PhosphorIconWeight.Duotone, "\uE040", "\uE040")
-        val ArrowDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE042", PhosphorIconWeight.Duotone, "\uE042", "\uE042")
-        val ArrowElbowDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE044", PhosphorIconWeight.Duotone, "\uE044", "\uE044")
-        val ArrowElbowDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE046", PhosphorIconWeight.Duotone, "\uE046", "\uE046")
-        val ArrowElbowLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE048", PhosphorIconWeight.Duotone, "\uE048", "\uE048")
-        val ArrowElbowLeftDown: PhosphorGlyph =
-            PhosphorGlyph("\uE04A", PhosphorIconWeight.Duotone, "\uE04A", "\uE04A")
-        val ArrowElbowLeftUp: PhosphorGlyph =
-            PhosphorGlyph("\uE04C", PhosphorIconWeight.Duotone, "\uE04C", "\uE04C")
-        val ArrowElbowRight: PhosphorGlyph =
-            PhosphorGlyph("\uE04E", PhosphorIconWeight.Duotone, "\uE04E", "\uE04E")
-        val ArrowElbowRightDown: PhosphorGlyph =
-            PhosphorGlyph("\uE050", PhosphorIconWeight.Duotone, "\uE050", "\uE050")
-        val ArrowElbowRightUp: PhosphorGlyph =
-            PhosphorGlyph("\uE052", PhosphorIconWeight.Duotone, "\uE052", "\uE052")
-        val ArrowElbowUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE054", PhosphorIconWeight.Duotone, "\uE054", "\uE054")
-        val ArrowElbowUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE056", PhosphorIconWeight.Duotone, "\uE056", "\uE056")
-        val ArrowFatDown: PhosphorGlyph =
-            PhosphorGlyph("\uE518", PhosphorIconWeight.Duotone, "\uE518", "\uE518")
-        val ArrowFatLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE51A", PhosphorIconWeight.Duotone, "\uE51A", "\uE51A")
-        val ArrowFatLineDown: PhosphorGlyph =
-            PhosphorGlyph("\uE51C", PhosphorIconWeight.Duotone, "\uE51C", "\uE51C")
-        val ArrowFatLineLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE51E", PhosphorIconWeight.Duotone, "\uE51E", "\uE51E")
-        val ArrowFatLineRight: PhosphorGlyph =
-            PhosphorGlyph("\uE520", PhosphorIconWeight.Duotone, "\uE520", "\uE520")
-        val ArrowFatLineUp: PhosphorGlyph =
-            PhosphorGlyph("\uE522", PhosphorIconWeight.Duotone, "\uE522", "\uE522")
-        val ArrowFatLinesDown: PhosphorGlyph =
-            PhosphorGlyph("\uE524", PhosphorIconWeight.Duotone, "\uE524", "\uE524")
-        val ArrowFatLinesLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE526", PhosphorIconWeight.Duotone, "\uE526", "\uE526")
-        val ArrowFatLinesRight: PhosphorGlyph =
-            PhosphorGlyph("\uE528", PhosphorIconWeight.Duotone, "\uE528", "\uE528")
-        val ArrowFatLinesUp: PhosphorGlyph =
-            PhosphorGlyph("\uE52A", PhosphorIconWeight.Duotone, "\uE52A", "\uE52A")
-        val ArrowFatRight: PhosphorGlyph =
-            PhosphorGlyph("\uE52C", PhosphorIconWeight.Duotone, "\uE52C", "\uE52C")
-        val ArrowFatUp: PhosphorGlyph =
-            PhosphorGlyph("\uE52E", PhosphorIconWeight.Duotone, "\uE52E", "\uE52E")
-        val ArrowLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE058", PhosphorIconWeight.Duotone, "\uE058", "\uE058")
-        val ArrowLineDown: PhosphorGlyph =
-            PhosphorGlyph("\uE05C", PhosphorIconWeight.Duotone, "\uE05C", "\uE05C")
-        val ArrowLineDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE05E", PhosphorIconWeight.Duotone, "\uE05E", "\uE05E")
-        val ArrowLineDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE060", PhosphorIconWeight.Duotone, "\uE060", "\uE060")
-        val ArrowLineLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE062", PhosphorIconWeight.Duotone, "\uE062", "\uE062")
-        val ArrowLineRight: PhosphorGlyph =
-            PhosphorGlyph("\uE064", PhosphorIconWeight.Duotone, "\uE064", "\uE064")
-        val ArrowLineUp: PhosphorGlyph =
-            PhosphorGlyph("\uE066", PhosphorIconWeight.Duotone, "\uE066", "\uE066")
-        val ArrowLineUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE068", PhosphorIconWeight.Duotone, "\uE068", "\uE068")
-        val ArrowLineUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE06A", PhosphorIconWeight.Duotone, "\uE06A", "\uE06A")
-        val ArrowRight: PhosphorGlyph =
-            PhosphorGlyph("\uE06C", PhosphorIconWeight.Duotone, "\uE06C", "\uE06C")
-        val ArrowSquareDown: PhosphorGlyph =
-            PhosphorGlyph("\uE06E", PhosphorIconWeight.Duotone, "\uE06E", "\uE06E")
-        val ArrowSquareDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE070", PhosphorIconWeight.Duotone, "\uE070", "\uE070")
-        val ArrowSquareDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE072", PhosphorIconWeight.Duotone, "\uE072", "\uE072")
-        val ArrowSquareIn: PhosphorGlyph =
-            PhosphorGlyph("\uE5DC", PhosphorIconWeight.Duotone, "\uE5DC", "\uE5DC")
-        val ArrowSquareLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE074", PhosphorIconWeight.Duotone, "\uE074", "\uE074")
-        val ArrowSquareOut: PhosphorGlyph =
-            PhosphorGlyph("\uE5DE", PhosphorIconWeight.Duotone, "\uE5DE", "\uE5DE")
-        val ArrowSquareRight: PhosphorGlyph =
-            PhosphorGlyph("\uE076", PhosphorIconWeight.Duotone, "\uE076", "\uE076")
-        val ArrowSquareUp: PhosphorGlyph =
-            PhosphorGlyph("\uE078", PhosphorIconWeight.Duotone, "\uE078", "\uE078")
-        val ArrowSquareUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE07A", PhosphorIconWeight.Duotone, "\uE07A", "\uE07A")
-        val ArrowSquareUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE07C", PhosphorIconWeight.Duotone, "\uE07C", "\uE07C")
-        val ArrowUDownLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE07E", PhosphorIconWeight.Duotone, "\uE07E", "\uE07E")
-        val ArrowUDownRight: PhosphorGlyph =
-            PhosphorGlyph("\uE080", PhosphorIconWeight.Duotone, "\uE080", "\uE080")
-        val ArrowULeftDown: PhosphorGlyph =
-            PhosphorGlyph("\uE082", PhosphorIconWeight.Duotone, "\uE082", "\uE082")
-        val ArrowULeftUp: PhosphorGlyph =
-            PhosphorGlyph("\uE084", PhosphorIconWeight.Duotone, "\uE084", "\uE084")
-        val ArrowURightDown: PhosphorGlyph =
-            PhosphorGlyph("\uE086", PhosphorIconWeight.Duotone, "\uE086", "\uE086")
-        val ArrowURightUp: PhosphorGlyph =
-            PhosphorGlyph("\uE088", PhosphorIconWeight.Duotone, "\uE088", "\uE088")
-        val ArrowUUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE08A", PhosphorIconWeight.Duotone, "\uE08A", "\uE08A")
-        val ArrowUUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE08C", PhosphorIconWeight.Duotone, "\uE08C", "\uE08C")
-        val ArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uE08E", PhosphorIconWeight.Duotone, "\uE08E", "\uE08E")
-        val ArrowUpLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE090", PhosphorIconWeight.Duotone, "\uE090", "\uE090")
-        val ArrowUpRight: PhosphorGlyph =
-            PhosphorGlyph("\uE092", PhosphorIconWeight.Duotone, "\uE092", "\uE092")
-        val ArrowsClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE094", PhosphorIconWeight.Duotone, "\uE094", "\uE094")
-        val ArrowsCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE096", PhosphorIconWeight.Duotone, "\uE096", "\uE096")
-        val ArrowsDownUp: PhosphorGlyph =
-            PhosphorGlyph("\uE098", PhosphorIconWeight.Duotone, "\uE098", "\uE098")
-        val ArrowsHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uEB06", PhosphorIconWeight.Duotone, "\uEB06", "\uEB06")
-        val ArrowsIn: PhosphorGlyph =
-            PhosphorGlyph("\uE09A", PhosphorIconWeight.Duotone, "\uE09A", "\uE09A")
-        val ArrowsInCardinal: PhosphorGlyph =
-            PhosphorGlyph("\uE09C", PhosphorIconWeight.Duotone, "\uE09C", "\uE09C")
-        val ArrowsInLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE530", PhosphorIconWeight.Duotone, "\uE530", "\uE530")
-        val ArrowsInLineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE532", PhosphorIconWeight.Duotone, "\uE532", "\uE532")
-        val ArrowsInSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE09E", PhosphorIconWeight.Duotone, "\uE09E", "\uE09E")
-        val ArrowsLeftRight: PhosphorGlyph =
-            PhosphorGlyph("\uE0A0", PhosphorIconWeight.Duotone, "\uE0A0", "\uE0A0")
-        val ArrowsMerge: PhosphorGlyph =
-            PhosphorGlyph("\uED3E", PhosphorIconWeight.Duotone, "\uED3E", "\uED3E")
-        val ArrowsOut: PhosphorGlyph =
-            PhosphorGlyph("\uE0A2", PhosphorIconWeight.Duotone, "\uE0A2", "\uE0A2")
-        val ArrowsOutCardinal: PhosphorGlyph =
-            PhosphorGlyph("\uE0A4", PhosphorIconWeight.Duotone, "\uE0A4", "\uE0A4")
-        val ArrowsOutLineHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE534", PhosphorIconWeight.Duotone, "\uE534", "\uE534")
-        val ArrowsOutLineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE536", PhosphorIconWeight.Duotone, "\uE536", "\uE536")
-        val ArrowsOutSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE0A6", PhosphorIconWeight.Duotone, "\uE0A6", "\uE0A6")
-        val ArrowsSplit: PhosphorGlyph =
-            PhosphorGlyph("\uED3C", PhosphorIconWeight.Duotone, "\uED3C", "\uED3C")
-        val ArrowsVertical: PhosphorGlyph =
-            PhosphorGlyph("\uEB04", PhosphorIconWeight.Duotone, "\uEB04", "\uEB04")
-        val Article: PhosphorGlyph =
-            PhosphorGlyph("\uE0A8", PhosphorIconWeight.Duotone, "\uE0A8", "\uE0A8")
-        val ArticleMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE5E0", PhosphorIconWeight.Duotone, "\uE5E0", "\uE5E0")
-        val ArticleNyTimes: PhosphorGlyph =
-            PhosphorGlyph("\uE5E2", PhosphorIconWeight.Duotone, "\uE5E2", "\uE5E2")
-        val Asclepius: PhosphorGlyph =
-            PhosphorGlyph("\uEE34", PhosphorIconWeight.Duotone, "\uEE34", "\uEE34")
-        val Asterisk: PhosphorGlyph =
-            PhosphorGlyph("\uE0AA", PhosphorIconWeight.Duotone, "\uE0AA", "\uE0AA")
-        val AsteriskSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE832", PhosphorIconWeight.Duotone, "\uE832", "\uE832")
-        val At: PhosphorGlyph =
-            PhosphorGlyph("\uE0AC", PhosphorIconWeight.Duotone, "\uE0AC", "\uE0AC")
-        val Atom: PhosphorGlyph =
-            PhosphorGlyph("\uE5E4", PhosphorIconWeight.Duotone, "\uE5E4", "\uE5E4")
-        val Avocado: PhosphorGlyph =
-            PhosphorGlyph("\uEE04", PhosphorIconWeight.Duotone, "\uEE04", "\uEE04")
-        val Axe: PhosphorGlyph =
-            PhosphorGlyph("\uE9FC", PhosphorIconWeight.Duotone, "\uE9FC", "\uE9FC")
-        val Baby: PhosphorGlyph =
-            PhosphorGlyph("\uE774", PhosphorIconWeight.Duotone, "\uE774", "\uE774")
-        val BabyCarriage: PhosphorGlyph =
-            PhosphorGlyph("\uE818", PhosphorIconWeight.Duotone, "\uE818", "\uE818")
-        val Backpack: PhosphorGlyph =
-            PhosphorGlyph("\uE922", PhosphorIconWeight.Duotone, "\uE922", "\uE922")
-        val Backspace: PhosphorGlyph =
-            PhosphorGlyph("\uE0AE", PhosphorIconWeight.Duotone, "\uE0AE", "\uE0AE")
-        val Bag: PhosphorGlyph =
-            PhosphorGlyph("\uE0B0", PhosphorIconWeight.Duotone, "\uE0B0", "\uE0B0")
-        val BagSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5E6", PhosphorIconWeight.Duotone, "\uE5E6", "\uE5E6")
-        val Balloon: PhosphorGlyph =
-            PhosphorGlyph("\uE76C", PhosphorIconWeight.Duotone, "\uE76C", "\uE76C")
-        val Bandaids: PhosphorGlyph =
-            PhosphorGlyph("\uE0B2", PhosphorIconWeight.Duotone, "\uE0B2", "\uE0B2")
-        val Bank: PhosphorGlyph =
-            PhosphorGlyph("\uE0B4", PhosphorIconWeight.Duotone, "\uE0B4", "\uE0B4")
-        val Barbell: PhosphorGlyph =
-            PhosphorGlyph("\uE0B6", PhosphorIconWeight.Duotone, "\uE0B6", "\uE0B6")
-        val Barcode: PhosphorGlyph =
-            PhosphorGlyph("\uE0B8", PhosphorIconWeight.Duotone, "\uE0B8", "\uE0B8")
-        val Barn: PhosphorGlyph =
-            PhosphorGlyph("\uEC72", PhosphorIconWeight.Duotone, "\uEC72", "\uEC72")
-        val Barricade: PhosphorGlyph =
-            PhosphorGlyph("\uE948", PhosphorIconWeight.Duotone, "\uE948", "\uE948")
-        val Baseball: PhosphorGlyph =
-            PhosphorGlyph("\uE71A", PhosphorIconWeight.Duotone, "\uE71A", "\uE71A")
-        val BaseballCap: PhosphorGlyph =
-            PhosphorGlyph("\uEA28", PhosphorIconWeight.Duotone, "\uEA28", "\uEA28")
-        val BaseballHelmet: PhosphorGlyph =
-            PhosphorGlyph("\uEE4A", PhosphorIconWeight.Duotone, "\uEE4A", "\uEE4A")
-        val Basket: PhosphorGlyph =
-            PhosphorGlyph("\uE964", PhosphorIconWeight.Duotone, "\uE964", "\uE964")
-        val Basketball: PhosphorGlyph =
-            PhosphorGlyph("\uE724", PhosphorIconWeight.Duotone, "\uE724", "\uE724")
-        val Bathtub: PhosphorGlyph =
-            PhosphorGlyph("\uE81E", PhosphorIconWeight.Duotone, "\uE81E", "\uE81E")
-        val BatteryCharging: PhosphorGlyph =
-            PhosphorGlyph("\uE0BA", PhosphorIconWeight.Duotone, "\uE0BA", "\uE0BA")
-        val BatteryChargingVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0BC", PhosphorIconWeight.Duotone, "\uE0BC", "\uE0BC")
-        val BatteryEmpty: PhosphorGlyph =
-            PhosphorGlyph("\uE0BE", PhosphorIconWeight.Duotone, "\uE0BE", "\uE0BE")
-        val BatteryFull: PhosphorGlyph =
-            PhosphorGlyph("\uE0C0", PhosphorIconWeight.Duotone, "\uE0C0", "\uE0C0")
-        val BatteryHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE0C2", PhosphorIconWeight.Duotone, "\uE0C2", "\uE0C2")
-        val BatteryLow: PhosphorGlyph =
-            PhosphorGlyph("\uE0C4", PhosphorIconWeight.Duotone, "\uE0C4", "\uE0C4")
-        val BatteryMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE0C6", PhosphorIconWeight.Duotone, "\uE0C6", "\uE0C6")
-        val BatteryPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE808", PhosphorIconWeight.Duotone, "\uE808", "\uE808")
-        val BatteryPlusVertical: PhosphorGlyph =
-            PhosphorGlyph("\uEC50", PhosphorIconWeight.Duotone, "\uEC50", "\uEC50")
-        val BatteryVerticalEmpty: PhosphorGlyph =
-            PhosphorGlyph("\uE7C6", PhosphorIconWeight.Duotone, "\uE7C6", "\uE7C6")
-        val BatteryVerticalFull: PhosphorGlyph =
-            PhosphorGlyph("\uE7C4", PhosphorIconWeight.Duotone, "\uE7C4", "\uE7C4")
-        val BatteryVerticalHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE7C2", PhosphorIconWeight.Duotone, "\uE7C2", "\uE7C2")
-        val BatteryVerticalLow: PhosphorGlyph =
-            PhosphorGlyph("\uE7BE", PhosphorIconWeight.Duotone, "\uE7BE", "\uE7BE")
-        val BatteryVerticalMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE7C0", PhosphorIconWeight.Duotone, "\uE7C0", "\uE7C0")
-        val BatteryWarning: PhosphorGlyph =
-            PhosphorGlyph("\uE0C8", PhosphorIconWeight.Duotone, "\uE0C8", "\uE0C8")
-        val BatteryWarningVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE0CA", PhosphorIconWeight.Duotone, "\uE0CA", "\uE0CA")
-        val BeachBall: PhosphorGlyph =
-            PhosphorGlyph("\uED24", PhosphorIconWeight.Duotone, "\uED24", "\uED24")
-        val Beanie: PhosphorGlyph =
-            PhosphorGlyph("\uEA2A", PhosphorIconWeight.Duotone, "\uEA2A", "\uEA2A")
-        val Bed: PhosphorGlyph =
-            PhosphorGlyph("\uE0CC", PhosphorIconWeight.Duotone, "\uE0CC", "\uE0CC")
-        val BeerBottle: PhosphorGlyph =
-            PhosphorGlyph("\uE7B0", PhosphorIconWeight.Duotone, "\uE7B0", "\uE7B0")
-        val BeerStein: PhosphorGlyph =
-            PhosphorGlyph("\uEB62", PhosphorIconWeight.Duotone, "\uEB62", "\uEB62")
-        val BehanceLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE7F4", PhosphorIconWeight.Duotone, "\uE7F4", "\uE7F4")
-        val Bell: PhosphorGlyph =
-            PhosphorGlyph("\uE0CE", PhosphorIconWeight.Duotone, "\uE0CE", "\uE0CE")
-        val BellRinging: PhosphorGlyph =
-            PhosphorGlyph("\uE5E8", PhosphorIconWeight.Duotone, "\uE5E8", "\uE5E8")
-        val BellSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE0D0", PhosphorIconWeight.Duotone, "\uE0D0", "\uE0D0")
-        val BellSimpleRinging: PhosphorGlyph =
-            PhosphorGlyph("\uE5EA", PhosphorIconWeight.Duotone, "\uE5EA", "\uE5EA")
-        val BellSimpleSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE0D2", PhosphorIconWeight.Duotone, "\uE0D2", "\uE0D2")
-        val BellSimpleZ: PhosphorGlyph =
-            PhosphorGlyph("\uE5EC", PhosphorIconWeight.Duotone, "\uE5EC", "\uE5EC")
-        val BellSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE0D4", PhosphorIconWeight.Duotone, "\uE0D4", "\uE0D4")
-        val BellZ: PhosphorGlyph =
-            PhosphorGlyph("\uE5EE", PhosphorIconWeight.Duotone, "\uE5EE", "\uE5EE")
-        val Belt: PhosphorGlyph =
-            PhosphorGlyph("\uEA2C", PhosphorIconWeight.Duotone, "\uEA2C", "\uEA2C")
-        val BezierCurve: PhosphorGlyph =
-            PhosphorGlyph("\uEB00", PhosphorIconWeight.Duotone, "\uEB00", "\uEB00")
-        val Bicycle: PhosphorGlyph =
-            PhosphorGlyph("\uE0D6", PhosphorIconWeight.Duotone, "\uE0D6", "\uE0D6")
-        val Binary: PhosphorGlyph =
-            PhosphorGlyph("\uEE60", PhosphorIconWeight.Duotone, "\uEE60", "\uEE60")
-        val Binoculars: PhosphorGlyph =
-            PhosphorGlyph("\uEA64", PhosphorIconWeight.Duotone, "\uEA64", "\uEA64")
-        val Biohazard: PhosphorGlyph =
-            PhosphorGlyph("\uE9E0", PhosphorIconWeight.Duotone, "\uE9E0", "\uE9E0")
-        val Bird: PhosphorGlyph =
-            PhosphorGlyph("\uE72C", PhosphorIconWeight.Duotone, "\uE72C", "\uE72C")
-        val Blueprint: PhosphorGlyph =
-            PhosphorGlyph("\uEDA0", PhosphorIconWeight.Duotone, "\uEDA0", "\uEDA0")
-        val Bluetooth: PhosphorGlyph =
-            PhosphorGlyph("\uE0DA", PhosphorIconWeight.Duotone, "\uE0DA", "\uE0DA")
-        val BluetoothConnected: PhosphorGlyph =
-            PhosphorGlyph("\uE0DC", PhosphorIconWeight.Duotone, "\uE0DC", "\uE0DC")
-        val BluetoothSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE0DE", PhosphorIconWeight.Duotone, "\uE0DE", "\uE0DE")
-        val BluetoothX: PhosphorGlyph =
-            PhosphorGlyph("\uE0E0", PhosphorIconWeight.Duotone, "\uE0E0", "\uE0E0")
-        val Boat: PhosphorGlyph =
-            PhosphorGlyph("\uE786", PhosphorIconWeight.Duotone, "\uE786", "\uE786")
-        val Bomb: PhosphorGlyph =
-            PhosphorGlyph("\uEE0A", PhosphorIconWeight.Duotone, "\uEE0A", "\uEE0A")
-        val Bone: PhosphorGlyph =
-            PhosphorGlyph("\uE7F2", PhosphorIconWeight.Duotone, "\uE7F2", "\uE7F2")
-        val Book: PhosphorGlyph =
-            PhosphorGlyph("\uE0E2", PhosphorIconWeight.Duotone, "\uE0E2", "\uE0E2")
-        val BookBookmark: PhosphorGlyph =
-            PhosphorGlyph("\uE0E4", PhosphorIconWeight.Duotone, "\uE0E4", "\uE0E4")
-        val BookOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE0E6", PhosphorIconWeight.Duotone, "\uE0E6", "\uE0E6")
-        val BookOpenText: PhosphorGlyph =
-            PhosphorGlyph("\uE8F2", PhosphorIconWeight.Duotone, "\uE8F2", "\uE8F2")
-        val BookOpenUser: PhosphorGlyph =
-            PhosphorGlyph("\uEDE0", PhosphorIconWeight.Duotone, "\uEDE0", "\uEDE0")
-        val Bookmark: PhosphorGlyph =
-            PhosphorGlyph("\uE0E8", PhosphorIconWeight.Duotone, "\uE0E8", "\uE0E8")
-        val BookmarkSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE0EA", PhosphorIconWeight.Duotone, "\uE0EA", "\uE0EA")
-        val Bookmarks: PhosphorGlyph =
-            PhosphorGlyph("\uE0EC", PhosphorIconWeight.Duotone, "\uE0EC", "\uE0EC")
-        val BookmarksSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5F0", PhosphorIconWeight.Duotone, "\uE5F0", "\uE5F0")
-        val Books: PhosphorGlyph =
-            PhosphorGlyph("\uE758", PhosphorIconWeight.Duotone, "\uE758", "\uE758")
-        val Boot: PhosphorGlyph =
-            PhosphorGlyph("\uECCA", PhosphorIconWeight.Duotone, "\uECCA", "\uECCA")
-        val Boules: PhosphorGlyph =
-            PhosphorGlyph("\uE722", PhosphorIconWeight.Duotone, "\uE722", "\uE722")
-        val BoundingBox: PhosphorGlyph =
-            PhosphorGlyph("\uE6CE", PhosphorIconWeight.Duotone, "\uE6CE", "\uE6CE")
-        val BowlFood: PhosphorGlyph =
-            PhosphorGlyph("\uEAA4", PhosphorIconWeight.Duotone, "\uEAA4", "\uEAA4")
-        val BowlSteam: PhosphorGlyph =
-            PhosphorGlyph("\uE8E4", PhosphorIconWeight.Duotone, "\uE8E4", "\uE8E4")
-        val BowlingBall: PhosphorGlyph =
-            PhosphorGlyph("\uEA34", PhosphorIconWeight.Duotone, "\uEA34", "\uEA34")
-        val BoxArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uE00E", PhosphorIconWeight.Duotone, "\uE00E", "\uE00E")
-        val BoxArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uEE54", PhosphorIconWeight.Duotone, "\uEE54", "\uEE54")
-        val BoxingGlove: PhosphorGlyph =
-            PhosphorGlyph("\uEA36", PhosphorIconWeight.Duotone, "\uEA36", "\uEA36")
-        val BracketsAngle: PhosphorGlyph =
-            PhosphorGlyph("\uE862", PhosphorIconWeight.Duotone, "\uE862", "\uE862")
-        val BracketsCurly: PhosphorGlyph =
-            PhosphorGlyph("\uE860", PhosphorIconWeight.Duotone, "\uE860", "\uE860")
-        val BracketsRound: PhosphorGlyph =
-            PhosphorGlyph("\uE864", PhosphorIconWeight.Duotone, "\uE864", "\uE864")
-        val BracketsSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE85E", PhosphorIconWeight.Duotone, "\uE85E", "\uE85E")
-        val Brain: PhosphorGlyph =
-            PhosphorGlyph("\uE74E", PhosphorIconWeight.Duotone, "\uE74E", "\uE74E")
-        val Brandy: PhosphorGlyph =
-            PhosphorGlyph("\uE6B4", PhosphorIconWeight.Duotone, "\uE6B4", "\uE6B4")
-        val Bread: PhosphorGlyph =
-            PhosphorGlyph("\uE81C", PhosphorIconWeight.Duotone, "\uE81C", "\uE81C")
-        val Bridge: PhosphorGlyph =
-            PhosphorGlyph("\uEA68", PhosphorIconWeight.Duotone, "\uEA68", "\uEA68")
-        val Briefcase: PhosphorGlyph =
-            PhosphorGlyph("\uE0EE", PhosphorIconWeight.Duotone, "\uE0EE", "\uE0EE")
-        val BriefcaseMetal: PhosphorGlyph =
-            PhosphorGlyph("\uE5F2", PhosphorIconWeight.Duotone, "\uE5F2", "\uE5F2")
-        val Broadcast: PhosphorGlyph =
-            PhosphorGlyph("\uE0F2", PhosphorIconWeight.Duotone, "\uE0F2", "\uE0F2")
-        val Broom: PhosphorGlyph =
-            PhosphorGlyph("\uEC54", PhosphorIconWeight.Duotone, "\uEC54", "\uEC54")
-        val Browser: PhosphorGlyph =
-            PhosphorGlyph("\uE0F4", PhosphorIconWeight.Duotone, "\uE0F4", "\uE0F4")
-        val Browsers: PhosphorGlyph =
-            PhosphorGlyph("\uE0F6", PhosphorIconWeight.Duotone, "\uE0F6", "\uE0F6")
-        val Bug: PhosphorGlyph =
-            PhosphorGlyph("\uE5F4", PhosphorIconWeight.Duotone, "\uE5F4", "\uE5F4")
-        val BugBeetle: PhosphorGlyph =
-            PhosphorGlyph("\uE5F6", PhosphorIconWeight.Duotone, "\uE5F6", "\uE5F6")
-        val BugDroid: PhosphorGlyph =
-            PhosphorGlyph("\uE5F8", PhosphorIconWeight.Duotone, "\uE5F8", "\uE5F8")
-        val Building: PhosphorGlyph =
-            PhosphorGlyph("\uE100", PhosphorIconWeight.Duotone, "\uE100", "\uE100")
-        val BuildingApartment: PhosphorGlyph =
-            PhosphorGlyph("\uE0FE", PhosphorIconWeight.Duotone, "\uE0FE", "\uE0FE")
-        val BuildingOffice: PhosphorGlyph =
-            PhosphorGlyph("\uE0FF", PhosphorIconWeight.Duotone, "\uE0FF", "\uE0FF")
-        val Buildings: PhosphorGlyph =
-            PhosphorGlyph("\uE102", PhosphorIconWeight.Duotone, "\uE102", "\uE102")
-        val Bulldozer: PhosphorGlyph =
-            PhosphorGlyph("\uEC6C", PhosphorIconWeight.Duotone, "\uEC6C", "\uEC6C")
-        val Bus: PhosphorGlyph =
-            PhosphorGlyph("\uE106", PhosphorIconWeight.Duotone, "\uE106", "\uE106")
-        val Butterfly: PhosphorGlyph =
-            PhosphorGlyph("\uEA6E", PhosphorIconWeight.Duotone, "\uEA6E", "\uEA6E")
-        val CableCar: PhosphorGlyph =
-            PhosphorGlyph("\uE49C", PhosphorIconWeight.Duotone, "\uE49C", "\uE49C")
-        val Cactus: PhosphorGlyph =
-            PhosphorGlyph("\uE918", PhosphorIconWeight.Duotone, "\uE918", "\uE918")
-        val Cake: PhosphorGlyph =
-            PhosphorGlyph("\uE780", PhosphorIconWeight.Duotone, "\uE780", "\uE780")
-        val Calculator: PhosphorGlyph =
-            PhosphorGlyph("\uE538", PhosphorIconWeight.Duotone, "\uE538", "\uE538")
-        val Calendar: PhosphorGlyph =
-            PhosphorGlyph("\uE108", PhosphorIconWeight.Duotone, "\uE108", "\uE108")
-        val CalendarBlank: PhosphorGlyph =
-            PhosphorGlyph("\uE10A", PhosphorIconWeight.Duotone, "\uE10A", "\uE10A")
-        val CalendarCheck: PhosphorGlyph =
-            PhosphorGlyph("\uE712", PhosphorIconWeight.Duotone, "\uE712", "\uE712")
-        val CalendarDot: PhosphorGlyph =
-            PhosphorGlyph("\uE7B2", PhosphorIconWeight.Duotone, "\uE7B2", "\uE7B2")
-        val CalendarDots: PhosphorGlyph =
-            PhosphorGlyph("\uE7B4", PhosphorIconWeight.Duotone, "\uE7B4", "\uE7B4")
-        val CalendarHeart: PhosphorGlyph =
-            PhosphorGlyph("\uE8B0", PhosphorIconWeight.Duotone, "\uE8B0", "\uE8B0")
-        val CalendarMinus: PhosphorGlyph =
-            PhosphorGlyph("\uEA14", PhosphorIconWeight.Duotone, "\uEA14", "\uEA14")
-        val CalendarPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE714", PhosphorIconWeight.Duotone, "\uE714", "\uE714")
-        val CalendarSlash: PhosphorGlyph =
-            PhosphorGlyph("\uEA12", PhosphorIconWeight.Duotone, "\uEA12", "\uEA12")
-        val CalendarStar: PhosphorGlyph =
-            PhosphorGlyph("\uE8B2", PhosphorIconWeight.Duotone, "\uE8B2", "\uE8B2")
-        val CalendarX: PhosphorGlyph =
-            PhosphorGlyph("\uE10C", PhosphorIconWeight.Duotone, "\uE10C", "\uE10C")
-        val CallBell: PhosphorGlyph =
-            PhosphorGlyph("\uE7DE", PhosphorIconWeight.Duotone, "\uE7DE", "\uE7DE")
-        val Camera: PhosphorGlyph =
-            PhosphorGlyph("\uE10E", PhosphorIconWeight.Duotone, "\uE10E", "\uE10E")
-        val CameraPlus: PhosphorGlyph =
-            PhosphorGlyph("\uEC58", PhosphorIconWeight.Duotone, "\uEC58", "\uEC58")
-        val CameraRotate: PhosphorGlyph =
-            PhosphorGlyph("\uE7A4", PhosphorIconWeight.Duotone, "\uE7A4", "\uE7A4")
-        val CameraSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE110", PhosphorIconWeight.Duotone, "\uE110", "\uE110")
-        val Campfire: PhosphorGlyph =
-            PhosphorGlyph("\uE9D8", PhosphorIconWeight.Duotone, "\uE9D8", "\uE9D8")
-        val Car: PhosphorGlyph =
-            PhosphorGlyph("\uE112", PhosphorIconWeight.Duotone, "\uE112", "\uE112")
-        val CarBattery: PhosphorGlyph =
-            PhosphorGlyph("\uEE30", PhosphorIconWeight.Duotone, "\uEE30", "\uEE30")
-        val CarProfile: PhosphorGlyph =
-            PhosphorGlyph("\uE8CC", PhosphorIconWeight.Duotone, "\uE8CC", "\uE8CC")
-        val CarSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE114", PhosphorIconWeight.Duotone, "\uE114", "\uE114")
-        val Cardholder: PhosphorGlyph =
-            PhosphorGlyph("\uE5FA", PhosphorIconWeight.Duotone, "\uE5FA", "\uE5FA")
-        val Cards: PhosphorGlyph =
-            PhosphorGlyph("\uE0F8", PhosphorIconWeight.Duotone, "\uE0F8", "\uE0F8")
-        val CardsThree: PhosphorGlyph =
-            PhosphorGlyph("\uEE50", PhosphorIconWeight.Duotone, "\uEE50", "\uEE50")
-        val CaretCircleDoubleDown: PhosphorGlyph =
-            PhosphorGlyph("\uE116", PhosphorIconWeight.Duotone, "\uE116", "\uE116")
-        val CaretCircleDoubleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE118", PhosphorIconWeight.Duotone, "\uE118", "\uE118")
-        val CaretCircleDoubleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE11A", PhosphorIconWeight.Duotone, "\uE11A", "\uE11A")
-        val CaretCircleDoubleUp: PhosphorGlyph =
-            PhosphorGlyph("\uE11C", PhosphorIconWeight.Duotone, "\uE11C", "\uE11C")
-        val CaretCircleDown: PhosphorGlyph =
-            PhosphorGlyph("\uE11E", PhosphorIconWeight.Duotone, "\uE11E", "\uE11E")
-        val CaretCircleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE120", PhosphorIconWeight.Duotone, "\uE120", "\uE120")
-        val CaretCircleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE122", PhosphorIconWeight.Duotone, "\uE122", "\uE122")
-        val CaretCircleUp: PhosphorGlyph =
-            PhosphorGlyph("\uE124", PhosphorIconWeight.Duotone, "\uE124", "\uE124")
-        val CaretCircleUpDown: PhosphorGlyph =
-            PhosphorGlyph("\uE13E", PhosphorIconWeight.Duotone, "\uE13E", "\uE13E")
-        val CaretDoubleDown: PhosphorGlyph =
-            PhosphorGlyph("\uE126", PhosphorIconWeight.Duotone, "\uE126", "\uE126")
-        val CaretDoubleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE128", PhosphorIconWeight.Duotone, "\uE128", "\uE128")
-        val CaretDoubleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE12A", PhosphorIconWeight.Duotone, "\uE12A", "\uE12A")
-        val CaretDoubleUp: PhosphorGlyph =
-            PhosphorGlyph("\uE12C", PhosphorIconWeight.Duotone, "\uE12C", "\uE12C")
-        val CaretDown: PhosphorGlyph =
-            PhosphorGlyph("\uE136", PhosphorIconWeight.Duotone, "\uE136", "\uE136")
-        val CaretLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE138", PhosphorIconWeight.Duotone, "\uE138", "\uE138")
-        val CaretLineDown: PhosphorGlyph =
-            PhosphorGlyph("\uE134", PhosphorIconWeight.Duotone, "\uE134", "\uE134")
-        val CaretLineLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE132", PhosphorIconWeight.Duotone, "\uE132", "\uE132")
-        val CaretLineRight: PhosphorGlyph =
-            PhosphorGlyph("\uE130", PhosphorIconWeight.Duotone, "\uE130", "\uE130")
-        val CaretLineUp: PhosphorGlyph =
-            PhosphorGlyph("\uE12E", PhosphorIconWeight.Duotone, "\uE12E", "\uE12E")
-        val CaretRight: PhosphorGlyph =
-            PhosphorGlyph("\uE13A", PhosphorIconWeight.Duotone, "\uE13A", "\uE13A")
-        val CaretUp: PhosphorGlyph =
-            PhosphorGlyph("\uE13C", PhosphorIconWeight.Duotone, "\uE13C", "\uE13C")
-        val CaretUpDown: PhosphorGlyph =
-            PhosphorGlyph("\uE140", PhosphorIconWeight.Duotone, "\uE140", "\uE140")
-        val Carrot: PhosphorGlyph =
-            PhosphorGlyph("\uED38", PhosphorIconWeight.Duotone, "\uED38", "\uED38")
-        val CashRegister: PhosphorGlyph =
-            PhosphorGlyph("\uED80", PhosphorIconWeight.Duotone, "\uED80", "\uED80")
-        val CassetteTape: PhosphorGlyph =
-            PhosphorGlyph("\uED2E", PhosphorIconWeight.Duotone, "\uED2E", "\uED2E")
-        val CastleTurret: PhosphorGlyph =
-            PhosphorGlyph("\uE9D0", PhosphorIconWeight.Duotone, "\uE9D0", "\uE9D0")
-        val Cat: PhosphorGlyph =
-            PhosphorGlyph("\uE748", PhosphorIconWeight.Duotone, "\uE748", "\uE748")
-        val CellSignalFull: PhosphorGlyph =
-            PhosphorGlyph("\uE142", PhosphorIconWeight.Duotone, "\uE142", "\uE142")
-        val CellSignalHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE144", PhosphorIconWeight.Duotone, "\uE144", "\uE144")
-        val CellSignalLow: PhosphorGlyph =
-            PhosphorGlyph("\uE146", PhosphorIconWeight.Duotone, "\uE146", "\uE146")
-        val CellSignalMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE148", PhosphorIconWeight.Duotone, "\uE148", "\uE148")
-        val CellSignalNone: PhosphorGlyph =
-            PhosphorGlyph("\uE14A", PhosphorIconWeight.Duotone, "\uE14A", "\uE14A")
-        val CellSignalSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE14C", PhosphorIconWeight.Duotone, "\uE14C", "\uE14C")
-        val CellSignalX: PhosphorGlyph =
-            PhosphorGlyph("\uE14E", PhosphorIconWeight.Duotone, "\uE14E", "\uE14E")
-        val CellTower: PhosphorGlyph =
-            PhosphorGlyph("\uEBAA", PhosphorIconWeight.Duotone, "\uEBAA", "\uEBAA")
-        val Certificate: PhosphorGlyph =
-            PhosphorGlyph("\uE766", PhosphorIconWeight.Duotone, "\uE766", "\uE766")
-        val Chair: PhosphorGlyph =
-            PhosphorGlyph("\uE950", PhosphorIconWeight.Duotone, "\uE950", "\uE950")
-        val Chalkboard: PhosphorGlyph =
-            PhosphorGlyph("\uE5FC", PhosphorIconWeight.Duotone, "\uE5FC", "\uE5FC")
-        val ChalkboardSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5FE", PhosphorIconWeight.Duotone, "\uE5FE", "\uE5FE")
-        val ChalkboardTeacher: PhosphorGlyph =
-            PhosphorGlyph("\uE600", PhosphorIconWeight.Duotone, "\uE600", "\uE600")
-        val Champagne: PhosphorGlyph =
-            PhosphorGlyph("\uEACA", PhosphorIconWeight.Duotone, "\uEACA", "\uEACA")
-        val ChargingStation: PhosphorGlyph =
-            PhosphorGlyph("\uE8D0", PhosphorIconWeight.Duotone, "\uE8D0", "\uE8D0")
-        val ChartBar: PhosphorGlyph =
-            PhosphorGlyph("\uE150", PhosphorIconWeight.Duotone, "\uE150", "\uE150")
-        val ChartBarHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE152", PhosphorIconWeight.Duotone, "\uE152", "\uE152")
-        val ChartDonut: PhosphorGlyph =
-            PhosphorGlyph("\uEAA6", PhosphorIconWeight.Duotone, "\uEAA6", "\uEAA6")
-        val ChartLine: PhosphorGlyph =
-            PhosphorGlyph("\uE154", PhosphorIconWeight.Duotone, "\uE154", "\uE154")
-        val ChartLineDown: PhosphorGlyph =
-            PhosphorGlyph("\uE8B6", PhosphorIconWeight.Duotone, "\uE8B6", "\uE8B6")
-        val ChartLineUp: PhosphorGlyph =
-            PhosphorGlyph("\uE156", PhosphorIconWeight.Duotone, "\uE156", "\uE156")
-        val ChartPie: PhosphorGlyph =
-            PhosphorGlyph("\uE158", PhosphorIconWeight.Duotone, "\uE158", "\uE158")
-        val ChartPieSlice: PhosphorGlyph =
-            PhosphorGlyph("\uE15A", PhosphorIconWeight.Duotone, "\uE15A", "\uE15A")
-        val ChartPolar: PhosphorGlyph =
-            PhosphorGlyph("\uEAA8", PhosphorIconWeight.Duotone, "\uEAA8", "\uEAA8")
-        val ChartScatter: PhosphorGlyph =
-            PhosphorGlyph("\uEAAC", PhosphorIconWeight.Duotone, "\uEAAC", "\uEAAC")
-        val Chat: PhosphorGlyph =
-            PhosphorGlyph("\uE15C", PhosphorIconWeight.Duotone, "\uE15C", "\uE15C")
-        val ChatCentered: PhosphorGlyph =
-            PhosphorGlyph("\uE160", PhosphorIconWeight.Duotone, "\uE160", "\uE160")
-        val ChatCenteredDots: PhosphorGlyph =
-            PhosphorGlyph("\uE164", PhosphorIconWeight.Duotone, "\uE164", "\uE164")
-        val ChatCenteredSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE162", PhosphorIconWeight.Duotone, "\uE162", "\uE162")
-        val ChatCenteredText: PhosphorGlyph =
-            PhosphorGlyph("\uE166", PhosphorIconWeight.Duotone, "\uE166", "\uE166")
-        val ChatCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE168", PhosphorIconWeight.Duotone, "\uE168", "\uE168")
-        val ChatCircleDots: PhosphorGlyph =
-            PhosphorGlyph("\uE16C", PhosphorIconWeight.Duotone, "\uE16C", "\uE16C")
-        val ChatCircleSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE16A", PhosphorIconWeight.Duotone, "\uE16A", "\uE16A")
-        val ChatCircleText: PhosphorGlyph =
-            PhosphorGlyph("\uE16E", PhosphorIconWeight.Duotone, "\uE16E", "\uE16E")
-        val ChatDots: PhosphorGlyph =
-            PhosphorGlyph("\uE170", PhosphorIconWeight.Duotone, "\uE170", "\uE170")
-        val ChatSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE15E", PhosphorIconWeight.Duotone, "\uE15E", "\uE15E")
-        val ChatTeardrop: PhosphorGlyph =
-            PhosphorGlyph("\uE172", PhosphorIconWeight.Duotone, "\uE172", "\uE172")
-        val ChatTeardropDots: PhosphorGlyph =
-            PhosphorGlyph("\uE176", PhosphorIconWeight.Duotone, "\uE176", "\uE176")
-        val ChatTeardropSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE174", PhosphorIconWeight.Duotone, "\uE174", "\uE174")
-        val ChatTeardropText: PhosphorGlyph =
-            PhosphorGlyph("\uE178", PhosphorIconWeight.Duotone, "\uE178", "\uE178")
-        val ChatText: PhosphorGlyph =
-            PhosphorGlyph("\uE17A", PhosphorIconWeight.Duotone, "\uE17A", "\uE17A")
-        val Chats: PhosphorGlyph =
-            PhosphorGlyph("\uE17C", PhosphorIconWeight.Duotone, "\uE17C", "\uE17C")
-        val ChatsCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE17E", PhosphorIconWeight.Duotone, "\uE17E", "\uE17E")
-        val ChatsTeardrop: PhosphorGlyph =
-            PhosphorGlyph("\uE180", PhosphorIconWeight.Duotone, "\uE180", "\uE180")
-        val Check: PhosphorGlyph =
-            PhosphorGlyph("\uE182", PhosphorIconWeight.Duotone, "\uE182", "\uE182")
-        val CheckCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE184", PhosphorIconWeight.Duotone, "\uE184", "\uE184")
-        val CheckFat: PhosphorGlyph =
-            PhosphorGlyph("\uEBA6", PhosphorIconWeight.Duotone, "\uEBA6", "\uEBA6")
-        val CheckSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE186", PhosphorIconWeight.Duotone, "\uE186", "\uE186")
-        val CheckSquareOffset: PhosphorGlyph =
-            PhosphorGlyph("\uE188", PhosphorIconWeight.Duotone, "\uE188", "\uE188")
-        val Checkerboard: PhosphorGlyph =
-            PhosphorGlyph("\uE8C4", PhosphorIconWeight.Duotone, "\uE8C4", "\uE8C4")
-        val Checks: PhosphorGlyph =
-            PhosphorGlyph("\uE53A", PhosphorIconWeight.Duotone, "\uE53A", "\uE53A")
-        val Cheers: PhosphorGlyph =
-            PhosphorGlyph("\uEA4A", PhosphorIconWeight.Duotone, "\uEA4A", "\uEA4A")
-        val Cheese: PhosphorGlyph =
-            PhosphorGlyph("\uE9FE", PhosphorIconWeight.Duotone, "\uE9FE", "\uE9FE")
-        val ChefHat: PhosphorGlyph =
-            PhosphorGlyph("\uED8E", PhosphorIconWeight.Duotone, "\uED8E", "\uED8E")
-        val Cherries: PhosphorGlyph =
-            PhosphorGlyph("\uE830", PhosphorIconWeight.Duotone, "\uE830", "\uE830")
-        val Church: PhosphorGlyph =
-            PhosphorGlyph("\uECEA", PhosphorIconWeight.Duotone, "\uECEA", "\uECEA")
-        val Cigarette: PhosphorGlyph =
-            PhosphorGlyph("\uED90", PhosphorIconWeight.Duotone, "\uED90", "\uED90")
-        val CigaretteSlash: PhosphorGlyph =
-            PhosphorGlyph("\uED92", PhosphorIconWeight.Duotone, "\uED92", "\uED92")
-        val Circle: PhosphorGlyph =
-            PhosphorGlyph("\uE18A", PhosphorIconWeight.Duotone, "\uE18A", "\uE18A")
-        val CircleDashed: PhosphorGlyph =
-            PhosphorGlyph("\uE602", PhosphorIconWeight.Duotone, "\uE602", "\uE602")
-        val CircleHalf: PhosphorGlyph =
-            PhosphorGlyph("\uE18C", PhosphorIconWeight.Duotone, "\uE18C", "\uE18C")
-        val CircleHalfTilt: PhosphorGlyph =
-            PhosphorGlyph("\uE18E", PhosphorIconWeight.Duotone, "\uE18E", "\uE18E")
-        val CircleNotch: PhosphorGlyph =
-            PhosphorGlyph("\uEB44", PhosphorIconWeight.Duotone, "\uEB44", "\uEB44")
-        val CirclesFour: PhosphorGlyph =
-            PhosphorGlyph("\uE190", PhosphorIconWeight.Duotone, "\uE190", "\uE190")
-        val CirclesThree: PhosphorGlyph =
-            PhosphorGlyph("\uE192", PhosphorIconWeight.Duotone, "\uE192", "\uE192")
-        val CirclesThreePlus: PhosphorGlyph =
-            PhosphorGlyph("\uE194", PhosphorIconWeight.Duotone, "\uE194", "\uE194")
-        val Circuitry: PhosphorGlyph =
-            PhosphorGlyph("\uE9C2", PhosphorIconWeight.Duotone, "\uE9C2", "\uE9C2")
-        val City: PhosphorGlyph =
-            PhosphorGlyph("\uEA6A", PhosphorIconWeight.Duotone, "\uEA6A", "\uEA6A")
-        val Clipboard: PhosphorGlyph =
-            PhosphorGlyph("\uE196", PhosphorIconWeight.Duotone, "\uE196", "\uE196")
-        val ClipboardText: PhosphorGlyph =
-            PhosphorGlyph("\uE198", PhosphorIconWeight.Duotone, "\uE198", "\uE198")
-        val Clock: PhosphorGlyph =
-            PhosphorGlyph("\uE19A", PhosphorIconWeight.Duotone, "\uE19A", "\uE19A")
-        val ClockAfternoon: PhosphorGlyph =
-            PhosphorGlyph("\uE19C", PhosphorIconWeight.Duotone, "\uE19C", "\uE19C")
-        val ClockClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE19E", PhosphorIconWeight.Duotone, "\uE19E", "\uE19E")
-        val ClockCountdown: PhosphorGlyph =
-            PhosphorGlyph("\uED2C", PhosphorIconWeight.Duotone, "\uED2C", "\uED2C")
-        val ClockCounterClockwise: PhosphorGlyph =
-            PhosphorGlyph("\uE1A0", PhosphorIconWeight.Duotone, "\uE1A0", "\uE1A0")
-        val ClockUser: PhosphorGlyph =
-            PhosphorGlyph("\uEDEC", PhosphorIconWeight.Duotone, "\uEDEC", "\uEDEC")
-        val ClosedCaptioning: PhosphorGlyph =
-            PhosphorGlyph("\uE1A4", PhosphorIconWeight.Duotone, "\uE1A4", "\uE1A4")
-        val Cloud: PhosphorGlyph =
-            PhosphorGlyph("\uE1AA", PhosphorIconWeight.Duotone, "\uE1AA", "\uE1AA")
-        val CloudArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uE1AC", PhosphorIconWeight.Duotone, "\uE1AC", "\uE1AC")
-        val CloudArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uE1AE", PhosphorIconWeight.Duotone, "\uE1AE", "\uE1AE")
-        val CloudCheck: PhosphorGlyph =
-            PhosphorGlyph("\uE1B0", PhosphorIconWeight.Duotone, "\uE1B0", "\uE1B0")
-        val CloudFog: PhosphorGlyph =
-            PhosphorGlyph("\uE53C", PhosphorIconWeight.Duotone, "\uE53C", "\uE53C")
-        val CloudLightning: PhosphorGlyph =
-            PhosphorGlyph("\uE1B2", PhosphorIconWeight.Duotone, "\uE1B2", "\uE1B2")
-        val CloudMoon: PhosphorGlyph =
-            PhosphorGlyph("\uE53E", PhosphorIconWeight.Duotone, "\uE53E", "\uE53E")
-        val CloudRain: PhosphorGlyph =
-            PhosphorGlyph("\uE1B4", PhosphorIconWeight.Duotone, "\uE1B4", "\uE1B4")
-        val CloudSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE1B6", PhosphorIconWeight.Duotone, "\uE1B6", "\uE1B6")
-        val CloudSnow: PhosphorGlyph =
-            PhosphorGlyph("\uE1B8", PhosphorIconWeight.Duotone, "\uE1B8", "\uE1B8")
-        val CloudSun: PhosphorGlyph =
-            PhosphorGlyph("\uE540", PhosphorIconWeight.Duotone, "\uE540", "\uE540")
-        val CloudWarning: PhosphorGlyph =
-            PhosphorGlyph("\uEA98", PhosphorIconWeight.Duotone, "\uEA98", "\uEA98")
-        val CloudX: PhosphorGlyph =
-            PhosphorGlyph("\uEA96", PhosphorIconWeight.Duotone, "\uEA96", "\uEA96")
-        val Clover: PhosphorGlyph =
-            PhosphorGlyph("\uEDC8", PhosphorIconWeight.Duotone, "\uEDC8", "\uEDC8")
-        val Club: PhosphorGlyph =
-            PhosphorGlyph("\uE1BA", PhosphorIconWeight.Duotone, "\uE1BA", "\uE1BA")
-        val CoatHanger: PhosphorGlyph =
-            PhosphorGlyph("\uE7FE", PhosphorIconWeight.Duotone, "\uE7FE", "\uE7FE")
-        val CodaLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE7CE", PhosphorIconWeight.Duotone, "\uE7CE", "\uE7CE")
-        val Code: PhosphorGlyph =
-            PhosphorGlyph("\uE1BC", PhosphorIconWeight.Duotone, "\uE1BC", "\uE1BC")
-        val CodeBlock: PhosphorGlyph =
-            PhosphorGlyph("\uEAFE", PhosphorIconWeight.Duotone, "\uEAFE", "\uEAFE")
-        val CodeSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE1BE", PhosphorIconWeight.Duotone, "\uE1BE", "\uE1BE")
-        val CodepenLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE978", PhosphorIconWeight.Duotone, "\uE978", "\uE978")
-        val CodesandboxLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEA06", PhosphorIconWeight.Duotone, "\uEA06", "\uEA06")
-        val Coffee: PhosphorGlyph =
-            PhosphorGlyph("\uE1C2", PhosphorIconWeight.Duotone, "\uE1C2", "\uE1C2")
-        val CoffeeBean: PhosphorGlyph =
-            PhosphorGlyph("\uE1C0", PhosphorIconWeight.Duotone, "\uE1C0", "\uE1C0")
-        val Coin: PhosphorGlyph =
-            PhosphorGlyph("\uE60E", PhosphorIconWeight.Duotone, "\uE60E", "\uE60E")
-        val CoinVertical: PhosphorGlyph =
-            PhosphorGlyph("\uEB48", PhosphorIconWeight.Duotone, "\uEB48", "\uEB48")
-        val Coins: PhosphorGlyph =
-            PhosphorGlyph("\uE78E", PhosphorIconWeight.Duotone, "\uE78E", "\uE78E")
-        val Columns: PhosphorGlyph =
-            PhosphorGlyph("\uE546", PhosphorIconWeight.Duotone, "\uE546", "\uE546")
-        val ColumnsPlusLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE544", PhosphorIconWeight.Duotone, "\uE544", "\uE544")
-        val ColumnsPlusRight: PhosphorGlyph =
-            PhosphorGlyph("\uE542", PhosphorIconWeight.Duotone, "\uE542", "\uE542")
-        val Command: PhosphorGlyph =
-            PhosphorGlyph("\uE1C4", PhosphorIconWeight.Duotone, "\uE1C4", "\uE1C4")
-        val Compass: PhosphorGlyph =
-            PhosphorGlyph("\uE1C8", PhosphorIconWeight.Duotone, "\uE1C8", "\uE1C8")
-        val CompassRose: PhosphorGlyph =
-            PhosphorGlyph("\uE1C6", PhosphorIconWeight.Duotone, "\uE1C6", "\uE1C6")
-        val CompassTool: PhosphorGlyph =
-            PhosphorGlyph("\uEA0E", PhosphorIconWeight.Duotone, "\uEA0E", "\uEA0E")
-        val ComputerTower: PhosphorGlyph =
-            PhosphorGlyph("\uE548", PhosphorIconWeight.Duotone, "\uE548", "\uE548")
-        val Confetti: PhosphorGlyph =
-            PhosphorGlyph("\uE81A", PhosphorIconWeight.Duotone, "\uE81A", "\uE81A")
-        val ContactlessPayment: PhosphorGlyph =
-            PhosphorGlyph("\uED42", PhosphorIconWeight.Duotone, "\uED42", "\uED42")
-        val Control: PhosphorGlyph =
-            PhosphorGlyph("\uECA6", PhosphorIconWeight.Duotone, "\uECA6", "\uECA6")
-        val Cookie: PhosphorGlyph =
-            PhosphorGlyph("\uE6CA", PhosphorIconWeight.Duotone, "\uE6CA", "\uE6CA")
-        val CookingPot: PhosphorGlyph =
-            PhosphorGlyph("\uE764", PhosphorIconWeight.Duotone, "\uE764", "\uE764")
-        val Copy: PhosphorGlyph =
-            PhosphorGlyph("\uE1CA", PhosphorIconWeight.Duotone, "\uE1CA", "\uE1CA")
-        val CopySimple: PhosphorGlyph =
-            PhosphorGlyph("\uE1CC", PhosphorIconWeight.Duotone, "\uE1CC", "\uE1CC")
-        val Copyleft: PhosphorGlyph =
-            PhosphorGlyph("\uE86A", PhosphorIconWeight.Duotone, "\uE86A", "\uE86A")
-        val Copyright: PhosphorGlyph =
-            PhosphorGlyph("\uE54A", PhosphorIconWeight.Duotone, "\uE54A", "\uE54A")
-        val CornersIn: PhosphorGlyph =
-            PhosphorGlyph("\uE1CE", PhosphorIconWeight.Duotone, "\uE1CE", "\uE1CE")
-        val CornersOut: PhosphorGlyph =
-            PhosphorGlyph("\uE1D0", PhosphorIconWeight.Duotone, "\uE1D0", "\uE1D0")
-        val Couch: PhosphorGlyph =
-            PhosphorGlyph("\uE7F6", PhosphorIconWeight.Duotone, "\uE7F6", "\uE7F6")
-        val CourtBasketball: PhosphorGlyph =
-            PhosphorGlyph("\uEE36", PhosphorIconWeight.Duotone, "\uEE36", "\uEE36")
-        val Cow: PhosphorGlyph =
-            PhosphorGlyph("\uEABE", PhosphorIconWeight.Duotone, "\uEABE", "\uEABE")
-        val CowboyHat: PhosphorGlyph =
-            PhosphorGlyph("\uED12", PhosphorIconWeight.Duotone, "\uED12", "\uED12")
-        val Cpu: PhosphorGlyph =
-            PhosphorGlyph("\uE610", PhosphorIconWeight.Duotone, "\uE610", "\uE610")
-        val Crane: PhosphorGlyph =
-            PhosphorGlyph("\uED48", PhosphorIconWeight.Duotone, "\uED48", "\uED48")
-        val CraneTower: PhosphorGlyph =
-            PhosphorGlyph("\uED49", PhosphorIconWeight.Duotone, "\uED49", "\uED49")
-        val CreditCard: PhosphorGlyph =
-            PhosphorGlyph("\uE1D2", PhosphorIconWeight.Duotone, "\uE1D2", "\uE1D2")
-        val Cricket: PhosphorGlyph =
-            PhosphorGlyph("\uEE12", PhosphorIconWeight.Duotone, "\uEE12", "\uEE12")
-        val Crop: PhosphorGlyph =
-            PhosphorGlyph("\uE1D4", PhosphorIconWeight.Duotone, "\uE1D4", "\uE1D4")
-        val Cross: PhosphorGlyph =
-            PhosphorGlyph("\uE8A0", PhosphorIconWeight.Duotone, "\uE8A0", "\uE8A0")
-        val Crosshair: PhosphorGlyph =
-            PhosphorGlyph("\uE1D6", PhosphorIconWeight.Duotone, "\uE1D6", "\uE1D6")
-        val CrosshairSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE1D8", PhosphorIconWeight.Duotone, "\uE1D8", "\uE1D8")
-        val Crown: PhosphorGlyph =
-            PhosphorGlyph("\uE614", PhosphorIconWeight.Duotone, "\uE614", "\uE614")
-        val CrownCross: PhosphorGlyph =
-            PhosphorGlyph("\uEE5E", PhosphorIconWeight.Duotone, "\uEE5E", "\uEE5E")
-        val CrownSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE616", PhosphorIconWeight.Duotone, "\uE616", "\uE616")
-        val Cube: PhosphorGlyph =
-            PhosphorGlyph("\uE1DA", PhosphorIconWeight.Duotone, "\uE1DA", "\uE1DA")
-        val CubeFocus: PhosphorGlyph =
-            PhosphorGlyph("\uED0A", PhosphorIconWeight.Duotone, "\uED0A", "\uED0A")
-        val CubeTransparent: PhosphorGlyph =
-            PhosphorGlyph("\uEC7C", PhosphorIconWeight.Duotone, "\uEC7C", "\uEC7C")
-        val CurrencyBtc: PhosphorGlyph =
-            PhosphorGlyph("\uE618", PhosphorIconWeight.Duotone, "\uE618", "\uE618")
-        val CurrencyCircleDollar: PhosphorGlyph =
-            PhosphorGlyph("\uE54C", PhosphorIconWeight.Duotone, "\uE54C", "\uE54C")
-        val CurrencyCny: PhosphorGlyph =
-            PhosphorGlyph("\uE54E", PhosphorIconWeight.Duotone, "\uE54E", "\uE54E")
-        val CurrencyDollar: PhosphorGlyph =
-            PhosphorGlyph("\uE550", PhosphorIconWeight.Duotone, "\uE550", "\uE550")
-        val CurrencyDollarSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE552", PhosphorIconWeight.Duotone, "\uE552", "\uE552")
-        val CurrencyEth: PhosphorGlyph =
-            PhosphorGlyph("\uEADA", PhosphorIconWeight.Duotone, "\uEADA", "\uEADA")
-        val CurrencyEur: PhosphorGlyph =
-            PhosphorGlyph("\uE554", PhosphorIconWeight.Duotone, "\uE554", "\uE554")
-        val CurrencyGbp: PhosphorGlyph =
-            PhosphorGlyph("\uE556", PhosphorIconWeight.Duotone, "\uE556", "\uE556")
-        val CurrencyInr: PhosphorGlyph =
-            PhosphorGlyph("\uE558", PhosphorIconWeight.Duotone, "\uE558", "\uE558")
-        val CurrencyJpy: PhosphorGlyph =
-            PhosphorGlyph("\uE55A", PhosphorIconWeight.Duotone, "\uE55A", "\uE55A")
-        val CurrencyKrw: PhosphorGlyph =
-            PhosphorGlyph("\uE55C", PhosphorIconWeight.Duotone, "\uE55C", "\uE55C")
-        val CurrencyKzt: PhosphorGlyph =
-            PhosphorGlyph("\uEC4C", PhosphorIconWeight.Duotone, "\uEC4C", "\uEC4C")
-        val CurrencyNgn: PhosphorGlyph =
-            PhosphorGlyph("\uEB52", PhosphorIconWeight.Duotone, "\uEB52", "\uEB52")
-        val CurrencyRub: PhosphorGlyph =
-            PhosphorGlyph("\uE55E", PhosphorIconWeight.Duotone, "\uE55E", "\uE55E")
-        val Cursor: PhosphorGlyph =
-            PhosphorGlyph("\uE1DC", PhosphorIconWeight.Duotone, "\uE1DC", "\uE1DC")
-        val CursorClick: PhosphorGlyph =
-            PhosphorGlyph("\uE7C8", PhosphorIconWeight.Duotone, "\uE7C8", "\uE7C8")
-        val CursorText: PhosphorGlyph =
-            PhosphorGlyph("\uE7D8", PhosphorIconWeight.Duotone, "\uE7D8", "\uE7D8")
-        val Cylinder: PhosphorGlyph =
-            PhosphorGlyph("\uE8FC", PhosphorIconWeight.Duotone, "\uE8FC", "\uE8FC")
-        val Database: PhosphorGlyph =
-            PhosphorGlyph("\uE1DE", PhosphorIconWeight.Duotone, "\uE1DE", "\uE1DE")
-        val Desk: PhosphorGlyph =
-            PhosphorGlyph("\uED16", PhosphorIconWeight.Duotone, "\uED16", "\uED16")
-        val Desktop: PhosphorGlyph =
-            PhosphorGlyph("\uE560", PhosphorIconWeight.Duotone, "\uE560", "\uE560")
-        val DesktopTower: PhosphorGlyph =
-            PhosphorGlyph("\uE562", PhosphorIconWeight.Duotone, "\uE562", "\uE562")
-        val Detective: PhosphorGlyph =
-            PhosphorGlyph("\uE83E", PhosphorIconWeight.Duotone, "\uE83E", "\uE83E")
-        val DevToLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED0E", PhosphorIconWeight.Duotone, "\uED0E", "\uED0E")
-        val DeviceMobile: PhosphorGlyph =
-            PhosphorGlyph("\uE1E0", PhosphorIconWeight.Duotone, "\uE1E0", "\uE1E0")
-        val DeviceMobileCamera: PhosphorGlyph =
-            PhosphorGlyph("\uE1E2", PhosphorIconWeight.Duotone, "\uE1E2", "\uE1E2")
-        val DeviceMobileSlash: PhosphorGlyph =
-            PhosphorGlyph("\uEE46", PhosphorIconWeight.Duotone, "\uEE46", "\uEE46")
-        val DeviceMobileSpeaker: PhosphorGlyph =
-            PhosphorGlyph("\uE1E4", PhosphorIconWeight.Duotone, "\uE1E4", "\uE1E4")
-        val DeviceRotate: PhosphorGlyph =
-            PhosphorGlyph("\uEDF2", PhosphorIconWeight.Duotone, "\uEDF2", "\uEDF2")
-        val DeviceTablet: PhosphorGlyph =
-            PhosphorGlyph("\uE1E6", PhosphorIconWeight.Duotone, "\uE1E6", "\uE1E6")
-        val DeviceTabletCamera: PhosphorGlyph =
-            PhosphorGlyph("\uE1E8", PhosphorIconWeight.Duotone, "\uE1E8", "\uE1E8")
-        val DeviceTabletSpeaker: PhosphorGlyph =
-            PhosphorGlyph("\uE1EA", PhosphorIconWeight.Duotone, "\uE1EA", "\uE1EA")
-        val Devices: PhosphorGlyph =
-            PhosphorGlyph("\uEBA4", PhosphorIconWeight.Duotone, "\uEBA4", "\uEBA4")
-        val Diamond: PhosphorGlyph =
-            PhosphorGlyph("\uE1EC", PhosphorIconWeight.Duotone, "\uE1EC", "\uE1EC")
-        val DiamondsFour: PhosphorGlyph =
-            PhosphorGlyph("\uE8F4", PhosphorIconWeight.Duotone, "\uE8F4", "\uE8F4")
-        val DiceFive: PhosphorGlyph =
-            PhosphorGlyph("\uE1EE", PhosphorIconWeight.Duotone, "\uE1EE", "\uE1EE")
-        val DiceFour: PhosphorGlyph =
-            PhosphorGlyph("\uE1F0", PhosphorIconWeight.Duotone, "\uE1F0", "\uE1F0")
-        val DiceOne: PhosphorGlyph =
-            PhosphorGlyph("\uE1F2", PhosphorIconWeight.Duotone, "\uE1F2", "\uE1F2")
-        val DiceSix: PhosphorGlyph =
-            PhosphorGlyph("\uE1F4", PhosphorIconWeight.Duotone, "\uE1F4", "\uE1F4")
-        val DiceThree: PhosphorGlyph =
-            PhosphorGlyph("\uE1F6", PhosphorIconWeight.Duotone, "\uE1F6", "\uE1F6")
-        val DiceTwo: PhosphorGlyph =
-            PhosphorGlyph("\uE1F8", PhosphorIconWeight.Duotone, "\uE1F8", "\uE1F8")
-        val Disc: PhosphorGlyph =
-            PhosphorGlyph("\uE564", PhosphorIconWeight.Duotone, "\uE564", "\uE564")
-        val DiscoBall: PhosphorGlyph =
-            PhosphorGlyph("\uED98", PhosphorIconWeight.Duotone, "\uED98", "\uED98")
-        val DiscordLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE61A", PhosphorIconWeight.Duotone, "\uE61A", "\uE61A")
-        val Divide: PhosphorGlyph =
-            PhosphorGlyph("\uE1FA", PhosphorIconWeight.Duotone, "\uE1FA", "\uE1FA")
-        val Dna: PhosphorGlyph =
-            PhosphorGlyph("\uE924", PhosphorIconWeight.Duotone, "\uE924", "\uE924")
-        val Dog: PhosphorGlyph =
-            PhosphorGlyph("\uE74A", PhosphorIconWeight.Duotone, "\uE74A", "\uE74A")
-        val Door: PhosphorGlyph =
-            PhosphorGlyph("\uE61C", PhosphorIconWeight.Duotone, "\uE61C", "\uE61C")
-        val DoorOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE7E6", PhosphorIconWeight.Duotone, "\uE7E6", "\uE7E6")
-        val Dot: PhosphorGlyph =
-            PhosphorGlyph("\uECDE", PhosphorIconWeight.Duotone, "\uECDE", "\uECDE")
-        val DotOutline: PhosphorGlyph =
-            PhosphorGlyph("\uECE0", PhosphorIconWeight.Duotone, "\uECE0", "\uECE0")
-        val DotsNine: PhosphorGlyph =
-            PhosphorGlyph("\uE1FC", PhosphorIconWeight.Duotone, "\uE1FC", "\uE1FC")
-        val DotsSix: PhosphorGlyph =
-            PhosphorGlyph("\uE794", PhosphorIconWeight.Duotone, "\uE794", "\uE794")
-        val DotsSixVertical: PhosphorGlyph =
-            PhosphorGlyph("\uEAE2", PhosphorIconWeight.Duotone, "\uEAE2", "\uEAE2")
-        val DotsThree: PhosphorGlyph =
-            PhosphorGlyph("\uE1FE", PhosphorIconWeight.Duotone, "\uE1FE", "\uE1FE")
-        val DotsThreeCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE200", PhosphorIconWeight.Duotone, "\uE200", "\uE200")
-        val DotsThreeCircleVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE202", PhosphorIconWeight.Duotone, "\uE202", "\uE202")
-        val DotsThreeOutline: PhosphorGlyph =
-            PhosphorGlyph("\uE204", PhosphorIconWeight.Duotone, "\uE204", "\uE204")
-        val DotsThreeOutlineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE206", PhosphorIconWeight.Duotone, "\uE206", "\uE206")
-        val DotsThreeVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE208", PhosphorIconWeight.Duotone, "\uE208", "\uE208")
-        val Download: PhosphorGlyph =
-            PhosphorGlyph("\uE20A", PhosphorIconWeight.Duotone, "\uE20A", "\uE20A")
-        val DownloadSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE20C", PhosphorIconWeight.Duotone, "\uE20C", "\uE20C")
-        val Dress: PhosphorGlyph =
-            PhosphorGlyph("\uEA7E", PhosphorIconWeight.Duotone, "\uEA7E", "\uEA7E")
-        val Dresser: PhosphorGlyph =
-            PhosphorGlyph("\uE94E", PhosphorIconWeight.Duotone, "\uE94E", "\uE94E")
-        val DribbbleLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE20E", PhosphorIconWeight.Duotone, "\uE20E", "\uE20E")
-        val Drone: PhosphorGlyph =
-            PhosphorGlyph("\uED74", PhosphorIconWeight.Duotone, "\uED74", "\uED74")
-        val Drop: PhosphorGlyph =
-            PhosphorGlyph("\uE210", PhosphorIconWeight.Duotone, "\uE210", "\uE210")
-        val DropHalf: PhosphorGlyph =
-            PhosphorGlyph("\uE566", PhosphorIconWeight.Duotone, "\uE566", "\uE566")
-        val DropHalfBottom: PhosphorGlyph =
-            PhosphorGlyph("\uEB40", PhosphorIconWeight.Duotone, "\uEB40", "\uEB40")
-        val DropSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEE32", PhosphorIconWeight.Duotone, "\uEE32", "\uEE32")
-        val DropSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE954", PhosphorIconWeight.Duotone, "\uE954", "\uE954")
-        val DropboxLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE7D0", PhosphorIconWeight.Duotone, "\uE7D0", "\uE7D0")
-        val Ear: PhosphorGlyph =
-            PhosphorGlyph("\uE70C", PhosphorIconWeight.Duotone, "\uE70C", "\uE70C")
-        val EarSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE70E", PhosphorIconWeight.Duotone, "\uE70E", "\uE70E")
-        val Egg: PhosphorGlyph =
-            PhosphorGlyph("\uE812", PhosphorIconWeight.Duotone, "\uE812", "\uE812")
-        val EggCrack: PhosphorGlyph =
-            PhosphorGlyph("\uEB64", PhosphorIconWeight.Duotone, "\uEB64", "\uEB64")
-        val Eject: PhosphorGlyph =
-            PhosphorGlyph("\uE212", PhosphorIconWeight.Duotone, "\uE212", "\uE212")
-        val EjectSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE6AE", PhosphorIconWeight.Duotone, "\uE6AE", "\uE6AE")
-        val Elevator: PhosphorGlyph =
-            PhosphorGlyph("\uECC0", PhosphorIconWeight.Duotone, "\uECC0", "\uECC0")
-        val Empty: PhosphorGlyph =
-            PhosphorGlyph("\uEDBC", PhosphorIconWeight.Duotone, "\uEDBC", "\uEDBC")
-        val Engine: PhosphorGlyph =
-            PhosphorGlyph("\uEA80", PhosphorIconWeight.Duotone, "\uEA80", "\uEA80")
-        val Envelope: PhosphorGlyph =
-            PhosphorGlyph("\uE214", PhosphorIconWeight.Duotone, "\uE214", "\uE214")
-        val EnvelopeOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE216", PhosphorIconWeight.Duotone, "\uE216", "\uE216")
-        val EnvelopeSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE218", PhosphorIconWeight.Duotone, "\uE218", "\uE218")
-        val EnvelopeSimpleOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE21A", PhosphorIconWeight.Duotone, "\uE21A", "\uE21A")
-        val Equalizer: PhosphorGlyph =
-            PhosphorGlyph("\uEBBC", PhosphorIconWeight.Duotone, "\uEBBC", "\uEBBC")
-        val Equals: PhosphorGlyph =
-            PhosphorGlyph("\uE21C", PhosphorIconWeight.Duotone, "\uE21C", "\uE21C")
-        val Eraser: PhosphorGlyph =
-            PhosphorGlyph("\uE21E", PhosphorIconWeight.Duotone, "\uE21E", "\uE21E")
-        val EscalatorDown: PhosphorGlyph =
-            PhosphorGlyph("\uECBA", PhosphorIconWeight.Duotone, "\uECBA", "\uECBA")
-        val EscalatorUp: PhosphorGlyph =
-            PhosphorGlyph("\uECBC", PhosphorIconWeight.Duotone, "\uECBC", "\uECBC")
-        val Exam: PhosphorGlyph =
-            PhosphorGlyph("\uE742", PhosphorIconWeight.Duotone, "\uE742", "\uE742")
-        val ExclamationMark: PhosphorGlyph =
-            PhosphorGlyph("\uEE44", PhosphorIconWeight.Duotone, "\uEE44", "\uEE44")
-        val Exclude: PhosphorGlyph =
-            PhosphorGlyph("\uE882", PhosphorIconWeight.Duotone, "\uE882", "\uE882")
-        val ExcludeSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE880", PhosphorIconWeight.Duotone, "\uE880", "\uE880")
-        val Export: PhosphorGlyph =
-            PhosphorGlyph("\uEAF0", PhosphorIconWeight.Duotone, "\uEAF0", "\uEAF0")
-        val Eye: PhosphorGlyph =
-            PhosphorGlyph("\uE220", PhosphorIconWeight.Duotone, "\uE220", "\uE220")
-        val EyeClosed: PhosphorGlyph =
-            PhosphorGlyph("\uE222", PhosphorIconWeight.Duotone, "\uE222", "\uE222")
-        val EyeSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE224", PhosphorIconWeight.Duotone, "\uE224", "\uE224")
-        val Eyedropper: PhosphorGlyph =
-            PhosphorGlyph("\uE568", PhosphorIconWeight.Duotone, "\uE568", "\uE568")
-        val EyedropperSample: PhosphorGlyph =
-            PhosphorGlyph("\uEAC4", PhosphorIconWeight.Duotone, "\uEAC4", "\uEAC4")
-        val Eyeglasses: PhosphorGlyph =
-            PhosphorGlyph("\uE7BA", PhosphorIconWeight.Duotone, "\uE7BA", "\uE7BA")
-        val Eyes: PhosphorGlyph =
-            PhosphorGlyph("\uEE5C", PhosphorIconWeight.Duotone, "\uEE5C", "\uEE5C")
-        val FaceMask: PhosphorGlyph =
-            PhosphorGlyph("\uE56A", PhosphorIconWeight.Duotone, "\uE56A", "\uE56A")
-        val FacebookLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE226", PhosphorIconWeight.Duotone, "\uE226", "\uE226")
-        val Factory: PhosphorGlyph =
-            PhosphorGlyph("\uE760", PhosphorIconWeight.Duotone, "\uE760", "\uE760")
-        val Faders: PhosphorGlyph =
-            PhosphorGlyph("\uE228", PhosphorIconWeight.Duotone, "\uE228", "\uE228")
-        val FadersHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE22A", PhosphorIconWeight.Duotone, "\uE22A", "\uE22A")
-        val FalloutShelter: PhosphorGlyph =
-            PhosphorGlyph("\uE9DE", PhosphorIconWeight.Duotone, "\uE9DE", "\uE9DE")
-        val Fan: PhosphorGlyph =
-            PhosphorGlyph("\uE9F2", PhosphorIconWeight.Duotone, "\uE9F2", "\uE9F2")
-        val Farm: PhosphorGlyph =
-            PhosphorGlyph("\uEC70", PhosphorIconWeight.Duotone, "\uEC70", "\uEC70")
-        val FastForward: PhosphorGlyph =
-            PhosphorGlyph("\uE6A6", PhosphorIconWeight.Duotone, "\uE6A6", "\uE6A6")
-        val FastForwardCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE22C", PhosphorIconWeight.Duotone, "\uE22C", "\uE22C")
-        val Feather: PhosphorGlyph =
-            PhosphorGlyph("\uE9C0", PhosphorIconWeight.Duotone, "\uE9C0", "\uE9C0")
-        val FediverseLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED66", PhosphorIconWeight.Duotone, "\uED66", "\uED66")
-        val FigmaLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE22E", PhosphorIconWeight.Duotone, "\uE22E", "\uE22E")
-        val File: PhosphorGlyph =
-            PhosphorGlyph("\uE230", PhosphorIconWeight.Duotone, "\uE230", "\uE230")
-        val FileArchive: PhosphorGlyph =
-            PhosphorGlyph("\uEB2A", PhosphorIconWeight.Duotone, "\uEB2A", "\uEB2A")
-        val FileArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uE232", PhosphorIconWeight.Duotone, "\uE232", "\uE232")
-        val FileArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uE61E", PhosphorIconWeight.Duotone, "\uE61E", "\uE61E")
-        val FileAudio: PhosphorGlyph =
-            PhosphorGlyph("\uEA20", PhosphorIconWeight.Duotone, "\uEA20", "\uEA20")
-        val FileC: PhosphorGlyph =
-            PhosphorGlyph("\uEB32", PhosphorIconWeight.Duotone, "\uEB32", "\uEB32")
-        val FileCSharp: PhosphorGlyph =
-            PhosphorGlyph("\uEB30", PhosphorIconWeight.Duotone, "\uEB30", "\uEB30")
-        val FileCloud: PhosphorGlyph =
-            PhosphorGlyph("\uE95E", PhosphorIconWeight.Duotone, "\uE95E", "\uE95E")
-        val FileCode: PhosphorGlyph =
-            PhosphorGlyph("\uE914", PhosphorIconWeight.Duotone, "\uE914", "\uE914")
-        val FileCpp: PhosphorGlyph =
-            PhosphorGlyph("\uEB2E", PhosphorIconWeight.Duotone, "\uEB2E", "\uEB2E")
-        val FileCss: PhosphorGlyph =
-            PhosphorGlyph("\uEB34", PhosphorIconWeight.Duotone, "\uEB34", "\uEB34")
-        val FileCsv: PhosphorGlyph =
-            PhosphorGlyph("\uEB1C", PhosphorIconWeight.Duotone, "\uEB1C", "\uEB1C")
-        val FileDashed: PhosphorGlyph =
-            PhosphorGlyph("\uE704", PhosphorIconWeight.Duotone, "\uE704", "\uE704")
-        val FileDoc: PhosphorGlyph =
-            PhosphorGlyph("\uEB1E", PhosphorIconWeight.Duotone, "\uEB1E", "\uEB1E")
-        val FileHtml: PhosphorGlyph =
-            PhosphorGlyph("\uEB38", PhosphorIconWeight.Duotone, "\uEB38", "\uEB38")
-        val FileImage: PhosphorGlyph =
-            PhosphorGlyph("\uEA24", PhosphorIconWeight.Duotone, "\uEA24", "\uEA24")
-        val FileIni: PhosphorGlyph =
-            PhosphorGlyph("\uEB33", PhosphorIconWeight.Duotone, "\uEB33", "\uEB33")
-        val FileJpg: PhosphorGlyph =
-            PhosphorGlyph("\uEB1A", PhosphorIconWeight.Duotone, "\uEB1A", "\uEB1A")
-        val FileJs: PhosphorGlyph =
-            PhosphorGlyph("\uEB24", PhosphorIconWeight.Duotone, "\uEB24", "\uEB24")
-        val FileJsx: PhosphorGlyph =
-            PhosphorGlyph("\uEB3A", PhosphorIconWeight.Duotone, "\uEB3A", "\uEB3A")
-        val FileLock: PhosphorGlyph =
-            PhosphorGlyph("\uE95C", PhosphorIconWeight.Duotone, "\uE95C", "\uE95C")
-        val FileMagnifyingGlass: PhosphorGlyph =
-            PhosphorGlyph("\uE238", PhosphorIconWeight.Duotone, "\uE238", "\uE238")
-        val FileMd: PhosphorGlyph =
-            PhosphorGlyph("\uED50", PhosphorIconWeight.Duotone, "\uED50", "\uED50")
-        val FileMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE234", PhosphorIconWeight.Duotone, "\uE234", "\uE234")
-        val FilePdf: PhosphorGlyph =
-            PhosphorGlyph("\uE702", PhosphorIconWeight.Duotone, "\uE702", "\uE702")
-        val FilePlus: PhosphorGlyph =
-            PhosphorGlyph("\uE236", PhosphorIconWeight.Duotone, "\uE236", "\uE236")
-        val FilePng: PhosphorGlyph =
-            PhosphorGlyph("\uEB18", PhosphorIconWeight.Duotone, "\uEB18", "\uEB18")
-        val FilePpt: PhosphorGlyph =
-            PhosphorGlyph("\uEB20", PhosphorIconWeight.Duotone, "\uEB20", "\uEB20")
-        val FilePy: PhosphorGlyph =
-            PhosphorGlyph("\uEB2C", PhosphorIconWeight.Duotone, "\uEB2C", "\uEB2C")
-        val FileRs: PhosphorGlyph =
-            PhosphorGlyph("\uEB28", PhosphorIconWeight.Duotone, "\uEB28", "\uEB28")
-        val FileSql: PhosphorGlyph =
-            PhosphorGlyph("\uED4E", PhosphorIconWeight.Duotone, "\uED4E", "\uED4E")
-        val FileSvg: PhosphorGlyph =
-            PhosphorGlyph("\uED08", PhosphorIconWeight.Duotone, "\uED08", "\uED08")
-        val FileText: PhosphorGlyph =
-            PhosphorGlyph("\uE23A", PhosphorIconWeight.Duotone, "\uE23A", "\uE23A")
-        val FileTs: PhosphorGlyph =
-            PhosphorGlyph("\uEB26", PhosphorIconWeight.Duotone, "\uEB26", "\uEB26")
-        val FileTsx: PhosphorGlyph =
-            PhosphorGlyph("\uEB3C", PhosphorIconWeight.Duotone, "\uEB3C", "\uEB3C")
-        val FileTxt: PhosphorGlyph =
-            PhosphorGlyph("\uEB35", PhosphorIconWeight.Duotone, "\uEB35", "\uEB35")
-        val FileVideo: PhosphorGlyph =
-            PhosphorGlyph("\uEA22", PhosphorIconWeight.Duotone, "\uEA22", "\uEA22")
-        val FileVue: PhosphorGlyph =
-            PhosphorGlyph("\uEB3E", PhosphorIconWeight.Duotone, "\uEB3E", "\uEB3E")
-        val FileX: PhosphorGlyph =
-            PhosphorGlyph("\uE23C", PhosphorIconWeight.Duotone, "\uE23C", "\uE23C")
-        val FileXls: PhosphorGlyph =
-            PhosphorGlyph("\uEB22", PhosphorIconWeight.Duotone, "\uEB22", "\uEB22")
-        val FileZip: PhosphorGlyph =
-            PhosphorGlyph("\uE958", PhosphorIconWeight.Duotone, "\uE958", "\uE958")
-        val Files: PhosphorGlyph =
-            PhosphorGlyph("\uE710", PhosphorIconWeight.Duotone, "\uE710", "\uE710")
-        val FilmReel: PhosphorGlyph =
-            PhosphorGlyph("\uE8C0", PhosphorIconWeight.Duotone, "\uE8C0", "\uE8C0")
-        val FilmScript: PhosphorGlyph =
-            PhosphorGlyph("\uEB50", PhosphorIconWeight.Duotone, "\uEB50", "\uEB50")
-        val FilmSlate: PhosphorGlyph =
-            PhosphorGlyph("\uE8C2", PhosphorIconWeight.Duotone, "\uE8C2", "\uE8C2")
-        val FilmStrip: PhosphorGlyph =
-            PhosphorGlyph("\uE792", PhosphorIconWeight.Duotone, "\uE792", "\uE792")
-        val Fingerprint: PhosphorGlyph =
-            PhosphorGlyph("\uE23E", PhosphorIconWeight.Duotone, "\uE23E", "\uE23E")
-        val FingerprintSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE240", PhosphorIconWeight.Duotone, "\uE240", "\uE240")
-        val FinnTheHuman: PhosphorGlyph =
-            PhosphorGlyph("\uE56C", PhosphorIconWeight.Duotone, "\uE56C", "\uE56C")
-        val Fire: PhosphorGlyph =
-            PhosphorGlyph("\uE242", PhosphorIconWeight.Duotone, "\uE242", "\uE242")
-        val FireExtinguisher: PhosphorGlyph =
-            PhosphorGlyph("\uE9E8", PhosphorIconWeight.Duotone, "\uE9E8", "\uE9E8")
-        val FireSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE620", PhosphorIconWeight.Duotone, "\uE620", "\uE620")
-        val FireTruck: PhosphorGlyph =
-            PhosphorGlyph("\uE574", PhosphorIconWeight.Duotone, "\uE574", "\uE574")
-        val FirstAid: PhosphorGlyph =
-            PhosphorGlyph("\uE56E", PhosphorIconWeight.Duotone, "\uE56E", "\uE56E")
-        val FirstAidKit: PhosphorGlyph =
-            PhosphorGlyph("\uE570", PhosphorIconWeight.Duotone, "\uE570", "\uE570")
-        val Fish: PhosphorGlyph =
-            PhosphorGlyph("\uE728", PhosphorIconWeight.Duotone, "\uE728", "\uE728")
-        val FishSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE72A", PhosphorIconWeight.Duotone, "\uE72A", "\uE72A")
-        val Flag: PhosphorGlyph =
-            PhosphorGlyph("\uE244", PhosphorIconWeight.Duotone, "\uE244", "\uE244")
-        val FlagBanner: PhosphorGlyph =
-            PhosphorGlyph("\uE622", PhosphorIconWeight.Duotone, "\uE622", "\uE622")
-        val FlagBannerFold: PhosphorGlyph =
-            PhosphorGlyph("\uECF2", PhosphorIconWeight.Duotone, "\uECF2", "\uECF2")
-        val FlagCheckered: PhosphorGlyph =
-            PhosphorGlyph("\uEA38", PhosphorIconWeight.Duotone, "\uEA38", "\uEA38")
-        val FlagPennant: PhosphorGlyph =
-            PhosphorGlyph("\uECF0", PhosphorIconWeight.Duotone, "\uECF0", "\uECF0")
-        val Flame: PhosphorGlyph =
-            PhosphorGlyph("\uE624", PhosphorIconWeight.Duotone, "\uE624", "\uE624")
-        val Flashlight: PhosphorGlyph =
-            PhosphorGlyph("\uE246", PhosphorIconWeight.Duotone, "\uE246", "\uE246")
-        val Flask: PhosphorGlyph =
-            PhosphorGlyph("\uE79E", PhosphorIconWeight.Duotone, "\uE79E", "\uE79E")
-        val FlipHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uED6A", PhosphorIconWeight.Duotone, "\uED6A", "\uED6A")
-        val FlipVertical: PhosphorGlyph =
-            PhosphorGlyph("\uED6C", PhosphorIconWeight.Duotone, "\uED6C", "\uED6C")
-        val FloppyDisk: PhosphorGlyph =
-            PhosphorGlyph("\uE248", PhosphorIconWeight.Duotone, "\uE248", "\uE248")
-        val FloppyDiskBack: PhosphorGlyph =
-            PhosphorGlyph("\uEAF4", PhosphorIconWeight.Duotone, "\uEAF4", "\uEAF4")
-        val FlowArrow: PhosphorGlyph =
-            PhosphorGlyph("\uE6EC", PhosphorIconWeight.Duotone, "\uE6EC", "\uE6EC")
-        val Flower: PhosphorGlyph =
-            PhosphorGlyph("\uE75E", PhosphorIconWeight.Duotone, "\uE75E", "\uE75E")
-        val FlowerLotus: PhosphorGlyph =
-            PhosphorGlyph("\uE6CC", PhosphorIconWeight.Duotone, "\uE6CC", "\uE6CC")
-        val FlowerTulip: PhosphorGlyph =
-            PhosphorGlyph("\uEACC", PhosphorIconWeight.Duotone, "\uEACC", "\uEACC")
-        val FlyingSaucer: PhosphorGlyph =
-            PhosphorGlyph("\uEB4A", PhosphorIconWeight.Duotone, "\uEB4A", "\uEB4A")
-        val Folder: PhosphorGlyph =
-            PhosphorGlyph("\uE24A", PhosphorIconWeight.Duotone, "\uE24A", "\uE24A")
-        val FolderDashed: PhosphorGlyph =
-            PhosphorGlyph("\uE8F8", PhosphorIconWeight.Duotone, "\uE8F8", "\uE8F8")
-        val FolderLock: PhosphorGlyph =
-            PhosphorGlyph("\uEA3C", PhosphorIconWeight.Duotone, "\uEA3C", "\uEA3C")
-        val FolderMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE254", PhosphorIconWeight.Duotone, "\uE254", "\uE254")
-        val FolderOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE256", PhosphorIconWeight.Duotone, "\uE256", "\uE256")
-        val FolderPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE258", PhosphorIconWeight.Duotone, "\uE258", "\uE258")
-        val FolderSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE25A", PhosphorIconWeight.Duotone, "\uE25A", "\uE25A")
-        val FolderSimpleDashed: PhosphorGlyph =
-            PhosphorGlyph("\uEC2A", PhosphorIconWeight.Duotone, "\uEC2A", "\uEC2A")
-        val FolderSimpleLock: PhosphorGlyph =
-            PhosphorGlyph("\uEB5E", PhosphorIconWeight.Duotone, "\uEB5E", "\uEB5E")
-        val FolderSimpleMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE25C", PhosphorIconWeight.Duotone, "\uE25C", "\uE25C")
-        val FolderSimplePlus: PhosphorGlyph =
-            PhosphorGlyph("\uE25E", PhosphorIconWeight.Duotone, "\uE25E", "\uE25E")
-        val FolderSimpleStar: PhosphorGlyph =
-            PhosphorGlyph("\uEC2E", PhosphorIconWeight.Duotone, "\uEC2E", "\uEC2E")
-        val FolderSimpleUser: PhosphorGlyph =
-            PhosphorGlyph("\uEB60", PhosphorIconWeight.Duotone, "\uEB60", "\uEB60")
-        val FolderStar: PhosphorGlyph =
-            PhosphorGlyph("\uEA86", PhosphorIconWeight.Duotone, "\uEA86", "\uEA86")
-        val FolderUser: PhosphorGlyph =
-            PhosphorGlyph("\uEB46", PhosphorIconWeight.Duotone, "\uEB46", "\uEB46")
-        val Folders: PhosphorGlyph =
-            PhosphorGlyph("\uE260", PhosphorIconWeight.Duotone, "\uE260", "\uE260")
-        val Football: PhosphorGlyph =
-            PhosphorGlyph("\uE718", PhosphorIconWeight.Duotone, "\uE718", "\uE718")
-        val FootballHelmet: PhosphorGlyph =
-            PhosphorGlyph("\uEE4C", PhosphorIconWeight.Duotone, "\uEE4C", "\uEE4C")
-        val Footprints: PhosphorGlyph =
-            PhosphorGlyph("\uEA88", PhosphorIconWeight.Duotone, "\uEA88", "\uEA88")
-        val ForkKnife: PhosphorGlyph =
-            PhosphorGlyph("\uE262", PhosphorIconWeight.Duotone, "\uE262", "\uE262")
-        val FourK: PhosphorGlyph =
-            PhosphorGlyph("\uEA5C", PhosphorIconWeight.Duotone, "\uEA5C", "\uEA5C")
-        val FrameCorners: PhosphorGlyph =
-            PhosphorGlyph("\uE626", PhosphorIconWeight.Duotone, "\uE626", "\uE626")
-        val FramerLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE264", PhosphorIconWeight.Duotone, "\uE264", "\uE264")
-        val Function: PhosphorGlyph =
-            PhosphorGlyph("\uEBE4", PhosphorIconWeight.Duotone, "\uEBE4", "\uEBE4")
-        val Funnel: PhosphorGlyph =
-            PhosphorGlyph("\uE266", PhosphorIconWeight.Duotone, "\uE266", "\uE266")
-        val FunnelSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE268", PhosphorIconWeight.Duotone, "\uE268", "\uE268")
-        val FunnelSimpleX: PhosphorGlyph =
-            PhosphorGlyph("\uE26A", PhosphorIconWeight.Duotone, "\uE26A", "\uE26A")
-        val FunnelX: PhosphorGlyph =
-            PhosphorGlyph("\uE26C", PhosphorIconWeight.Duotone, "\uE26C", "\uE26C")
-        val GameController: PhosphorGlyph =
-            PhosphorGlyph("\uE26E", PhosphorIconWeight.Duotone, "\uE26E", "\uE26E")
-        val Garage: PhosphorGlyph =
-            PhosphorGlyph("\uECD6", PhosphorIconWeight.Duotone, "\uECD6", "\uECD6")
-        val GasCan: PhosphorGlyph =
-            PhosphorGlyph("\uE8CE", PhosphorIconWeight.Duotone, "\uE8CE", "\uE8CE")
-        val GasPump: PhosphorGlyph =
-            PhosphorGlyph("\uE768", PhosphorIconWeight.Duotone, "\uE768", "\uE768")
-        val Gauge: PhosphorGlyph =
-            PhosphorGlyph("\uE628", PhosphorIconWeight.Duotone, "\uE628", "\uE628")
-        val Gavel: PhosphorGlyph =
-            PhosphorGlyph("\uEA32", PhosphorIconWeight.Duotone, "\uEA32", "\uEA32")
-        val Gear: PhosphorGlyph =
-            PhosphorGlyph("\uE270", PhosphorIconWeight.Duotone, "\uE270", "\uE270")
-        val GearFine: PhosphorGlyph =
-            PhosphorGlyph("\uE87C", PhosphorIconWeight.Duotone, "\uE87C", "\uE87C")
-        val GearSix: PhosphorGlyph =
-            PhosphorGlyph("\uE272", PhosphorIconWeight.Duotone, "\uE272", "\uE272")
-        val GenderFemale: PhosphorGlyph =
-            PhosphorGlyph("\uE6E0", PhosphorIconWeight.Duotone, "\uE6E0", "\uE6E0")
-        val GenderIntersex: PhosphorGlyph =
-            PhosphorGlyph("\uE6E6", PhosphorIconWeight.Duotone, "\uE6E6", "\uE6E6")
-        val GenderMale: PhosphorGlyph =
-            PhosphorGlyph("\uE6E2", PhosphorIconWeight.Duotone, "\uE6E2", "\uE6E2")
-        val GenderNeuter: PhosphorGlyph =
-            PhosphorGlyph("\uE6EA", PhosphorIconWeight.Duotone, "\uE6EA", "\uE6EA")
-        val GenderNonbinary: PhosphorGlyph =
-            PhosphorGlyph("\uE6E4", PhosphorIconWeight.Duotone, "\uE6E4", "\uE6E4")
-        val GenderTransgender: PhosphorGlyph =
-            PhosphorGlyph("\uE6E8", PhosphorIconWeight.Duotone, "\uE6E8", "\uE6E8")
-        val Ghost: PhosphorGlyph =
-            PhosphorGlyph("\uE62A", PhosphorIconWeight.Duotone, "\uE62A", "\uE62A")
-        val Gif: PhosphorGlyph =
-            PhosphorGlyph("\uE274", PhosphorIconWeight.Duotone, "\uE274", "\uE274")
-        val Gift: PhosphorGlyph =
-            PhosphorGlyph("\uE276", PhosphorIconWeight.Duotone, "\uE276", "\uE276")
-        val GitBranch: PhosphorGlyph =
-            PhosphorGlyph("\uE278", PhosphorIconWeight.Duotone, "\uE278", "\uE278")
-        val GitCommit: PhosphorGlyph =
-            PhosphorGlyph("\uE27A", PhosphorIconWeight.Duotone, "\uE27A", "\uE27A")
-        val GitDiff: PhosphorGlyph =
-            PhosphorGlyph("\uE27C", PhosphorIconWeight.Duotone, "\uE27C", "\uE27C")
-        val GitFork: PhosphorGlyph =
-            PhosphorGlyph("\uE27E", PhosphorIconWeight.Duotone, "\uE27E", "\uE27E")
-        val GitMerge: PhosphorGlyph =
-            PhosphorGlyph("\uE280", PhosphorIconWeight.Duotone, "\uE280", "\uE280")
-        val GitPullRequest: PhosphorGlyph =
-            PhosphorGlyph("\uE282", PhosphorIconWeight.Duotone, "\uE282", "\uE282")
-        val GithubLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE576", PhosphorIconWeight.Duotone, "\uE576", "\uE576")
-        val GitlabLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE694", PhosphorIconWeight.Duotone, "\uE694", "\uE694")
-        val GitlabLogoSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE696", PhosphorIconWeight.Duotone, "\uE696", "\uE696")
-        val Globe: PhosphorGlyph =
-            PhosphorGlyph("\uE288", PhosphorIconWeight.Duotone, "\uE288", "\uE288")
-        val GlobeHemisphereEast: PhosphorGlyph =
-            PhosphorGlyph("\uE28A", PhosphorIconWeight.Duotone, "\uE28A", "\uE28A")
-        val GlobeHemisphereWest: PhosphorGlyph =
-            PhosphorGlyph("\uE28C", PhosphorIconWeight.Duotone, "\uE28C", "\uE28C")
-        val GlobeSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE28E", PhosphorIconWeight.Duotone, "\uE28E", "\uE28E")
-        val GlobeSimpleX: PhosphorGlyph =
-            PhosphorGlyph("\uE284", PhosphorIconWeight.Duotone, "\uE284", "\uE284")
-        val GlobeStand: PhosphorGlyph =
-            PhosphorGlyph("\uE290", PhosphorIconWeight.Duotone, "\uE290", "\uE290")
-        val GlobeX: PhosphorGlyph =
-            PhosphorGlyph("\uE286", PhosphorIconWeight.Duotone, "\uE286", "\uE286")
-        val Goggles: PhosphorGlyph =
-            PhosphorGlyph("\uECB4", PhosphorIconWeight.Duotone, "\uECB4", "\uECB4")
-        val Golf: PhosphorGlyph =
-            PhosphorGlyph("\uEA3E", PhosphorIconWeight.Duotone, "\uEA3E", "\uEA3E")
-        val GoodreadsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED10", PhosphorIconWeight.Duotone, "\uED10", "\uED10")
-        val GoogleCardboardLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE7B6", PhosphorIconWeight.Duotone, "\uE7B6", "\uE7B6")
-        val GoogleChromeLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE976", PhosphorIconWeight.Duotone, "\uE976", "\uE976")
-        val GoogleDriveLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE8F6", PhosphorIconWeight.Duotone, "\uE8F6", "\uE8F6")
-        val GoogleLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE292", PhosphorIconWeight.Duotone, "\uE292", "\uE292")
-        val GooglePhotosLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB92", PhosphorIconWeight.Duotone, "\uEB92", "\uEB92")
-        val GooglePlayLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE294", PhosphorIconWeight.Duotone, "\uE294", "\uE294")
-        val GooglePodcastsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB94", PhosphorIconWeight.Duotone, "\uEB94", "\uEB94")
-        val Gps: PhosphorGlyph =
-            PhosphorGlyph("\uEDD8", PhosphorIconWeight.Duotone, "\uEDD8", "\uEDD8")
-        val GpsFix: PhosphorGlyph =
-            PhosphorGlyph("\uEDD6", PhosphorIconWeight.Duotone, "\uEDD6", "\uEDD6")
-        val GpsSlash: PhosphorGlyph =
-            PhosphorGlyph("\uEDD4", PhosphorIconWeight.Duotone, "\uEDD4", "\uEDD4")
-        val Gradient: PhosphorGlyph =
-            PhosphorGlyph("\uEB42", PhosphorIconWeight.Duotone, "\uEB42", "\uEB42")
-        val GraduationCap: PhosphorGlyph =
-            PhosphorGlyph("\uE62C", PhosphorIconWeight.Duotone, "\uE62C", "\uE62C")
-        val Grains: PhosphorGlyph =
-            PhosphorGlyph("\uEC68", PhosphorIconWeight.Duotone, "\uEC68", "\uEC68")
-        val GrainsSlash: PhosphorGlyph =
-            PhosphorGlyph("\uEC6A", PhosphorIconWeight.Duotone, "\uEC6A", "\uEC6A")
-        val Graph: PhosphorGlyph =
-            PhosphorGlyph("\uEB58", PhosphorIconWeight.Duotone, "\uEB58", "\uEB58")
-        val GraphicsCard: PhosphorGlyph =
-            PhosphorGlyph("\uE612", PhosphorIconWeight.Duotone, "\uE612", "\uE612")
-        val GreaterThan: PhosphorGlyph =
-            PhosphorGlyph("\uEDC4", PhosphorIconWeight.Duotone, "\uEDC4", "\uEDC4")
-        val GreaterThanOrEqual: PhosphorGlyph =
-            PhosphorGlyph("\uEDA2", PhosphorIconWeight.Duotone, "\uEDA2", "\uEDA2")
-        val GridFour: PhosphorGlyph =
-            PhosphorGlyph("\uE296", PhosphorIconWeight.Duotone, "\uE296", "\uE296")
-        val GridNine: PhosphorGlyph =
-            PhosphorGlyph("\uEC8C", PhosphorIconWeight.Duotone, "\uEC8C", "\uEC8C")
-        val Guitar: PhosphorGlyph =
-            PhosphorGlyph("\uEA8A", PhosphorIconWeight.Duotone, "\uEA8A", "\uEA8A")
-        val HairDryer: PhosphorGlyph =
-            PhosphorGlyph("\uEA66", PhosphorIconWeight.Duotone, "\uEA66", "\uEA66")
-        val Hamburger: PhosphorGlyph =
-            PhosphorGlyph("\uE790", PhosphorIconWeight.Duotone, "\uE790", "\uE790")
-        val Hammer: PhosphorGlyph =
-            PhosphorGlyph("\uE80E", PhosphorIconWeight.Duotone, "\uE80E", "\uE80E")
-        val Hand: PhosphorGlyph =
-            PhosphorGlyph("\uE298", PhosphorIconWeight.Duotone, "\uE298", "\uE298")
-        val HandArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uEA4E", PhosphorIconWeight.Duotone, "\uEA4E", "\uEA4E")
-        val HandArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uEE5A", PhosphorIconWeight.Duotone, "\uEE5A", "\uEE5A")
-        val HandCoins: PhosphorGlyph =
-            PhosphorGlyph("\uEA8C", PhosphorIconWeight.Duotone, "\uEA8C", "\uEA8C")
-        val HandDeposit: PhosphorGlyph =
-            PhosphorGlyph("\uEE82", PhosphorIconWeight.Duotone, "\uEE82", "\uEE82")
-        val HandEye: PhosphorGlyph =
-            PhosphorGlyph("\uEA4C", PhosphorIconWeight.Duotone, "\uEA4C", "\uEA4C")
-        val HandFist: PhosphorGlyph =
-            PhosphorGlyph("\uE57A", PhosphorIconWeight.Duotone, "\uE57A", "\uE57A")
-        val HandGrabbing: PhosphorGlyph =
-            PhosphorGlyph("\uE57C", PhosphorIconWeight.Duotone, "\uE57C", "\uE57C")
-        val HandHeart: PhosphorGlyph =
-            PhosphorGlyph("\uE810", PhosphorIconWeight.Duotone, "\uE810", "\uE810")
-        val HandPalm: PhosphorGlyph =
-            PhosphorGlyph("\uE57E", PhosphorIconWeight.Duotone, "\uE57E", "\uE57E")
-        val HandPeace: PhosphorGlyph =
-            PhosphorGlyph("\uE7CC", PhosphorIconWeight.Duotone, "\uE7CC", "\uE7CC")
-        val HandPointing: PhosphorGlyph =
-            PhosphorGlyph("\uE29A", PhosphorIconWeight.Duotone, "\uE29A", "\uE29A")
-        val HandSoap: PhosphorGlyph =
-            PhosphorGlyph("\uE630", PhosphorIconWeight.Duotone, "\uE630", "\uE630")
-        val HandSwipeLeft: PhosphorGlyph =
-            PhosphorGlyph("\uEC94", PhosphorIconWeight.Duotone, "\uEC94", "\uEC94")
-        val HandSwipeRight: PhosphorGlyph =
-            PhosphorGlyph("\uEC92", PhosphorIconWeight.Duotone, "\uEC92", "\uEC92")
-        val HandTap: PhosphorGlyph =
-            PhosphorGlyph("\uEC90", PhosphorIconWeight.Duotone, "\uEC90", "\uEC90")
-        val HandWaving: PhosphorGlyph =
-            PhosphorGlyph("\uE580", PhosphorIconWeight.Duotone, "\uE580", "\uE580")
-        val HandWithdraw: PhosphorGlyph =
-            PhosphorGlyph("\uEE80", PhosphorIconWeight.Duotone, "\uEE80", "\uEE80")
-        val Handbag: PhosphorGlyph =
-            PhosphorGlyph("\uE29C", PhosphorIconWeight.Duotone, "\uE29C", "\uE29C")
-        val HandbagSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE62E", PhosphorIconWeight.Duotone, "\uE62E", "\uE62E")
-        val HandsClapping: PhosphorGlyph =
-            PhosphorGlyph("\uE6A0", PhosphorIconWeight.Duotone, "\uE6A0", "\uE6A0")
-        val HandsPraying: PhosphorGlyph =
-            PhosphorGlyph("\uECC8", PhosphorIconWeight.Duotone, "\uECC8", "\uECC8")
-        val Handshake: PhosphorGlyph =
-            PhosphorGlyph("\uE582", PhosphorIconWeight.Duotone, "\uE582", "\uE582")
-        val HardDrive: PhosphorGlyph =
-            PhosphorGlyph("\uE29E", PhosphorIconWeight.Duotone, "\uE29E", "\uE29E")
-        val HardDrives: PhosphorGlyph =
-            PhosphorGlyph("\uE2A0", PhosphorIconWeight.Duotone, "\uE2A0", "\uE2A0")
-        val HardHat: PhosphorGlyph =
-            PhosphorGlyph("\uED46", PhosphorIconWeight.Duotone, "\uED46", "\uED46")
-        val Hash: PhosphorGlyph =
-            PhosphorGlyph("\uE2A2", PhosphorIconWeight.Duotone, "\uE2A2", "\uE2A2")
-        val HashStraight: PhosphorGlyph =
-            PhosphorGlyph("\uE2A4", PhosphorIconWeight.Duotone, "\uE2A4", "\uE2A4")
-        val HeadCircuit: PhosphorGlyph =
-            PhosphorGlyph("\uE7D4", PhosphorIconWeight.Duotone, "\uE7D4", "\uE7D4")
-        val Headlights: PhosphorGlyph =
-            PhosphorGlyph("\uE6FE", PhosphorIconWeight.Duotone, "\uE6FE", "\uE6FE")
-        val Headphones: PhosphorGlyph =
-            PhosphorGlyph("\uE2A6", PhosphorIconWeight.Duotone, "\uE2A6", "\uE2A6")
-        val Headset: PhosphorGlyph =
-            PhosphorGlyph("\uE584", PhosphorIconWeight.Duotone, "\uE584", "\uE584")
-        val Heart: PhosphorGlyph =
-            PhosphorGlyph("\uE2A8", PhosphorIconWeight.Duotone, "\uE2A8", "\uE2A8")
-        val HeartBreak: PhosphorGlyph =
-            PhosphorGlyph("\uEBE8", PhosphorIconWeight.Duotone, "\uEBE8", "\uEBE8")
-        val HeartHalf: PhosphorGlyph =
-            PhosphorGlyph("\uEC48", PhosphorIconWeight.Duotone, "\uEC48", "\uEC48")
-        val HeartStraight: PhosphorGlyph =
-            PhosphorGlyph("\uE2AA", PhosphorIconWeight.Duotone, "\uE2AA", "\uE2AA")
-        val HeartStraightBreak: PhosphorGlyph =
-            PhosphorGlyph("\uEB98", PhosphorIconWeight.Duotone, "\uEB98", "\uEB98")
-        val Heartbeat: PhosphorGlyph =
-            PhosphorGlyph("\uE2AC", PhosphorIconWeight.Duotone, "\uE2AC", "\uE2AC")
-        val Hexagon: PhosphorGlyph =
-            PhosphorGlyph("\uE2AE", PhosphorIconWeight.Duotone, "\uE2AE", "\uE2AE")
-        val HighDefinition: PhosphorGlyph =
-            PhosphorGlyph("\uEA8E", PhosphorIconWeight.Duotone, "\uEA8E", "\uEA8E")
-        val HighHeel: PhosphorGlyph =
-            PhosphorGlyph("\uE8E8", PhosphorIconWeight.Duotone, "\uE8E8", "\uE8E8")
-        val Highlighter: PhosphorGlyph =
-            PhosphorGlyph("\uEC76", PhosphorIconWeight.Duotone, "\uEC76", "\uEC76")
-        val HighlighterCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE632", PhosphorIconWeight.Duotone, "\uE632", "\uE632")
-        val Hockey: PhosphorGlyph =
-            PhosphorGlyph("\uEC86", PhosphorIconWeight.Duotone, "\uEC86", "\uEC86")
-        val Hoodie: PhosphorGlyph =
-            PhosphorGlyph("\uECD0", PhosphorIconWeight.Duotone, "\uECD0", "\uECD0")
-        val Horse: PhosphorGlyph =
-            PhosphorGlyph("\uE2B0", PhosphorIconWeight.Duotone, "\uE2B0", "\uE2B0")
-        val Hospital: PhosphorGlyph =
-            PhosphorGlyph("\uE844", PhosphorIconWeight.Duotone, "\uE844", "\uE844")
-        val Hourglass: PhosphorGlyph =
-            PhosphorGlyph("\uE2B2", PhosphorIconWeight.Duotone, "\uE2B2", "\uE2B2")
-        val HourglassHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE2B4", PhosphorIconWeight.Duotone, "\uE2B4", "\uE2B4")
-        val HourglassLow: PhosphorGlyph =
-            PhosphorGlyph("\uE2B6", PhosphorIconWeight.Duotone, "\uE2B6", "\uE2B6")
-        val HourglassMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE2B8", PhosphorIconWeight.Duotone, "\uE2B8", "\uE2B8")
-        val HourglassSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE2BA", PhosphorIconWeight.Duotone, "\uE2BA", "\uE2BA")
-        val HourglassSimpleHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE2BC", PhosphorIconWeight.Duotone, "\uE2BC", "\uE2BC")
-        val HourglassSimpleLow: PhosphorGlyph =
-            PhosphorGlyph("\uE2BE", PhosphorIconWeight.Duotone, "\uE2BE", "\uE2BE")
-        val HourglassSimpleMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE2C0", PhosphorIconWeight.Duotone, "\uE2C0", "\uE2C0")
-        val House: PhosphorGlyph =
-            PhosphorGlyph("\uE2C2", PhosphorIconWeight.Duotone, "\uE2C2", "\uE2C2")
-        val HouseLine: PhosphorGlyph =
-            PhosphorGlyph("\uE2C4", PhosphorIconWeight.Duotone, "\uE2C4", "\uE2C4")
-        val HouseSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE2C6", PhosphorIconWeight.Duotone, "\uE2C6", "\uE2C6")
-        val Hurricane: PhosphorGlyph =
-            PhosphorGlyph("\uE88E", PhosphorIconWeight.Duotone, "\uE88E", "\uE88E")
-        val IceCream: PhosphorGlyph =
-            PhosphorGlyph("\uE804", PhosphorIconWeight.Duotone, "\uE804", "\uE804")
-        val IdentificationBadge: PhosphorGlyph =
-            PhosphorGlyph("\uE6F6", PhosphorIconWeight.Duotone, "\uE6F6", "\uE6F6")
-        val IdentificationCard: PhosphorGlyph =
-            PhosphorGlyph("\uE2C8", PhosphorIconWeight.Duotone, "\uE2C8", "\uE2C8")
-        val Image: PhosphorGlyph =
-            PhosphorGlyph("\uE2CA", PhosphorIconWeight.Duotone, "\uE2CA", "\uE2CA")
-        val ImageBroken: PhosphorGlyph =
-            PhosphorGlyph("\uE7A8", PhosphorIconWeight.Duotone, "\uE7A8", "\uE7A8")
-        val ImageSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE2CC", PhosphorIconWeight.Duotone, "\uE2CC", "\uE2CC")
-        val Images: PhosphorGlyph =
-            PhosphorGlyph("\uE836", PhosphorIconWeight.Duotone, "\uE836", "\uE836")
-        val ImagesSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE834", PhosphorIconWeight.Duotone, "\uE834", "\uE834")
-        val Infinity: PhosphorGlyph =
-            PhosphorGlyph("\uE634", PhosphorIconWeight.Duotone, "\uE634", "\uE634")
-        val Info: PhosphorGlyph =
-            PhosphorGlyph("\uE2CE", PhosphorIconWeight.Duotone, "\uE2CE", "\uE2CE")
-        val InstagramLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE2D0", PhosphorIconWeight.Duotone, "\uE2D0", "\uE2D0")
-        val Intersect: PhosphorGlyph =
-            PhosphorGlyph("\uE2D2", PhosphorIconWeight.Duotone, "\uE2D2", "\uE2D2")
-        val IntersectSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE87A", PhosphorIconWeight.Duotone, "\uE87A", "\uE87A")
-        val IntersectThree: PhosphorGlyph =
-            PhosphorGlyph("\uECC4", PhosphorIconWeight.Duotone, "\uECC4", "\uECC4")
-        val Intersection: PhosphorGlyph =
-            PhosphorGlyph("\uEDBA", PhosphorIconWeight.Duotone, "\uEDBA", "\uEDBA")
-        val Invoice: PhosphorGlyph =
-            PhosphorGlyph("\uEE42", PhosphorIconWeight.Duotone, "\uEE42", "\uEE42")
-        val Island: PhosphorGlyph =
-            PhosphorGlyph("\uEE06", PhosphorIconWeight.Duotone, "\uEE06", "\uEE06")
-        val Jar: PhosphorGlyph =
-            PhosphorGlyph("\uE7E0", PhosphorIconWeight.Duotone, "\uE7E0", "\uE7E0")
-        val JarLabel: PhosphorGlyph =
-            PhosphorGlyph("\uE7E1", PhosphorIconWeight.Duotone, "\uE7E1", "\uE7E1")
-        val Jeep: PhosphorGlyph =
-            PhosphorGlyph("\uE2D4", PhosphorIconWeight.Duotone, "\uE2D4", "\uE2D4")
-        val Joystick: PhosphorGlyph =
-            PhosphorGlyph("\uEA5E", PhosphorIconWeight.Duotone, "\uEA5E", "\uEA5E")
-        val Kanban: PhosphorGlyph =
-            PhosphorGlyph("\uEB54", PhosphorIconWeight.Duotone, "\uEB54", "\uEB54")
-        val Key: PhosphorGlyph =
-            PhosphorGlyph("\uE2D6", PhosphorIconWeight.Duotone, "\uE2D6", "\uE2D6")
-        val KeyReturn: PhosphorGlyph =
-            PhosphorGlyph("\uE782", PhosphorIconWeight.Duotone, "\uE782", "\uE782")
-        val Keyboard: PhosphorGlyph =
-            PhosphorGlyph("\uE2D8", PhosphorIconWeight.Duotone, "\uE2D8", "\uE2D8")
-        val Keyhole: PhosphorGlyph =
-            PhosphorGlyph("\uEA78", PhosphorIconWeight.Duotone, "\uEA78", "\uEA78")
-        val Knife: PhosphorGlyph =
-            PhosphorGlyph("\uE636", PhosphorIconWeight.Duotone, "\uE636", "\uE636")
-        val Ladder: PhosphorGlyph =
-            PhosphorGlyph("\uE9E4", PhosphorIconWeight.Duotone, "\uE9E4", "\uE9E4")
-        val LadderSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEC26", PhosphorIconWeight.Duotone, "\uEC26", "\uEC26")
-        val Lamp: PhosphorGlyph =
-            PhosphorGlyph("\uE638", PhosphorIconWeight.Duotone, "\uE638", "\uE638")
-        val LampPendant: PhosphorGlyph =
-            PhosphorGlyph("\uEE2E", PhosphorIconWeight.Duotone, "\uEE2E", "\uEE2E")
-        val Laptop: PhosphorGlyph =
-            PhosphorGlyph("\uE586", PhosphorIconWeight.Duotone, "\uE586", "\uE586")
-        val Lasso: PhosphorGlyph =
-            PhosphorGlyph("\uEDC6", PhosphorIconWeight.Duotone, "\uEDC6", "\uEDC6")
-        val LastfmLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE842", PhosphorIconWeight.Duotone, "\uE842", "\uE842")
-        val Layout: PhosphorGlyph =
-            PhosphorGlyph("\uE6D6", PhosphorIconWeight.Duotone, "\uE6D6", "\uE6D6")
-        val Leaf: PhosphorGlyph =
-            PhosphorGlyph("\uE2DA", PhosphorIconWeight.Duotone, "\uE2DA", "\uE2DA")
-        val Lectern: PhosphorGlyph =
-            PhosphorGlyph("\uE95A", PhosphorIconWeight.Duotone, "\uE95A", "\uE95A")
-        val Lego: PhosphorGlyph =
-            PhosphorGlyph("\uE8C6", PhosphorIconWeight.Duotone, "\uE8C6", "\uE8C6")
-        val LegoSmiley: PhosphorGlyph =
-            PhosphorGlyph("\uE8C7", PhosphorIconWeight.Duotone, "\uE8C7", "\uE8C7")
-        val LessThan: PhosphorGlyph =
-            PhosphorGlyph("\uEDAC", PhosphorIconWeight.Duotone, "\uEDAC", "\uEDAC")
-        val LessThanOrEqual: PhosphorGlyph =
-            PhosphorGlyph("\uEDA4", PhosphorIconWeight.Duotone, "\uEDA4", "\uEDA4")
-        val LetterCircleH: PhosphorGlyph =
-            PhosphorGlyph("\uEBF8", PhosphorIconWeight.Duotone, "\uEBF8", "\uEBF8")
-        val LetterCircleP: PhosphorGlyph =
-            PhosphorGlyph("\uEC08", PhosphorIconWeight.Duotone, "\uEC08", "\uEC08")
-        val LetterCircleV: PhosphorGlyph =
-            PhosphorGlyph("\uEC14", PhosphorIconWeight.Duotone, "\uEC14", "\uEC14")
-        val Lifebuoy: PhosphorGlyph =
-            PhosphorGlyph("\uE63A", PhosphorIconWeight.Duotone, "\uE63A", "\uE63A")
-        val Lightbulb: PhosphorGlyph =
-            PhosphorGlyph("\uE2DC", PhosphorIconWeight.Duotone, "\uE2DC", "\uE2DC")
-        val LightbulbFilament: PhosphorGlyph =
-            PhosphorGlyph("\uE63C", PhosphorIconWeight.Duotone, "\uE63C", "\uE63C")
-        val Lighthouse: PhosphorGlyph =
-            PhosphorGlyph("\uE9F6", PhosphorIconWeight.Duotone, "\uE9F6", "\uE9F6")
-        val Lightning: PhosphorGlyph =
-            PhosphorGlyph("\uE2DE", PhosphorIconWeight.Duotone, "\uE2DE", "\uE2DE")
-        val LightningA: PhosphorGlyph =
-            PhosphorGlyph("\uEA84", PhosphorIconWeight.Duotone, "\uEA84", "\uEA84")
-        val LightningSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE2E0", PhosphorIconWeight.Duotone, "\uE2E0", "\uE2E0")
-        val LineSegment: PhosphorGlyph =
-            PhosphorGlyph("\uE6D2", PhosphorIconWeight.Duotone, "\uE6D2", "\uE6D2")
-        val LineSegments: PhosphorGlyph =
-            PhosphorGlyph("\uE6D4", PhosphorIconWeight.Duotone, "\uE6D4", "\uE6D4")
-        val LineVertical: PhosphorGlyph =
-            PhosphorGlyph("\uED70", PhosphorIconWeight.Duotone, "\uED70", "\uED70")
-        val Link: PhosphorGlyph =
-            PhosphorGlyph("\uE2E2", PhosphorIconWeight.Duotone, "\uE2E2", "\uE2E2")
-        val LinkBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2E4", PhosphorIconWeight.Duotone, "\uE2E4", "\uE2E4")
-        val LinkSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE2E6", PhosphorIconWeight.Duotone, "\uE2E6", "\uE2E6")
-        val LinkSimpleBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2E8", PhosphorIconWeight.Duotone, "\uE2E8", "\uE2E8")
-        val LinkSimpleHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE2EA", PhosphorIconWeight.Duotone, "\uE2EA", "\uE2EA")
-        val LinkSimpleHorizontalBreak: PhosphorGlyph =
-            PhosphorGlyph("\uE2EC", PhosphorIconWeight.Duotone, "\uE2EC", "\uE2EC")
-        val LinkedinLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE2EE", PhosphorIconWeight.Duotone, "\uE2EE", "\uE2EE")
-        val LinktreeLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEDEE", PhosphorIconWeight.Duotone, "\uEDEE", "\uEDEE")
-        val LinuxLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB02", PhosphorIconWeight.Duotone, "\uEB02", "\uEB02")
-        val List: PhosphorGlyph =
-            PhosphorGlyph("\uE2F0", PhosphorIconWeight.Duotone, "\uE2F0", "\uE2F0")
-        val ListBullets: PhosphorGlyph =
-            PhosphorGlyph("\uE2F2", PhosphorIconWeight.Duotone, "\uE2F2", "\uE2F2")
-        val ListChecks: PhosphorGlyph =
-            PhosphorGlyph("\uEADC", PhosphorIconWeight.Duotone, "\uEADC", "\uEADC")
-        val ListDashes: PhosphorGlyph =
-            PhosphorGlyph("\uE2F4", PhosphorIconWeight.Duotone, "\uE2F4", "\uE2F4")
-        val ListHeart: PhosphorGlyph =
-            PhosphorGlyph("\uEBDE", PhosphorIconWeight.Duotone, "\uEBDE", "\uEBDE")
-        val ListMagnifyingGlass: PhosphorGlyph =
-            PhosphorGlyph("\uEBE0", PhosphorIconWeight.Duotone, "\uEBE0", "\uEBE0")
-        val ListNumbers: PhosphorGlyph =
-            PhosphorGlyph("\uE2F6", PhosphorIconWeight.Duotone, "\uE2F6", "\uE2F6")
-        val ListPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE2F8", PhosphorIconWeight.Duotone, "\uE2F8", "\uE2F8")
-        val ListStar: PhosphorGlyph =
-            PhosphorGlyph("\uEBDC", PhosphorIconWeight.Duotone, "\uEBDC", "\uEBDC")
-        val Lock: PhosphorGlyph =
-            PhosphorGlyph("\uE2FA", PhosphorIconWeight.Duotone, "\uE2FA", "\uE2FA")
-        val LockKey: PhosphorGlyph =
-            PhosphorGlyph("\uE2FE", PhosphorIconWeight.Duotone, "\uE2FE", "\uE2FE")
-        val LockKeyOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE300", PhosphorIconWeight.Duotone, "\uE300", "\uE300")
-        val LockLaminated: PhosphorGlyph =
-            PhosphorGlyph("\uE302", PhosphorIconWeight.Duotone, "\uE302", "\uE302")
-        val LockLaminatedOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE304", PhosphorIconWeight.Duotone, "\uE304", "\uE304")
-        val LockOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE306", PhosphorIconWeight.Duotone, "\uE306", "\uE306")
-        val LockSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE308", PhosphorIconWeight.Duotone, "\uE308", "\uE308")
-        val LockSimpleOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE30A", PhosphorIconWeight.Duotone, "\uE30A", "\uE30A")
-        val Lockers: PhosphorGlyph =
-            PhosphorGlyph("\uECB8", PhosphorIconWeight.Duotone, "\uECB8", "\uECB8")
-        val Log: PhosphorGlyph =
-            PhosphorGlyph("\uED82", PhosphorIconWeight.Duotone, "\uED82", "\uED82")
-        val MagicWand: PhosphorGlyph =
-            PhosphorGlyph("\uE6B6", PhosphorIconWeight.Duotone, "\uE6B6", "\uE6B6")
-        val Magnet: PhosphorGlyph =
-            PhosphorGlyph("\uE680", PhosphorIconWeight.Duotone, "\uE680", "\uE680")
-        val MagnetStraight: PhosphorGlyph =
-            PhosphorGlyph("\uE682", PhosphorIconWeight.Duotone, "\uE682", "\uE682")
-        val MagnifyingGlass: PhosphorGlyph =
-            PhosphorGlyph("\uE30C", PhosphorIconWeight.Duotone, "\uE30C", "\uE30C")
-        val MagnifyingGlassMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE30E", PhosphorIconWeight.Duotone, "\uE30E", "\uE30E")
-        val MagnifyingGlassPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE310", PhosphorIconWeight.Duotone, "\uE310", "\uE310")
-        val Mailbox: PhosphorGlyph =
-            PhosphorGlyph("\uEC1E", PhosphorIconWeight.Duotone, "\uEC1E", "\uEC1E")
-        val MapPin: PhosphorGlyph =
-            PhosphorGlyph("\uE316", PhosphorIconWeight.Duotone, "\uE316", "\uE316")
-        val MapPinArea: PhosphorGlyph =
-            PhosphorGlyph("\uEE3A", PhosphorIconWeight.Duotone, "\uEE3A", "\uEE3A")
-        val MapPinLine: PhosphorGlyph =
-            PhosphorGlyph("\uE318", PhosphorIconWeight.Duotone, "\uE318", "\uE318")
-        val MapPinPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE314", PhosphorIconWeight.Duotone, "\uE314", "\uE314")
-        val MapPinSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEE3E", PhosphorIconWeight.Duotone, "\uEE3E", "\uEE3E")
-        val MapPinSimpleArea: PhosphorGlyph =
-            PhosphorGlyph("\uEE3C", PhosphorIconWeight.Duotone, "\uEE3C", "\uEE3C")
-        val MapPinSimpleLine: PhosphorGlyph =
-            PhosphorGlyph("\uEE38", PhosphorIconWeight.Duotone, "\uEE38", "\uEE38")
-        val MapTrifold: PhosphorGlyph =
-            PhosphorGlyph("\uE31A", PhosphorIconWeight.Duotone, "\uE31A", "\uE31A")
-        val MarkdownLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE508", PhosphorIconWeight.Duotone, "\uE508", "\uE508")
-        val MarkerCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE640", PhosphorIconWeight.Duotone, "\uE640", "\uE640")
-        val Martini: PhosphorGlyph =
-            PhosphorGlyph("\uE31C", PhosphorIconWeight.Duotone, "\uE31C", "\uE31C")
-        val MaskHappy: PhosphorGlyph =
-            PhosphorGlyph("\uE9F4", PhosphorIconWeight.Duotone, "\uE9F4", "\uE9F4")
-        val MaskSad: PhosphorGlyph =
-            PhosphorGlyph("\uEB9E", PhosphorIconWeight.Duotone, "\uEB9E", "\uEB9E")
-        val MastodonLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED68", PhosphorIconWeight.Duotone, "\uED68", "\uED68")
-        val MathOperations: PhosphorGlyph =
-            PhosphorGlyph("\uE31E", PhosphorIconWeight.Duotone, "\uE31E", "\uE31E")
-        val MatrixLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED64", PhosphorIconWeight.Duotone, "\uED64", "\uED64")
-        val Medal: PhosphorGlyph =
-            PhosphorGlyph("\uE320", PhosphorIconWeight.Duotone, "\uE320", "\uE320")
-        val MedalMilitary: PhosphorGlyph =
-            PhosphorGlyph("\uECFC", PhosphorIconWeight.Duotone, "\uECFC", "\uECFC")
-        val MediumLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE322", PhosphorIconWeight.Duotone, "\uE322", "\uE322")
-        val Megaphone: PhosphorGlyph =
-            PhosphorGlyph("\uE324", PhosphorIconWeight.Duotone, "\uE324", "\uE324")
-        val MegaphoneSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE642", PhosphorIconWeight.Duotone, "\uE642", "\uE642")
-        val MemberOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDC2", PhosphorIconWeight.Duotone, "\uEDC2", "\uEDC2")
-        val Memory: PhosphorGlyph =
-            PhosphorGlyph("\uE9C4", PhosphorIconWeight.Duotone, "\uE9C4", "\uE9C4")
-        val MessengerLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE6D8", PhosphorIconWeight.Duotone, "\uE6D8", "\uE6D8")
-        val MetaLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED02", PhosphorIconWeight.Duotone, "\uED02", "\uED02")
-        val Meteor: PhosphorGlyph =
-            PhosphorGlyph("\uE9BA", PhosphorIconWeight.Duotone, "\uE9BA", "\uE9BA")
-        val Metronome: PhosphorGlyph =
-            PhosphorGlyph("\uEC8E", PhosphorIconWeight.Duotone, "\uEC8E", "\uEC8E")
-        val Microphone: PhosphorGlyph =
-            PhosphorGlyph("\uE326", PhosphorIconWeight.Duotone, "\uE326", "\uE326")
-        val MicrophoneSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE328", PhosphorIconWeight.Duotone, "\uE328", "\uE328")
-        val MicrophoneStage: PhosphorGlyph =
-            PhosphorGlyph("\uE75C", PhosphorIconWeight.Duotone, "\uE75C", "\uE75C")
-        val Microscope: PhosphorGlyph =
-            PhosphorGlyph("\uEC7A", PhosphorIconWeight.Duotone, "\uEC7A", "\uEC7A")
-        val MicrosoftExcelLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB6C", PhosphorIconWeight.Duotone, "\uEB6C", "\uEB6C")
-        val MicrosoftOutlookLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB70", PhosphorIconWeight.Duotone, "\uEB70", "\uEB70")
-        val MicrosoftPowerpointLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEACE", PhosphorIconWeight.Duotone, "\uEACE", "\uEACE")
-        val MicrosoftTeamsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB66", PhosphorIconWeight.Duotone, "\uEB66", "\uEB66")
-        val MicrosoftWordLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB6A", PhosphorIconWeight.Duotone, "\uEB6A", "\uEB6A")
-        val Minus: PhosphorGlyph =
-            PhosphorGlyph("\uE32A", PhosphorIconWeight.Duotone, "\uE32A", "\uE32A")
-        val MinusCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE32C", PhosphorIconWeight.Duotone, "\uE32C", "\uE32C")
-        val MinusSquare: PhosphorGlyph =
-            PhosphorGlyph("\uED4C", PhosphorIconWeight.Duotone, "\uED4C", "\uED4C")
-        val Money: PhosphorGlyph =
-            PhosphorGlyph("\uE588", PhosphorIconWeight.Duotone, "\uE588", "\uE588")
-        val MoneyWavy: PhosphorGlyph =
-            PhosphorGlyph("\uEE68", PhosphorIconWeight.Duotone, "\uEE68", "\uEE68")
-        val Monitor: PhosphorGlyph =
-            PhosphorGlyph("\uE32E", PhosphorIconWeight.Duotone, "\uE32E", "\uE32E")
-        val MonitorArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uE58A", PhosphorIconWeight.Duotone, "\uE58A", "\uE58A")
-        val MonitorPlay: PhosphorGlyph =
-            PhosphorGlyph("\uE58C", PhosphorIconWeight.Duotone, "\uE58C", "\uE58C")
-        val Moon: PhosphorGlyph =
-            PhosphorGlyph("\uE330", PhosphorIconWeight.Duotone, "\uE330", "\uE330")
-        val MoonStars: PhosphorGlyph =
-            PhosphorGlyph("\uE58E", PhosphorIconWeight.Duotone, "\uE58E", "\uE58E")
-        val Moped: PhosphorGlyph =
-            PhosphorGlyph("\uE824", PhosphorIconWeight.Duotone, "\uE824", "\uE824")
-        val MopedFront: PhosphorGlyph =
-            PhosphorGlyph("\uE822", PhosphorIconWeight.Duotone, "\uE822", "\uE822")
-        val Mosque: PhosphorGlyph =
-            PhosphorGlyph("\uECEE", PhosphorIconWeight.Duotone, "\uECEE", "\uECEE")
-        val Motorcycle: PhosphorGlyph =
-            PhosphorGlyph("\uE80A", PhosphorIconWeight.Duotone, "\uE80A", "\uE80A")
-        val Mountains: PhosphorGlyph =
-            PhosphorGlyph("\uE7AE", PhosphorIconWeight.Duotone, "\uE7AE", "\uE7AE")
-        val Mouse: PhosphorGlyph =
-            PhosphorGlyph("\uE33A", PhosphorIconWeight.Duotone, "\uE33A", "\uE33A")
-        val MouseLeftClick: PhosphorGlyph =
-            PhosphorGlyph("\uE334", PhosphorIconWeight.Duotone, "\uE334", "\uE334")
-        val MouseMiddleClick: PhosphorGlyph =
-            PhosphorGlyph("\uE338", PhosphorIconWeight.Duotone, "\uE338", "\uE338")
-        val MouseRightClick: PhosphorGlyph =
-            PhosphorGlyph("\uE336", PhosphorIconWeight.Duotone, "\uE336", "\uE336")
-        val MouseScroll: PhosphorGlyph =
-            PhosphorGlyph("\uE332", PhosphorIconWeight.Duotone, "\uE332", "\uE332")
-        val MouseSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE644", PhosphorIconWeight.Duotone, "\uE644", "\uE644")
-        val MusicNote: PhosphorGlyph =
-            PhosphorGlyph("\uE33C", PhosphorIconWeight.Duotone, "\uE33C", "\uE33C")
-        val MusicNoteSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE33E", PhosphorIconWeight.Duotone, "\uE33E", "\uE33E")
-        val MusicNotes: PhosphorGlyph =
-            PhosphorGlyph("\uE340", PhosphorIconWeight.Duotone, "\uE340", "\uE340")
-        val MusicNotesMinus: PhosphorGlyph =
-            PhosphorGlyph("\uEE0C", PhosphorIconWeight.Duotone, "\uEE0C", "\uEE0C")
-        val MusicNotesPlus: PhosphorGlyph =
-            PhosphorGlyph("\uEB7C", PhosphorIconWeight.Duotone, "\uEB7C", "\uEB7C")
-        val MusicNotesSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE342", PhosphorIconWeight.Duotone, "\uE342", "\uE342")
-        val NavigationArrow: PhosphorGlyph =
-            PhosphorGlyph("\uEADE", PhosphorIconWeight.Duotone, "\uEADE", "\uEADE")
-        val Needle: PhosphorGlyph =
-            PhosphorGlyph("\uE82E", PhosphorIconWeight.Duotone, "\uE82E", "\uE82E")
-        val Network: PhosphorGlyph =
-            PhosphorGlyph("\uEDDE", PhosphorIconWeight.Duotone, "\uEDDE", "\uEDDE")
-        val NetworkSlash: PhosphorGlyph =
-            PhosphorGlyph("\uEDDC", PhosphorIconWeight.Duotone, "\uEDDC", "\uEDDC")
-        val NetworkX: PhosphorGlyph =
-            PhosphorGlyph("\uEDDA", PhosphorIconWeight.Duotone, "\uEDDA", "\uEDDA")
-        val Newspaper: PhosphorGlyph =
-            PhosphorGlyph("\uE344", PhosphorIconWeight.Duotone, "\uE344", "\uE344")
-        val NewspaperClipping: PhosphorGlyph =
-            PhosphorGlyph("\uE346", PhosphorIconWeight.Duotone, "\uE346", "\uE346")
-        val NotEquals: PhosphorGlyph =
-            PhosphorGlyph("\uEDA6", PhosphorIconWeight.Duotone, "\uEDA6", "\uEDA6")
-        val NotMemberOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDAE", PhosphorIconWeight.Duotone, "\uEDAE", "\uEDAE")
-        val NotSubsetOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDB0", PhosphorIconWeight.Duotone, "\uEDB0", "\uEDB0")
-        val NotSupersetOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDB2", PhosphorIconWeight.Duotone, "\uEDB2", "\uEDB2")
-        val Notches: PhosphorGlyph =
-            PhosphorGlyph("\uED3A", PhosphorIconWeight.Duotone, "\uED3A", "\uED3A")
-        val Note: PhosphorGlyph =
-            PhosphorGlyph("\uE348", PhosphorIconWeight.Duotone, "\uE348", "\uE348")
-        val NoteBlank: PhosphorGlyph =
-            PhosphorGlyph("\uE34A", PhosphorIconWeight.Duotone, "\uE34A", "\uE34A")
-        val NotePencil: PhosphorGlyph =
-            PhosphorGlyph("\uE34C", PhosphorIconWeight.Duotone, "\uE34C", "\uE34C")
-        val Notebook: PhosphorGlyph =
-            PhosphorGlyph("\uE34E", PhosphorIconWeight.Duotone, "\uE34E", "\uE34E")
-        val Notepad: PhosphorGlyph =
-            PhosphorGlyph("\uE63E", PhosphorIconWeight.Duotone, "\uE63E", "\uE63E")
-        val Notification: PhosphorGlyph =
-            PhosphorGlyph("\uE6FA", PhosphorIconWeight.Duotone, "\uE6FA", "\uE6FA")
-        val NotionLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE9A0", PhosphorIconWeight.Duotone, "\uE9A0", "\uE9A0")
-        val NuclearPlant: PhosphorGlyph =
-            PhosphorGlyph("\uED7C", PhosphorIconWeight.Duotone, "\uED7C", "\uED7C")
-        val NumberCircleEight: PhosphorGlyph =
-            PhosphorGlyph("\uE352", PhosphorIconWeight.Duotone, "\uE352", "\uE352")
-        val NumberCircleFive: PhosphorGlyph =
-            PhosphorGlyph("\uE358", PhosphorIconWeight.Duotone, "\uE358", "\uE358")
-        val NumberCircleFour: PhosphorGlyph =
-            PhosphorGlyph("\uE35E", PhosphorIconWeight.Duotone, "\uE35E", "\uE35E")
-        val NumberCircleNine: PhosphorGlyph =
-            PhosphorGlyph("\uE364", PhosphorIconWeight.Duotone, "\uE364", "\uE364")
-        val NumberCircleOne: PhosphorGlyph =
-            PhosphorGlyph("\uE36A", PhosphorIconWeight.Duotone, "\uE36A", "\uE36A")
-        val NumberCircleSeven: PhosphorGlyph =
-            PhosphorGlyph("\uE370", PhosphorIconWeight.Duotone, "\uE370", "\uE370")
-        val NumberCircleSix: PhosphorGlyph =
-            PhosphorGlyph("\uE376", PhosphorIconWeight.Duotone, "\uE376", "\uE376")
-        val NumberCircleThree: PhosphorGlyph =
-            PhosphorGlyph("\uE37C", PhosphorIconWeight.Duotone, "\uE37C", "\uE37C")
-        val NumberCircleTwo: PhosphorGlyph =
-            PhosphorGlyph("\uE382", PhosphorIconWeight.Duotone, "\uE382", "\uE382")
-        val NumberCircleZero: PhosphorGlyph =
-            PhosphorGlyph("\uE388", PhosphorIconWeight.Duotone, "\uE388", "\uE388")
-        val NumberEight: PhosphorGlyph =
-            PhosphorGlyph("\uE350", PhosphorIconWeight.Duotone, "\uE350", "\uE350")
-        val NumberFive: PhosphorGlyph =
-            PhosphorGlyph("\uE356", PhosphorIconWeight.Duotone, "\uE356", "\uE356")
-        val NumberFour: PhosphorGlyph =
-            PhosphorGlyph("\uE35C", PhosphorIconWeight.Duotone, "\uE35C", "\uE35C")
-        val NumberNine: PhosphorGlyph =
-            PhosphorGlyph("\uE362", PhosphorIconWeight.Duotone, "\uE362", "\uE362")
-        val NumberOne: PhosphorGlyph =
-            PhosphorGlyph("\uE368", PhosphorIconWeight.Duotone, "\uE368", "\uE368")
-        val NumberSeven: PhosphorGlyph =
-            PhosphorGlyph("\uE36E", PhosphorIconWeight.Duotone, "\uE36E", "\uE36E")
-        val NumberSix: PhosphorGlyph =
-            PhosphorGlyph("\uE374", PhosphorIconWeight.Duotone, "\uE374", "\uE374")
-        val NumberSquareEight: PhosphorGlyph =
-            PhosphorGlyph("\uE354", PhosphorIconWeight.Duotone, "\uE354", "\uE354")
-        val NumberSquareFive: PhosphorGlyph =
-            PhosphorGlyph("\uE35A", PhosphorIconWeight.Duotone, "\uE35A", "\uE35A")
-        val NumberSquareFour: PhosphorGlyph =
-            PhosphorGlyph("\uE360", PhosphorIconWeight.Duotone, "\uE360", "\uE360")
-        val NumberSquareNine: PhosphorGlyph =
-            PhosphorGlyph("\uE366", PhosphorIconWeight.Duotone, "\uE366", "\uE366")
-        val NumberSquareOne: PhosphorGlyph =
-            PhosphorGlyph("\uE36C", PhosphorIconWeight.Duotone, "\uE36C", "\uE36C")
-        val NumberSquareSeven: PhosphorGlyph =
-            PhosphorGlyph("\uE372", PhosphorIconWeight.Duotone, "\uE372", "\uE372")
-        val NumberSquareSix: PhosphorGlyph =
-            PhosphorGlyph("\uE378", PhosphorIconWeight.Duotone, "\uE378", "\uE378")
-        val NumberSquareThree: PhosphorGlyph =
-            PhosphorGlyph("\uE37E", PhosphorIconWeight.Duotone, "\uE37E", "\uE37E")
-        val NumberSquareTwo: PhosphorGlyph =
-            PhosphorGlyph("\uE384", PhosphorIconWeight.Duotone, "\uE384", "\uE384")
-        val NumberSquareZero: PhosphorGlyph =
-            PhosphorGlyph("\uE38A", PhosphorIconWeight.Duotone, "\uE38A", "\uE38A")
-        val NumberThree: PhosphorGlyph =
-            PhosphorGlyph("\uE37A", PhosphorIconWeight.Duotone, "\uE37A", "\uE37A")
-        val NumberTwo: PhosphorGlyph =
-            PhosphorGlyph("\uE380", PhosphorIconWeight.Duotone, "\uE380", "\uE380")
-        val NumberZero: PhosphorGlyph =
-            PhosphorGlyph("\uE386", PhosphorIconWeight.Duotone, "\uE386", "\uE386")
-        val Numpad: PhosphorGlyph =
-            PhosphorGlyph("\uE3C8", PhosphorIconWeight.Duotone, "\uE3C8", "\uE3C8")
-        val Nut: PhosphorGlyph =
-            PhosphorGlyph("\uE38C", PhosphorIconWeight.Duotone, "\uE38C", "\uE38C")
-        val NyTimesLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE646", PhosphorIconWeight.Duotone, "\uE646", "\uE646")
-        val Octagon: PhosphorGlyph =
-            PhosphorGlyph("\uE38E", PhosphorIconWeight.Duotone, "\uE38E", "\uE38E")
-        val OfficeChair: PhosphorGlyph =
-            PhosphorGlyph("\uEA46", PhosphorIconWeight.Duotone, "\uEA46", "\uEA46")
-        val Onigiri: PhosphorGlyph =
-            PhosphorGlyph("\uEE2C", PhosphorIconWeight.Duotone, "\uEE2C", "\uEE2C")
-        val OpenAiLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE7D2", PhosphorIconWeight.Duotone, "\uE7D2", "\uE7D2")
-        val Option: PhosphorGlyph =
-            PhosphorGlyph("\uE8A8", PhosphorIconWeight.Duotone, "\uE8A8", "\uE8A8")
-        val Orange: PhosphorGlyph =
-            PhosphorGlyph("\uEE40", PhosphorIconWeight.Duotone, "\uEE40", "\uEE40")
-        val OrangeSlice: PhosphorGlyph =
-            PhosphorGlyph("\uED36", PhosphorIconWeight.Duotone, "\uED36", "\uED36")
-        val Oven: PhosphorGlyph =
-            PhosphorGlyph("\uED8C", PhosphorIconWeight.Duotone, "\uED8C", "\uED8C")
-        val Package: PhosphorGlyph =
-            PhosphorGlyph("\uE390", PhosphorIconWeight.Duotone, "\uE390", "\uE390")
-        val PaintBrush: PhosphorGlyph =
-            PhosphorGlyph("\uE6F0", PhosphorIconWeight.Duotone, "\uE6F0", "\uE6F0")
-        val PaintBrushBroad: PhosphorGlyph =
-            PhosphorGlyph("\uE590", PhosphorIconWeight.Duotone, "\uE590", "\uE590")
-        val PaintBrushHousehold: PhosphorGlyph =
-            PhosphorGlyph("\uE6F2", PhosphorIconWeight.Duotone, "\uE6F2", "\uE6F2")
-        val PaintBucket: PhosphorGlyph =
-            PhosphorGlyph("\uE392", PhosphorIconWeight.Duotone, "\uE392", "\uE392")
-        val PaintRoller: PhosphorGlyph =
-            PhosphorGlyph("\uE6F4", PhosphorIconWeight.Duotone, "\uE6F4", "\uE6F4")
-        val Palette: PhosphorGlyph =
-            PhosphorGlyph("\uE6C8", PhosphorIconWeight.Duotone, "\uE6C8", "\uE6C8")
-        val Panorama: PhosphorGlyph =
-            PhosphorGlyph("\uEAA2", PhosphorIconWeight.Duotone, "\uEAA2", "\uEAA2")
-        val Pants: PhosphorGlyph =
-            PhosphorGlyph("\uEC88", PhosphorIconWeight.Duotone, "\uEC88", "\uEC88")
-        val PaperPlane: PhosphorGlyph =
-            PhosphorGlyph("\uE394", PhosphorIconWeight.Duotone, "\uE394", "\uE394")
-        val PaperPlaneRight: PhosphorGlyph =
-            PhosphorGlyph("\uE396", PhosphorIconWeight.Duotone, "\uE396", "\uE396")
-        val PaperPlaneTilt: PhosphorGlyph =
-            PhosphorGlyph("\uE398", PhosphorIconWeight.Duotone, "\uE398", "\uE398")
-        val Paperclip: PhosphorGlyph =
-            PhosphorGlyph("\uE39A", PhosphorIconWeight.Duotone, "\uE39A", "\uE39A")
-        val PaperclipHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE592", PhosphorIconWeight.Duotone, "\uE592", "\uE592")
-        val Parachute: PhosphorGlyph =
-            PhosphorGlyph("\uEA7C", PhosphorIconWeight.Duotone, "\uEA7C", "\uEA7C")
-        val Paragraph: PhosphorGlyph =
-            PhosphorGlyph("\uE960", PhosphorIconWeight.Duotone, "\uE960", "\uE960")
-        val Parallelogram: PhosphorGlyph =
-            PhosphorGlyph("\uECC6", PhosphorIconWeight.Duotone, "\uECC6", "\uECC6")
-        val Park: PhosphorGlyph =
-            PhosphorGlyph("\uECB2", PhosphorIconWeight.Duotone, "\uECB2", "\uECB2")
-        val Password: PhosphorGlyph =
-            PhosphorGlyph("\uE752", PhosphorIconWeight.Duotone, "\uE752", "\uE752")
-        val Path: PhosphorGlyph =
-            PhosphorGlyph("\uE39C", PhosphorIconWeight.Duotone, "\uE39C", "\uE39C")
-        val PatreonLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE98A", PhosphorIconWeight.Duotone, "\uE98A", "\uE98A")
-        val Pause: PhosphorGlyph =
-            PhosphorGlyph("\uE39E", PhosphorIconWeight.Duotone, "\uE39E", "\uE39E")
-        val PauseCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE3A0", PhosphorIconWeight.Duotone, "\uE3A0", "\uE3A0")
-        val PawPrint: PhosphorGlyph =
-            PhosphorGlyph("\uE648", PhosphorIconWeight.Duotone, "\uE648", "\uE648")
-        val PaypalLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE98C", PhosphorIconWeight.Duotone, "\uE98C", "\uE98C")
-        val Peace: PhosphorGlyph =
-            PhosphorGlyph("\uE3A2", PhosphorIconWeight.Duotone, "\uE3A2", "\uE3A2")
-        val Pen: PhosphorGlyph =
-            PhosphorGlyph("\uE3AA", PhosphorIconWeight.Duotone, "\uE3AA", "\uE3AA")
-        val PenNib: PhosphorGlyph =
-            PhosphorGlyph("\uE3AC", PhosphorIconWeight.Duotone, "\uE3AC", "\uE3AC")
-        val PenNibStraight: PhosphorGlyph =
-            PhosphorGlyph("\uE64A", PhosphorIconWeight.Duotone, "\uE64A", "\uE64A")
-        val Pencil: PhosphorGlyph =
-            PhosphorGlyph("\uE3AE", PhosphorIconWeight.Duotone, "\uE3AE", "\uE3AE")
-        val PencilCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE3B0", PhosphorIconWeight.Duotone, "\uE3B0", "\uE3B0")
-        val PencilLine: PhosphorGlyph =
-            PhosphorGlyph("\uE3B2", PhosphorIconWeight.Duotone, "\uE3B2", "\uE3B2")
-        val PencilRuler: PhosphorGlyph =
-            PhosphorGlyph("\uE906", PhosphorIconWeight.Duotone, "\uE906", "\uE906")
-        val PencilSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE3B4", PhosphorIconWeight.Duotone, "\uE3B4", "\uE3B4")
-        val PencilSimpleLine: PhosphorGlyph =
-            PhosphorGlyph("\uEBC6", PhosphorIconWeight.Duotone, "\uEBC6", "\uEBC6")
-        val PencilSimpleSlash: PhosphorGlyph =
-            PhosphorGlyph("\uECF6", PhosphorIconWeight.Duotone, "\uECF6", "\uECF6")
-        val PencilSlash: PhosphorGlyph =
-            PhosphorGlyph("\uECF8", PhosphorIconWeight.Duotone, "\uECF8", "\uECF8")
-        val Pentagon: PhosphorGlyph =
-            PhosphorGlyph("\uEC7E", PhosphorIconWeight.Duotone, "\uEC7E", "\uEC7E")
-        val Pentagram: PhosphorGlyph =
-            PhosphorGlyph("\uEC5C", PhosphorIconWeight.Duotone, "\uEC5C", "\uEC5C")
-        val Pepper: PhosphorGlyph =
-            PhosphorGlyph("\uE94A", PhosphorIconWeight.Duotone, "\uE94A", "\uE94A")
-        val Percent: PhosphorGlyph =
-            PhosphorGlyph("\uE3B6", PhosphorIconWeight.Duotone, "\uE3B6", "\uE3B6")
-        val Person: PhosphorGlyph =
-            PhosphorGlyph("\uE3A8", PhosphorIconWeight.Duotone, "\uE3A8", "\uE3A8")
-        val PersonArmsSpread: PhosphorGlyph =
-            PhosphorGlyph("\uECFE", PhosphorIconWeight.Duotone, "\uECFE", "\uECFE")
-        val PersonSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE72E", PhosphorIconWeight.Duotone, "\uE72E", "\uE72E")
-        val PersonSimpleBike: PhosphorGlyph =
-            PhosphorGlyph("\uE734", PhosphorIconWeight.Duotone, "\uE734", "\uE734")
-        val PersonSimpleCircle: PhosphorGlyph =
-            PhosphorGlyph("\uEE58", PhosphorIconWeight.Duotone, "\uEE58", "\uEE58")
-        val PersonSimpleHike: PhosphorGlyph =
-            PhosphorGlyph("\uED54", PhosphorIconWeight.Duotone, "\uED54", "\uED54")
-        val PersonSimpleRun: PhosphorGlyph =
-            PhosphorGlyph("\uE730", PhosphorIconWeight.Duotone, "\uE730", "\uE730")
-        val PersonSimpleSki: PhosphorGlyph =
-            PhosphorGlyph("\uE71C", PhosphorIconWeight.Duotone, "\uE71C", "\uE71C")
-        val PersonSimpleSnowboard: PhosphorGlyph =
-            PhosphorGlyph("\uE71E", PhosphorIconWeight.Duotone, "\uE71E", "\uE71E")
-        val PersonSimpleSwim: PhosphorGlyph =
-            PhosphorGlyph("\uE736", PhosphorIconWeight.Duotone, "\uE736", "\uE736")
-        val PersonSimpleTaiChi: PhosphorGlyph =
-            PhosphorGlyph("\uED5C", PhosphorIconWeight.Duotone, "\uED5C", "\uED5C")
-        val PersonSimpleThrow: PhosphorGlyph =
-            PhosphorGlyph("\uE732", PhosphorIconWeight.Duotone, "\uE732", "\uE732")
-        val PersonSimpleWalk: PhosphorGlyph =
-            PhosphorGlyph("\uE73A", PhosphorIconWeight.Duotone, "\uE73A", "\uE73A")
-        val Perspective: PhosphorGlyph =
-            PhosphorGlyph("\uEBE6", PhosphorIconWeight.Duotone, "\uEBE6", "\uEBE6")
-        val Phone: PhosphorGlyph =
-            PhosphorGlyph("\uE3B8", PhosphorIconWeight.Duotone, "\uE3B8", "\uE3B8")
-        val PhoneCall: PhosphorGlyph =
-            PhosphorGlyph("\uE3BA", PhosphorIconWeight.Duotone, "\uE3BA", "\uE3BA")
-        val PhoneDisconnect: PhosphorGlyph =
-            PhosphorGlyph("\uE3BC", PhosphorIconWeight.Duotone, "\uE3BC", "\uE3BC")
-        val PhoneIncoming: PhosphorGlyph =
-            PhosphorGlyph("\uE3BE", PhosphorIconWeight.Duotone, "\uE3BE", "\uE3BE")
-        val PhoneList: PhosphorGlyph =
-            PhosphorGlyph("\uE3CC", PhosphorIconWeight.Duotone, "\uE3CC", "\uE3CC")
-        val PhoneOutgoing: PhosphorGlyph =
-            PhosphorGlyph("\uE3C0", PhosphorIconWeight.Duotone, "\uE3C0", "\uE3C0")
-        val PhonePause: PhosphorGlyph =
-            PhosphorGlyph("\uE3CA", PhosphorIconWeight.Duotone, "\uE3CA", "\uE3CA")
-        val PhonePlus: PhosphorGlyph =
-            PhosphorGlyph("\uEC56", PhosphorIconWeight.Duotone, "\uEC56", "\uEC56")
-        val PhoneSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE3C2", PhosphorIconWeight.Duotone, "\uE3C2", "\uE3C2")
-        val PhoneTransfer: PhosphorGlyph =
-            PhosphorGlyph("\uE3C6", PhosphorIconWeight.Duotone, "\uE3C6", "\uE3C6")
-        val PhoneX: PhosphorGlyph =
-            PhosphorGlyph("\uE3C4", PhosphorIconWeight.Duotone, "\uE3C4", "\uE3C4")
-        val PhosphorLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE3CE", PhosphorIconWeight.Duotone, "\uE3CE", "\uE3CE")
-        val Pi: PhosphorGlyph =
-            PhosphorGlyph("\uEC80", PhosphorIconWeight.Duotone, "\uEC80", "\uEC80")
-        val PianoKeys: PhosphorGlyph =
-            PhosphorGlyph("\uE9C8", PhosphorIconWeight.Duotone, "\uE9C8", "\uE9C8")
-        val PicnicTable: PhosphorGlyph =
-            PhosphorGlyph("\uEE26", PhosphorIconWeight.Duotone, "\uEE26", "\uEE26")
-        val PictureInPicture: PhosphorGlyph =
-            PhosphorGlyph("\uE64C", PhosphorIconWeight.Duotone, "\uE64C", "\uE64C")
-        val PiggyBank: PhosphorGlyph =
-            PhosphorGlyph("\uEA04", PhosphorIconWeight.Duotone, "\uEA04", "\uEA04")
-        val Pill: PhosphorGlyph =
-            PhosphorGlyph("\uE700", PhosphorIconWeight.Duotone, "\uE700", "\uE700")
-        val PingPong: PhosphorGlyph =
-            PhosphorGlyph("\uEA42", PhosphorIconWeight.Duotone, "\uEA42", "\uEA42")
-        val PintGlass: PhosphorGlyph =
-            PhosphorGlyph("\uEDD0", PhosphorIconWeight.Duotone, "\uEDD0", "\uEDD0")
-        val PinterestLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE64E", PhosphorIconWeight.Duotone, "\uE64E", "\uE64E")
-        val Pinwheel: PhosphorGlyph =
-            PhosphorGlyph("\uEB9C", PhosphorIconWeight.Duotone, "\uEB9C", "\uEB9C")
-        val Pipe: PhosphorGlyph =
-            PhosphorGlyph("\uED86", PhosphorIconWeight.Duotone, "\uED86", "\uED86")
-        val PipeWrench: PhosphorGlyph =
-            PhosphorGlyph("\uED88", PhosphorIconWeight.Duotone, "\uED88", "\uED88")
-        val PixLogo: PhosphorGlyph =
-            PhosphorGlyph("\uECC2", PhosphorIconWeight.Duotone, "\uECC2", "\uECC2")
-        val Pizza: PhosphorGlyph =
-            PhosphorGlyph("\uE796", PhosphorIconWeight.Duotone, "\uE796", "\uE796")
-        val Placeholder: PhosphorGlyph =
-            PhosphorGlyph("\uE650", PhosphorIconWeight.Duotone, "\uE650", "\uE650")
-        val Planet: PhosphorGlyph =
-            PhosphorGlyph("\uE652", PhosphorIconWeight.Duotone, "\uE652", "\uE652")
-        val Plant: PhosphorGlyph =
-            PhosphorGlyph("\uEBAE", PhosphorIconWeight.Duotone, "\uEBAE", "\uEBAE")
-        val Play: PhosphorGlyph =
-            PhosphorGlyph("\uE3D0", PhosphorIconWeight.Duotone, "\uE3D0", "\uE3D0")
-        val PlayCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE3D2", PhosphorIconWeight.Duotone, "\uE3D2", "\uE3D2")
-        val PlayPause: PhosphorGlyph =
-            PhosphorGlyph("\uE8BE", PhosphorIconWeight.Duotone, "\uE8BE", "\uE8BE")
-        val Playlist: PhosphorGlyph =
-            PhosphorGlyph("\uE6AA", PhosphorIconWeight.Duotone, "\uE6AA", "\uE6AA")
-        val Plug: PhosphorGlyph =
-            PhosphorGlyph("\uE946", PhosphorIconWeight.Duotone, "\uE946", "\uE946")
-        val PlugCharging: PhosphorGlyph =
-            PhosphorGlyph("\uEB5C", PhosphorIconWeight.Duotone, "\uEB5C", "\uEB5C")
-        val Plugs: PhosphorGlyph =
-            PhosphorGlyph("\uEB56", PhosphorIconWeight.Duotone, "\uEB56", "\uEB56")
-        val PlugsConnected: PhosphorGlyph =
-            PhosphorGlyph("\uEB5A", PhosphorIconWeight.Duotone, "\uEB5A", "\uEB5A")
-        val Plus: PhosphorGlyph =
-            PhosphorGlyph("\uE3D4", PhosphorIconWeight.Duotone, "\uE3D4", "\uE3D4")
-        val PlusCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE3D6", PhosphorIconWeight.Duotone, "\uE3D6", "\uE3D6")
-        val PlusMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE3D8", PhosphorIconWeight.Duotone, "\uE3D8", "\uE3D8")
-        val PlusSquare: PhosphorGlyph =
-            PhosphorGlyph("\uED4A", PhosphorIconWeight.Duotone, "\uED4A", "\uED4A")
-        val PokerChip: PhosphorGlyph =
-            PhosphorGlyph("\uE594", PhosphorIconWeight.Duotone, "\uE594", "\uE594")
-        val PoliceCar: PhosphorGlyph =
-            PhosphorGlyph("\uEC4A", PhosphorIconWeight.Duotone, "\uEC4A", "\uEC4A")
-        val Polygon: PhosphorGlyph =
-            PhosphorGlyph("\uE6D0", PhosphorIconWeight.Duotone, "\uE6D0", "\uE6D0")
-        val Popcorn: PhosphorGlyph =
-            PhosphorGlyph("\uEB4E", PhosphorIconWeight.Duotone, "\uEB4E", "\uEB4E")
-        val Popsicle: PhosphorGlyph =
-            PhosphorGlyph("\uEBBE", PhosphorIconWeight.Duotone, "\uEBBE", "\uEBBE")
-        val PottedPlant: PhosphorGlyph =
-            PhosphorGlyph("\uEC22", PhosphorIconWeight.Duotone, "\uEC22", "\uEC22")
-        val Power: PhosphorGlyph =
-            PhosphorGlyph("\uE3DA", PhosphorIconWeight.Duotone, "\uE3DA", "\uE3DA")
-        val Prescription: PhosphorGlyph =
-            PhosphorGlyph("\uE7A2", PhosphorIconWeight.Duotone, "\uE7A2", "\uE7A2")
-        val Presentation: PhosphorGlyph =
-            PhosphorGlyph("\uE654", PhosphorIconWeight.Duotone, "\uE654", "\uE654")
-        val PresentationChart: PhosphorGlyph =
-            PhosphorGlyph("\uE656", PhosphorIconWeight.Duotone, "\uE656", "\uE656")
-        val Printer: PhosphorGlyph =
-            PhosphorGlyph("\uE3DC", PhosphorIconWeight.Duotone, "\uE3DC", "\uE3DC")
-        val Prohibit: PhosphorGlyph =
-            PhosphorGlyph("\uE3DE", PhosphorIconWeight.Duotone, "\uE3DE", "\uE3DE")
-        val ProhibitInset: PhosphorGlyph =
-            PhosphorGlyph("\uE3E0", PhosphorIconWeight.Duotone, "\uE3E0", "\uE3E0")
-        val ProjectorScreen: PhosphorGlyph =
-            PhosphorGlyph("\uE658", PhosphorIconWeight.Duotone, "\uE658", "\uE658")
-        val ProjectorScreenChart: PhosphorGlyph =
-            PhosphorGlyph("\uE65A", PhosphorIconWeight.Duotone, "\uE65A", "\uE65A")
-        val Pulse: PhosphorGlyph =
-            PhosphorGlyph("\uE000", PhosphorIconWeight.Duotone, "\uE000", "\uE000")
-        val PushPin: PhosphorGlyph =
-            PhosphorGlyph("\uE3E2", PhosphorIconWeight.Duotone, "\uE3E2", "\uE3E2")
-        val PushPinSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE65C", PhosphorIconWeight.Duotone, "\uE65C", "\uE65C")
-        val PushPinSimpleSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE65E", PhosphorIconWeight.Duotone, "\uE65E", "\uE65E")
-        val PushPinSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE3E4", PhosphorIconWeight.Duotone, "\uE3E4", "\uE3E4")
-        val PuzzlePiece: PhosphorGlyph =
-            PhosphorGlyph("\uE596", PhosphorIconWeight.Duotone, "\uE596", "\uE596")
-        val QrCode: PhosphorGlyph =
-            PhosphorGlyph("\uE3E6", PhosphorIconWeight.Duotone, "\uE3E6", "\uE3E6")
-        val Question: PhosphorGlyph =
-            PhosphorGlyph("\uE3E8", PhosphorIconWeight.Duotone, "\uE3E8", "\uE3E8")
-        val QuestionMark: PhosphorGlyph =
-            PhosphorGlyph("\uE3E9", PhosphorIconWeight.Duotone, "\uE3E9", "\uE3E9")
-        val Queue: PhosphorGlyph =
-            PhosphorGlyph("\uE6AC", PhosphorIconWeight.Duotone, "\uE6AC", "\uE6AC")
-        val Quotes: PhosphorGlyph =
-            PhosphorGlyph("\uE660", PhosphorIconWeight.Duotone, "\uE660", "\uE660")
-        val Rabbit: PhosphorGlyph =
-            PhosphorGlyph("\uEAC2", PhosphorIconWeight.Duotone, "\uEAC2", "\uEAC2")
-        val Racquet: PhosphorGlyph =
-            PhosphorGlyph("\uEE02", PhosphorIconWeight.Duotone, "\uEE02", "\uEE02")
-        val Radical: PhosphorGlyph =
-            PhosphorGlyph("\uE3EA", PhosphorIconWeight.Duotone, "\uE3EA", "\uE3EA")
-        val Radio: PhosphorGlyph =
-            PhosphorGlyph("\uE77E", PhosphorIconWeight.Duotone, "\uE77E", "\uE77E")
-        val RadioButton: PhosphorGlyph =
-            PhosphorGlyph("\uEB08", PhosphorIconWeight.Duotone, "\uEB08", "\uEB08")
-        val Radioactive: PhosphorGlyph =
-            PhosphorGlyph("\uE9DC", PhosphorIconWeight.Duotone, "\uE9DC", "\uE9DC")
-        val Rainbow: PhosphorGlyph =
-            PhosphorGlyph("\uE598", PhosphorIconWeight.Duotone, "\uE598", "\uE598")
-        val RainbowCloud: PhosphorGlyph =
-            PhosphorGlyph("\uE59A", PhosphorIconWeight.Duotone, "\uE59A", "\uE59A")
-        val Ranking: PhosphorGlyph =
-            PhosphorGlyph("\uED62", PhosphorIconWeight.Duotone, "\uED62", "\uED62")
-        val ReadCvLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED0C", PhosphorIconWeight.Duotone, "\uED0C", "\uED0C")
-        val Receipt: PhosphorGlyph =
-            PhosphorGlyph("\uE3EC", PhosphorIconWeight.Duotone, "\uE3EC", "\uE3EC")
-        val ReceiptX: PhosphorGlyph =
-            PhosphorGlyph("\uED40", PhosphorIconWeight.Duotone, "\uED40", "\uED40")
-        val Record: PhosphorGlyph =
-            PhosphorGlyph("\uE3EE", PhosphorIconWeight.Duotone, "\uE3EE", "\uE3EE")
-        val Rectangle: PhosphorGlyph =
-            PhosphorGlyph("\uE3F0", PhosphorIconWeight.Duotone, "\uE3F0", "\uE3F0")
-        val RectangleDashed: PhosphorGlyph =
-            PhosphorGlyph("\uE3F2", PhosphorIconWeight.Duotone, "\uE3F2", "\uE3F2")
-        val Recycle: PhosphorGlyph =
-            PhosphorGlyph("\uE75A", PhosphorIconWeight.Duotone, "\uE75A", "\uE75A")
-        val RedditLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE59C", PhosphorIconWeight.Duotone, "\uE59C", "\uE59C")
-        val Repeat: PhosphorGlyph =
-            PhosphorGlyph("\uE3F6", PhosphorIconWeight.Duotone, "\uE3F6", "\uE3F6")
-        val RepeatOnce: PhosphorGlyph =
-            PhosphorGlyph("\uE3F8", PhosphorIconWeight.Duotone, "\uE3F8", "\uE3F8")
-        val ReplitLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB8A", PhosphorIconWeight.Duotone, "\uEB8A", "\uEB8A")
-        val Resize: PhosphorGlyph =
-            PhosphorGlyph("\uED6E", PhosphorIconWeight.Duotone, "\uED6E", "\uED6E")
-        val Rewind: PhosphorGlyph =
-            PhosphorGlyph("\uE6A8", PhosphorIconWeight.Duotone, "\uE6A8", "\uE6A8")
-        val RewindCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE3FA", PhosphorIconWeight.Duotone, "\uE3FA", "\uE3FA")
-        val RoadHorizon: PhosphorGlyph =
-            PhosphorGlyph("\uE838", PhosphorIconWeight.Duotone, "\uE838", "\uE838")
-        val Robot: PhosphorGlyph =
-            PhosphorGlyph("\uE762", PhosphorIconWeight.Duotone, "\uE762", "\uE762")
-        val Rocket: PhosphorGlyph =
-            PhosphorGlyph("\uE3FC", PhosphorIconWeight.Duotone, "\uE3FC", "\uE3FC")
-        val RocketLaunch: PhosphorGlyph =
-            PhosphorGlyph("\uE3FE", PhosphorIconWeight.Duotone, "\uE3FE", "\uE3FE")
-        val Rows: PhosphorGlyph =
-            PhosphorGlyph("\uE5A2", PhosphorIconWeight.Duotone, "\uE5A2", "\uE5A2")
-        val RowsPlusBottom: PhosphorGlyph =
-            PhosphorGlyph("\uE59E", PhosphorIconWeight.Duotone, "\uE59E", "\uE59E")
-        val RowsPlusTop: PhosphorGlyph =
-            PhosphorGlyph("\uE5A0", PhosphorIconWeight.Duotone, "\uE5A0", "\uE5A0")
-        val Rss: PhosphorGlyph =
-            PhosphorGlyph("\uE400", PhosphorIconWeight.Duotone, "\uE400", "\uE400")
-        val RssSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE402", PhosphorIconWeight.Duotone, "\uE402", "\uE402")
-        val Rug: PhosphorGlyph =
-            PhosphorGlyph("\uEA1A", PhosphorIconWeight.Duotone, "\uEA1A", "\uEA1A")
-        val Ruler: PhosphorGlyph =
-            PhosphorGlyph("\uE6B8", PhosphorIconWeight.Duotone, "\uE6B8", "\uE6B8")
-        val Sailboat: PhosphorGlyph =
-            PhosphorGlyph("\uE78A", PhosphorIconWeight.Duotone, "\uE78A", "\uE78A")
-        val Scales: PhosphorGlyph =
-            PhosphorGlyph("\uE750", PhosphorIconWeight.Duotone, "\uE750", "\uE750")
-        val Scan: PhosphorGlyph =
-            PhosphorGlyph("\uEBB6", PhosphorIconWeight.Duotone, "\uEBB6", "\uEBB6")
-        val ScanSmiley: PhosphorGlyph =
-            PhosphorGlyph("\uEBB4", PhosphorIconWeight.Duotone, "\uEBB4", "\uEBB4")
-        val Scissors: PhosphorGlyph =
-            PhosphorGlyph("\uEAE0", PhosphorIconWeight.Duotone, "\uEAE0", "\uEAE0")
-        val Scooter: PhosphorGlyph =
-            PhosphorGlyph("\uE820", PhosphorIconWeight.Duotone, "\uE820", "\uE820")
-        val Screencast: PhosphorGlyph =
-            PhosphorGlyph("\uE404", PhosphorIconWeight.Duotone, "\uE404", "\uE404")
-        val Screwdriver: PhosphorGlyph =
-            PhosphorGlyph("\uE86E", PhosphorIconWeight.Duotone, "\uE86E", "\uE86E")
-        val Scribble: PhosphorGlyph =
-            PhosphorGlyph("\uE806", PhosphorIconWeight.Duotone, "\uE806", "\uE806")
-        val ScribbleLoop: PhosphorGlyph =
-            PhosphorGlyph("\uE662", PhosphorIconWeight.Duotone, "\uE662", "\uE662")
-        val Scroll: PhosphorGlyph =
-            PhosphorGlyph("\uEB7A", PhosphorIconWeight.Duotone, "\uEB7A", "\uEB7A")
-        val Seal: PhosphorGlyph =
-            PhosphorGlyph("\uE604", PhosphorIconWeight.Duotone, "\uE604", "\uE604")
-        val SealCheck: PhosphorGlyph =
-            PhosphorGlyph("\uE606", PhosphorIconWeight.Duotone, "\uE606", "\uE606")
-        val SealPercent: PhosphorGlyph =
-            PhosphorGlyph("\uE60A", PhosphorIconWeight.Duotone, "\uE60A", "\uE60A")
-        val SealQuestion: PhosphorGlyph =
-            PhosphorGlyph("\uE608", PhosphorIconWeight.Duotone, "\uE608", "\uE608")
-        val SealWarning: PhosphorGlyph =
-            PhosphorGlyph("\uE60C", PhosphorIconWeight.Duotone, "\uE60C", "\uE60C")
-        val Seat: PhosphorGlyph =
-            PhosphorGlyph("\uEB8E", PhosphorIconWeight.Duotone, "\uEB8E", "\uEB8E")
-        val Seatbelt: PhosphorGlyph =
-            PhosphorGlyph("\uEDFE", PhosphorIconWeight.Duotone, "\uEDFE", "\uEDFE")
-        val SecurityCamera: PhosphorGlyph =
-            PhosphorGlyph("\uECA4", PhosphorIconWeight.Duotone, "\uECA4", "\uECA4")
-        val Selection: PhosphorGlyph =
-            PhosphorGlyph("\uE69A", PhosphorIconWeight.Duotone, "\uE69A", "\uE69A")
-        val SelectionAll: PhosphorGlyph =
-            PhosphorGlyph("\uE746", PhosphorIconWeight.Duotone, "\uE746", "\uE746")
-        val SelectionBackground: PhosphorGlyph =
-            PhosphorGlyph("\uEAF8", PhosphorIconWeight.Duotone, "\uEAF8", "\uEAF8")
-        val SelectionForeground: PhosphorGlyph =
-            PhosphorGlyph("\uEAF6", PhosphorIconWeight.Duotone, "\uEAF6", "\uEAF6")
-        val SelectionInverse: PhosphorGlyph =
-            PhosphorGlyph("\uE744", PhosphorIconWeight.Duotone, "\uE744", "\uE744")
-        val SelectionPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE69C", PhosphorIconWeight.Duotone, "\uE69C", "\uE69C")
-        val SelectionSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE69E", PhosphorIconWeight.Duotone, "\uE69E", "\uE69E")
-        val Shapes: PhosphorGlyph =
-            PhosphorGlyph("\uEC5E", PhosphorIconWeight.Duotone, "\uEC5E", "\uEC5E")
-        val Share: PhosphorGlyph =
-            PhosphorGlyph("\uE406", PhosphorIconWeight.Duotone, "\uE406", "\uE406")
-        val ShareFat: PhosphorGlyph =
-            PhosphorGlyph("\uED52", PhosphorIconWeight.Duotone, "\uED52", "\uED52")
-        val ShareNetwork: PhosphorGlyph =
-            PhosphorGlyph("\uE408", PhosphorIconWeight.Duotone, "\uE408", "\uE408")
-        val Shield: PhosphorGlyph =
-            PhosphorGlyph("\uE40A", PhosphorIconWeight.Duotone, "\uE40A", "\uE40A")
-        val ShieldCheck: PhosphorGlyph =
-            PhosphorGlyph("\uE40C", PhosphorIconWeight.Duotone, "\uE40C", "\uE40C")
-        val ShieldCheckered: PhosphorGlyph =
-            PhosphorGlyph("\uE708", PhosphorIconWeight.Duotone, "\uE708", "\uE708")
-        val ShieldChevron: PhosphorGlyph =
-            PhosphorGlyph("\uE40E", PhosphorIconWeight.Duotone, "\uE40E", "\uE40E")
-        val ShieldPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE706", PhosphorIconWeight.Duotone, "\uE706", "\uE706")
-        val ShieldSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE410", PhosphorIconWeight.Duotone, "\uE410", "\uE410")
-        val ShieldStar: PhosphorGlyph =
-            PhosphorGlyph("\uEC34", PhosphorIconWeight.Duotone, "\uEC34", "\uEC34")
-        val ShieldWarning: PhosphorGlyph =
-            PhosphorGlyph("\uE412", PhosphorIconWeight.Duotone, "\uE412", "\uE412")
-        val ShippingContainer: PhosphorGlyph =
-            PhosphorGlyph("\uE78C", PhosphorIconWeight.Duotone, "\uE78C", "\uE78C")
-        val ShirtFolded: PhosphorGlyph =
-            PhosphorGlyph("\uEA92", PhosphorIconWeight.Duotone, "\uEA92", "\uEA92")
-        val ShootingStar: PhosphorGlyph =
-            PhosphorGlyph("\uECFA", PhosphorIconWeight.Duotone, "\uECFA", "\uECFA")
-        val ShoppingBag: PhosphorGlyph =
-            PhosphorGlyph("\uE416", PhosphorIconWeight.Duotone, "\uE416", "\uE416")
-        val ShoppingBagOpen: PhosphorGlyph =
-            PhosphorGlyph("\uE418", PhosphorIconWeight.Duotone, "\uE418", "\uE418")
-        val ShoppingCart: PhosphorGlyph =
-            PhosphorGlyph("\uE41E", PhosphorIconWeight.Duotone, "\uE41E", "\uE41E")
-        val ShoppingCartSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE420", PhosphorIconWeight.Duotone, "\uE420", "\uE420")
-        val Shovel: PhosphorGlyph =
-            PhosphorGlyph("\uE9E6", PhosphorIconWeight.Duotone, "\uE9E6", "\uE9E6")
-        val Shower: PhosphorGlyph =
-            PhosphorGlyph("\uE776", PhosphorIconWeight.Duotone, "\uE776", "\uE776")
-        val Shrimp: PhosphorGlyph =
-            PhosphorGlyph("\uEAB4", PhosphorIconWeight.Duotone, "\uEAB4", "\uEAB4")
-        val Shuffle: PhosphorGlyph =
-            PhosphorGlyph("\uE422", PhosphorIconWeight.Duotone, "\uE422", "\uE422")
-        val ShuffleAngular: PhosphorGlyph =
-            PhosphorGlyph("\uE424", PhosphorIconWeight.Duotone, "\uE424", "\uE424")
-        val ShuffleSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE426", PhosphorIconWeight.Duotone, "\uE426", "\uE426")
-        val Sidebar: PhosphorGlyph =
-            PhosphorGlyph("\uEAB6", PhosphorIconWeight.Duotone, "\uEAB6", "\uEAB6")
-        val SidebarSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEC24", PhosphorIconWeight.Duotone, "\uEC24", "\uEC24")
-        val Sigma: PhosphorGlyph =
-            PhosphorGlyph("\uEAB8", PhosphorIconWeight.Duotone, "\uEAB8", "\uEAB8")
-        val SignIn: PhosphorGlyph =
-            PhosphorGlyph("\uE428", PhosphorIconWeight.Duotone, "\uE428", "\uE428")
-        val SignOut: PhosphorGlyph =
-            PhosphorGlyph("\uE42A", PhosphorIconWeight.Duotone, "\uE42A", "\uE42A")
-        val Signature: PhosphorGlyph =
-            PhosphorGlyph("\uEBAC", PhosphorIconWeight.Duotone, "\uEBAC", "\uEBAC")
-        val Signpost: PhosphorGlyph =
-            PhosphorGlyph("\uE89C", PhosphorIconWeight.Duotone, "\uE89C", "\uE89C")
-        val SimCard: PhosphorGlyph =
-            PhosphorGlyph("\uE664", PhosphorIconWeight.Duotone, "\uE664", "\uE664")
-        val Siren: PhosphorGlyph =
-            PhosphorGlyph("\uE9B8", PhosphorIconWeight.Duotone, "\uE9B8", "\uE9B8")
-        val SketchLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE42C", PhosphorIconWeight.Duotone, "\uE42C", "\uE42C")
-        val SkipBack: PhosphorGlyph =
-            PhosphorGlyph("\uE5A4", PhosphorIconWeight.Duotone, "\uE5A4", "\uE5A4")
-        val SkipBackCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE42E", PhosphorIconWeight.Duotone, "\uE42E", "\uE42E")
-        val SkipForward: PhosphorGlyph =
-            PhosphorGlyph("\uE5A6", PhosphorIconWeight.Duotone, "\uE5A6", "\uE5A6")
-        val SkipForwardCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE430", PhosphorIconWeight.Duotone, "\uE430", "\uE430")
-        val Skull: PhosphorGlyph =
-            PhosphorGlyph("\uE916", PhosphorIconWeight.Duotone, "\uE916", "\uE916")
-        val SkypeLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE8DC", PhosphorIconWeight.Duotone, "\uE8DC", "\uE8DC")
-        val SlackLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE5A8", PhosphorIconWeight.Duotone, "\uE5A8", "\uE5A8")
-        val Sliders: PhosphorGlyph =
-            PhosphorGlyph("\uE432", PhosphorIconWeight.Duotone, "\uE432", "\uE432")
-        val SlidersHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE434", PhosphorIconWeight.Duotone, "\uE434", "\uE434")
-        val Slideshow: PhosphorGlyph =
-            PhosphorGlyph("\uED32", PhosphorIconWeight.Duotone, "\uED32", "\uED32")
-        val Smiley: PhosphorGlyph =
-            PhosphorGlyph("\uE436", PhosphorIconWeight.Duotone, "\uE436", "\uE436")
-        val SmileyAngry: PhosphorGlyph =
-            PhosphorGlyph("\uEC62", PhosphorIconWeight.Duotone, "\uEC62", "\uEC62")
-        val SmileyBlank: PhosphorGlyph =
-            PhosphorGlyph("\uE438", PhosphorIconWeight.Duotone, "\uE438", "\uE438")
-        val SmileyMeh: PhosphorGlyph =
-            PhosphorGlyph("\uE43A", PhosphorIconWeight.Duotone, "\uE43A", "\uE43A")
-        val SmileyMelting: PhosphorGlyph =
-            PhosphorGlyph("\uEE56", PhosphorIconWeight.Duotone, "\uEE56", "\uEE56")
-        val SmileyNervous: PhosphorGlyph =
-            PhosphorGlyph("\uE43C", PhosphorIconWeight.Duotone, "\uE43C", "\uE43C")
-        val SmileySad: PhosphorGlyph =
-            PhosphorGlyph("\uE43E", PhosphorIconWeight.Duotone, "\uE43E", "\uE43E")
-        val SmileySticker: PhosphorGlyph =
-            PhosphorGlyph("\uE440", PhosphorIconWeight.Duotone, "\uE440", "\uE440")
-        val SmileyWink: PhosphorGlyph =
-            PhosphorGlyph("\uE666", PhosphorIconWeight.Duotone, "\uE666", "\uE666")
-        val SmileyXEyes: PhosphorGlyph =
-            PhosphorGlyph("\uE442", PhosphorIconWeight.Duotone, "\uE442", "\uE442")
-        val SnapchatLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE668", PhosphorIconWeight.Duotone, "\uE668", "\uE668")
-        val Sneaker: PhosphorGlyph =
-            PhosphorGlyph("\uE80C", PhosphorIconWeight.Duotone, "\uE80C", "\uE80C")
-        val SneakerMove: PhosphorGlyph =
-            PhosphorGlyph("\uED60", PhosphorIconWeight.Duotone, "\uED60", "\uED60")
-        val Snowflake: PhosphorGlyph =
-            PhosphorGlyph("\uE5AA", PhosphorIconWeight.Duotone, "\uE5AA", "\uE5AA")
-        val SoccerBall: PhosphorGlyph =
-            PhosphorGlyph("\uE716", PhosphorIconWeight.Duotone, "\uE716", "\uE716")
-        val Sock: PhosphorGlyph =
-            PhosphorGlyph("\uECCE", PhosphorIconWeight.Duotone, "\uECCE", "\uECCE")
-        val SolarPanel: PhosphorGlyph =
-            PhosphorGlyph("\uED7A", PhosphorIconWeight.Duotone, "\uED7A", "\uED7A")
-        val SolarRoof: PhosphorGlyph =
-            PhosphorGlyph("\uED7B", PhosphorIconWeight.Duotone, "\uED7B", "\uED7B")
-        val SortAscending: PhosphorGlyph =
-            PhosphorGlyph("\uE444", PhosphorIconWeight.Duotone, "\uE444", "\uE444")
-        val SortDescending: PhosphorGlyph =
-            PhosphorGlyph("\uE446", PhosphorIconWeight.Duotone, "\uE446", "\uE446")
-        val SoundcloudLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE8DE", PhosphorIconWeight.Duotone, "\uE8DE", "\uE8DE")
-        val Spade: PhosphorGlyph =
-            PhosphorGlyph("\uE448", PhosphorIconWeight.Duotone, "\uE448", "\uE448")
-        val Sparkle: PhosphorGlyph =
-            PhosphorGlyph("\uE6A2", PhosphorIconWeight.Duotone, "\uE6A2", "\uE6A2")
-        val SpeakerHifi: PhosphorGlyph =
-            PhosphorGlyph("\uEA08", PhosphorIconWeight.Duotone, "\uEA08", "\uEA08")
-        val SpeakerHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE44A", PhosphorIconWeight.Duotone, "\uE44A", "\uE44A")
-        val SpeakerLow: PhosphorGlyph =
-            PhosphorGlyph("\uE44C", PhosphorIconWeight.Duotone, "\uE44C", "\uE44C")
-        val SpeakerNone: PhosphorGlyph =
-            PhosphorGlyph("\uE44E", PhosphorIconWeight.Duotone, "\uE44E", "\uE44E")
-        val SpeakerSimpleHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE450", PhosphorIconWeight.Duotone, "\uE450", "\uE450")
-        val SpeakerSimpleLow: PhosphorGlyph =
-            PhosphorGlyph("\uE452", PhosphorIconWeight.Duotone, "\uE452", "\uE452")
-        val SpeakerSimpleNone: PhosphorGlyph =
-            PhosphorGlyph("\uE454", PhosphorIconWeight.Duotone, "\uE454", "\uE454")
-        val SpeakerSimpleSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE456", PhosphorIconWeight.Duotone, "\uE456", "\uE456")
-        val SpeakerSimpleX: PhosphorGlyph =
-            PhosphorGlyph("\uE458", PhosphorIconWeight.Duotone, "\uE458", "\uE458")
-        val SpeakerSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE45A", PhosphorIconWeight.Duotone, "\uE45A", "\uE45A")
-        val SpeakerX: PhosphorGlyph =
-            PhosphorGlyph("\uE45C", PhosphorIconWeight.Duotone, "\uE45C", "\uE45C")
-        val Speedometer: PhosphorGlyph =
-            PhosphorGlyph("\uEE74", PhosphorIconWeight.Duotone, "\uEE74", "\uEE74")
-        val Sphere: PhosphorGlyph =
-            PhosphorGlyph("\uEE66", PhosphorIconWeight.Duotone, "\uEE66", "\uEE66")
-        val Spinner: PhosphorGlyph =
-            PhosphorGlyph("\uE66A", PhosphorIconWeight.Duotone, "\uE66A", "\uE66A")
-        val SpinnerBall: PhosphorGlyph =
-            PhosphorGlyph("\uEE28", PhosphorIconWeight.Duotone, "\uEE28", "\uEE28")
-        val SpinnerGap: PhosphorGlyph =
-            PhosphorGlyph("\uE66C", PhosphorIconWeight.Duotone, "\uE66C", "\uE66C")
-        val Spiral: PhosphorGlyph =
-            PhosphorGlyph("\uE9FA", PhosphorIconWeight.Duotone, "\uE9FA", "\uE9FA")
-        val SplitHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE872", PhosphorIconWeight.Duotone, "\uE872", "\uE872")
-        val SplitVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE876", PhosphorIconWeight.Duotone, "\uE876", "\uE876")
-        val SpotifyLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE66E", PhosphorIconWeight.Duotone, "\uE66E", "\uE66E")
-        val SprayBottle: PhosphorGlyph =
-            PhosphorGlyph("\uE7E4", PhosphorIconWeight.Duotone, "\uE7E4", "\uE7E4")
-        val Square: PhosphorGlyph =
-            PhosphorGlyph("\uE45E", PhosphorIconWeight.Duotone, "\uE45E", "\uE45E")
-        val SquareHalf: PhosphorGlyph =
-            PhosphorGlyph("\uE462", PhosphorIconWeight.Duotone, "\uE462", "\uE462")
-        val SquareHalfBottom: PhosphorGlyph =
-            PhosphorGlyph("\uEB16", PhosphorIconWeight.Duotone, "\uEB16", "\uEB16")
-        val SquareLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE690", PhosphorIconWeight.Duotone, "\uE690", "\uE690")
-        val SquareSplitHorizontal: PhosphorGlyph =
-            PhosphorGlyph("\uE870", PhosphorIconWeight.Duotone, "\uE870", "\uE870")
-        val SquareSplitVertical: PhosphorGlyph =
-            PhosphorGlyph("\uE874", PhosphorIconWeight.Duotone, "\uE874", "\uE874")
-        val SquaresFour: PhosphorGlyph =
-            PhosphorGlyph("\uE464", PhosphorIconWeight.Duotone, "\uE464", "\uE464")
-        val Stack: PhosphorGlyph =
-            PhosphorGlyph("\uE466", PhosphorIconWeight.Duotone, "\uE466", "\uE466")
-        val StackMinus: PhosphorGlyph =
-            PhosphorGlyph("\uEDF4", PhosphorIconWeight.Duotone, "\uEDF4", "\uEDF4")
-        val StackOverflowLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEB78", PhosphorIconWeight.Duotone, "\uEB78", "\uEB78")
-        val StackPlus: PhosphorGlyph =
-            PhosphorGlyph("\uEDF6", PhosphorIconWeight.Duotone, "\uEDF6", "\uEDF6")
-        val StackSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE468", PhosphorIconWeight.Duotone, "\uE468", "\uE468")
-        val Stairs: PhosphorGlyph =
-            PhosphorGlyph("\uE8EC", PhosphorIconWeight.Duotone, "\uE8EC", "\uE8EC")
-        val Stamp: PhosphorGlyph =
-            PhosphorGlyph("\uEA48", PhosphorIconWeight.Duotone, "\uEA48", "\uEA48")
-        val StandardDefinition: PhosphorGlyph =
-            PhosphorGlyph("\uEA90", PhosphorIconWeight.Duotone, "\uEA90", "\uEA90")
-        val Star: PhosphorGlyph =
-            PhosphorGlyph("\uE46A", PhosphorIconWeight.Duotone, "\uE46A", "\uE46A")
-        val StarAndCrescent: PhosphorGlyph =
-            PhosphorGlyph("\uECF4", PhosphorIconWeight.Duotone, "\uECF4", "\uECF4")
-        val StarFour: PhosphorGlyph =
-            PhosphorGlyph("\uE6A4", PhosphorIconWeight.Duotone, "\uE6A4", "\uE6A4")
-        val StarHalf: PhosphorGlyph =
-            PhosphorGlyph("\uE70A", PhosphorIconWeight.Duotone, "\uE70A", "\uE70A")
-        val StarOfDavid: PhosphorGlyph =
-            PhosphorGlyph("\uE89E", PhosphorIconWeight.Duotone, "\uE89E", "\uE89E")
-        val SteamLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEAD4", PhosphorIconWeight.Duotone, "\uEAD4", "\uEAD4")
-        val SteeringWheel: PhosphorGlyph =
-            PhosphorGlyph("\uE9AC", PhosphorIconWeight.Duotone, "\uE9AC", "\uE9AC")
-        val Steps: PhosphorGlyph =
-            PhosphorGlyph("\uECBE", PhosphorIconWeight.Duotone, "\uECBE", "\uECBE")
-        val Stethoscope: PhosphorGlyph =
-            PhosphorGlyph("\uE7EA", PhosphorIconWeight.Duotone, "\uE7EA", "\uE7EA")
-        val Sticker: PhosphorGlyph =
-            PhosphorGlyph("\uE5AC", PhosphorIconWeight.Duotone, "\uE5AC", "\uE5AC")
-        val Stool: PhosphorGlyph =
-            PhosphorGlyph("\uEA44", PhosphorIconWeight.Duotone, "\uEA44", "\uEA44")
-        val Stop: PhosphorGlyph =
-            PhosphorGlyph("\uE46C", PhosphorIconWeight.Duotone, "\uE46C", "\uE46C")
-        val StopCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE46E", PhosphorIconWeight.Duotone, "\uE46E", "\uE46E")
-        val Storefront: PhosphorGlyph =
-            PhosphorGlyph("\uE470", PhosphorIconWeight.Duotone, "\uE470", "\uE470")
-        val Strategy: PhosphorGlyph =
-            PhosphorGlyph("\uEA3A", PhosphorIconWeight.Duotone, "\uEA3A", "\uEA3A")
-        val StripeLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE698", PhosphorIconWeight.Duotone, "\uE698", "\uE698")
-        val Student: PhosphorGlyph =
-            PhosphorGlyph("\uE73E", PhosphorIconWeight.Duotone, "\uE73E", "\uE73E")
-        val SubsetOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDC0", PhosphorIconWeight.Duotone, "\uEDC0", "\uEDC0")
-        val SubsetProperOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDB6", PhosphorIconWeight.Duotone, "\uEDB6", "\uEDB6")
-        val Subtitles: PhosphorGlyph =
-            PhosphorGlyph("\uE1A8", PhosphorIconWeight.Duotone, "\uE1A8", "\uE1A8")
-        val SubtitlesSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE1A6", PhosphorIconWeight.Duotone, "\uE1A6", "\uE1A6")
-        val Subtract: PhosphorGlyph =
-            PhosphorGlyph("\uEBD6", PhosphorIconWeight.Duotone, "\uEBD6", "\uEBD6")
-        val SubtractSquare: PhosphorGlyph =
-            PhosphorGlyph("\uEBD4", PhosphorIconWeight.Duotone, "\uEBD4", "\uEBD4")
-        val Subway: PhosphorGlyph =
-            PhosphorGlyph("\uE498", PhosphorIconWeight.Duotone, "\uE498", "\uE498")
-        val Suitcase: PhosphorGlyph =
-            PhosphorGlyph("\uE5AE", PhosphorIconWeight.Duotone, "\uE5AE", "\uE5AE")
-        val SuitcaseRolling: PhosphorGlyph =
-            PhosphorGlyph("\uE9B0", PhosphorIconWeight.Duotone, "\uE9B0", "\uE9B0")
-        val SuitcaseSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5B0", PhosphorIconWeight.Duotone, "\uE5B0", "\uE5B0")
-        val Sun: PhosphorGlyph =
-            PhosphorGlyph("\uE472", PhosphorIconWeight.Duotone, "\uE472", "\uE472")
-        val SunDim: PhosphorGlyph =
-            PhosphorGlyph("\uE474", PhosphorIconWeight.Duotone, "\uE474", "\uE474")
-        val SunHorizon: PhosphorGlyph =
-            PhosphorGlyph("\uE5B6", PhosphorIconWeight.Duotone, "\uE5B6", "\uE5B6")
-        val Sunglasses: PhosphorGlyph =
-            PhosphorGlyph("\uE816", PhosphorIconWeight.Duotone, "\uE816", "\uE816")
-        val SupersetOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDB8", PhosphorIconWeight.Duotone, "\uEDB8", "\uEDB8")
-        val SupersetProperOf: PhosphorGlyph =
-            PhosphorGlyph("\uEDB4", PhosphorIconWeight.Duotone, "\uEDB4", "\uEDB4")
-        val Swap: PhosphorGlyph =
-            PhosphorGlyph("\uE83C", PhosphorIconWeight.Duotone, "\uE83C", "\uE83C")
-        val Swatches: PhosphorGlyph =
-            PhosphorGlyph("\uE5B8", PhosphorIconWeight.Duotone, "\uE5B8", "\uE5B8")
-        val SwimmingPool: PhosphorGlyph =
-            PhosphorGlyph("\uECB6", PhosphorIconWeight.Duotone, "\uECB6", "\uECB6")
-        val Sword: PhosphorGlyph =
-            PhosphorGlyph("\uE5BA", PhosphorIconWeight.Duotone, "\uE5BA", "\uE5BA")
-        val Synagogue: PhosphorGlyph =
-            PhosphorGlyph("\uECEC", PhosphorIconWeight.Duotone, "\uECEC", "\uECEC")
-        val Syringe: PhosphorGlyph =
-            PhosphorGlyph("\uE968", PhosphorIconWeight.Duotone, "\uE968", "\uE968")
-        val TShirt: PhosphorGlyph =
-            PhosphorGlyph("\uE670", PhosphorIconWeight.Duotone, "\uE670", "\uE670")
-        val Table: PhosphorGlyph =
-            PhosphorGlyph("\uE476", PhosphorIconWeight.Duotone, "\uE476", "\uE476")
-        val Tabs: PhosphorGlyph =
-            PhosphorGlyph("\uE778", PhosphorIconWeight.Duotone, "\uE778", "\uE778")
-        val Tag: PhosphorGlyph =
-            PhosphorGlyph("\uE478", PhosphorIconWeight.Duotone, "\uE478", "\uE478")
-        val TagChevron: PhosphorGlyph =
-            PhosphorGlyph("\uE672", PhosphorIconWeight.Duotone, "\uE672", "\uE672")
-        val TagSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE47A", PhosphorIconWeight.Duotone, "\uE47A", "\uE47A")
-        val Target: PhosphorGlyph =
-            PhosphorGlyph("\uE47C", PhosphorIconWeight.Duotone, "\uE47C", "\uE47C")
-        val Taxi: PhosphorGlyph =
-            PhosphorGlyph("\uE902", PhosphorIconWeight.Duotone, "\uE902", "\uE902")
-        val TeaBag: PhosphorGlyph =
-            PhosphorGlyph("\uE8E6", PhosphorIconWeight.Duotone, "\uE8E6", "\uE8E6")
-        val TelegramLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE5BC", PhosphorIconWeight.Duotone, "\uE5BC", "\uE5BC")
-        val Television: PhosphorGlyph =
-            PhosphorGlyph("\uE754", PhosphorIconWeight.Duotone, "\uE754", "\uE754")
-        val TelevisionSimple: PhosphorGlyph =
-            PhosphorGlyph("\uEAE6", PhosphorIconWeight.Duotone, "\uEAE6", "\uEAE6")
-        val TennisBall: PhosphorGlyph =
-            PhosphorGlyph("\uE720", PhosphorIconWeight.Duotone, "\uE720", "\uE720")
-        val Tent: PhosphorGlyph =
-            PhosphorGlyph("\uE8BA", PhosphorIconWeight.Duotone, "\uE8BA", "\uE8BA")
-        val Terminal: PhosphorGlyph =
-            PhosphorGlyph("\uE47E", PhosphorIconWeight.Duotone, "\uE47E", "\uE47E")
-        val TerminalWindow: PhosphorGlyph =
-            PhosphorGlyph("\uEAE8", PhosphorIconWeight.Duotone, "\uEAE8", "\uEAE8")
-        val TestTube: PhosphorGlyph =
-            PhosphorGlyph("\uE7A0", PhosphorIconWeight.Duotone, "\uE7A0", "\uE7A0")
-        val TextAUnderline: PhosphorGlyph =
-            PhosphorGlyph("\uED34", PhosphorIconWeight.Duotone, "\uED34", "\uED34")
-        val TextAa: PhosphorGlyph =
-            PhosphorGlyph("\uE6EE", PhosphorIconWeight.Duotone, "\uE6EE", "\uE6EE")
-        val TextAlignCenter: PhosphorGlyph =
-            PhosphorGlyph("\uE480", PhosphorIconWeight.Duotone, "\uE480", "\uE480")
-        val TextAlignJustify: PhosphorGlyph =
-            PhosphorGlyph("\uE482", PhosphorIconWeight.Duotone, "\uE482", "\uE482")
-        val TextAlignLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE484", PhosphorIconWeight.Duotone, "\uE484", "\uE484")
-        val TextAlignRight: PhosphorGlyph =
-            PhosphorGlyph("\uE486", PhosphorIconWeight.Duotone, "\uE486", "\uE486")
-        val TextB: PhosphorGlyph =
-            PhosphorGlyph("\uE5BE", PhosphorIconWeight.Duotone, "\uE5BE", "\uE5BE")
-        val TextColumns: PhosphorGlyph =
-            PhosphorGlyph("\uEC96", PhosphorIconWeight.Duotone, "\uEC96", "\uEC96")
-        val TextH: PhosphorGlyph =
-            PhosphorGlyph("\uE6BA", PhosphorIconWeight.Duotone, "\uE6BA", "\uE6BA")
-        val TextHFive: PhosphorGlyph =
-            PhosphorGlyph("\uE6C4", PhosphorIconWeight.Duotone, "\uE6C4", "\uE6C4")
-        val TextHFour: PhosphorGlyph =
-            PhosphorGlyph("\uE6C2", PhosphorIconWeight.Duotone, "\uE6C2", "\uE6C2")
-        val TextHOne: PhosphorGlyph =
-            PhosphorGlyph("\uE6BC", PhosphorIconWeight.Duotone, "\uE6BC", "\uE6BC")
-        val TextHSix: PhosphorGlyph =
-            PhosphorGlyph("\uE6C6", PhosphorIconWeight.Duotone, "\uE6C6", "\uE6C6")
-        val TextHThree: PhosphorGlyph =
-            PhosphorGlyph("\uE6C0", PhosphorIconWeight.Duotone, "\uE6C0", "\uE6C0")
-        val TextHTwo: PhosphorGlyph =
-            PhosphorGlyph("\uE6BE", PhosphorIconWeight.Duotone, "\uE6BE", "\uE6BE")
-        val TextIndent: PhosphorGlyph =
-            PhosphorGlyph("\uEA1E", PhosphorIconWeight.Duotone, "\uEA1E", "\uEA1E")
-        val TextItalic: PhosphorGlyph =
-            PhosphorGlyph("\uE5C0", PhosphorIconWeight.Duotone, "\uE5C0", "\uE5C0")
-        val TextOutdent: PhosphorGlyph =
-            PhosphorGlyph("\uEA1C", PhosphorIconWeight.Duotone, "\uEA1C", "\uEA1C")
-        val TextStrikethrough: PhosphorGlyph =
-            PhosphorGlyph("\uE5C2", PhosphorIconWeight.Duotone, "\uE5C2", "\uE5C2")
-        val TextSubscript: PhosphorGlyph =
-            PhosphorGlyph("\uEC98", PhosphorIconWeight.Duotone, "\uEC98", "\uEC98")
-        val TextSuperscript: PhosphorGlyph =
-            PhosphorGlyph("\uEC9A", PhosphorIconWeight.Duotone, "\uEC9A", "\uEC9A")
-        val TextT: PhosphorGlyph =
-            PhosphorGlyph("\uE48A", PhosphorIconWeight.Duotone, "\uE48A", "\uE48A")
-        val TextTSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE488", PhosphorIconWeight.Duotone, "\uE488", "\uE488")
-        val TextUnderline: PhosphorGlyph =
-            PhosphorGlyph("\uE5C4", PhosphorIconWeight.Duotone, "\uE5C4", "\uE5C4")
-        val Textbox: PhosphorGlyph =
-            PhosphorGlyph("\uEB0A", PhosphorIconWeight.Duotone, "\uEB0A", "\uEB0A")
-        val Thermometer: PhosphorGlyph =
-            PhosphorGlyph("\uE5C6", PhosphorIconWeight.Duotone, "\uE5C6", "\uE5C6")
-        val ThermometerCold: PhosphorGlyph =
-            PhosphorGlyph("\uE5C8", PhosphorIconWeight.Duotone, "\uE5C8", "\uE5C8")
-        val ThermometerHot: PhosphorGlyph =
-            PhosphorGlyph("\uE5CA", PhosphorIconWeight.Duotone, "\uE5CA", "\uE5CA")
-        val ThermometerSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE5CC", PhosphorIconWeight.Duotone, "\uE5CC", "\uE5CC")
-        val ThreadsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED9E", PhosphorIconWeight.Duotone, "\uED9E", "\uED9E")
-        val ThreeD: PhosphorGlyph =
-            PhosphorGlyph("\uEA5A", PhosphorIconWeight.Duotone, "\uEA5A", "\uEA5A")
-        val ThumbsDown: PhosphorGlyph =
-            PhosphorGlyph("\uE48C", PhosphorIconWeight.Duotone, "\uE48C", "\uE48C")
-        val ThumbsUp: PhosphorGlyph =
-            PhosphorGlyph("\uE48E", PhosphorIconWeight.Duotone, "\uE48E", "\uE48E")
-        val Ticket: PhosphorGlyph =
-            PhosphorGlyph("\uE490", PhosphorIconWeight.Duotone, "\uE490", "\uE490")
-        val TidalLogo: PhosphorGlyph =
-            PhosphorGlyph("\uED1C", PhosphorIconWeight.Duotone, "\uED1C", "\uED1C")
-        val TiktokLogo: PhosphorGlyph =
-            PhosphorGlyph("\uEAF2", PhosphorIconWeight.Duotone, "\uEAF2", "\uEAF2")
-        val Tilde: PhosphorGlyph =
-            PhosphorGlyph("\uEDA8", PhosphorIconWeight.Duotone, "\uEDA8", "\uEDA8")
-        val Timer: PhosphorGlyph =
-            PhosphorGlyph("\uE492", PhosphorIconWeight.Duotone, "\uE492", "\uE492")
-        val TipJar: PhosphorGlyph =
-            PhosphorGlyph("\uE7E2", PhosphorIconWeight.Duotone, "\uE7E2", "\uE7E2")
-        val Tipi: PhosphorGlyph =
-            PhosphorGlyph("\uED30", PhosphorIconWeight.Duotone, "\uED30", "\uED30")
-        val Tire: PhosphorGlyph =
-            PhosphorGlyph("\uEDD2", PhosphorIconWeight.Duotone, "\uEDD2", "\uEDD2")
-        val ToggleLeft: PhosphorGlyph =
-            PhosphorGlyph("\uE674", PhosphorIconWeight.Duotone, "\uE674", "\uE674")
-        val ToggleRight: PhosphorGlyph =
-            PhosphorGlyph("\uE676", PhosphorIconWeight.Duotone, "\uE676", "\uE676")
-        val Toilet: PhosphorGlyph =
-            PhosphorGlyph("\uE79A", PhosphorIconWeight.Duotone, "\uE79A", "\uE79A")
-        val ToiletPaper: PhosphorGlyph =
-            PhosphorGlyph("\uE79C", PhosphorIconWeight.Duotone, "\uE79C", "\uE79C")
-        val Toolbox: PhosphorGlyph =
-            PhosphorGlyph("\uECA0", PhosphorIconWeight.Duotone, "\uECA0", "\uECA0")
-        val Tooth: PhosphorGlyph =
-            PhosphorGlyph("\uE9CC", PhosphorIconWeight.Duotone, "\uE9CC", "\uE9CC")
-        val Tornado: PhosphorGlyph =
-            PhosphorGlyph("\uE88C", PhosphorIconWeight.Duotone, "\uE88C", "\uE88C")
-        val Tote: PhosphorGlyph =
-            PhosphorGlyph("\uE494", PhosphorIconWeight.Duotone, "\uE494", "\uE494")
-        val ToteSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE678", PhosphorIconWeight.Duotone, "\uE678", "\uE678")
-        val Towel: PhosphorGlyph =
-            PhosphorGlyph("\uEDE6", PhosphorIconWeight.Duotone, "\uEDE6", "\uEDE6")
-        val Tractor: PhosphorGlyph =
-            PhosphorGlyph("\uEC6E", PhosphorIconWeight.Duotone, "\uEC6E", "\uEC6E")
-        val Trademark: PhosphorGlyph =
-            PhosphorGlyph("\uE9F0", PhosphorIconWeight.Duotone, "\uE9F0", "\uE9F0")
-        val TrademarkRegistered: PhosphorGlyph =
-            PhosphorGlyph("\uE3F4", PhosphorIconWeight.Duotone, "\uE3F4", "\uE3F4")
-        val TrafficCone: PhosphorGlyph =
-            PhosphorGlyph("\uE9A8", PhosphorIconWeight.Duotone, "\uE9A8", "\uE9A8")
-        val TrafficSign: PhosphorGlyph =
-            PhosphorGlyph("\uE67A", PhosphorIconWeight.Duotone, "\uE67A", "\uE67A")
-        val TrafficSignal: PhosphorGlyph =
-            PhosphorGlyph("\uE9AA", PhosphorIconWeight.Duotone, "\uE9AA", "\uE9AA")
-        val Train: PhosphorGlyph =
-            PhosphorGlyph("\uE496", PhosphorIconWeight.Duotone, "\uE496", "\uE496")
-        val TrainRegional: PhosphorGlyph =
-            PhosphorGlyph("\uE49E", PhosphorIconWeight.Duotone, "\uE49E", "\uE49E")
-        val TrainSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE4A0", PhosphorIconWeight.Duotone, "\uE4A0", "\uE4A0")
-        val Tram: PhosphorGlyph =
-            PhosphorGlyph("\uE9EC", PhosphorIconWeight.Duotone, "\uE9EC", "\uE9EC")
-        val Translate: PhosphorGlyph =
-            PhosphorGlyph("\uE4A2", PhosphorIconWeight.Duotone, "\uE4A2", "\uE4A2")
-        val Trash: PhosphorGlyph =
-            PhosphorGlyph("\uE4A6", PhosphorIconWeight.Duotone, "\uE4A6", "\uE4A6")
-        val TrashSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE4A8", PhosphorIconWeight.Duotone, "\uE4A8", "\uE4A8")
-        val Tray: PhosphorGlyph =
-            PhosphorGlyph("\uE4AA", PhosphorIconWeight.Duotone, "\uE4AA", "\uE4AA")
-        val TrayArrowDown: PhosphorGlyph =
-            PhosphorGlyph("\uE010", PhosphorIconWeight.Duotone, "\uE010", "\uE010")
-        val TrayArrowUp: PhosphorGlyph =
-            PhosphorGlyph("\uEE52", PhosphorIconWeight.Duotone, "\uEE52", "\uEE52")
-        val TreasureChest: PhosphorGlyph =
-            PhosphorGlyph("\uEDE2", PhosphorIconWeight.Duotone, "\uEDE2", "\uEDE2")
-        val Tree: PhosphorGlyph =
-            PhosphorGlyph("\uE6DA", PhosphorIconWeight.Duotone, "\uE6DA", "\uE6DA")
-        val TreeEvergreen: PhosphorGlyph =
-            PhosphorGlyph("\uE6DC", PhosphorIconWeight.Duotone, "\uE6DC", "\uE6DC")
-        val TreePalm: PhosphorGlyph =
-            PhosphorGlyph("\uE91A", PhosphorIconWeight.Duotone, "\uE91A", "\uE91A")
-        val TreeStructure: PhosphorGlyph =
-            PhosphorGlyph("\uE67C", PhosphorIconWeight.Duotone, "\uE67C", "\uE67C")
-        val TreeView: PhosphorGlyph =
-            PhosphorGlyph("\uEE48", PhosphorIconWeight.Duotone, "\uEE48", "\uEE48")
-        val TrendDown: PhosphorGlyph =
-            PhosphorGlyph("\uE4AC", PhosphorIconWeight.Duotone, "\uE4AC", "\uE4AC")
-        val TrendUp: PhosphorGlyph =
-            PhosphorGlyph("\uE4AE", PhosphorIconWeight.Duotone, "\uE4AE", "\uE4AE")
-        val Triangle: PhosphorGlyph =
-            PhosphorGlyph("\uE4B0", PhosphorIconWeight.Duotone, "\uE4B0", "\uE4B0")
-        val TriangleDashed: PhosphorGlyph =
-            PhosphorGlyph("\uE4B2", PhosphorIconWeight.Duotone, "\uE4B2", "\uE4B2")
-        val Trolley: PhosphorGlyph =
-            PhosphorGlyph("\uE5B2", PhosphorIconWeight.Duotone, "\uE5B2", "\uE5B2")
-        val TrolleySuitcase: PhosphorGlyph =
-            PhosphorGlyph("\uE5B4", PhosphorIconWeight.Duotone, "\uE5B4", "\uE5B4")
-        val Trophy: PhosphorGlyph =
-            PhosphorGlyph("\uE67E", PhosphorIconWeight.Duotone, "\uE67E", "\uE67E")
-        val Truck: PhosphorGlyph =
-            PhosphorGlyph("\uE4B4", PhosphorIconWeight.Duotone, "\uE4B4", "\uE4B4")
-        val TruckTrailer: PhosphorGlyph =
-            PhosphorGlyph("\uE4B6", PhosphorIconWeight.Duotone, "\uE4B6", "\uE4B6")
-        val TumblrLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE8D4", PhosphorIconWeight.Duotone, "\uE8D4", "\uE8D4")
-        val TwitchLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE5CE", PhosphorIconWeight.Duotone, "\uE5CE", "\uE5CE")
-        val TwitterLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE4BA", PhosphorIconWeight.Duotone, "\uE4BA", "\uE4BA")
-        val Umbrella: PhosphorGlyph =
-            PhosphorGlyph("\uE684", PhosphorIconWeight.Duotone, "\uE684", "\uE684")
-        val UmbrellaSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE686", PhosphorIconWeight.Duotone, "\uE686", "\uE686")
-        val Union: PhosphorGlyph =
-            PhosphorGlyph("\uEDBE", PhosphorIconWeight.Duotone, "\uEDBE", "\uEDBE")
-        val Unite: PhosphorGlyph =
-            PhosphorGlyph("\uE87E", PhosphorIconWeight.Duotone, "\uE87E", "\uE87E")
-        val UniteSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE878", PhosphorIconWeight.Duotone, "\uE878", "\uE878")
-        val Upload: PhosphorGlyph =
-            PhosphorGlyph("\uE4BE", PhosphorIconWeight.Duotone, "\uE4BE", "\uE4BE")
-        val UploadSimple: PhosphorGlyph =
-            PhosphorGlyph("\uE4C0", PhosphorIconWeight.Duotone, "\uE4C0", "\uE4C0")
-        val Usb: PhosphorGlyph =
-            PhosphorGlyph("\uE956", PhosphorIconWeight.Duotone, "\uE956", "\uE956")
-        val User: PhosphorGlyph =
-            PhosphorGlyph("\uE4C2", PhosphorIconWeight.Duotone, "\uE4C2", "\uE4C2")
-        val UserCheck: PhosphorGlyph =
-            PhosphorGlyph("\uEAFA", PhosphorIconWeight.Duotone, "\uEAFA", "\uEAFA")
-        val UserCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE4C4", PhosphorIconWeight.Duotone, "\uE4C4", "\uE4C4")
-        val UserCircleCheck: PhosphorGlyph =
-            PhosphorGlyph("\uEC38", PhosphorIconWeight.Duotone, "\uEC38", "\uEC38")
-        val UserCircleDashed: PhosphorGlyph =
-            PhosphorGlyph("\uEC36", PhosphorIconWeight.Duotone, "\uEC36", "\uEC36")
-        val UserCircleGear: PhosphorGlyph =
-            PhosphorGlyph("\uE4C6", PhosphorIconWeight.Duotone, "\uE4C6", "\uE4C6")
-        val UserCircleMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE4C8", PhosphorIconWeight.Duotone, "\uE4C8", "\uE4C8")
-        val UserCirclePlus: PhosphorGlyph =
-            PhosphorGlyph("\uE4CA", PhosphorIconWeight.Duotone, "\uE4CA", "\uE4CA")
-        val UserFocus: PhosphorGlyph =
-            PhosphorGlyph("\uE6FC", PhosphorIconWeight.Duotone, "\uE6FC", "\uE6FC")
-        val UserGear: PhosphorGlyph =
-            PhosphorGlyph("\uE4CC", PhosphorIconWeight.Duotone, "\uE4CC", "\uE4CC")
-        val UserList: PhosphorGlyph =
-            PhosphorGlyph("\uE73C", PhosphorIconWeight.Duotone, "\uE73C", "\uE73C")
-        val UserMinus: PhosphorGlyph =
-            PhosphorGlyph("\uE4CE", PhosphorIconWeight.Duotone, "\uE4CE", "\uE4CE")
-        val UserPlus: PhosphorGlyph =
-            PhosphorGlyph("\uE4D0", PhosphorIconWeight.Duotone, "\uE4D0", "\uE4D0")
-        val UserRectangle: PhosphorGlyph =
-            PhosphorGlyph("\uE4D2", PhosphorIconWeight.Duotone, "\uE4D2", "\uE4D2")
-        val UserSound: PhosphorGlyph =
-            PhosphorGlyph("\uECA8", PhosphorIconWeight.Duotone, "\uECA8", "\uECA8")
-        val UserSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE4D4", PhosphorIconWeight.Duotone, "\uE4D4", "\uE4D4")
-        val UserSwitch: PhosphorGlyph =
-            PhosphorGlyph("\uE756", PhosphorIconWeight.Duotone, "\uE756", "\uE756")
-        val Users: PhosphorGlyph =
-            PhosphorGlyph("\uE4D6", PhosphorIconWeight.Duotone, "\uE4D6", "\uE4D6")
-        val UsersFour: PhosphorGlyph =
-            PhosphorGlyph("\uE68C", PhosphorIconWeight.Duotone, "\uE68C", "\uE68C")
-        val UsersThree: PhosphorGlyph =
-            PhosphorGlyph("\uE68E", PhosphorIconWeight.Duotone, "\uE68E", "\uE68E")
-        val Van: PhosphorGlyph =
-            PhosphorGlyph("\uE826", PhosphorIconWeight.Duotone, "\uE826", "\uE826")
-        val Vault: PhosphorGlyph =
-            PhosphorGlyph("\uE76E", PhosphorIconWeight.Duotone, "\uE76E", "\uE76E")
-        val VectorThree: PhosphorGlyph =
-            PhosphorGlyph("\uEE62", PhosphorIconWeight.Duotone, "\uEE62", "\uEE62")
-        val VectorTwo: PhosphorGlyph =
-            PhosphorGlyph("\uEE64", PhosphorIconWeight.Duotone, "\uEE64", "\uEE64")
-        val Vibrate: PhosphorGlyph =
-            PhosphorGlyph("\uE4D8", PhosphorIconWeight.Duotone, "\uE4D8", "\uE4D8")
-        val Video: PhosphorGlyph =
-            PhosphorGlyph("\uE740", PhosphorIconWeight.Duotone, "\uE740", "\uE740")
-        val VideoCamera: PhosphorGlyph =
-            PhosphorGlyph("\uE4DA", PhosphorIconWeight.Duotone, "\uE4DA", "\uE4DA")
-        val VideoCameraSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE4DC", PhosphorIconWeight.Duotone, "\uE4DC", "\uE4DC")
-        val VideoConference: PhosphorGlyph =
-            PhosphorGlyph("\uEDCE", PhosphorIconWeight.Duotone, "\uEDCE", "\uEDCE")
-        val Vignette: PhosphorGlyph =
-            PhosphorGlyph("\uEBA2", PhosphorIconWeight.Duotone, "\uEBA2", "\uEBA2")
-        val VinylRecord: PhosphorGlyph =
-            PhosphorGlyph("\uECAC", PhosphorIconWeight.Duotone, "\uECAC", "\uECAC")
-        val VirtualReality: PhosphorGlyph =
-            PhosphorGlyph("\uE7B8", PhosphorIconWeight.Duotone, "\uE7B8", "\uE7B8")
-        val Virus: PhosphorGlyph =
-            PhosphorGlyph("\uE7D6", PhosphorIconWeight.Duotone, "\uE7D6", "\uE7D6")
-        val Visor: PhosphorGlyph =
-            PhosphorGlyph("\uEE2A", PhosphorIconWeight.Duotone, "\uEE2A", "\uEE2A")
-        val Voicemail: PhosphorGlyph =
-            PhosphorGlyph("\uE4DE", PhosphorIconWeight.Duotone, "\uE4DE", "\uE4DE")
-        val Volleyball: PhosphorGlyph =
-            PhosphorGlyph("\uE726", PhosphorIconWeight.Duotone, "\uE726", "\uE726")
-        val Wall: PhosphorGlyph =
-            PhosphorGlyph("\uE688", PhosphorIconWeight.Duotone, "\uE688", "\uE688")
-        val Wallet: PhosphorGlyph =
-            PhosphorGlyph("\uE68A", PhosphorIconWeight.Duotone, "\uE68A", "\uE68A")
-        val Warehouse: PhosphorGlyph =
-            PhosphorGlyph("\uECD4", PhosphorIconWeight.Duotone, "\uECD4", "\uECD4")
-        val Warning: PhosphorGlyph =
-            PhosphorGlyph("\uE4E0", PhosphorIconWeight.Duotone, "\uE4E0", "\uE4E0")
-        val WarningCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE4E2", PhosphorIconWeight.Duotone, "\uE4E2", "\uE4E2")
-        val WarningDiamond: PhosphorGlyph =
-            PhosphorGlyph("\uE7FC", PhosphorIconWeight.Duotone, "\uE7FC", "\uE7FC")
-        val WarningOctagon: PhosphorGlyph =
-            PhosphorGlyph("\uE4E4", PhosphorIconWeight.Duotone, "\uE4E4", "\uE4E4")
-        val WashingMachine: PhosphorGlyph =
-            PhosphorGlyph("\uEDE8", PhosphorIconWeight.Duotone, "\uEDE8", "\uEDE8")
-        val Watch: PhosphorGlyph =
-            PhosphorGlyph("\uE4E6", PhosphorIconWeight.Duotone, "\uE4E6", "\uE4E6")
-        val WaveSawtooth: PhosphorGlyph =
-            PhosphorGlyph("\uEA9C", PhosphorIconWeight.Duotone, "\uEA9C", "\uEA9C")
-        val WaveSine: PhosphorGlyph =
-            PhosphorGlyph("\uEA9A", PhosphorIconWeight.Duotone, "\uEA9A", "\uEA9A")
-        val WaveSquare: PhosphorGlyph =
-            PhosphorGlyph("\uEA9E", PhosphorIconWeight.Duotone, "\uEA9E", "\uEA9E")
-        val WaveTriangle: PhosphorGlyph =
-            PhosphorGlyph("\uEAA0", PhosphorIconWeight.Duotone, "\uEAA0", "\uEAA0")
-        val Waveform: PhosphorGlyph =
-            PhosphorGlyph("\uE802", PhosphorIconWeight.Duotone, "\uE802", "\uE802")
-        val WaveformSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE800", PhosphorIconWeight.Duotone, "\uE800", "\uE800")
-        val Waves: PhosphorGlyph =
-            PhosphorGlyph("\uE6DE", PhosphorIconWeight.Duotone, "\uE6DE", "\uE6DE")
-        val Webcam: PhosphorGlyph =
-            PhosphorGlyph("\uE9B2", PhosphorIconWeight.Duotone, "\uE9B2", "\uE9B2")
-        val WebcamSlash: PhosphorGlyph =
-            PhosphorGlyph("\uECDC", PhosphorIconWeight.Duotone, "\uECDC", "\uECDC")
-        val WebhooksLogo: PhosphorGlyph =
-            PhosphorGlyph("\uECAE", PhosphorIconWeight.Duotone, "\uECAE", "\uECAE")
-        val WechatLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE8D2", PhosphorIconWeight.Duotone, "\uE8D2", "\uE8D2")
-        val WhatsappLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE5D0", PhosphorIconWeight.Duotone, "\uE5D0", "\uE5D0")
-        val Wheelchair: PhosphorGlyph =
-            PhosphorGlyph("\uE4E8", PhosphorIconWeight.Duotone, "\uE4E8", "\uE4E8")
-        val WheelchairMotion: PhosphorGlyph =
-            PhosphorGlyph("\uE89A", PhosphorIconWeight.Duotone, "\uE89A", "\uE89A")
-        val WifiHigh: PhosphorGlyph =
-            PhosphorGlyph("\uE4EA", PhosphorIconWeight.Duotone, "\uE4EA", "\uE4EA")
-        val WifiLow: PhosphorGlyph =
-            PhosphorGlyph("\uE4EC", PhosphorIconWeight.Duotone, "\uE4EC", "\uE4EC")
-        val WifiMedium: PhosphorGlyph =
-            PhosphorGlyph("\uE4EE", PhosphorIconWeight.Duotone, "\uE4EE", "\uE4EE")
-        val WifiNone: PhosphorGlyph =
-            PhosphorGlyph("\uE4F0", PhosphorIconWeight.Duotone, "\uE4F0", "\uE4F0")
-        val WifiSlash: PhosphorGlyph =
-            PhosphorGlyph("\uE4F2", PhosphorIconWeight.Duotone, "\uE4F2", "\uE4F2")
-        val WifiX: PhosphorGlyph =
-            PhosphorGlyph("\uE4F4", PhosphorIconWeight.Duotone, "\uE4F4", "\uE4F4")
-        val Wind: PhosphorGlyph =
-            PhosphorGlyph("\uE5D2", PhosphorIconWeight.Duotone, "\uE5D2", "\uE5D2")
-        val Windmill: PhosphorGlyph =
-            PhosphorGlyph("\uE9F8", PhosphorIconWeight.Duotone, "\uE9F8", "\uE9F8")
-        val WindowsLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE692", PhosphorIconWeight.Duotone, "\uE692", "\uE692")
-        val Wine: PhosphorGlyph =
-            PhosphorGlyph("\uE6B2", PhosphorIconWeight.Duotone, "\uE6B2", "\uE6B2")
-        val Wrench: PhosphorGlyph =
-            PhosphorGlyph("\uE5D4", PhosphorIconWeight.Duotone, "\uE5D4", "\uE5D4")
-        val X: PhosphorGlyph =
-            PhosphorGlyph("\uE4F6", PhosphorIconWeight.Duotone, "\uE4F6", "\uE4F6")
-        val XCircle: PhosphorGlyph =
-            PhosphorGlyph("\uE4F8", PhosphorIconWeight.Duotone, "\uE4F8", "\uE4F8")
-        val XLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE4BC", PhosphorIconWeight.Duotone, "\uE4BC", "\uE4BC")
-        val XSquare: PhosphorGlyph =
-            PhosphorGlyph("\uE4FA", PhosphorIconWeight.Duotone, "\uE4FA", "\uE4FA")
-        val Yarn: PhosphorGlyph =
-            PhosphorGlyph("\uED9A", PhosphorIconWeight.Duotone, "\uED9A", "\uED9A")
-        val YinYang: PhosphorGlyph =
-            PhosphorGlyph("\uE92A", PhosphorIconWeight.Duotone, "\uE92A", "\uE92A")
-        val YoutubeLogo: PhosphorGlyph =
-            PhosphorGlyph("\uE4FC", PhosphorIconWeight.Duotone, "\uE4FC", "\uE4FC")
+        val Acorn: PhosphorGlyph = PhosphorGlyph("\uEB9A", PhosphorIconWeight.Duotone, "\uEB9A", "\uEB9A")
+        val AddressBook: PhosphorGlyph = PhosphorGlyph("\uE6F8", PhosphorIconWeight.Duotone, "\uE6F8", "\uE6F8")
+        val AddressBookTabs: PhosphorGlyph = PhosphorGlyph("\uEE4E", PhosphorIconWeight.Duotone, "\uEE4E", "\uEE4E")
+        val AirTrafficControl: PhosphorGlyph = PhosphorGlyph("\uECD8", PhosphorIconWeight.Duotone, "\uECD8", "\uECD8")
+        val Airplane: PhosphorGlyph = PhosphorGlyph("\uE002", PhosphorIconWeight.Duotone, "\uE002", "\uE002")
+        val AirplaneInFlight: PhosphorGlyph = PhosphorGlyph("\uE4FE", PhosphorIconWeight.Duotone, "\uE4FE", "\uE4FE")
+        val AirplaneLanding: PhosphorGlyph = PhosphorGlyph("\uE502", PhosphorIconWeight.Duotone, "\uE502", "\uE502")
+        val AirplaneTakeoff: PhosphorGlyph = PhosphorGlyph("\uE504", PhosphorIconWeight.Duotone, "\uE504", "\uE504")
+        val AirplaneTaxiing: PhosphorGlyph = PhosphorGlyph("\uE500", PhosphorIconWeight.Duotone, "\uE500", "\uE500")
+        val AirplaneTilt: PhosphorGlyph = PhosphorGlyph("\uE5D6", PhosphorIconWeight.Duotone, "\uE5D6", "\uE5D6")
+        val Airplay: PhosphorGlyph = PhosphorGlyph("\uE004", PhosphorIconWeight.Duotone, "\uE004", "\uE004")
+        val Alarm: PhosphorGlyph = PhosphorGlyph("\uE006", PhosphorIconWeight.Duotone, "\uE006", "\uE006")
+        val Alien: PhosphorGlyph = PhosphorGlyph("\uE8A6", PhosphorIconWeight.Duotone, "\uE8A6", "\uE8A6")
+        val AlignBottom: PhosphorGlyph = PhosphorGlyph("\uE506", PhosphorIconWeight.Duotone, "\uE506", "\uE506")
+        val AlignBottomSimple: PhosphorGlyph = PhosphorGlyph("\uEB0C", PhosphorIconWeight.Duotone, "\uEB0C", "\uEB0C")
+        val AlignCenterHorizontal: PhosphorGlyph = PhosphorGlyph("\uE50A", PhosphorIconWeight.Duotone, "\uE50A", "\uE50A")
+        val AlignCenterHorizontalSimple: PhosphorGlyph = PhosphorGlyph("\uEB0E", PhosphorIconWeight.Duotone, "\uEB0E", "\uEB0E")
+        val AlignCenterVertical: PhosphorGlyph = PhosphorGlyph("\uE50C", PhosphorIconWeight.Duotone, "\uE50C", "\uE50C")
+        val AlignCenterVerticalSimple: PhosphorGlyph = PhosphorGlyph("\uEB10", PhosphorIconWeight.Duotone, "\uEB10", "\uEB10")
+        val AlignLeft: PhosphorGlyph = PhosphorGlyph("\uE50E", PhosphorIconWeight.Duotone, "\uE50E", "\uE50E")
+        val AlignLeftSimple: PhosphorGlyph = PhosphorGlyph("\uEAEE", PhosphorIconWeight.Duotone, "\uEAEE", "\uEAEE")
+        val AlignRight: PhosphorGlyph = PhosphorGlyph("\uE510", PhosphorIconWeight.Duotone, "\uE510", "\uE510")
+        val AlignRightSimple: PhosphorGlyph = PhosphorGlyph("\uEB12", PhosphorIconWeight.Duotone, "\uEB12", "\uEB12")
+        val AlignTop: PhosphorGlyph = PhosphorGlyph("\uE512", PhosphorIconWeight.Duotone, "\uE512", "\uE512")
+        val AlignTopSimple: PhosphorGlyph = PhosphorGlyph("\uEB14", PhosphorIconWeight.Duotone, "\uEB14", "\uEB14")
+        val AmazonLogo: PhosphorGlyph = PhosphorGlyph("\uE96C", PhosphorIconWeight.Duotone, "\uE96C", "\uE96C")
+        val Ambulance: PhosphorGlyph = PhosphorGlyph("\uE572", PhosphorIconWeight.Duotone, "\uE572", "\uE572")
+        val Anchor: PhosphorGlyph = PhosphorGlyph("\uE514", PhosphorIconWeight.Duotone, "\uE514", "\uE514")
+        val AnchorSimple: PhosphorGlyph = PhosphorGlyph("\uE5D8", PhosphorIconWeight.Duotone, "\uE5D8", "\uE5D8")
+        val AndroidLogo: PhosphorGlyph = PhosphorGlyph("\uE008", PhosphorIconWeight.Duotone, "\uE008", "\uE008")
+        val Angle: PhosphorGlyph = PhosphorGlyph("\uE7BC", PhosphorIconWeight.Duotone, "\uE7BC", "\uE7BC")
+        val AngularLogo: PhosphorGlyph = PhosphorGlyph("\uEB80", PhosphorIconWeight.Duotone, "\uEB80", "\uEB80")
+        val Aperture: PhosphorGlyph = PhosphorGlyph("\uE00A", PhosphorIconWeight.Duotone, "\uE00A", "\uE00A")
+        val AppStoreLogo: PhosphorGlyph = PhosphorGlyph("\uE974", PhosphorIconWeight.Duotone, "\uE974", "\uE974")
+        val AppWindow: PhosphorGlyph = PhosphorGlyph("\uE5DA", PhosphorIconWeight.Duotone, "\uE5DA", "\uE5DA")
+        val AppleLogo: PhosphorGlyph = PhosphorGlyph("\uE516", PhosphorIconWeight.Duotone, "\uE516", "\uE516")
+        val ApplePodcastsLogo: PhosphorGlyph = PhosphorGlyph("\uEB96", PhosphorIconWeight.Duotone, "\uEB96", "\uEB96")
+        val ApproximateEquals: PhosphorGlyph = PhosphorGlyph("\uEDAA", PhosphorIconWeight.Duotone, "\uEDAA", "\uEDAA")
+        val Archive: PhosphorGlyph = PhosphorGlyph("\uE00C", PhosphorIconWeight.Duotone, "\uE00C", "\uE00C")
+        val Armchair: PhosphorGlyph = PhosphorGlyph("\uE012", PhosphorIconWeight.Duotone, "\uE012", "\uE012")
+        val ArrowArcLeft: PhosphorGlyph = PhosphorGlyph("\uE014", PhosphorIconWeight.Duotone, "\uE014", "\uE014")
+        val ArrowArcRight: PhosphorGlyph = PhosphorGlyph("\uE016", PhosphorIconWeight.Duotone, "\uE016", "\uE016")
+        val ArrowBendDoubleUpLeft: PhosphorGlyph = PhosphorGlyph("\uE03A", PhosphorIconWeight.Duotone, "\uE03A", "\uE03A")
+        val ArrowBendDoubleUpRight: PhosphorGlyph = PhosphorGlyph("\uE03C", PhosphorIconWeight.Duotone, "\uE03C", "\uE03C")
+        val ArrowBendDownLeft: PhosphorGlyph = PhosphorGlyph("\uE018", PhosphorIconWeight.Duotone, "\uE018", "\uE018")
+        val ArrowBendDownRight: PhosphorGlyph = PhosphorGlyph("\uE01A", PhosphorIconWeight.Duotone, "\uE01A", "\uE01A")
+        val ArrowBendLeftDown: PhosphorGlyph = PhosphorGlyph("\uE01C", PhosphorIconWeight.Duotone, "\uE01C", "\uE01C")
+        val ArrowBendLeftUp: PhosphorGlyph = PhosphorGlyph("\uE01E", PhosphorIconWeight.Duotone, "\uE01E", "\uE01E")
+        val ArrowBendRightDown: PhosphorGlyph = PhosphorGlyph("\uE020", PhosphorIconWeight.Duotone, "\uE020", "\uE020")
+        val ArrowBendRightUp: PhosphorGlyph = PhosphorGlyph("\uE022", PhosphorIconWeight.Duotone, "\uE022", "\uE022")
+        val ArrowBendUpLeft: PhosphorGlyph = PhosphorGlyph("\uE024", PhosphorIconWeight.Duotone, "\uE024", "\uE024")
+        val ArrowBendUpRight: PhosphorGlyph = PhosphorGlyph("\uE026", PhosphorIconWeight.Duotone, "\uE026", "\uE026")
+        val ArrowCircleDown: PhosphorGlyph = PhosphorGlyph("\uE028", PhosphorIconWeight.Duotone, "\uE028", "\uE028")
+        val ArrowCircleDownLeft: PhosphorGlyph = PhosphorGlyph("\uE02A", PhosphorIconWeight.Duotone, "\uE02A", "\uE02A")
+        val ArrowCircleDownRight: PhosphorGlyph = PhosphorGlyph("\uE02C", PhosphorIconWeight.Duotone, "\uE02C", "\uE02C")
+        val ArrowCircleLeft: PhosphorGlyph = PhosphorGlyph("\uE05A", PhosphorIconWeight.Duotone, "\uE05A", "\uE05A")
+        val ArrowCircleRight: PhosphorGlyph = PhosphorGlyph("\uE02E", PhosphorIconWeight.Duotone, "\uE02E", "\uE02E")
+        val ArrowCircleUp: PhosphorGlyph = PhosphorGlyph("\uE030", PhosphorIconWeight.Duotone, "\uE030", "\uE030")
+        val ArrowCircleUpLeft: PhosphorGlyph = PhosphorGlyph("\uE032", PhosphorIconWeight.Duotone, "\uE032", "\uE032")
+        val ArrowCircleUpRight: PhosphorGlyph = PhosphorGlyph("\uE034", PhosphorIconWeight.Duotone, "\uE034", "\uE034")
+        val ArrowClockwise: PhosphorGlyph = PhosphorGlyph("\uE036", PhosphorIconWeight.Duotone, "\uE036", "\uE036")
+        val ArrowCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE038", PhosphorIconWeight.Duotone, "\uE038", "\uE038")
+        val ArrowDown: PhosphorGlyph = PhosphorGlyph("\uE03E", PhosphorIconWeight.Duotone, "\uE03E", "\uE03E")
+        val ArrowDownLeft: PhosphorGlyph = PhosphorGlyph("\uE040", PhosphorIconWeight.Duotone, "\uE040", "\uE040")
+        val ArrowDownRight: PhosphorGlyph = PhosphorGlyph("\uE042", PhosphorIconWeight.Duotone, "\uE042", "\uE042")
+        val ArrowElbowDownLeft: PhosphorGlyph = PhosphorGlyph("\uE044", PhosphorIconWeight.Duotone, "\uE044", "\uE044")
+        val ArrowElbowDownRight: PhosphorGlyph = PhosphorGlyph("\uE046", PhosphorIconWeight.Duotone, "\uE046", "\uE046")
+        val ArrowElbowLeft: PhosphorGlyph = PhosphorGlyph("\uE048", PhosphorIconWeight.Duotone, "\uE048", "\uE048")
+        val ArrowElbowLeftDown: PhosphorGlyph = PhosphorGlyph("\uE04A", PhosphorIconWeight.Duotone, "\uE04A", "\uE04A")
+        val ArrowElbowLeftUp: PhosphorGlyph = PhosphorGlyph("\uE04C", PhosphorIconWeight.Duotone, "\uE04C", "\uE04C")
+        val ArrowElbowRight: PhosphorGlyph = PhosphorGlyph("\uE04E", PhosphorIconWeight.Duotone, "\uE04E", "\uE04E")
+        val ArrowElbowRightDown: PhosphorGlyph = PhosphorGlyph("\uE050", PhosphorIconWeight.Duotone, "\uE050", "\uE050")
+        val ArrowElbowRightUp: PhosphorGlyph = PhosphorGlyph("\uE052", PhosphorIconWeight.Duotone, "\uE052", "\uE052")
+        val ArrowElbowUpLeft: PhosphorGlyph = PhosphorGlyph("\uE054", PhosphorIconWeight.Duotone, "\uE054", "\uE054")
+        val ArrowElbowUpRight: PhosphorGlyph = PhosphorGlyph("\uE056", PhosphorIconWeight.Duotone, "\uE056", "\uE056")
+        val ArrowFatDown: PhosphorGlyph = PhosphorGlyph("\uE518", PhosphorIconWeight.Duotone, "\uE518", "\uE518")
+        val ArrowFatLeft: PhosphorGlyph = PhosphorGlyph("\uE51A", PhosphorIconWeight.Duotone, "\uE51A", "\uE51A")
+        val ArrowFatLineDown: PhosphorGlyph = PhosphorGlyph("\uE51C", PhosphorIconWeight.Duotone, "\uE51C", "\uE51C")
+        val ArrowFatLineLeft: PhosphorGlyph = PhosphorGlyph("\uE51E", PhosphorIconWeight.Duotone, "\uE51E", "\uE51E")
+        val ArrowFatLineRight: PhosphorGlyph = PhosphorGlyph("\uE520", PhosphorIconWeight.Duotone, "\uE520", "\uE520")
+        val ArrowFatLineUp: PhosphorGlyph = PhosphorGlyph("\uE522", PhosphorIconWeight.Duotone, "\uE522", "\uE522")
+        val ArrowFatLinesDown: PhosphorGlyph = PhosphorGlyph("\uE524", PhosphorIconWeight.Duotone, "\uE524", "\uE524")
+        val ArrowFatLinesLeft: PhosphorGlyph = PhosphorGlyph("\uE526", PhosphorIconWeight.Duotone, "\uE526", "\uE526")
+        val ArrowFatLinesRight: PhosphorGlyph = PhosphorGlyph("\uE528", PhosphorIconWeight.Duotone, "\uE528", "\uE528")
+        val ArrowFatLinesUp: PhosphorGlyph = PhosphorGlyph("\uE52A", PhosphorIconWeight.Duotone, "\uE52A", "\uE52A")
+        val ArrowFatRight: PhosphorGlyph = PhosphorGlyph("\uE52C", PhosphorIconWeight.Duotone, "\uE52C", "\uE52C")
+        val ArrowFatUp: PhosphorGlyph = PhosphorGlyph("\uE52E", PhosphorIconWeight.Duotone, "\uE52E", "\uE52E")
+        val ArrowLeft: PhosphorGlyph = PhosphorGlyph("\uE058", PhosphorIconWeight.Duotone, "\uE058", "\uE058")
+        val ArrowLineDown: PhosphorGlyph = PhosphorGlyph("\uE05C", PhosphorIconWeight.Duotone, "\uE05C", "\uE05C")
+        val ArrowLineDownLeft: PhosphorGlyph = PhosphorGlyph("\uE05E", PhosphorIconWeight.Duotone, "\uE05E", "\uE05E")
+        val ArrowLineDownRight: PhosphorGlyph = PhosphorGlyph("\uE060", PhosphorIconWeight.Duotone, "\uE060", "\uE060")
+        val ArrowLineLeft: PhosphorGlyph = PhosphorGlyph("\uE062", PhosphorIconWeight.Duotone, "\uE062", "\uE062")
+        val ArrowLineRight: PhosphorGlyph = PhosphorGlyph("\uE064", PhosphorIconWeight.Duotone, "\uE064", "\uE064")
+        val ArrowLineUp: PhosphorGlyph = PhosphorGlyph("\uE066", PhosphorIconWeight.Duotone, "\uE066", "\uE066")
+        val ArrowLineUpLeft: PhosphorGlyph = PhosphorGlyph("\uE068", PhosphorIconWeight.Duotone, "\uE068", "\uE068")
+        val ArrowLineUpRight: PhosphorGlyph = PhosphorGlyph("\uE06A", PhosphorIconWeight.Duotone, "\uE06A", "\uE06A")
+        val ArrowRight: PhosphorGlyph = PhosphorGlyph("\uE06C", PhosphorIconWeight.Duotone, "\uE06C", "\uE06C")
+        val ArrowSquareDown: PhosphorGlyph = PhosphorGlyph("\uE06E", PhosphorIconWeight.Duotone, "\uE06E", "\uE06E")
+        val ArrowSquareDownLeft: PhosphorGlyph = PhosphorGlyph("\uE070", PhosphorIconWeight.Duotone, "\uE070", "\uE070")
+        val ArrowSquareDownRight: PhosphorGlyph = PhosphorGlyph("\uE072", PhosphorIconWeight.Duotone, "\uE072", "\uE072")
+        val ArrowSquareIn: PhosphorGlyph = PhosphorGlyph("\uE5DC", PhosphorIconWeight.Duotone, "\uE5DC", "\uE5DC")
+        val ArrowSquareLeft: PhosphorGlyph = PhosphorGlyph("\uE074", PhosphorIconWeight.Duotone, "\uE074", "\uE074")
+        val ArrowSquareOut: PhosphorGlyph = PhosphorGlyph("\uE5DE", PhosphorIconWeight.Duotone, "\uE5DE", "\uE5DE")
+        val ArrowSquareRight: PhosphorGlyph = PhosphorGlyph("\uE076", PhosphorIconWeight.Duotone, "\uE076", "\uE076")
+        val ArrowSquareUp: PhosphorGlyph = PhosphorGlyph("\uE078", PhosphorIconWeight.Duotone, "\uE078", "\uE078")
+        val ArrowSquareUpLeft: PhosphorGlyph = PhosphorGlyph("\uE07A", PhosphorIconWeight.Duotone, "\uE07A", "\uE07A")
+        val ArrowSquareUpRight: PhosphorGlyph = PhosphorGlyph("\uE07C", PhosphorIconWeight.Duotone, "\uE07C", "\uE07C")
+        val ArrowUDownLeft: PhosphorGlyph = PhosphorGlyph("\uE07E", PhosphorIconWeight.Duotone, "\uE07E", "\uE07E")
+        val ArrowUDownRight: PhosphorGlyph = PhosphorGlyph("\uE080", PhosphorIconWeight.Duotone, "\uE080", "\uE080")
+        val ArrowULeftDown: PhosphorGlyph = PhosphorGlyph("\uE082", PhosphorIconWeight.Duotone, "\uE082", "\uE082")
+        val ArrowULeftUp: PhosphorGlyph = PhosphorGlyph("\uE084", PhosphorIconWeight.Duotone, "\uE084", "\uE084")
+        val ArrowURightDown: PhosphorGlyph = PhosphorGlyph("\uE086", PhosphorIconWeight.Duotone, "\uE086", "\uE086")
+        val ArrowURightUp: PhosphorGlyph = PhosphorGlyph("\uE088", PhosphorIconWeight.Duotone, "\uE088", "\uE088")
+        val ArrowUUpLeft: PhosphorGlyph = PhosphorGlyph("\uE08A", PhosphorIconWeight.Duotone, "\uE08A", "\uE08A")
+        val ArrowUUpRight: PhosphorGlyph = PhosphorGlyph("\uE08C", PhosphorIconWeight.Duotone, "\uE08C", "\uE08C")
+        val ArrowUp: PhosphorGlyph = PhosphorGlyph("\uE08E", PhosphorIconWeight.Duotone, "\uE08E", "\uE08E")
+        val ArrowUpLeft: PhosphorGlyph = PhosphorGlyph("\uE090", PhosphorIconWeight.Duotone, "\uE090", "\uE090")
+        val ArrowUpRight: PhosphorGlyph = PhosphorGlyph("\uE092", PhosphorIconWeight.Duotone, "\uE092", "\uE092")
+        val ArrowsClockwise: PhosphorGlyph = PhosphorGlyph("\uE094", PhosphorIconWeight.Duotone, "\uE094", "\uE094")
+        val ArrowsCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE096", PhosphorIconWeight.Duotone, "\uE096", "\uE096")
+        val ArrowsDownUp: PhosphorGlyph = PhosphorGlyph("\uE098", PhosphorIconWeight.Duotone, "\uE098", "\uE098")
+        val ArrowsHorizontal: PhosphorGlyph = PhosphorGlyph("\uEB06", PhosphorIconWeight.Duotone, "\uEB06", "\uEB06")
+        val ArrowsIn: PhosphorGlyph = PhosphorGlyph("\uE09A", PhosphorIconWeight.Duotone, "\uE09A", "\uE09A")
+        val ArrowsInCardinal: PhosphorGlyph = PhosphorGlyph("\uE09C", PhosphorIconWeight.Duotone, "\uE09C", "\uE09C")
+        val ArrowsInLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE530", PhosphorIconWeight.Duotone, "\uE530", "\uE530")
+        val ArrowsInLineVertical: PhosphorGlyph = PhosphorGlyph("\uE532", PhosphorIconWeight.Duotone, "\uE532", "\uE532")
+        val ArrowsInSimple: PhosphorGlyph = PhosphorGlyph("\uE09E", PhosphorIconWeight.Duotone, "\uE09E", "\uE09E")
+        val ArrowsLeftRight: PhosphorGlyph = PhosphorGlyph("\uE0A0", PhosphorIconWeight.Duotone, "\uE0A0", "\uE0A0")
+        val ArrowsMerge: PhosphorGlyph = PhosphorGlyph("\uED3E", PhosphorIconWeight.Duotone, "\uED3E", "\uED3E")
+        val ArrowsOut: PhosphorGlyph = PhosphorGlyph("\uE0A2", PhosphorIconWeight.Duotone, "\uE0A2", "\uE0A2")
+        val ArrowsOutCardinal: PhosphorGlyph = PhosphorGlyph("\uE0A4", PhosphorIconWeight.Duotone, "\uE0A4", "\uE0A4")
+        val ArrowsOutLineHorizontal: PhosphorGlyph = PhosphorGlyph("\uE534", PhosphorIconWeight.Duotone, "\uE534", "\uE534")
+        val ArrowsOutLineVertical: PhosphorGlyph = PhosphorGlyph("\uE536", PhosphorIconWeight.Duotone, "\uE536", "\uE536")
+        val ArrowsOutSimple: PhosphorGlyph = PhosphorGlyph("\uE0A6", PhosphorIconWeight.Duotone, "\uE0A6", "\uE0A6")
+        val ArrowsSplit: PhosphorGlyph = PhosphorGlyph("\uED3C", PhosphorIconWeight.Duotone, "\uED3C", "\uED3C")
+        val ArrowsVertical: PhosphorGlyph = PhosphorGlyph("\uEB04", PhosphorIconWeight.Duotone, "\uEB04", "\uEB04")
+        val Article: PhosphorGlyph = PhosphorGlyph("\uE0A8", PhosphorIconWeight.Duotone, "\uE0A8", "\uE0A8")
+        val ArticleMedium: PhosphorGlyph = PhosphorGlyph("\uE5E0", PhosphorIconWeight.Duotone, "\uE5E0", "\uE5E0")
+        val ArticleNyTimes: PhosphorGlyph = PhosphorGlyph("\uE5E2", PhosphorIconWeight.Duotone, "\uE5E2", "\uE5E2")
+        val Asclepius: PhosphorGlyph = PhosphorGlyph("\uEE34", PhosphorIconWeight.Duotone, "\uEE34", "\uEE34")
+        val Asterisk: PhosphorGlyph = PhosphorGlyph("\uE0AA", PhosphorIconWeight.Duotone, "\uE0AA", "\uE0AA")
+        val AsteriskSimple: PhosphorGlyph = PhosphorGlyph("\uE832", PhosphorIconWeight.Duotone, "\uE832", "\uE832")
+        val At: PhosphorGlyph = PhosphorGlyph("\uE0AC", PhosphorIconWeight.Duotone, "\uE0AC", "\uE0AC")
+        val Atom: PhosphorGlyph = PhosphorGlyph("\uE5E4", PhosphorIconWeight.Duotone, "\uE5E4", "\uE5E4")
+        val Avocado: PhosphorGlyph = PhosphorGlyph("\uEE04", PhosphorIconWeight.Duotone, "\uEE04", "\uEE04")
+        val Axe: PhosphorGlyph = PhosphorGlyph("\uE9FC", PhosphorIconWeight.Duotone, "\uE9FC", "\uE9FC")
+        val Baby: PhosphorGlyph = PhosphorGlyph("\uE774", PhosphorIconWeight.Duotone, "\uE774", "\uE774")
+        val BabyCarriage: PhosphorGlyph = PhosphorGlyph("\uE818", PhosphorIconWeight.Duotone, "\uE818", "\uE818")
+        val Backpack: PhosphorGlyph = PhosphorGlyph("\uE922", PhosphorIconWeight.Duotone, "\uE922", "\uE922")
+        val Backspace: PhosphorGlyph = PhosphorGlyph("\uE0AE", PhosphorIconWeight.Duotone, "\uE0AE", "\uE0AE")
+        val Bag: PhosphorGlyph = PhosphorGlyph("\uE0B0", PhosphorIconWeight.Duotone, "\uE0B0", "\uE0B0")
+        val BagSimple: PhosphorGlyph = PhosphorGlyph("\uE5E6", PhosphorIconWeight.Duotone, "\uE5E6", "\uE5E6")
+        val Balloon: PhosphorGlyph = PhosphorGlyph("\uE76C", PhosphorIconWeight.Duotone, "\uE76C", "\uE76C")
+        val Bandaids: PhosphorGlyph = PhosphorGlyph("\uE0B2", PhosphorIconWeight.Duotone, "\uE0B2", "\uE0B2")
+        val Bank: PhosphorGlyph = PhosphorGlyph("\uE0B4", PhosphorIconWeight.Duotone, "\uE0B4", "\uE0B4")
+        val Barbell: PhosphorGlyph = PhosphorGlyph("\uE0B6", PhosphorIconWeight.Duotone, "\uE0B6", "\uE0B6")
+        val Barcode: PhosphorGlyph = PhosphorGlyph("\uE0B8", PhosphorIconWeight.Duotone, "\uE0B8", "\uE0B8")
+        val Barn: PhosphorGlyph = PhosphorGlyph("\uEC72", PhosphorIconWeight.Duotone, "\uEC72", "\uEC72")
+        val Barricade: PhosphorGlyph = PhosphorGlyph("\uE948", PhosphorIconWeight.Duotone, "\uE948", "\uE948")
+        val Baseball: PhosphorGlyph = PhosphorGlyph("\uE71A", PhosphorIconWeight.Duotone, "\uE71A", "\uE71A")
+        val BaseballCap: PhosphorGlyph = PhosphorGlyph("\uEA28", PhosphorIconWeight.Duotone, "\uEA28", "\uEA28")
+        val BaseballHelmet: PhosphorGlyph = PhosphorGlyph("\uEE4A", PhosphorIconWeight.Duotone, "\uEE4A", "\uEE4A")
+        val Basket: PhosphorGlyph = PhosphorGlyph("\uE964", PhosphorIconWeight.Duotone, "\uE964", "\uE964")
+        val Basketball: PhosphorGlyph = PhosphorGlyph("\uE724", PhosphorIconWeight.Duotone, "\uE724", "\uE724")
+        val Bathtub: PhosphorGlyph = PhosphorGlyph("\uE81E", PhosphorIconWeight.Duotone, "\uE81E", "\uE81E")
+        val BatteryCharging: PhosphorGlyph = PhosphorGlyph("\uE0BA", PhosphorIconWeight.Duotone, "\uE0BA", "\uE0BA")
+        val BatteryChargingVertical: PhosphorGlyph = PhosphorGlyph("\uE0BC", PhosphorIconWeight.Duotone, "\uE0BC", "\uE0BC")
+        val BatteryEmpty: PhosphorGlyph = PhosphorGlyph("\uE0BE", PhosphorIconWeight.Duotone, "\uE0BE", "\uE0BE")
+        val BatteryFull: PhosphorGlyph = PhosphorGlyph("\uE0C0", PhosphorIconWeight.Duotone, "\uE0C0", "\uE0C0")
+        val BatteryHigh: PhosphorGlyph = PhosphorGlyph("\uE0C2", PhosphorIconWeight.Duotone, "\uE0C2", "\uE0C2")
+        val BatteryLow: PhosphorGlyph = PhosphorGlyph("\uE0C4", PhosphorIconWeight.Duotone, "\uE0C4", "\uE0C4")
+        val BatteryMedium: PhosphorGlyph = PhosphorGlyph("\uE0C6", PhosphorIconWeight.Duotone, "\uE0C6", "\uE0C6")
+        val BatteryPlus: PhosphorGlyph = PhosphorGlyph("\uE808", PhosphorIconWeight.Duotone, "\uE808", "\uE808")
+        val BatteryPlusVertical: PhosphorGlyph = PhosphorGlyph("\uEC50", PhosphorIconWeight.Duotone, "\uEC50", "\uEC50")
+        val BatteryVerticalEmpty: PhosphorGlyph = PhosphorGlyph("\uE7C6", PhosphorIconWeight.Duotone, "\uE7C6", "\uE7C6")
+        val BatteryVerticalFull: PhosphorGlyph = PhosphorGlyph("\uE7C4", PhosphorIconWeight.Duotone, "\uE7C4", "\uE7C4")
+        val BatteryVerticalHigh: PhosphorGlyph = PhosphorGlyph("\uE7C2", PhosphorIconWeight.Duotone, "\uE7C2", "\uE7C2")
+        val BatteryVerticalLow: PhosphorGlyph = PhosphorGlyph("\uE7BE", PhosphorIconWeight.Duotone, "\uE7BE", "\uE7BE")
+        val BatteryVerticalMedium: PhosphorGlyph = PhosphorGlyph("\uE7C0", PhosphorIconWeight.Duotone, "\uE7C0", "\uE7C0")
+        val BatteryWarning: PhosphorGlyph = PhosphorGlyph("\uE0C8", PhosphorIconWeight.Duotone, "\uE0C8", "\uE0C8")
+        val BatteryWarningVertical: PhosphorGlyph = PhosphorGlyph("\uE0CA", PhosphorIconWeight.Duotone, "\uE0CA", "\uE0CA")
+        val BeachBall: PhosphorGlyph = PhosphorGlyph("\uED24", PhosphorIconWeight.Duotone, "\uED24", "\uED24")
+        val Beanie: PhosphorGlyph = PhosphorGlyph("\uEA2A", PhosphorIconWeight.Duotone, "\uEA2A", "\uEA2A")
+        val Bed: PhosphorGlyph = PhosphorGlyph("\uE0CC", PhosphorIconWeight.Duotone, "\uE0CC", "\uE0CC")
+        val BeerBottle: PhosphorGlyph = PhosphorGlyph("\uE7B0", PhosphorIconWeight.Duotone, "\uE7B0", "\uE7B0")
+        val BeerStein: PhosphorGlyph = PhosphorGlyph("\uEB62", PhosphorIconWeight.Duotone, "\uEB62", "\uEB62")
+        val BehanceLogo: PhosphorGlyph = PhosphorGlyph("\uE7F4", PhosphorIconWeight.Duotone, "\uE7F4", "\uE7F4")
+        val Bell: PhosphorGlyph = PhosphorGlyph("\uE0CE", PhosphorIconWeight.Duotone, "\uE0CE", "\uE0CE")
+        val BellRinging: PhosphorGlyph = PhosphorGlyph("\uE5E8", PhosphorIconWeight.Duotone, "\uE5E8", "\uE5E8")
+        val BellSimple: PhosphorGlyph = PhosphorGlyph("\uE0D0", PhosphorIconWeight.Duotone, "\uE0D0", "\uE0D0")
+        val BellSimpleRinging: PhosphorGlyph = PhosphorGlyph("\uE5EA", PhosphorIconWeight.Duotone, "\uE5EA", "\uE5EA")
+        val BellSimpleSlash: PhosphorGlyph = PhosphorGlyph("\uE0D2", PhosphorIconWeight.Duotone, "\uE0D2", "\uE0D2")
+        val BellSimpleZ: PhosphorGlyph = PhosphorGlyph("\uE5EC", PhosphorIconWeight.Duotone, "\uE5EC", "\uE5EC")
+        val BellSlash: PhosphorGlyph = PhosphorGlyph("\uE0D4", PhosphorIconWeight.Duotone, "\uE0D4", "\uE0D4")
+        val BellZ: PhosphorGlyph = PhosphorGlyph("\uE5EE", PhosphorIconWeight.Duotone, "\uE5EE", "\uE5EE")
+        val Belt: PhosphorGlyph = PhosphorGlyph("\uEA2C", PhosphorIconWeight.Duotone, "\uEA2C", "\uEA2C")
+        val BezierCurve: PhosphorGlyph = PhosphorGlyph("\uEB00", PhosphorIconWeight.Duotone, "\uEB00", "\uEB00")
+        val Bicycle: PhosphorGlyph = PhosphorGlyph("\uE0D6", PhosphorIconWeight.Duotone, "\uE0D6", "\uE0D6")
+        val Binary: PhosphorGlyph = PhosphorGlyph("\uEE60", PhosphorIconWeight.Duotone, "\uEE60", "\uEE60")
+        val Binoculars: PhosphorGlyph = PhosphorGlyph("\uEA64", PhosphorIconWeight.Duotone, "\uEA64", "\uEA64")
+        val Biohazard: PhosphorGlyph = PhosphorGlyph("\uE9E0", PhosphorIconWeight.Duotone, "\uE9E0", "\uE9E0")
+        val Bird: PhosphorGlyph = PhosphorGlyph("\uE72C", PhosphorIconWeight.Duotone, "\uE72C", "\uE72C")
+        val Blueprint: PhosphorGlyph = PhosphorGlyph("\uEDA0", PhosphorIconWeight.Duotone, "\uEDA0", "\uEDA0")
+        val Bluetooth: PhosphorGlyph = PhosphorGlyph("\uE0DA", PhosphorIconWeight.Duotone, "\uE0DA", "\uE0DA")
+        val BluetoothConnected: PhosphorGlyph = PhosphorGlyph("\uE0DC", PhosphorIconWeight.Duotone, "\uE0DC", "\uE0DC")
+        val BluetoothSlash: PhosphorGlyph = PhosphorGlyph("\uE0DE", PhosphorIconWeight.Duotone, "\uE0DE", "\uE0DE")
+        val BluetoothX: PhosphorGlyph = PhosphorGlyph("\uE0E0", PhosphorIconWeight.Duotone, "\uE0E0", "\uE0E0")
+        val Boat: PhosphorGlyph = PhosphorGlyph("\uE786", PhosphorIconWeight.Duotone, "\uE786", "\uE786")
+        val Bomb: PhosphorGlyph = PhosphorGlyph("\uEE0A", PhosphorIconWeight.Duotone, "\uEE0A", "\uEE0A")
+        val Bone: PhosphorGlyph = PhosphorGlyph("\uE7F2", PhosphorIconWeight.Duotone, "\uE7F2", "\uE7F2")
+        val Book: PhosphorGlyph = PhosphorGlyph("\uE0E2", PhosphorIconWeight.Duotone, "\uE0E2", "\uE0E2")
+        val BookBookmark: PhosphorGlyph = PhosphorGlyph("\uE0E4", PhosphorIconWeight.Duotone, "\uE0E4", "\uE0E4")
+        val BookOpen: PhosphorGlyph = PhosphorGlyph("\uE0E6", PhosphorIconWeight.Duotone, "\uE0E6", "\uE0E6")
+        val BookOpenText: PhosphorGlyph = PhosphorGlyph("\uE8F2", PhosphorIconWeight.Duotone, "\uE8F2", "\uE8F2")
+        val BookOpenUser: PhosphorGlyph = PhosphorGlyph("\uEDE0", PhosphorIconWeight.Duotone, "\uEDE0", "\uEDE0")
+        val Bookmark: PhosphorGlyph = PhosphorGlyph("\uE0E8", PhosphorIconWeight.Duotone, "\uE0E8", "\uE0E8")
+        val BookmarkSimple: PhosphorGlyph = PhosphorGlyph("\uE0EA", PhosphorIconWeight.Duotone, "\uE0EA", "\uE0EA")
+        val Bookmarks: PhosphorGlyph = PhosphorGlyph("\uE0EC", PhosphorIconWeight.Duotone, "\uE0EC", "\uE0EC")
+        val BookmarksSimple: PhosphorGlyph = PhosphorGlyph("\uE5F0", PhosphorIconWeight.Duotone, "\uE5F0", "\uE5F0")
+        val Books: PhosphorGlyph = PhosphorGlyph("\uE758", PhosphorIconWeight.Duotone, "\uE758", "\uE758")
+        val Boot: PhosphorGlyph = PhosphorGlyph("\uECCA", PhosphorIconWeight.Duotone, "\uECCA", "\uECCA")
+        val Boules: PhosphorGlyph = PhosphorGlyph("\uE722", PhosphorIconWeight.Duotone, "\uE722", "\uE722")
+        val BoundingBox: PhosphorGlyph = PhosphorGlyph("\uE6CE", PhosphorIconWeight.Duotone, "\uE6CE", "\uE6CE")
+        val BowlFood: PhosphorGlyph = PhosphorGlyph("\uEAA4", PhosphorIconWeight.Duotone, "\uEAA4", "\uEAA4")
+        val BowlSteam: PhosphorGlyph = PhosphorGlyph("\uE8E4", PhosphorIconWeight.Duotone, "\uE8E4", "\uE8E4")
+        val BowlingBall: PhosphorGlyph = PhosphorGlyph("\uEA34", PhosphorIconWeight.Duotone, "\uEA34", "\uEA34")
+        val BoxArrowDown: PhosphorGlyph = PhosphorGlyph("\uE00E", PhosphorIconWeight.Duotone, "\uE00E", "\uE00E")
+        val BoxArrowUp: PhosphorGlyph = PhosphorGlyph("\uEE54", PhosphorIconWeight.Duotone, "\uEE54", "\uEE54")
+        val BoxingGlove: PhosphorGlyph = PhosphorGlyph("\uEA36", PhosphorIconWeight.Duotone, "\uEA36", "\uEA36")
+        val BracketsAngle: PhosphorGlyph = PhosphorGlyph("\uE862", PhosphorIconWeight.Duotone, "\uE862", "\uE862")
+        val BracketsCurly: PhosphorGlyph = PhosphorGlyph("\uE860", PhosphorIconWeight.Duotone, "\uE860", "\uE860")
+        val BracketsRound: PhosphorGlyph = PhosphorGlyph("\uE864", PhosphorIconWeight.Duotone, "\uE864", "\uE864")
+        val BracketsSquare: PhosphorGlyph = PhosphorGlyph("\uE85E", PhosphorIconWeight.Duotone, "\uE85E", "\uE85E")
+        val Brain: PhosphorGlyph = PhosphorGlyph("\uE74E", PhosphorIconWeight.Duotone, "\uE74E", "\uE74E")
+        val Brandy: PhosphorGlyph = PhosphorGlyph("\uE6B4", PhosphorIconWeight.Duotone, "\uE6B4", "\uE6B4")
+        val Bread: PhosphorGlyph = PhosphorGlyph("\uE81C", PhosphorIconWeight.Duotone, "\uE81C", "\uE81C")
+        val Bridge: PhosphorGlyph = PhosphorGlyph("\uEA68", PhosphorIconWeight.Duotone, "\uEA68", "\uEA68")
+        val Briefcase: PhosphorGlyph = PhosphorGlyph("\uE0EE", PhosphorIconWeight.Duotone, "\uE0EE", "\uE0EE")
+        val BriefcaseMetal: PhosphorGlyph = PhosphorGlyph("\uE5F2", PhosphorIconWeight.Duotone, "\uE5F2", "\uE5F2")
+        val Broadcast: PhosphorGlyph = PhosphorGlyph("\uE0F2", PhosphorIconWeight.Duotone, "\uE0F2", "\uE0F2")
+        val Broom: PhosphorGlyph = PhosphorGlyph("\uEC54", PhosphorIconWeight.Duotone, "\uEC54", "\uEC54")
+        val Browser: PhosphorGlyph = PhosphorGlyph("\uE0F4", PhosphorIconWeight.Duotone, "\uE0F4", "\uE0F4")
+        val Browsers: PhosphorGlyph = PhosphorGlyph("\uE0F6", PhosphorIconWeight.Duotone, "\uE0F6", "\uE0F6")
+        val Bug: PhosphorGlyph = PhosphorGlyph("\uE5F4", PhosphorIconWeight.Duotone, "\uE5F4", "\uE5F4")
+        val BugBeetle: PhosphorGlyph = PhosphorGlyph("\uE5F6", PhosphorIconWeight.Duotone, "\uE5F6", "\uE5F6")
+        val BugDroid: PhosphorGlyph = PhosphorGlyph("\uE5F8", PhosphorIconWeight.Duotone, "\uE5F8", "\uE5F8")
+        val Building: PhosphorGlyph = PhosphorGlyph("\uE100", PhosphorIconWeight.Duotone, "\uE100", "\uE100")
+        val BuildingApartment: PhosphorGlyph = PhosphorGlyph("\uE0FE", PhosphorIconWeight.Duotone, "\uE0FE", "\uE0FE")
+        val BuildingOffice: PhosphorGlyph = PhosphorGlyph("\uE0FF", PhosphorIconWeight.Duotone, "\uE0FF", "\uE0FF")
+        val Buildings: PhosphorGlyph = PhosphorGlyph("\uE102", PhosphorIconWeight.Duotone, "\uE102", "\uE102")
+        val Bulldozer: PhosphorGlyph = PhosphorGlyph("\uEC6C", PhosphorIconWeight.Duotone, "\uEC6C", "\uEC6C")
+        val Bus: PhosphorGlyph = PhosphorGlyph("\uE106", PhosphorIconWeight.Duotone, "\uE106", "\uE106")
+        val Butterfly: PhosphorGlyph = PhosphorGlyph("\uEA6E", PhosphorIconWeight.Duotone, "\uEA6E", "\uEA6E")
+        val CableCar: PhosphorGlyph = PhosphorGlyph("\uE49C", PhosphorIconWeight.Duotone, "\uE49C", "\uE49C")
+        val Cactus: PhosphorGlyph = PhosphorGlyph("\uE918", PhosphorIconWeight.Duotone, "\uE918", "\uE918")
+        val Cake: PhosphorGlyph = PhosphorGlyph("\uE780", PhosphorIconWeight.Duotone, "\uE780", "\uE780")
+        val Calculator: PhosphorGlyph = PhosphorGlyph("\uE538", PhosphorIconWeight.Duotone, "\uE538", "\uE538")
+        val Calendar: PhosphorGlyph = PhosphorGlyph("\uE108", PhosphorIconWeight.Duotone, "\uE108", "\uE108")
+        val CalendarBlank: PhosphorGlyph = PhosphorGlyph("\uE10A", PhosphorIconWeight.Duotone, "\uE10A", "\uE10A")
+        val CalendarCheck: PhosphorGlyph = PhosphorGlyph("\uE712", PhosphorIconWeight.Duotone, "\uE712", "\uE712")
+        val CalendarDot: PhosphorGlyph = PhosphorGlyph("\uE7B2", PhosphorIconWeight.Duotone, "\uE7B2", "\uE7B2")
+        val CalendarDots: PhosphorGlyph = PhosphorGlyph("\uE7B4", PhosphorIconWeight.Duotone, "\uE7B4", "\uE7B4")
+        val CalendarHeart: PhosphorGlyph = PhosphorGlyph("\uE8B0", PhosphorIconWeight.Duotone, "\uE8B0", "\uE8B0")
+        val CalendarMinus: PhosphorGlyph = PhosphorGlyph("\uEA14", PhosphorIconWeight.Duotone, "\uEA14", "\uEA14")
+        val CalendarPlus: PhosphorGlyph = PhosphorGlyph("\uE714", PhosphorIconWeight.Duotone, "\uE714", "\uE714")
+        val CalendarSlash: PhosphorGlyph = PhosphorGlyph("\uEA12", PhosphorIconWeight.Duotone, "\uEA12", "\uEA12")
+        val CalendarStar: PhosphorGlyph = PhosphorGlyph("\uE8B2", PhosphorIconWeight.Duotone, "\uE8B2", "\uE8B2")
+        val CalendarX: PhosphorGlyph = PhosphorGlyph("\uE10C", PhosphorIconWeight.Duotone, "\uE10C", "\uE10C")
+        val CallBell: PhosphorGlyph = PhosphorGlyph("\uE7DE", PhosphorIconWeight.Duotone, "\uE7DE", "\uE7DE")
+        val Camera: PhosphorGlyph = PhosphorGlyph("\uE10E", PhosphorIconWeight.Duotone, "\uE10E", "\uE10E")
+        val CameraPlus: PhosphorGlyph = PhosphorGlyph("\uEC58", PhosphorIconWeight.Duotone, "\uEC58", "\uEC58")
+        val CameraRotate: PhosphorGlyph = PhosphorGlyph("\uE7A4", PhosphorIconWeight.Duotone, "\uE7A4", "\uE7A4")
+        val CameraSlash: PhosphorGlyph = PhosphorGlyph("\uE110", PhosphorIconWeight.Duotone, "\uE110", "\uE110")
+        val Campfire: PhosphorGlyph = PhosphorGlyph("\uE9D8", PhosphorIconWeight.Duotone, "\uE9D8", "\uE9D8")
+        val Car: PhosphorGlyph = PhosphorGlyph("\uE112", PhosphorIconWeight.Duotone, "\uE112", "\uE112")
+        val CarBattery: PhosphorGlyph = PhosphorGlyph("\uEE30", PhosphorIconWeight.Duotone, "\uEE30", "\uEE30")
+        val CarProfile: PhosphorGlyph = PhosphorGlyph("\uE8CC", PhosphorIconWeight.Duotone, "\uE8CC", "\uE8CC")
+        val CarSimple: PhosphorGlyph = PhosphorGlyph("\uE114", PhosphorIconWeight.Duotone, "\uE114", "\uE114")
+        val Cardholder: PhosphorGlyph = PhosphorGlyph("\uE5FA", PhosphorIconWeight.Duotone, "\uE5FA", "\uE5FA")
+        val Cards: PhosphorGlyph = PhosphorGlyph("\uE0F8", PhosphorIconWeight.Duotone, "\uE0F8", "\uE0F8")
+        val CardsThree: PhosphorGlyph = PhosphorGlyph("\uEE50", PhosphorIconWeight.Duotone, "\uEE50", "\uEE50")
+        val CaretCircleDoubleDown: PhosphorGlyph = PhosphorGlyph("\uE116", PhosphorIconWeight.Duotone, "\uE116", "\uE116")
+        val CaretCircleDoubleLeft: PhosphorGlyph = PhosphorGlyph("\uE118", PhosphorIconWeight.Duotone, "\uE118", "\uE118")
+        val CaretCircleDoubleRight: PhosphorGlyph = PhosphorGlyph("\uE11A", PhosphorIconWeight.Duotone, "\uE11A", "\uE11A")
+        val CaretCircleDoubleUp: PhosphorGlyph = PhosphorGlyph("\uE11C", PhosphorIconWeight.Duotone, "\uE11C", "\uE11C")
+        val CaretCircleDown: PhosphorGlyph = PhosphorGlyph("\uE11E", PhosphorIconWeight.Duotone, "\uE11E", "\uE11E")
+        val CaretCircleLeft: PhosphorGlyph = PhosphorGlyph("\uE120", PhosphorIconWeight.Duotone, "\uE120", "\uE120")
+        val CaretCircleRight: PhosphorGlyph = PhosphorGlyph("\uE122", PhosphorIconWeight.Duotone, "\uE122", "\uE122")
+        val CaretCircleUp: PhosphorGlyph = PhosphorGlyph("\uE124", PhosphorIconWeight.Duotone, "\uE124", "\uE124")
+        val CaretCircleUpDown: PhosphorGlyph = PhosphorGlyph("\uE13E", PhosphorIconWeight.Duotone, "\uE13E", "\uE13E")
+        val CaretDoubleDown: PhosphorGlyph = PhosphorGlyph("\uE126", PhosphorIconWeight.Duotone, "\uE126", "\uE126")
+        val CaretDoubleLeft: PhosphorGlyph = PhosphorGlyph("\uE128", PhosphorIconWeight.Duotone, "\uE128", "\uE128")
+        val CaretDoubleRight: PhosphorGlyph = PhosphorGlyph("\uE12A", PhosphorIconWeight.Duotone, "\uE12A", "\uE12A")
+        val CaretDoubleUp: PhosphorGlyph = PhosphorGlyph("\uE12C", PhosphorIconWeight.Duotone, "\uE12C", "\uE12C")
+        val CaretDown: PhosphorGlyph = PhosphorGlyph("\uE136", PhosphorIconWeight.Duotone, "\uE136", "\uE136")
+        val CaretLeft: PhosphorGlyph = PhosphorGlyph("\uE138", PhosphorIconWeight.Duotone, "\uE138", "\uE138")
+        val CaretLineDown: PhosphorGlyph = PhosphorGlyph("\uE134", PhosphorIconWeight.Duotone, "\uE134", "\uE134")
+        val CaretLineLeft: PhosphorGlyph = PhosphorGlyph("\uE132", PhosphorIconWeight.Duotone, "\uE132", "\uE132")
+        val CaretLineRight: PhosphorGlyph = PhosphorGlyph("\uE130", PhosphorIconWeight.Duotone, "\uE130", "\uE130")
+        val CaretLineUp: PhosphorGlyph = PhosphorGlyph("\uE12E", PhosphorIconWeight.Duotone, "\uE12E", "\uE12E")
+        val CaretRight: PhosphorGlyph = PhosphorGlyph("\uE13A", PhosphorIconWeight.Duotone, "\uE13A", "\uE13A")
+        val CaretUp: PhosphorGlyph = PhosphorGlyph("\uE13C", PhosphorIconWeight.Duotone, "\uE13C", "\uE13C")
+        val CaretUpDown: PhosphorGlyph = PhosphorGlyph("\uE140", PhosphorIconWeight.Duotone, "\uE140", "\uE140")
+        val Carrot: PhosphorGlyph = PhosphorGlyph("\uED38", PhosphorIconWeight.Duotone, "\uED38", "\uED38")
+        val CashRegister: PhosphorGlyph = PhosphorGlyph("\uED80", PhosphorIconWeight.Duotone, "\uED80", "\uED80")
+        val CassetteTape: PhosphorGlyph = PhosphorGlyph("\uED2E", PhosphorIconWeight.Duotone, "\uED2E", "\uED2E")
+        val CastleTurret: PhosphorGlyph = PhosphorGlyph("\uE9D0", PhosphorIconWeight.Duotone, "\uE9D0", "\uE9D0")
+        val Cat: PhosphorGlyph = PhosphorGlyph("\uE748", PhosphorIconWeight.Duotone, "\uE748", "\uE748")
+        val CellSignalFull: PhosphorGlyph = PhosphorGlyph("\uE142", PhosphorIconWeight.Duotone, "\uE142", "\uE142")
+        val CellSignalHigh: PhosphorGlyph = PhosphorGlyph("\uE144", PhosphorIconWeight.Duotone, "\uE144", "\uE144")
+        val CellSignalLow: PhosphorGlyph = PhosphorGlyph("\uE146", PhosphorIconWeight.Duotone, "\uE146", "\uE146")
+        val CellSignalMedium: PhosphorGlyph = PhosphorGlyph("\uE148", PhosphorIconWeight.Duotone, "\uE148", "\uE148")
+        val CellSignalNone: PhosphorGlyph = PhosphorGlyph("\uE14A", PhosphorIconWeight.Duotone, "\uE14A", "\uE14A")
+        val CellSignalSlash: PhosphorGlyph = PhosphorGlyph("\uE14C", PhosphorIconWeight.Duotone, "\uE14C", "\uE14C")
+        val CellSignalX: PhosphorGlyph = PhosphorGlyph("\uE14E", PhosphorIconWeight.Duotone, "\uE14E", "\uE14E")
+        val CellTower: PhosphorGlyph = PhosphorGlyph("\uEBAA", PhosphorIconWeight.Duotone, "\uEBAA", "\uEBAA")
+        val Certificate: PhosphorGlyph = PhosphorGlyph("\uE766", PhosphorIconWeight.Duotone, "\uE766", "\uE766")
+        val Chair: PhosphorGlyph = PhosphorGlyph("\uE950", PhosphorIconWeight.Duotone, "\uE950", "\uE950")
+        val Chalkboard: PhosphorGlyph = PhosphorGlyph("\uE5FC", PhosphorIconWeight.Duotone, "\uE5FC", "\uE5FC")
+        val ChalkboardSimple: PhosphorGlyph = PhosphorGlyph("\uE5FE", PhosphorIconWeight.Duotone, "\uE5FE", "\uE5FE")
+        val ChalkboardTeacher: PhosphorGlyph = PhosphorGlyph("\uE600", PhosphorIconWeight.Duotone, "\uE600", "\uE600")
+        val Champagne: PhosphorGlyph = PhosphorGlyph("\uEACA", PhosphorIconWeight.Duotone, "\uEACA", "\uEACA")
+        val ChargingStation: PhosphorGlyph = PhosphorGlyph("\uE8D0", PhosphorIconWeight.Duotone, "\uE8D0", "\uE8D0")
+        val ChartBar: PhosphorGlyph = PhosphorGlyph("\uE150", PhosphorIconWeight.Duotone, "\uE150", "\uE150")
+        val ChartBarHorizontal: PhosphorGlyph = PhosphorGlyph("\uE152", PhosphorIconWeight.Duotone, "\uE152", "\uE152")
+        val ChartDonut: PhosphorGlyph = PhosphorGlyph("\uEAA6", PhosphorIconWeight.Duotone, "\uEAA6", "\uEAA6")
+        val ChartLine: PhosphorGlyph = PhosphorGlyph("\uE154", PhosphorIconWeight.Duotone, "\uE154", "\uE154")
+        val ChartLineDown: PhosphorGlyph = PhosphorGlyph("\uE8B6", PhosphorIconWeight.Duotone, "\uE8B6", "\uE8B6")
+        val ChartLineUp: PhosphorGlyph = PhosphorGlyph("\uE156", PhosphorIconWeight.Duotone, "\uE156", "\uE156")
+        val ChartPie: PhosphorGlyph = PhosphorGlyph("\uE158", PhosphorIconWeight.Duotone, "\uE158", "\uE158")
+        val ChartPieSlice: PhosphorGlyph = PhosphorGlyph("\uE15A", PhosphorIconWeight.Duotone, "\uE15A", "\uE15A")
+        val ChartPolar: PhosphorGlyph = PhosphorGlyph("\uEAA8", PhosphorIconWeight.Duotone, "\uEAA8", "\uEAA8")
+        val ChartScatter: PhosphorGlyph = PhosphorGlyph("\uEAAC", PhosphorIconWeight.Duotone, "\uEAAC", "\uEAAC")
+        val Chat: PhosphorGlyph = PhosphorGlyph("\uE15C", PhosphorIconWeight.Duotone, "\uE15C", "\uE15C")
+        val ChatCentered: PhosphorGlyph = PhosphorGlyph("\uE160", PhosphorIconWeight.Duotone, "\uE160", "\uE160")
+        val ChatCenteredDots: PhosphorGlyph = PhosphorGlyph("\uE164", PhosphorIconWeight.Duotone, "\uE164", "\uE164")
+        val ChatCenteredSlash: PhosphorGlyph = PhosphorGlyph("\uE162", PhosphorIconWeight.Duotone, "\uE162", "\uE162")
+        val ChatCenteredText: PhosphorGlyph = PhosphorGlyph("\uE166", PhosphorIconWeight.Duotone, "\uE166", "\uE166")
+        val ChatCircle: PhosphorGlyph = PhosphorGlyph("\uE168", PhosphorIconWeight.Duotone, "\uE168", "\uE168")
+        val ChatCircleDots: PhosphorGlyph = PhosphorGlyph("\uE16C", PhosphorIconWeight.Duotone, "\uE16C", "\uE16C")
+        val ChatCircleSlash: PhosphorGlyph = PhosphorGlyph("\uE16A", PhosphorIconWeight.Duotone, "\uE16A", "\uE16A")
+        val ChatCircleText: PhosphorGlyph = PhosphorGlyph("\uE16E", PhosphorIconWeight.Duotone, "\uE16E", "\uE16E")
+        val ChatDots: PhosphorGlyph = PhosphorGlyph("\uE170", PhosphorIconWeight.Duotone, "\uE170", "\uE170")
+        val ChatSlash: PhosphorGlyph = PhosphorGlyph("\uE15E", PhosphorIconWeight.Duotone, "\uE15E", "\uE15E")
+        val ChatTeardrop: PhosphorGlyph = PhosphorGlyph("\uE172", PhosphorIconWeight.Duotone, "\uE172", "\uE172")
+        val ChatTeardropDots: PhosphorGlyph = PhosphorGlyph("\uE176", PhosphorIconWeight.Duotone, "\uE176", "\uE176")
+        val ChatTeardropSlash: PhosphorGlyph = PhosphorGlyph("\uE174", PhosphorIconWeight.Duotone, "\uE174", "\uE174")
+        val ChatTeardropText: PhosphorGlyph = PhosphorGlyph("\uE178", PhosphorIconWeight.Duotone, "\uE178", "\uE178")
+        val ChatText: PhosphorGlyph = PhosphorGlyph("\uE17A", PhosphorIconWeight.Duotone, "\uE17A", "\uE17A")
+        val Chats: PhosphorGlyph = PhosphorGlyph("\uE17C", PhosphorIconWeight.Duotone, "\uE17C", "\uE17C")
+        val ChatsCircle: PhosphorGlyph = PhosphorGlyph("\uE17E", PhosphorIconWeight.Duotone, "\uE17E", "\uE17E")
+        val ChatsTeardrop: PhosphorGlyph = PhosphorGlyph("\uE180", PhosphorIconWeight.Duotone, "\uE180", "\uE180")
+        val Check: PhosphorGlyph = PhosphorGlyph("\uE182", PhosphorIconWeight.Duotone, "\uE182", "\uE182")
+        val CheckCircle: PhosphorGlyph = PhosphorGlyph("\uE184", PhosphorIconWeight.Duotone, "\uE184", "\uE184")
+        val CheckFat: PhosphorGlyph = PhosphorGlyph("\uEBA6", PhosphorIconWeight.Duotone, "\uEBA6", "\uEBA6")
+        val CheckSquare: PhosphorGlyph = PhosphorGlyph("\uE186", PhosphorIconWeight.Duotone, "\uE186", "\uE186")
+        val CheckSquareOffset: PhosphorGlyph = PhosphorGlyph("\uE188", PhosphorIconWeight.Duotone, "\uE188", "\uE188")
+        val Checkerboard: PhosphorGlyph = PhosphorGlyph("\uE8C4", PhosphorIconWeight.Duotone, "\uE8C4", "\uE8C4")
+        val Checks: PhosphorGlyph = PhosphorGlyph("\uE53A", PhosphorIconWeight.Duotone, "\uE53A", "\uE53A")
+        val Cheers: PhosphorGlyph = PhosphorGlyph("\uEA4A", PhosphorIconWeight.Duotone, "\uEA4A", "\uEA4A")
+        val Cheese: PhosphorGlyph = PhosphorGlyph("\uE9FE", PhosphorIconWeight.Duotone, "\uE9FE", "\uE9FE")
+        val ChefHat: PhosphorGlyph = PhosphorGlyph("\uED8E", PhosphorIconWeight.Duotone, "\uED8E", "\uED8E")
+        val Cherries: PhosphorGlyph = PhosphorGlyph("\uE830", PhosphorIconWeight.Duotone, "\uE830", "\uE830")
+        val Church: PhosphorGlyph = PhosphorGlyph("\uECEA", PhosphorIconWeight.Duotone, "\uECEA", "\uECEA")
+        val Cigarette: PhosphorGlyph = PhosphorGlyph("\uED90", PhosphorIconWeight.Duotone, "\uED90", "\uED90")
+        val CigaretteSlash: PhosphorGlyph = PhosphorGlyph("\uED92", PhosphorIconWeight.Duotone, "\uED92", "\uED92")
+        val Circle: PhosphorGlyph = PhosphorGlyph("\uE18A", PhosphorIconWeight.Duotone, "\uE18A", "\uE18A")
+        val CircleDashed: PhosphorGlyph = PhosphorGlyph("\uE602", PhosphorIconWeight.Duotone, "\uE602", "\uE602")
+        val CircleHalf: PhosphorGlyph = PhosphorGlyph("\uE18C", PhosphorIconWeight.Duotone, "\uE18C", "\uE18C")
+        val CircleHalfTilt: PhosphorGlyph = PhosphorGlyph("\uE18E", PhosphorIconWeight.Duotone, "\uE18E", "\uE18E")
+        val CircleNotch: PhosphorGlyph = PhosphorGlyph("\uEB44", PhosphorIconWeight.Duotone, "\uEB44", "\uEB44")
+        val CirclesFour: PhosphorGlyph = PhosphorGlyph("\uE190", PhosphorIconWeight.Duotone, "\uE190", "\uE190")
+        val CirclesThree: PhosphorGlyph = PhosphorGlyph("\uE192", PhosphorIconWeight.Duotone, "\uE192", "\uE192")
+        val CirclesThreePlus: PhosphorGlyph = PhosphorGlyph("\uE194", PhosphorIconWeight.Duotone, "\uE194", "\uE194")
+        val Circuitry: PhosphorGlyph = PhosphorGlyph("\uE9C2", PhosphorIconWeight.Duotone, "\uE9C2", "\uE9C2")
+        val City: PhosphorGlyph = PhosphorGlyph("\uEA6A", PhosphorIconWeight.Duotone, "\uEA6A", "\uEA6A")
+        val Clipboard: PhosphorGlyph = PhosphorGlyph("\uE196", PhosphorIconWeight.Duotone, "\uE196", "\uE196")
+        val ClipboardText: PhosphorGlyph = PhosphorGlyph("\uE198", PhosphorIconWeight.Duotone, "\uE198", "\uE198")
+        val Clock: PhosphorGlyph = PhosphorGlyph("\uE19A", PhosphorIconWeight.Duotone, "\uE19A", "\uE19A")
+        val ClockAfternoon: PhosphorGlyph = PhosphorGlyph("\uE19C", PhosphorIconWeight.Duotone, "\uE19C", "\uE19C")
+        val ClockClockwise: PhosphorGlyph = PhosphorGlyph("\uE19E", PhosphorIconWeight.Duotone, "\uE19E", "\uE19E")
+        val ClockCountdown: PhosphorGlyph = PhosphorGlyph("\uED2C", PhosphorIconWeight.Duotone, "\uED2C", "\uED2C")
+        val ClockCounterClockwise: PhosphorGlyph = PhosphorGlyph("\uE1A0", PhosphorIconWeight.Duotone, "\uE1A0", "\uE1A0")
+        val ClockUser: PhosphorGlyph = PhosphorGlyph("\uEDEC", PhosphorIconWeight.Duotone, "\uEDEC", "\uEDEC")
+        val ClosedCaptioning: PhosphorGlyph = PhosphorGlyph("\uE1A4", PhosphorIconWeight.Duotone, "\uE1A4", "\uE1A4")
+        val Cloud: PhosphorGlyph = PhosphorGlyph("\uE1AA", PhosphorIconWeight.Duotone, "\uE1AA", "\uE1AA")
+        val CloudArrowDown: PhosphorGlyph = PhosphorGlyph("\uE1AC", PhosphorIconWeight.Duotone, "\uE1AC", "\uE1AC")
+        val CloudArrowUp: PhosphorGlyph = PhosphorGlyph("\uE1AE", PhosphorIconWeight.Duotone, "\uE1AE", "\uE1AE")
+        val CloudCheck: PhosphorGlyph = PhosphorGlyph("\uE1B0", PhosphorIconWeight.Duotone, "\uE1B0", "\uE1B0")
+        val CloudFog: PhosphorGlyph = PhosphorGlyph("\uE53C", PhosphorIconWeight.Duotone, "\uE53C", "\uE53C")
+        val CloudLightning: PhosphorGlyph = PhosphorGlyph("\uE1B2", PhosphorIconWeight.Duotone, "\uE1B2", "\uE1B2")
+        val CloudMoon: PhosphorGlyph = PhosphorGlyph("\uE53E", PhosphorIconWeight.Duotone, "\uE53E", "\uE53E")
+        val CloudRain: PhosphorGlyph = PhosphorGlyph("\uE1B4", PhosphorIconWeight.Duotone, "\uE1B4", "\uE1B4")
+        val CloudSlash: PhosphorGlyph = PhosphorGlyph("\uE1B6", PhosphorIconWeight.Duotone, "\uE1B6", "\uE1B6")
+        val CloudSnow: PhosphorGlyph = PhosphorGlyph("\uE1B8", PhosphorIconWeight.Duotone, "\uE1B8", "\uE1B8")
+        val CloudSun: PhosphorGlyph = PhosphorGlyph("\uE540", PhosphorIconWeight.Duotone, "\uE540", "\uE540")
+        val CloudWarning: PhosphorGlyph = PhosphorGlyph("\uEA98", PhosphorIconWeight.Duotone, "\uEA98", "\uEA98")
+        val CloudX: PhosphorGlyph = PhosphorGlyph("\uEA96", PhosphorIconWeight.Duotone, "\uEA96", "\uEA96")
+        val Clover: PhosphorGlyph = PhosphorGlyph("\uEDC8", PhosphorIconWeight.Duotone, "\uEDC8", "\uEDC8")
+        val Club: PhosphorGlyph = PhosphorGlyph("\uE1BA", PhosphorIconWeight.Duotone, "\uE1BA", "\uE1BA")
+        val CoatHanger: PhosphorGlyph = PhosphorGlyph("\uE7FE", PhosphorIconWeight.Duotone, "\uE7FE", "\uE7FE")
+        val CodaLogo: PhosphorGlyph = PhosphorGlyph("\uE7CE", PhosphorIconWeight.Duotone, "\uE7CE", "\uE7CE")
+        val Code: PhosphorGlyph = PhosphorGlyph("\uE1BC", PhosphorIconWeight.Duotone, "\uE1BC", "\uE1BC")
+        val CodeBlock: PhosphorGlyph = PhosphorGlyph("\uEAFE", PhosphorIconWeight.Duotone, "\uEAFE", "\uEAFE")
+        val CodeSimple: PhosphorGlyph = PhosphorGlyph("\uE1BE", PhosphorIconWeight.Duotone, "\uE1BE", "\uE1BE")
+        val CodepenLogo: PhosphorGlyph = PhosphorGlyph("\uE978", PhosphorIconWeight.Duotone, "\uE978", "\uE978")
+        val CodesandboxLogo: PhosphorGlyph = PhosphorGlyph("\uEA06", PhosphorIconWeight.Duotone, "\uEA06", "\uEA06")
+        val Coffee: PhosphorGlyph = PhosphorGlyph("\uE1C2", PhosphorIconWeight.Duotone, "\uE1C2", "\uE1C2")
+        val CoffeeBean: PhosphorGlyph = PhosphorGlyph("\uE1C0", PhosphorIconWeight.Duotone, "\uE1C0", "\uE1C0")
+        val Coin: PhosphorGlyph = PhosphorGlyph("\uE60E", PhosphorIconWeight.Duotone, "\uE60E", "\uE60E")
+        val CoinVertical: PhosphorGlyph = PhosphorGlyph("\uEB48", PhosphorIconWeight.Duotone, "\uEB48", "\uEB48")
+        val Coins: PhosphorGlyph = PhosphorGlyph("\uE78E", PhosphorIconWeight.Duotone, "\uE78E", "\uE78E")
+        val Columns: PhosphorGlyph = PhosphorGlyph("\uE546", PhosphorIconWeight.Duotone, "\uE546", "\uE546")
+        val ColumnsPlusLeft: PhosphorGlyph = PhosphorGlyph("\uE544", PhosphorIconWeight.Duotone, "\uE544", "\uE544")
+        val ColumnsPlusRight: PhosphorGlyph = PhosphorGlyph("\uE542", PhosphorIconWeight.Duotone, "\uE542", "\uE542")
+        val Command: PhosphorGlyph = PhosphorGlyph("\uE1C4", PhosphorIconWeight.Duotone, "\uE1C4", "\uE1C4")
+        val Compass: PhosphorGlyph = PhosphorGlyph("\uE1C8", PhosphorIconWeight.Duotone, "\uE1C8", "\uE1C8")
+        val CompassRose: PhosphorGlyph = PhosphorGlyph("\uE1C6", PhosphorIconWeight.Duotone, "\uE1C6", "\uE1C6")
+        val CompassTool: PhosphorGlyph = PhosphorGlyph("\uEA0E", PhosphorIconWeight.Duotone, "\uEA0E", "\uEA0E")
+        val ComputerTower: PhosphorGlyph = PhosphorGlyph("\uE548", PhosphorIconWeight.Duotone, "\uE548", "\uE548")
+        val Confetti: PhosphorGlyph = PhosphorGlyph("\uE81A", PhosphorIconWeight.Duotone, "\uE81A", "\uE81A")
+        val ContactlessPayment: PhosphorGlyph = PhosphorGlyph("\uED42", PhosphorIconWeight.Duotone, "\uED42", "\uED42")
+        val Control: PhosphorGlyph = PhosphorGlyph("\uECA6", PhosphorIconWeight.Duotone, "\uECA6", "\uECA6")
+        val Cookie: PhosphorGlyph = PhosphorGlyph("\uE6CA", PhosphorIconWeight.Duotone, "\uE6CA", "\uE6CA")
+        val CookingPot: PhosphorGlyph = PhosphorGlyph("\uE764", PhosphorIconWeight.Duotone, "\uE764", "\uE764")
+        val Copy: PhosphorGlyph = PhosphorGlyph("\uE1CA", PhosphorIconWeight.Duotone, "\uE1CA", "\uE1CA")
+        val CopySimple: PhosphorGlyph = PhosphorGlyph("\uE1CC", PhosphorIconWeight.Duotone, "\uE1CC", "\uE1CC")
+        val Copyleft: PhosphorGlyph = PhosphorGlyph("\uE86A", PhosphorIconWeight.Duotone, "\uE86A", "\uE86A")
+        val Copyright: PhosphorGlyph = PhosphorGlyph("\uE54A", PhosphorIconWeight.Duotone, "\uE54A", "\uE54A")
+        val CornersIn: PhosphorGlyph = PhosphorGlyph("\uE1CE", PhosphorIconWeight.Duotone, "\uE1CE", "\uE1CE")
+        val CornersOut: PhosphorGlyph = PhosphorGlyph("\uE1D0", PhosphorIconWeight.Duotone, "\uE1D0", "\uE1D0")
+        val Couch: PhosphorGlyph = PhosphorGlyph("\uE7F6", PhosphorIconWeight.Duotone, "\uE7F6", "\uE7F6")
+        val CourtBasketball: PhosphorGlyph = PhosphorGlyph("\uEE36", PhosphorIconWeight.Duotone, "\uEE36", "\uEE36")
+        val Cow: PhosphorGlyph = PhosphorGlyph("\uEABE", PhosphorIconWeight.Duotone, "\uEABE", "\uEABE")
+        val CowboyHat: PhosphorGlyph = PhosphorGlyph("\uED12", PhosphorIconWeight.Duotone, "\uED12", "\uED12")
+        val Cpu: PhosphorGlyph = PhosphorGlyph("\uE610", PhosphorIconWeight.Duotone, "\uE610", "\uE610")
+        val Crane: PhosphorGlyph = PhosphorGlyph("\uED48", PhosphorIconWeight.Duotone, "\uED48", "\uED48")
+        val CraneTower: PhosphorGlyph = PhosphorGlyph("\uED49", PhosphorIconWeight.Duotone, "\uED49", "\uED49")
+        val CreditCard: PhosphorGlyph = PhosphorGlyph("\uE1D2", PhosphorIconWeight.Duotone, "\uE1D2", "\uE1D2")
+        val Cricket: PhosphorGlyph = PhosphorGlyph("\uEE12", PhosphorIconWeight.Duotone, "\uEE12", "\uEE12")
+        val Crop: PhosphorGlyph = PhosphorGlyph("\uE1D4", PhosphorIconWeight.Duotone, "\uE1D4", "\uE1D4")
+        val Cross: PhosphorGlyph = PhosphorGlyph("\uE8A0", PhosphorIconWeight.Duotone, "\uE8A0", "\uE8A0")
+        val Crosshair: PhosphorGlyph = PhosphorGlyph("\uE1D6", PhosphorIconWeight.Duotone, "\uE1D6", "\uE1D6")
+        val CrosshairSimple: PhosphorGlyph = PhosphorGlyph("\uE1D8", PhosphorIconWeight.Duotone, "\uE1D8", "\uE1D8")
+        val Crown: PhosphorGlyph = PhosphorGlyph("\uE614", PhosphorIconWeight.Duotone, "\uE614", "\uE614")
+        val CrownCross: PhosphorGlyph = PhosphorGlyph("\uEE5E", PhosphorIconWeight.Duotone, "\uEE5E", "\uEE5E")
+        val CrownSimple: PhosphorGlyph = PhosphorGlyph("\uE616", PhosphorIconWeight.Duotone, "\uE616", "\uE616")
+        val Cube: PhosphorGlyph = PhosphorGlyph("\uE1DA", PhosphorIconWeight.Duotone, "\uE1DA", "\uE1DA")
+        val CubeFocus: PhosphorGlyph = PhosphorGlyph("\uED0A", PhosphorIconWeight.Duotone, "\uED0A", "\uED0A")
+        val CubeTransparent: PhosphorGlyph = PhosphorGlyph("\uEC7C", PhosphorIconWeight.Duotone, "\uEC7C", "\uEC7C")
+        val CurrencyBtc: PhosphorGlyph = PhosphorGlyph("\uE618", PhosphorIconWeight.Duotone, "\uE618", "\uE618")
+        val CurrencyCircleDollar: PhosphorGlyph = PhosphorGlyph("\uE54C", PhosphorIconWeight.Duotone, "\uE54C", "\uE54C")
+        val CurrencyCny: PhosphorGlyph = PhosphorGlyph("\uE54E", PhosphorIconWeight.Duotone, "\uE54E", "\uE54E")
+        val CurrencyDollar: PhosphorGlyph = PhosphorGlyph("\uE550", PhosphorIconWeight.Duotone, "\uE550", "\uE550")
+        val CurrencyDollarSimple: PhosphorGlyph = PhosphorGlyph("\uE552", PhosphorIconWeight.Duotone, "\uE552", "\uE552")
+        val CurrencyEth: PhosphorGlyph = PhosphorGlyph("\uEADA", PhosphorIconWeight.Duotone, "\uEADA", "\uEADA")
+        val CurrencyEur: PhosphorGlyph = PhosphorGlyph("\uE554", PhosphorIconWeight.Duotone, "\uE554", "\uE554")
+        val CurrencyGbp: PhosphorGlyph = PhosphorGlyph("\uE556", PhosphorIconWeight.Duotone, "\uE556", "\uE556")
+        val CurrencyInr: PhosphorGlyph = PhosphorGlyph("\uE558", PhosphorIconWeight.Duotone, "\uE558", "\uE558")
+        val CurrencyJpy: PhosphorGlyph = PhosphorGlyph("\uE55A", PhosphorIconWeight.Duotone, "\uE55A", "\uE55A")
+        val CurrencyKrw: PhosphorGlyph = PhosphorGlyph("\uE55C", PhosphorIconWeight.Duotone, "\uE55C", "\uE55C")
+        val CurrencyKzt: PhosphorGlyph = PhosphorGlyph("\uEC4C", PhosphorIconWeight.Duotone, "\uEC4C", "\uEC4C")
+        val CurrencyNgn: PhosphorGlyph = PhosphorGlyph("\uEB52", PhosphorIconWeight.Duotone, "\uEB52", "\uEB52")
+        val CurrencyRub: PhosphorGlyph = PhosphorGlyph("\uE55E", PhosphorIconWeight.Duotone, "\uE55E", "\uE55E")
+        val Cursor: PhosphorGlyph = PhosphorGlyph("\uE1DC", PhosphorIconWeight.Duotone, "\uE1DC", "\uE1DC")
+        val CursorClick: PhosphorGlyph = PhosphorGlyph("\uE7C8", PhosphorIconWeight.Duotone, "\uE7C8", "\uE7C8")
+        val CursorText: PhosphorGlyph = PhosphorGlyph("\uE7D8", PhosphorIconWeight.Duotone, "\uE7D8", "\uE7D8")
+        val Cylinder: PhosphorGlyph = PhosphorGlyph("\uE8FC", PhosphorIconWeight.Duotone, "\uE8FC", "\uE8FC")
+        val Database: PhosphorGlyph = PhosphorGlyph("\uE1DE", PhosphorIconWeight.Duotone, "\uE1DE", "\uE1DE")
+        val Desk: PhosphorGlyph = PhosphorGlyph("\uED16", PhosphorIconWeight.Duotone, "\uED16", "\uED16")
+        val Desktop: PhosphorGlyph = PhosphorGlyph("\uE560", PhosphorIconWeight.Duotone, "\uE560", "\uE560")
+        val DesktopTower: PhosphorGlyph = PhosphorGlyph("\uE562", PhosphorIconWeight.Duotone, "\uE562", "\uE562")
+        val Detective: PhosphorGlyph = PhosphorGlyph("\uE83E", PhosphorIconWeight.Duotone, "\uE83E", "\uE83E")
+        val DevToLogo: PhosphorGlyph = PhosphorGlyph("\uED0E", PhosphorIconWeight.Duotone, "\uED0E", "\uED0E")
+        val DeviceMobile: PhosphorGlyph = PhosphorGlyph("\uE1E0", PhosphorIconWeight.Duotone, "\uE1E0", "\uE1E0")
+        val DeviceMobileCamera: PhosphorGlyph = PhosphorGlyph("\uE1E2", PhosphorIconWeight.Duotone, "\uE1E2", "\uE1E2")
+        val DeviceMobileSlash: PhosphorGlyph = PhosphorGlyph("\uEE46", PhosphorIconWeight.Duotone, "\uEE46", "\uEE46")
+        val DeviceMobileSpeaker: PhosphorGlyph = PhosphorGlyph("\uE1E4", PhosphorIconWeight.Duotone, "\uE1E4", "\uE1E4")
+        val DeviceRotate: PhosphorGlyph = PhosphorGlyph("\uEDF2", PhosphorIconWeight.Duotone, "\uEDF2", "\uEDF2")
+        val DeviceTablet: PhosphorGlyph = PhosphorGlyph("\uE1E6", PhosphorIconWeight.Duotone, "\uE1E6", "\uE1E6")
+        val DeviceTabletCamera: PhosphorGlyph = PhosphorGlyph("\uE1E8", PhosphorIconWeight.Duotone, "\uE1E8", "\uE1E8")
+        val DeviceTabletSpeaker: PhosphorGlyph = PhosphorGlyph("\uE1EA", PhosphorIconWeight.Duotone, "\uE1EA", "\uE1EA")
+        val Devices: PhosphorGlyph = PhosphorGlyph("\uEBA4", PhosphorIconWeight.Duotone, "\uEBA4", "\uEBA4")
+        val Diamond: PhosphorGlyph = PhosphorGlyph("\uE1EC", PhosphorIconWeight.Duotone, "\uE1EC", "\uE1EC")
+        val DiamondsFour: PhosphorGlyph = PhosphorGlyph("\uE8F4", PhosphorIconWeight.Duotone, "\uE8F4", "\uE8F4")
+        val DiceFive: PhosphorGlyph = PhosphorGlyph("\uE1EE", PhosphorIconWeight.Duotone, "\uE1EE", "\uE1EE")
+        val DiceFour: PhosphorGlyph = PhosphorGlyph("\uE1F0", PhosphorIconWeight.Duotone, "\uE1F0", "\uE1F0")
+        val DiceOne: PhosphorGlyph = PhosphorGlyph("\uE1F2", PhosphorIconWeight.Duotone, "\uE1F2", "\uE1F2")
+        val DiceSix: PhosphorGlyph = PhosphorGlyph("\uE1F4", PhosphorIconWeight.Duotone, "\uE1F4", "\uE1F4")
+        val DiceThree: PhosphorGlyph = PhosphorGlyph("\uE1F6", PhosphorIconWeight.Duotone, "\uE1F6", "\uE1F6")
+        val DiceTwo: PhosphorGlyph = PhosphorGlyph("\uE1F8", PhosphorIconWeight.Duotone, "\uE1F8", "\uE1F8")
+        val Disc: PhosphorGlyph = PhosphorGlyph("\uE564", PhosphorIconWeight.Duotone, "\uE564", "\uE564")
+        val DiscoBall: PhosphorGlyph = PhosphorGlyph("\uED98", PhosphorIconWeight.Duotone, "\uED98", "\uED98")
+        val DiscordLogo: PhosphorGlyph = PhosphorGlyph("\uE61A", PhosphorIconWeight.Duotone, "\uE61A", "\uE61A")
+        val Divide: PhosphorGlyph = PhosphorGlyph("\uE1FA", PhosphorIconWeight.Duotone, "\uE1FA", "\uE1FA")
+        val Dna: PhosphorGlyph = PhosphorGlyph("\uE924", PhosphorIconWeight.Duotone, "\uE924", "\uE924")
+        val Dog: PhosphorGlyph = PhosphorGlyph("\uE74A", PhosphorIconWeight.Duotone, "\uE74A", "\uE74A")
+        val Door: PhosphorGlyph = PhosphorGlyph("\uE61C", PhosphorIconWeight.Duotone, "\uE61C", "\uE61C")
+        val DoorOpen: PhosphorGlyph = PhosphorGlyph("\uE7E6", PhosphorIconWeight.Duotone, "\uE7E6", "\uE7E6")
+        val Dot: PhosphorGlyph = PhosphorGlyph("\uECDE", PhosphorIconWeight.Duotone, "\uECDE", "\uECDE")
+        val DotOutline: PhosphorGlyph = PhosphorGlyph("\uECE0", PhosphorIconWeight.Duotone, "\uECE0", "\uECE0")
+        val DotsNine: PhosphorGlyph = PhosphorGlyph("\uE1FC", PhosphorIconWeight.Duotone, "\uE1FC", "\uE1FC")
+        val DotsSix: PhosphorGlyph = PhosphorGlyph("\uE794", PhosphorIconWeight.Duotone, "\uE794", "\uE794")
+        val DotsSixVertical: PhosphorGlyph = PhosphorGlyph("\uEAE2", PhosphorIconWeight.Duotone, "\uEAE2", "\uEAE2")
+        val DotsThree: PhosphorGlyph = PhosphorGlyph("\uE1FE", PhosphorIconWeight.Duotone, "\uE1FE", "\uE1FE")
+        val DotsThreeCircle: PhosphorGlyph = PhosphorGlyph("\uE200", PhosphorIconWeight.Duotone, "\uE200", "\uE200")
+        val DotsThreeCircleVertical: PhosphorGlyph = PhosphorGlyph("\uE202", PhosphorIconWeight.Duotone, "\uE202", "\uE202")
+        val DotsThreeOutline: PhosphorGlyph = PhosphorGlyph("\uE204", PhosphorIconWeight.Duotone, "\uE204", "\uE204")
+        val DotsThreeOutlineVertical: PhosphorGlyph = PhosphorGlyph("\uE206", PhosphorIconWeight.Duotone, "\uE206", "\uE206")
+        val DotsThreeVertical: PhosphorGlyph = PhosphorGlyph("\uE208", PhosphorIconWeight.Duotone, "\uE208", "\uE208")
+        val Download: PhosphorGlyph = PhosphorGlyph("\uE20A", PhosphorIconWeight.Duotone, "\uE20A", "\uE20A")
+        val DownloadSimple: PhosphorGlyph = PhosphorGlyph("\uE20C", PhosphorIconWeight.Duotone, "\uE20C", "\uE20C")
+        val Dress: PhosphorGlyph = PhosphorGlyph("\uEA7E", PhosphorIconWeight.Duotone, "\uEA7E", "\uEA7E")
+        val Dresser: PhosphorGlyph = PhosphorGlyph("\uE94E", PhosphorIconWeight.Duotone, "\uE94E", "\uE94E")
+        val DribbbleLogo: PhosphorGlyph = PhosphorGlyph("\uE20E", PhosphorIconWeight.Duotone, "\uE20E", "\uE20E")
+        val Drone: PhosphorGlyph = PhosphorGlyph("\uED74", PhosphorIconWeight.Duotone, "\uED74", "\uED74")
+        val Drop: PhosphorGlyph = PhosphorGlyph("\uE210", PhosphorIconWeight.Duotone, "\uE210", "\uE210")
+        val DropHalf: PhosphorGlyph = PhosphorGlyph("\uE566", PhosphorIconWeight.Duotone, "\uE566", "\uE566")
+        val DropHalfBottom: PhosphorGlyph = PhosphorGlyph("\uEB40", PhosphorIconWeight.Duotone, "\uEB40", "\uEB40")
+        val DropSimple: PhosphorGlyph = PhosphorGlyph("\uEE32", PhosphorIconWeight.Duotone, "\uEE32", "\uEE32")
+        val DropSlash: PhosphorGlyph = PhosphorGlyph("\uE954", PhosphorIconWeight.Duotone, "\uE954", "\uE954")
+        val DropboxLogo: PhosphorGlyph = PhosphorGlyph("\uE7D0", PhosphorIconWeight.Duotone, "\uE7D0", "\uE7D0")
+        val Ear: PhosphorGlyph = PhosphorGlyph("\uE70C", PhosphorIconWeight.Duotone, "\uE70C", "\uE70C")
+        val EarSlash: PhosphorGlyph = PhosphorGlyph("\uE70E", PhosphorIconWeight.Duotone, "\uE70E", "\uE70E")
+        val Egg: PhosphorGlyph = PhosphorGlyph("\uE812", PhosphorIconWeight.Duotone, "\uE812", "\uE812")
+        val EggCrack: PhosphorGlyph = PhosphorGlyph("\uEB64", PhosphorIconWeight.Duotone, "\uEB64", "\uEB64")
+        val Eject: PhosphorGlyph = PhosphorGlyph("\uE212", PhosphorIconWeight.Duotone, "\uE212", "\uE212")
+        val EjectSimple: PhosphorGlyph = PhosphorGlyph("\uE6AE", PhosphorIconWeight.Duotone, "\uE6AE", "\uE6AE")
+        val Elevator: PhosphorGlyph = PhosphorGlyph("\uECC0", PhosphorIconWeight.Duotone, "\uECC0", "\uECC0")
+        val Empty: PhosphorGlyph = PhosphorGlyph("\uEDBC", PhosphorIconWeight.Duotone, "\uEDBC", "\uEDBC")
+        val Engine: PhosphorGlyph = PhosphorGlyph("\uEA80", PhosphorIconWeight.Duotone, "\uEA80", "\uEA80")
+        val Envelope: PhosphorGlyph = PhosphorGlyph("\uE214", PhosphorIconWeight.Duotone, "\uE214", "\uE214")
+        val EnvelopeOpen: PhosphorGlyph = PhosphorGlyph("\uE216", PhosphorIconWeight.Duotone, "\uE216", "\uE216")
+        val EnvelopeSimple: PhosphorGlyph = PhosphorGlyph("\uE218", PhosphorIconWeight.Duotone, "\uE218", "\uE218")
+        val EnvelopeSimpleOpen: PhosphorGlyph = PhosphorGlyph("\uE21A", PhosphorIconWeight.Duotone, "\uE21A", "\uE21A")
+        val Equalizer: PhosphorGlyph = PhosphorGlyph("\uEBBC", PhosphorIconWeight.Duotone, "\uEBBC", "\uEBBC")
+        val Equals: PhosphorGlyph = PhosphorGlyph("\uE21C", PhosphorIconWeight.Duotone, "\uE21C", "\uE21C")
+        val Eraser: PhosphorGlyph = PhosphorGlyph("\uE21E", PhosphorIconWeight.Duotone, "\uE21E", "\uE21E")
+        val EscalatorDown: PhosphorGlyph = PhosphorGlyph("\uECBA", PhosphorIconWeight.Duotone, "\uECBA", "\uECBA")
+        val EscalatorUp: PhosphorGlyph = PhosphorGlyph("\uECBC", PhosphorIconWeight.Duotone, "\uECBC", "\uECBC")
+        val Exam: PhosphorGlyph = PhosphorGlyph("\uE742", PhosphorIconWeight.Duotone, "\uE742", "\uE742")
+        val ExclamationMark: PhosphorGlyph = PhosphorGlyph("\uEE44", PhosphorIconWeight.Duotone, "\uEE44", "\uEE44")
+        val Exclude: PhosphorGlyph = PhosphorGlyph("\uE882", PhosphorIconWeight.Duotone, "\uE882", "\uE882")
+        val ExcludeSquare: PhosphorGlyph = PhosphorGlyph("\uE880", PhosphorIconWeight.Duotone, "\uE880", "\uE880")
+        val Export: PhosphorGlyph = PhosphorGlyph("\uEAF0", PhosphorIconWeight.Duotone, "\uEAF0", "\uEAF0")
+        val Eye: PhosphorGlyph = PhosphorGlyph("\uE220", PhosphorIconWeight.Duotone, "\uE220", "\uE220")
+        val EyeClosed: PhosphorGlyph = PhosphorGlyph("\uE222", PhosphorIconWeight.Duotone, "\uE222", "\uE222")
+        val EyeSlash: PhosphorGlyph = PhosphorGlyph("\uE224", PhosphorIconWeight.Duotone, "\uE224", "\uE224")
+        val Eyedropper: PhosphorGlyph = PhosphorGlyph("\uE568", PhosphorIconWeight.Duotone, "\uE568", "\uE568")
+        val EyedropperSample: PhosphorGlyph = PhosphorGlyph("\uEAC4", PhosphorIconWeight.Duotone, "\uEAC4", "\uEAC4")
+        val Eyeglasses: PhosphorGlyph = PhosphorGlyph("\uE7BA", PhosphorIconWeight.Duotone, "\uE7BA", "\uE7BA")
+        val Eyes: PhosphorGlyph = PhosphorGlyph("\uEE5C", PhosphorIconWeight.Duotone, "\uEE5C", "\uEE5C")
+        val FaceMask: PhosphorGlyph = PhosphorGlyph("\uE56A", PhosphorIconWeight.Duotone, "\uE56A", "\uE56A")
+        val FacebookLogo: PhosphorGlyph = PhosphorGlyph("\uE226", PhosphorIconWeight.Duotone, "\uE226", "\uE226")
+        val Factory: PhosphorGlyph = PhosphorGlyph("\uE760", PhosphorIconWeight.Duotone, "\uE760", "\uE760")
+        val Faders: PhosphorGlyph = PhosphorGlyph("\uE228", PhosphorIconWeight.Duotone, "\uE228", "\uE228")
+        val FadersHorizontal: PhosphorGlyph = PhosphorGlyph("\uE22A", PhosphorIconWeight.Duotone, "\uE22A", "\uE22A")
+        val FalloutShelter: PhosphorGlyph = PhosphorGlyph("\uE9DE", PhosphorIconWeight.Duotone, "\uE9DE", "\uE9DE")
+        val Fan: PhosphorGlyph = PhosphorGlyph("\uE9F2", PhosphorIconWeight.Duotone, "\uE9F2", "\uE9F2")
+        val Farm: PhosphorGlyph = PhosphorGlyph("\uEC70", PhosphorIconWeight.Duotone, "\uEC70", "\uEC70")
+        val FastForward: PhosphorGlyph = PhosphorGlyph("\uE6A6", PhosphorIconWeight.Duotone, "\uE6A6", "\uE6A6")
+        val FastForwardCircle: PhosphorGlyph = PhosphorGlyph("\uE22C", PhosphorIconWeight.Duotone, "\uE22C", "\uE22C")
+        val Feather: PhosphorGlyph = PhosphorGlyph("\uE9C0", PhosphorIconWeight.Duotone, "\uE9C0", "\uE9C0")
+        val FediverseLogo: PhosphorGlyph = PhosphorGlyph("\uED66", PhosphorIconWeight.Duotone, "\uED66", "\uED66")
+        val FigmaLogo: PhosphorGlyph = PhosphorGlyph("\uE22E", PhosphorIconWeight.Duotone, "\uE22E", "\uE22E")
+        val File: PhosphorGlyph = PhosphorGlyph("\uE230", PhosphorIconWeight.Duotone, "\uE230", "\uE230")
+        val FileArchive: PhosphorGlyph = PhosphorGlyph("\uEB2A", PhosphorIconWeight.Duotone, "\uEB2A", "\uEB2A")
+        val FileArrowDown: PhosphorGlyph = PhosphorGlyph("\uE232", PhosphorIconWeight.Duotone, "\uE232", "\uE232")
+        val FileArrowUp: PhosphorGlyph = PhosphorGlyph("\uE61E", PhosphorIconWeight.Duotone, "\uE61E", "\uE61E")
+        val FileAudio: PhosphorGlyph = PhosphorGlyph("\uEA20", PhosphorIconWeight.Duotone, "\uEA20", "\uEA20")
+        val FileC: PhosphorGlyph = PhosphorGlyph("\uEB32", PhosphorIconWeight.Duotone, "\uEB32", "\uEB32")
+        val FileCSharp: PhosphorGlyph = PhosphorGlyph("\uEB30", PhosphorIconWeight.Duotone, "\uEB30", "\uEB30")
+        val FileCloud: PhosphorGlyph = PhosphorGlyph("\uE95E", PhosphorIconWeight.Duotone, "\uE95E", "\uE95E")
+        val FileCode: PhosphorGlyph = PhosphorGlyph("\uE914", PhosphorIconWeight.Duotone, "\uE914", "\uE914")
+        val FileCpp: PhosphorGlyph = PhosphorGlyph("\uEB2E", PhosphorIconWeight.Duotone, "\uEB2E", "\uEB2E")
+        val FileCss: PhosphorGlyph = PhosphorGlyph("\uEB34", PhosphorIconWeight.Duotone, "\uEB34", "\uEB34")
+        val FileCsv: PhosphorGlyph = PhosphorGlyph("\uEB1C", PhosphorIconWeight.Duotone, "\uEB1C", "\uEB1C")
+        val FileDashed: PhosphorGlyph = PhosphorGlyph("\uE704", PhosphorIconWeight.Duotone, "\uE704", "\uE704")
+        val FileDoc: PhosphorGlyph = PhosphorGlyph("\uEB1E", PhosphorIconWeight.Duotone, "\uEB1E", "\uEB1E")
+        val FileHtml: PhosphorGlyph = PhosphorGlyph("\uEB38", PhosphorIconWeight.Duotone, "\uEB38", "\uEB38")
+        val FileImage: PhosphorGlyph = PhosphorGlyph("\uEA24", PhosphorIconWeight.Duotone, "\uEA24", "\uEA24")
+        val FileIni: PhosphorGlyph = PhosphorGlyph("\uEB33", PhosphorIconWeight.Duotone, "\uEB33", "\uEB33")
+        val FileJpg: PhosphorGlyph = PhosphorGlyph("\uEB1A", PhosphorIconWeight.Duotone, "\uEB1A", "\uEB1A")
+        val FileJs: PhosphorGlyph = PhosphorGlyph("\uEB24", PhosphorIconWeight.Duotone, "\uEB24", "\uEB24")
+        val FileJsx: PhosphorGlyph = PhosphorGlyph("\uEB3A", PhosphorIconWeight.Duotone, "\uEB3A", "\uEB3A")
+        val FileLock: PhosphorGlyph = PhosphorGlyph("\uE95C", PhosphorIconWeight.Duotone, "\uE95C", "\uE95C")
+        val FileMagnifyingGlass: PhosphorGlyph = PhosphorGlyph("\uE238", PhosphorIconWeight.Duotone, "\uE238", "\uE238")
+        val FileMd: PhosphorGlyph = PhosphorGlyph("\uED50", PhosphorIconWeight.Duotone, "\uED50", "\uED50")
+        val FileMinus: PhosphorGlyph = PhosphorGlyph("\uE234", PhosphorIconWeight.Duotone, "\uE234", "\uE234")
+        val FilePdf: PhosphorGlyph = PhosphorGlyph("\uE702", PhosphorIconWeight.Duotone, "\uE702", "\uE702")
+        val FilePlus: PhosphorGlyph = PhosphorGlyph("\uE236", PhosphorIconWeight.Duotone, "\uE236", "\uE236")
+        val FilePng: PhosphorGlyph = PhosphorGlyph("\uEB18", PhosphorIconWeight.Duotone, "\uEB18", "\uEB18")
+        val FilePpt: PhosphorGlyph = PhosphorGlyph("\uEB20", PhosphorIconWeight.Duotone, "\uEB20", "\uEB20")
+        val FilePy: PhosphorGlyph = PhosphorGlyph("\uEB2C", PhosphorIconWeight.Duotone, "\uEB2C", "\uEB2C")
+        val FileRs: PhosphorGlyph = PhosphorGlyph("\uEB28", PhosphorIconWeight.Duotone, "\uEB28", "\uEB28")
+        val FileSql: PhosphorGlyph = PhosphorGlyph("\uED4E", PhosphorIconWeight.Duotone, "\uED4E", "\uED4E")
+        val FileSvg: PhosphorGlyph = PhosphorGlyph("\uED08", PhosphorIconWeight.Duotone, "\uED08", "\uED08")
+        val FileText: PhosphorGlyph = PhosphorGlyph("\uE23A", PhosphorIconWeight.Duotone, "\uE23A", "\uE23A")
+        val FileTs: PhosphorGlyph = PhosphorGlyph("\uEB26", PhosphorIconWeight.Duotone, "\uEB26", "\uEB26")
+        val FileTsx: PhosphorGlyph = PhosphorGlyph("\uEB3C", PhosphorIconWeight.Duotone, "\uEB3C", "\uEB3C")
+        val FileTxt: PhosphorGlyph = PhosphorGlyph("\uEB35", PhosphorIconWeight.Duotone, "\uEB35", "\uEB35")
+        val FileVideo: PhosphorGlyph = PhosphorGlyph("\uEA22", PhosphorIconWeight.Duotone, "\uEA22", "\uEA22")
+        val FileVue: PhosphorGlyph = PhosphorGlyph("\uEB3E", PhosphorIconWeight.Duotone, "\uEB3E", "\uEB3E")
+        val FileX: PhosphorGlyph = PhosphorGlyph("\uE23C", PhosphorIconWeight.Duotone, "\uE23C", "\uE23C")
+        val FileXls: PhosphorGlyph = PhosphorGlyph("\uEB22", PhosphorIconWeight.Duotone, "\uEB22", "\uEB22")
+        val FileZip: PhosphorGlyph = PhosphorGlyph("\uE958", PhosphorIconWeight.Duotone, "\uE958", "\uE958")
+        val Files: PhosphorGlyph = PhosphorGlyph("\uE710", PhosphorIconWeight.Duotone, "\uE710", "\uE710")
+        val FilmReel: PhosphorGlyph = PhosphorGlyph("\uE8C0", PhosphorIconWeight.Duotone, "\uE8C0", "\uE8C0")
+        val FilmScript: PhosphorGlyph = PhosphorGlyph("\uEB50", PhosphorIconWeight.Duotone, "\uEB50", "\uEB50")
+        val FilmSlate: PhosphorGlyph = PhosphorGlyph("\uE8C2", PhosphorIconWeight.Duotone, "\uE8C2", "\uE8C2")
+        val FilmStrip: PhosphorGlyph = PhosphorGlyph("\uE792", PhosphorIconWeight.Duotone, "\uE792", "\uE792")
+        val Fingerprint: PhosphorGlyph = PhosphorGlyph("\uE23E", PhosphorIconWeight.Duotone, "\uE23E", "\uE23E")
+        val FingerprintSimple: PhosphorGlyph = PhosphorGlyph("\uE240", PhosphorIconWeight.Duotone, "\uE240", "\uE240")
+        val FinnTheHuman: PhosphorGlyph = PhosphorGlyph("\uE56C", PhosphorIconWeight.Duotone, "\uE56C", "\uE56C")
+        val Fire: PhosphorGlyph = PhosphorGlyph("\uE242", PhosphorIconWeight.Duotone, "\uE242", "\uE242")
+        val FireExtinguisher: PhosphorGlyph = PhosphorGlyph("\uE9E8", PhosphorIconWeight.Duotone, "\uE9E8", "\uE9E8")
+        val FireSimple: PhosphorGlyph = PhosphorGlyph("\uE620", PhosphorIconWeight.Duotone, "\uE620", "\uE620")
+        val FireTruck: PhosphorGlyph = PhosphorGlyph("\uE574", PhosphorIconWeight.Duotone, "\uE574", "\uE574")
+        val FirstAid: PhosphorGlyph = PhosphorGlyph("\uE56E", PhosphorIconWeight.Duotone, "\uE56E", "\uE56E")
+        val FirstAidKit: PhosphorGlyph = PhosphorGlyph("\uE570", PhosphorIconWeight.Duotone, "\uE570", "\uE570")
+        val Fish: PhosphorGlyph = PhosphorGlyph("\uE728", PhosphorIconWeight.Duotone, "\uE728", "\uE728")
+        val FishSimple: PhosphorGlyph = PhosphorGlyph("\uE72A", PhosphorIconWeight.Duotone, "\uE72A", "\uE72A")
+        val Flag: PhosphorGlyph = PhosphorGlyph("\uE244", PhosphorIconWeight.Duotone, "\uE244", "\uE244")
+        val FlagBanner: PhosphorGlyph = PhosphorGlyph("\uE622", PhosphorIconWeight.Duotone, "\uE622", "\uE622")
+        val FlagBannerFold: PhosphorGlyph = PhosphorGlyph("\uECF2", PhosphorIconWeight.Duotone, "\uECF2", "\uECF2")
+        val FlagCheckered: PhosphorGlyph = PhosphorGlyph("\uEA38", PhosphorIconWeight.Duotone, "\uEA38", "\uEA38")
+        val FlagPennant: PhosphorGlyph = PhosphorGlyph("\uECF0", PhosphorIconWeight.Duotone, "\uECF0", "\uECF0")
+        val Flame: PhosphorGlyph = PhosphorGlyph("\uE624", PhosphorIconWeight.Duotone, "\uE624", "\uE624")
+        val Flashlight: PhosphorGlyph = PhosphorGlyph("\uE246", PhosphorIconWeight.Duotone, "\uE246", "\uE246")
+        val Flask: PhosphorGlyph = PhosphorGlyph("\uE79E", PhosphorIconWeight.Duotone, "\uE79E", "\uE79E")
+        val FlipHorizontal: PhosphorGlyph = PhosphorGlyph("\uED6A", PhosphorIconWeight.Duotone, "\uED6A", "\uED6A")
+        val FlipVertical: PhosphorGlyph = PhosphorGlyph("\uED6C", PhosphorIconWeight.Duotone, "\uED6C", "\uED6C")
+        val FloppyDisk: PhosphorGlyph = PhosphorGlyph("\uE248", PhosphorIconWeight.Duotone, "\uE248", "\uE248")
+        val FloppyDiskBack: PhosphorGlyph = PhosphorGlyph("\uEAF4", PhosphorIconWeight.Duotone, "\uEAF4", "\uEAF4")
+        val FlowArrow: PhosphorGlyph = PhosphorGlyph("\uE6EC", PhosphorIconWeight.Duotone, "\uE6EC", "\uE6EC")
+        val Flower: PhosphorGlyph = PhosphorGlyph("\uE75E", PhosphorIconWeight.Duotone, "\uE75E", "\uE75E")
+        val FlowerLotus: PhosphorGlyph = PhosphorGlyph("\uE6CC", PhosphorIconWeight.Duotone, "\uE6CC", "\uE6CC")
+        val FlowerTulip: PhosphorGlyph = PhosphorGlyph("\uEACC", PhosphorIconWeight.Duotone, "\uEACC", "\uEACC")
+        val FlyingSaucer: PhosphorGlyph = PhosphorGlyph("\uEB4A", PhosphorIconWeight.Duotone, "\uEB4A", "\uEB4A")
+        val Folder: PhosphorGlyph = PhosphorGlyph("\uE24A", PhosphorIconWeight.Duotone, "\uE24A", "\uE24A")
+        val FolderDashed: PhosphorGlyph = PhosphorGlyph("\uE8F8", PhosphorIconWeight.Duotone, "\uE8F8", "\uE8F8")
+        val FolderLock: PhosphorGlyph = PhosphorGlyph("\uEA3C", PhosphorIconWeight.Duotone, "\uEA3C", "\uEA3C")
+        val FolderMinus: PhosphorGlyph = PhosphorGlyph("\uE254", PhosphorIconWeight.Duotone, "\uE254", "\uE254")
+        val FolderOpen: PhosphorGlyph = PhosphorGlyph("\uE256", PhosphorIconWeight.Duotone, "\uE256", "\uE256")
+        val FolderPlus: PhosphorGlyph = PhosphorGlyph("\uE258", PhosphorIconWeight.Duotone, "\uE258", "\uE258")
+        val FolderSimple: PhosphorGlyph = PhosphorGlyph("\uE25A", PhosphorIconWeight.Duotone, "\uE25A", "\uE25A")
+        val FolderSimpleDashed: PhosphorGlyph = PhosphorGlyph("\uEC2A", PhosphorIconWeight.Duotone, "\uEC2A", "\uEC2A")
+        val FolderSimpleLock: PhosphorGlyph = PhosphorGlyph("\uEB5E", PhosphorIconWeight.Duotone, "\uEB5E", "\uEB5E")
+        val FolderSimpleMinus: PhosphorGlyph = PhosphorGlyph("\uE25C", PhosphorIconWeight.Duotone, "\uE25C", "\uE25C")
+        val FolderSimplePlus: PhosphorGlyph = PhosphorGlyph("\uE25E", PhosphorIconWeight.Duotone, "\uE25E", "\uE25E")
+        val FolderSimpleStar: PhosphorGlyph = PhosphorGlyph("\uEC2E", PhosphorIconWeight.Duotone, "\uEC2E", "\uEC2E")
+        val FolderSimpleUser: PhosphorGlyph = PhosphorGlyph("\uEB60", PhosphorIconWeight.Duotone, "\uEB60", "\uEB60")
+        val FolderStar: PhosphorGlyph = PhosphorGlyph("\uEA86", PhosphorIconWeight.Duotone, "\uEA86", "\uEA86")
+        val FolderUser: PhosphorGlyph = PhosphorGlyph("\uEB46", PhosphorIconWeight.Duotone, "\uEB46", "\uEB46")
+        val Folders: PhosphorGlyph = PhosphorGlyph("\uE260", PhosphorIconWeight.Duotone, "\uE260", "\uE260")
+        val Football: PhosphorGlyph = PhosphorGlyph("\uE718", PhosphorIconWeight.Duotone, "\uE718", "\uE718")
+        val FootballHelmet: PhosphorGlyph = PhosphorGlyph("\uEE4C", PhosphorIconWeight.Duotone, "\uEE4C", "\uEE4C")
+        val Footprints: PhosphorGlyph = PhosphorGlyph("\uEA88", PhosphorIconWeight.Duotone, "\uEA88", "\uEA88")
+        val ForkKnife: PhosphorGlyph = PhosphorGlyph("\uE262", PhosphorIconWeight.Duotone, "\uE262", "\uE262")
+        val FourK: PhosphorGlyph = PhosphorGlyph("\uEA5C", PhosphorIconWeight.Duotone, "\uEA5C", "\uEA5C")
+        val FrameCorners: PhosphorGlyph = PhosphorGlyph("\uE626", PhosphorIconWeight.Duotone, "\uE626", "\uE626")
+        val FramerLogo: PhosphorGlyph = PhosphorGlyph("\uE264", PhosphorIconWeight.Duotone, "\uE264", "\uE264")
+        val Function: PhosphorGlyph = PhosphorGlyph("\uEBE4", PhosphorIconWeight.Duotone, "\uEBE4", "\uEBE4")
+        val Funnel: PhosphorGlyph = PhosphorGlyph("\uE266", PhosphorIconWeight.Duotone, "\uE266", "\uE266")
+        val FunnelSimple: PhosphorGlyph = PhosphorGlyph("\uE268", PhosphorIconWeight.Duotone, "\uE268", "\uE268")
+        val FunnelSimpleX: PhosphorGlyph = PhosphorGlyph("\uE26A", PhosphorIconWeight.Duotone, "\uE26A", "\uE26A")
+        val FunnelX: PhosphorGlyph = PhosphorGlyph("\uE26C", PhosphorIconWeight.Duotone, "\uE26C", "\uE26C")
+        val GameController: PhosphorGlyph = PhosphorGlyph("\uE26E", PhosphorIconWeight.Duotone, "\uE26E", "\uE26E")
+        val Garage: PhosphorGlyph = PhosphorGlyph("\uECD6", PhosphorIconWeight.Duotone, "\uECD6", "\uECD6")
+        val GasCan: PhosphorGlyph = PhosphorGlyph("\uE8CE", PhosphorIconWeight.Duotone, "\uE8CE", "\uE8CE")
+        val GasPump: PhosphorGlyph = PhosphorGlyph("\uE768", PhosphorIconWeight.Duotone, "\uE768", "\uE768")
+        val Gauge: PhosphorGlyph = PhosphorGlyph("\uE628", PhosphorIconWeight.Duotone, "\uE628", "\uE628")
+        val Gavel: PhosphorGlyph = PhosphorGlyph("\uEA32", PhosphorIconWeight.Duotone, "\uEA32", "\uEA32")
+        val Gear: PhosphorGlyph = PhosphorGlyph("\uE270", PhosphorIconWeight.Duotone, "\uE270", "\uE270")
+        val GearFine: PhosphorGlyph = PhosphorGlyph("\uE87C", PhosphorIconWeight.Duotone, "\uE87C", "\uE87C")
+        val GearSix: PhosphorGlyph = PhosphorGlyph("\uE272", PhosphorIconWeight.Duotone, "\uE272", "\uE272")
+        val GenderFemale: PhosphorGlyph = PhosphorGlyph("\uE6E0", PhosphorIconWeight.Duotone, "\uE6E0", "\uE6E0")
+        val GenderIntersex: PhosphorGlyph = PhosphorGlyph("\uE6E6", PhosphorIconWeight.Duotone, "\uE6E6", "\uE6E6")
+        val GenderMale: PhosphorGlyph = PhosphorGlyph("\uE6E2", PhosphorIconWeight.Duotone, "\uE6E2", "\uE6E2")
+        val GenderNeuter: PhosphorGlyph = PhosphorGlyph("\uE6EA", PhosphorIconWeight.Duotone, "\uE6EA", "\uE6EA")
+        val GenderNonbinary: PhosphorGlyph = PhosphorGlyph("\uE6E4", PhosphorIconWeight.Duotone, "\uE6E4", "\uE6E4")
+        val GenderTransgender: PhosphorGlyph = PhosphorGlyph("\uE6E8", PhosphorIconWeight.Duotone, "\uE6E8", "\uE6E8")
+        val Ghost: PhosphorGlyph = PhosphorGlyph("\uE62A", PhosphorIconWeight.Duotone, "\uE62A", "\uE62A")
+        val Gif: PhosphorGlyph = PhosphorGlyph("\uE274", PhosphorIconWeight.Duotone, "\uE274", "\uE274")
+        val Gift: PhosphorGlyph = PhosphorGlyph("\uE276", PhosphorIconWeight.Duotone, "\uE276", "\uE276")
+        val GitBranch: PhosphorGlyph = PhosphorGlyph("\uE278", PhosphorIconWeight.Duotone, "\uE278", "\uE278")
+        val GitCommit: PhosphorGlyph = PhosphorGlyph("\uE27A", PhosphorIconWeight.Duotone, "\uE27A", "\uE27A")
+        val GitDiff: PhosphorGlyph = PhosphorGlyph("\uE27C", PhosphorIconWeight.Duotone, "\uE27C", "\uE27C")
+        val GitFork: PhosphorGlyph = PhosphorGlyph("\uE27E", PhosphorIconWeight.Duotone, "\uE27E", "\uE27E")
+        val GitMerge: PhosphorGlyph = PhosphorGlyph("\uE280", PhosphorIconWeight.Duotone, "\uE280", "\uE280")
+        val GitPullRequest: PhosphorGlyph = PhosphorGlyph("\uE282", PhosphorIconWeight.Duotone, "\uE282", "\uE282")
+        val GithubLogo: PhosphorGlyph = PhosphorGlyph("\uE576", PhosphorIconWeight.Duotone, "\uE576", "\uE576")
+        val GitlabLogo: PhosphorGlyph = PhosphorGlyph("\uE694", PhosphorIconWeight.Duotone, "\uE694", "\uE694")
+        val GitlabLogoSimple: PhosphorGlyph = PhosphorGlyph("\uE696", PhosphorIconWeight.Duotone, "\uE696", "\uE696")
+        val Globe: PhosphorGlyph = PhosphorGlyph("\uE288", PhosphorIconWeight.Duotone, "\uE288", "\uE288")
+        val GlobeHemisphereEast: PhosphorGlyph = PhosphorGlyph("\uE28A", PhosphorIconWeight.Duotone, "\uE28A", "\uE28A")
+        val GlobeHemisphereWest: PhosphorGlyph = PhosphorGlyph("\uE28C", PhosphorIconWeight.Duotone, "\uE28C", "\uE28C")
+        val GlobeSimple: PhosphorGlyph = PhosphorGlyph("\uE28E", PhosphorIconWeight.Duotone, "\uE28E", "\uE28E")
+        val GlobeSimpleX: PhosphorGlyph = PhosphorGlyph("\uE284", PhosphorIconWeight.Duotone, "\uE284", "\uE284")
+        val GlobeStand: PhosphorGlyph = PhosphorGlyph("\uE290", PhosphorIconWeight.Duotone, "\uE290", "\uE290")
+        val GlobeX: PhosphorGlyph = PhosphorGlyph("\uE286", PhosphorIconWeight.Duotone, "\uE286", "\uE286")
+        val Goggles: PhosphorGlyph = PhosphorGlyph("\uECB4", PhosphorIconWeight.Duotone, "\uECB4", "\uECB4")
+        val Golf: PhosphorGlyph = PhosphorGlyph("\uEA3E", PhosphorIconWeight.Duotone, "\uEA3E", "\uEA3E")
+        val GoodreadsLogo: PhosphorGlyph = PhosphorGlyph("\uED10", PhosphorIconWeight.Duotone, "\uED10", "\uED10")
+        val GoogleCardboardLogo: PhosphorGlyph = PhosphorGlyph("\uE7B6", PhosphorIconWeight.Duotone, "\uE7B6", "\uE7B6")
+        val GoogleChromeLogo: PhosphorGlyph = PhosphorGlyph("\uE976", PhosphorIconWeight.Duotone, "\uE976", "\uE976")
+        val GoogleDriveLogo: PhosphorGlyph = PhosphorGlyph("\uE8F6", PhosphorIconWeight.Duotone, "\uE8F6", "\uE8F6")
+        val GoogleLogo: PhosphorGlyph = PhosphorGlyph("\uE292", PhosphorIconWeight.Duotone, "\uE292", "\uE292")
+        val GooglePhotosLogo: PhosphorGlyph = PhosphorGlyph("\uEB92", PhosphorIconWeight.Duotone, "\uEB92", "\uEB92")
+        val GooglePlayLogo: PhosphorGlyph = PhosphorGlyph("\uE294", PhosphorIconWeight.Duotone, "\uE294", "\uE294")
+        val GooglePodcastsLogo: PhosphorGlyph = PhosphorGlyph("\uEB94", PhosphorIconWeight.Duotone, "\uEB94", "\uEB94")
+        val Gps: PhosphorGlyph = PhosphorGlyph("\uEDD8", PhosphorIconWeight.Duotone, "\uEDD8", "\uEDD8")
+        val GpsFix: PhosphorGlyph = PhosphorGlyph("\uEDD6", PhosphorIconWeight.Duotone, "\uEDD6", "\uEDD6")
+        val GpsSlash: PhosphorGlyph = PhosphorGlyph("\uEDD4", PhosphorIconWeight.Duotone, "\uEDD4", "\uEDD4")
+        val Gradient: PhosphorGlyph = PhosphorGlyph("\uEB42", PhosphorIconWeight.Duotone, "\uEB42", "\uEB42")
+        val GraduationCap: PhosphorGlyph = PhosphorGlyph("\uE62C", PhosphorIconWeight.Duotone, "\uE62C", "\uE62C")
+        val Grains: PhosphorGlyph = PhosphorGlyph("\uEC68", PhosphorIconWeight.Duotone, "\uEC68", "\uEC68")
+        val GrainsSlash: PhosphorGlyph = PhosphorGlyph("\uEC6A", PhosphorIconWeight.Duotone, "\uEC6A", "\uEC6A")
+        val Graph: PhosphorGlyph = PhosphorGlyph("\uEB58", PhosphorIconWeight.Duotone, "\uEB58", "\uEB58")
+        val GraphicsCard: PhosphorGlyph = PhosphorGlyph("\uE612", PhosphorIconWeight.Duotone, "\uE612", "\uE612")
+        val GreaterThan: PhosphorGlyph = PhosphorGlyph("\uEDC4", PhosphorIconWeight.Duotone, "\uEDC4", "\uEDC4")
+        val GreaterThanOrEqual: PhosphorGlyph = PhosphorGlyph("\uEDA2", PhosphorIconWeight.Duotone, "\uEDA2", "\uEDA2")
+        val GridFour: PhosphorGlyph = PhosphorGlyph("\uE296", PhosphorIconWeight.Duotone, "\uE296", "\uE296")
+        val GridNine: PhosphorGlyph = PhosphorGlyph("\uEC8C", PhosphorIconWeight.Duotone, "\uEC8C", "\uEC8C")
+        val Guitar: PhosphorGlyph = PhosphorGlyph("\uEA8A", PhosphorIconWeight.Duotone, "\uEA8A", "\uEA8A")
+        val HairDryer: PhosphorGlyph = PhosphorGlyph("\uEA66", PhosphorIconWeight.Duotone, "\uEA66", "\uEA66")
+        val Hamburger: PhosphorGlyph = PhosphorGlyph("\uE790", PhosphorIconWeight.Duotone, "\uE790", "\uE790")
+        val Hammer: PhosphorGlyph = PhosphorGlyph("\uE80E", PhosphorIconWeight.Duotone, "\uE80E", "\uE80E")
+        val Hand: PhosphorGlyph = PhosphorGlyph("\uE298", PhosphorIconWeight.Duotone, "\uE298", "\uE298")
+        val HandArrowDown: PhosphorGlyph = PhosphorGlyph("\uEA4E", PhosphorIconWeight.Duotone, "\uEA4E", "\uEA4E")
+        val HandArrowUp: PhosphorGlyph = PhosphorGlyph("\uEE5A", PhosphorIconWeight.Duotone, "\uEE5A", "\uEE5A")
+        val HandCoins: PhosphorGlyph = PhosphorGlyph("\uEA8C", PhosphorIconWeight.Duotone, "\uEA8C", "\uEA8C")
+        val HandDeposit: PhosphorGlyph = PhosphorGlyph("\uEE82", PhosphorIconWeight.Duotone, "\uEE82", "\uEE82")
+        val HandEye: PhosphorGlyph = PhosphorGlyph("\uEA4C", PhosphorIconWeight.Duotone, "\uEA4C", "\uEA4C")
+        val HandFist: PhosphorGlyph = PhosphorGlyph("\uE57A", PhosphorIconWeight.Duotone, "\uE57A", "\uE57A")
+        val HandGrabbing: PhosphorGlyph = PhosphorGlyph("\uE57C", PhosphorIconWeight.Duotone, "\uE57C", "\uE57C")
+        val HandHeart: PhosphorGlyph = PhosphorGlyph("\uE810", PhosphorIconWeight.Duotone, "\uE810", "\uE810")
+        val HandPalm: PhosphorGlyph = PhosphorGlyph("\uE57E", PhosphorIconWeight.Duotone, "\uE57E", "\uE57E")
+        val HandPeace: PhosphorGlyph = PhosphorGlyph("\uE7CC", PhosphorIconWeight.Duotone, "\uE7CC", "\uE7CC")
+        val HandPointing: PhosphorGlyph = PhosphorGlyph("\uE29A", PhosphorIconWeight.Duotone, "\uE29A", "\uE29A")
+        val HandSoap: PhosphorGlyph = PhosphorGlyph("\uE630", PhosphorIconWeight.Duotone, "\uE630", "\uE630")
+        val HandSwipeLeft: PhosphorGlyph = PhosphorGlyph("\uEC94", PhosphorIconWeight.Duotone, "\uEC94", "\uEC94")
+        val HandSwipeRight: PhosphorGlyph = PhosphorGlyph("\uEC92", PhosphorIconWeight.Duotone, "\uEC92", "\uEC92")
+        val HandTap: PhosphorGlyph = PhosphorGlyph("\uEC90", PhosphorIconWeight.Duotone, "\uEC90", "\uEC90")
+        val HandWaving: PhosphorGlyph = PhosphorGlyph("\uE580", PhosphorIconWeight.Duotone, "\uE580", "\uE580")
+        val HandWithdraw: PhosphorGlyph = PhosphorGlyph("\uEE80", PhosphorIconWeight.Duotone, "\uEE80", "\uEE80")
+        val Handbag: PhosphorGlyph = PhosphorGlyph("\uE29C", PhosphorIconWeight.Duotone, "\uE29C", "\uE29C")
+        val HandbagSimple: PhosphorGlyph = PhosphorGlyph("\uE62E", PhosphorIconWeight.Duotone, "\uE62E", "\uE62E")
+        val HandsClapping: PhosphorGlyph = PhosphorGlyph("\uE6A0", PhosphorIconWeight.Duotone, "\uE6A0", "\uE6A0")
+        val HandsPraying: PhosphorGlyph = PhosphorGlyph("\uECC8", PhosphorIconWeight.Duotone, "\uECC8", "\uECC8")
+        val Handshake: PhosphorGlyph = PhosphorGlyph("\uE582", PhosphorIconWeight.Duotone, "\uE582", "\uE582")
+        val HardDrive: PhosphorGlyph = PhosphorGlyph("\uE29E", PhosphorIconWeight.Duotone, "\uE29E", "\uE29E")
+        val HardDrives: PhosphorGlyph = PhosphorGlyph("\uE2A0", PhosphorIconWeight.Duotone, "\uE2A0", "\uE2A0")
+        val HardHat: PhosphorGlyph = PhosphorGlyph("\uED46", PhosphorIconWeight.Duotone, "\uED46", "\uED46")
+        val Hash: PhosphorGlyph = PhosphorGlyph("\uE2A2", PhosphorIconWeight.Duotone, "\uE2A2", "\uE2A2")
+        val HashStraight: PhosphorGlyph = PhosphorGlyph("\uE2A4", PhosphorIconWeight.Duotone, "\uE2A4", "\uE2A4")
+        val HeadCircuit: PhosphorGlyph = PhosphorGlyph("\uE7D4", PhosphorIconWeight.Duotone, "\uE7D4", "\uE7D4")
+        val Headlights: PhosphorGlyph = PhosphorGlyph("\uE6FE", PhosphorIconWeight.Duotone, "\uE6FE", "\uE6FE")
+        val Headphones: PhosphorGlyph = PhosphorGlyph("\uE2A6", PhosphorIconWeight.Duotone, "\uE2A6", "\uE2A6")
+        val Headset: PhosphorGlyph = PhosphorGlyph("\uE584", PhosphorIconWeight.Duotone, "\uE584", "\uE584")
+        val Heart: PhosphorGlyph = PhosphorGlyph("\uE2A8", PhosphorIconWeight.Duotone, "\uE2A8", "\uE2A8")
+        val HeartBreak: PhosphorGlyph = PhosphorGlyph("\uEBE8", PhosphorIconWeight.Duotone, "\uEBE8", "\uEBE8")
+        val HeartHalf: PhosphorGlyph = PhosphorGlyph("\uEC48", PhosphorIconWeight.Duotone, "\uEC48", "\uEC48")
+        val HeartStraight: PhosphorGlyph = PhosphorGlyph("\uE2AA", PhosphorIconWeight.Duotone, "\uE2AA", "\uE2AA")
+        val HeartStraightBreak: PhosphorGlyph = PhosphorGlyph("\uEB98", PhosphorIconWeight.Duotone, "\uEB98", "\uEB98")
+        val Heartbeat: PhosphorGlyph = PhosphorGlyph("\uE2AC", PhosphorIconWeight.Duotone, "\uE2AC", "\uE2AC")
+        val Hexagon: PhosphorGlyph = PhosphorGlyph("\uE2AE", PhosphorIconWeight.Duotone, "\uE2AE", "\uE2AE")
+        val HighDefinition: PhosphorGlyph = PhosphorGlyph("\uEA8E", PhosphorIconWeight.Duotone, "\uEA8E", "\uEA8E")
+        val HighHeel: PhosphorGlyph = PhosphorGlyph("\uE8E8", PhosphorIconWeight.Duotone, "\uE8E8", "\uE8E8")
+        val Highlighter: PhosphorGlyph = PhosphorGlyph("\uEC76", PhosphorIconWeight.Duotone, "\uEC76", "\uEC76")
+        val HighlighterCircle: PhosphorGlyph = PhosphorGlyph("\uE632", PhosphorIconWeight.Duotone, "\uE632", "\uE632")
+        val Hockey: PhosphorGlyph = PhosphorGlyph("\uEC86", PhosphorIconWeight.Duotone, "\uEC86", "\uEC86")
+        val Hoodie: PhosphorGlyph = PhosphorGlyph("\uECD0", PhosphorIconWeight.Duotone, "\uECD0", "\uECD0")
+        val Horse: PhosphorGlyph = PhosphorGlyph("\uE2B0", PhosphorIconWeight.Duotone, "\uE2B0", "\uE2B0")
+        val Hospital: PhosphorGlyph = PhosphorGlyph("\uE844", PhosphorIconWeight.Duotone, "\uE844", "\uE844")
+        val Hourglass: PhosphorGlyph = PhosphorGlyph("\uE2B2", PhosphorIconWeight.Duotone, "\uE2B2", "\uE2B2")
+        val HourglassHigh: PhosphorGlyph = PhosphorGlyph("\uE2B4", PhosphorIconWeight.Duotone, "\uE2B4", "\uE2B4")
+        val HourglassLow: PhosphorGlyph = PhosphorGlyph("\uE2B6", PhosphorIconWeight.Duotone, "\uE2B6", "\uE2B6")
+        val HourglassMedium: PhosphorGlyph = PhosphorGlyph("\uE2B8", PhosphorIconWeight.Duotone, "\uE2B8", "\uE2B8")
+        val HourglassSimple: PhosphorGlyph = PhosphorGlyph("\uE2BA", PhosphorIconWeight.Duotone, "\uE2BA", "\uE2BA")
+        val HourglassSimpleHigh: PhosphorGlyph = PhosphorGlyph("\uE2BC", PhosphorIconWeight.Duotone, "\uE2BC", "\uE2BC")
+        val HourglassSimpleLow: PhosphorGlyph = PhosphorGlyph("\uE2BE", PhosphorIconWeight.Duotone, "\uE2BE", "\uE2BE")
+        val HourglassSimpleMedium: PhosphorGlyph = PhosphorGlyph("\uE2C0", PhosphorIconWeight.Duotone, "\uE2C0", "\uE2C0")
+        val House: PhosphorGlyph = PhosphorGlyph("\uE2C2", PhosphorIconWeight.Duotone, "\uE2C2", "\uE2C2")
+        val HouseLine: PhosphorGlyph = PhosphorGlyph("\uE2C4", PhosphorIconWeight.Duotone, "\uE2C4", "\uE2C4")
+        val HouseSimple: PhosphorGlyph = PhosphorGlyph("\uE2C6", PhosphorIconWeight.Duotone, "\uE2C6", "\uE2C6")
+        val Hurricane: PhosphorGlyph = PhosphorGlyph("\uE88E", PhosphorIconWeight.Duotone, "\uE88E", "\uE88E")
+        val IceCream: PhosphorGlyph = PhosphorGlyph("\uE804", PhosphorIconWeight.Duotone, "\uE804", "\uE804")
+        val IdentificationBadge: PhosphorGlyph = PhosphorGlyph("\uE6F6", PhosphorIconWeight.Duotone, "\uE6F6", "\uE6F6")
+        val IdentificationCard: PhosphorGlyph = PhosphorGlyph("\uE2C8", PhosphorIconWeight.Duotone, "\uE2C8", "\uE2C8")
+        val Image: PhosphorGlyph = PhosphorGlyph("\uE2CA", PhosphorIconWeight.Duotone, "\uE2CA", "\uE2CA")
+        val ImageBroken: PhosphorGlyph = PhosphorGlyph("\uE7A8", PhosphorIconWeight.Duotone, "\uE7A8", "\uE7A8")
+        val ImageSquare: PhosphorGlyph = PhosphorGlyph("\uE2CC", PhosphorIconWeight.Duotone, "\uE2CC", "\uE2CC")
+        val Images: PhosphorGlyph = PhosphorGlyph("\uE836", PhosphorIconWeight.Duotone, "\uE836", "\uE836")
+        val ImagesSquare: PhosphorGlyph = PhosphorGlyph("\uE834", PhosphorIconWeight.Duotone, "\uE834", "\uE834")
+        val Infinity: PhosphorGlyph = PhosphorGlyph("\uE634", PhosphorIconWeight.Duotone, "\uE634", "\uE634")
+        val Info: PhosphorGlyph = PhosphorGlyph("\uE2CE", PhosphorIconWeight.Duotone, "\uE2CE", "\uE2CE")
+        val InstagramLogo: PhosphorGlyph = PhosphorGlyph("\uE2D0", PhosphorIconWeight.Duotone, "\uE2D0", "\uE2D0")
+        val Intersect: PhosphorGlyph = PhosphorGlyph("\uE2D2", PhosphorIconWeight.Duotone, "\uE2D2", "\uE2D2")
+        val IntersectSquare: PhosphorGlyph = PhosphorGlyph("\uE87A", PhosphorIconWeight.Duotone, "\uE87A", "\uE87A")
+        val IntersectThree: PhosphorGlyph = PhosphorGlyph("\uECC4", PhosphorIconWeight.Duotone, "\uECC4", "\uECC4")
+        val Intersection: PhosphorGlyph = PhosphorGlyph("\uEDBA", PhosphorIconWeight.Duotone, "\uEDBA", "\uEDBA")
+        val Invoice: PhosphorGlyph = PhosphorGlyph("\uEE42", PhosphorIconWeight.Duotone, "\uEE42", "\uEE42")
+        val Island: PhosphorGlyph = PhosphorGlyph("\uEE06", PhosphorIconWeight.Duotone, "\uEE06", "\uEE06")
+        val Jar: PhosphorGlyph = PhosphorGlyph("\uE7E0", PhosphorIconWeight.Duotone, "\uE7E0", "\uE7E0")
+        val JarLabel: PhosphorGlyph = PhosphorGlyph("\uE7E1", PhosphorIconWeight.Duotone, "\uE7E1", "\uE7E1")
+        val Jeep: PhosphorGlyph = PhosphorGlyph("\uE2D4", PhosphorIconWeight.Duotone, "\uE2D4", "\uE2D4")
+        val Joystick: PhosphorGlyph = PhosphorGlyph("\uEA5E", PhosphorIconWeight.Duotone, "\uEA5E", "\uEA5E")
+        val Kanban: PhosphorGlyph = PhosphorGlyph("\uEB54", PhosphorIconWeight.Duotone, "\uEB54", "\uEB54")
+        val Key: PhosphorGlyph = PhosphorGlyph("\uE2D6", PhosphorIconWeight.Duotone, "\uE2D6", "\uE2D6")
+        val KeyReturn: PhosphorGlyph = PhosphorGlyph("\uE782", PhosphorIconWeight.Duotone, "\uE782", "\uE782")
+        val Keyboard: PhosphorGlyph = PhosphorGlyph("\uE2D8", PhosphorIconWeight.Duotone, "\uE2D8", "\uE2D8")
+        val Keyhole: PhosphorGlyph = PhosphorGlyph("\uEA78", PhosphorIconWeight.Duotone, "\uEA78", "\uEA78")
+        val Knife: PhosphorGlyph = PhosphorGlyph("\uE636", PhosphorIconWeight.Duotone, "\uE636", "\uE636")
+        val Ladder: PhosphorGlyph = PhosphorGlyph("\uE9E4", PhosphorIconWeight.Duotone, "\uE9E4", "\uE9E4")
+        val LadderSimple: PhosphorGlyph = PhosphorGlyph("\uEC26", PhosphorIconWeight.Duotone, "\uEC26", "\uEC26")
+        val Lamp: PhosphorGlyph = PhosphorGlyph("\uE638", PhosphorIconWeight.Duotone, "\uE638", "\uE638")
+        val LampPendant: PhosphorGlyph = PhosphorGlyph("\uEE2E", PhosphorIconWeight.Duotone, "\uEE2E", "\uEE2E")
+        val Laptop: PhosphorGlyph = PhosphorGlyph("\uE586", PhosphorIconWeight.Duotone, "\uE586", "\uE586")
+        val Lasso: PhosphorGlyph = PhosphorGlyph("\uEDC6", PhosphorIconWeight.Duotone, "\uEDC6", "\uEDC6")
+        val LastfmLogo: PhosphorGlyph = PhosphorGlyph("\uE842", PhosphorIconWeight.Duotone, "\uE842", "\uE842")
+        val Layout: PhosphorGlyph = PhosphorGlyph("\uE6D6", PhosphorIconWeight.Duotone, "\uE6D6", "\uE6D6")
+        val Leaf: PhosphorGlyph = PhosphorGlyph("\uE2DA", PhosphorIconWeight.Duotone, "\uE2DA", "\uE2DA")
+        val Lectern: PhosphorGlyph = PhosphorGlyph("\uE95A", PhosphorIconWeight.Duotone, "\uE95A", "\uE95A")
+        val Lego: PhosphorGlyph = PhosphorGlyph("\uE8C6", PhosphorIconWeight.Duotone, "\uE8C6", "\uE8C6")
+        val LegoSmiley: PhosphorGlyph = PhosphorGlyph("\uE8C7", PhosphorIconWeight.Duotone, "\uE8C7", "\uE8C7")
+        val LessThan: PhosphorGlyph = PhosphorGlyph("\uEDAC", PhosphorIconWeight.Duotone, "\uEDAC", "\uEDAC")
+        val LessThanOrEqual: PhosphorGlyph = PhosphorGlyph("\uEDA4", PhosphorIconWeight.Duotone, "\uEDA4", "\uEDA4")
+        val LetterCircleH: PhosphorGlyph = PhosphorGlyph("\uEBF8", PhosphorIconWeight.Duotone, "\uEBF8", "\uEBF8")
+        val LetterCircleP: PhosphorGlyph = PhosphorGlyph("\uEC08", PhosphorIconWeight.Duotone, "\uEC08", "\uEC08")
+        val LetterCircleV: PhosphorGlyph = PhosphorGlyph("\uEC14", PhosphorIconWeight.Duotone, "\uEC14", "\uEC14")
+        val Lifebuoy: PhosphorGlyph = PhosphorGlyph("\uE63A", PhosphorIconWeight.Duotone, "\uE63A", "\uE63A")
+        val Lightbulb: PhosphorGlyph = PhosphorGlyph("\uE2DC", PhosphorIconWeight.Duotone, "\uE2DC", "\uE2DC")
+        val LightbulbFilament: PhosphorGlyph = PhosphorGlyph("\uE63C", PhosphorIconWeight.Duotone, "\uE63C", "\uE63C")
+        val Lighthouse: PhosphorGlyph = PhosphorGlyph("\uE9F6", PhosphorIconWeight.Duotone, "\uE9F6", "\uE9F6")
+        val Lightning: PhosphorGlyph = PhosphorGlyph("\uE2DE", PhosphorIconWeight.Duotone, "\uE2DE", "\uE2DE")
+        val LightningA: PhosphorGlyph = PhosphorGlyph("\uEA84", PhosphorIconWeight.Duotone, "\uEA84", "\uEA84")
+        val LightningSlash: PhosphorGlyph = PhosphorGlyph("\uE2E0", PhosphorIconWeight.Duotone, "\uE2E0", "\uE2E0")
+        val LineSegment: PhosphorGlyph = PhosphorGlyph("\uE6D2", PhosphorIconWeight.Duotone, "\uE6D2", "\uE6D2")
+        val LineSegments: PhosphorGlyph = PhosphorGlyph("\uE6D4", PhosphorIconWeight.Duotone, "\uE6D4", "\uE6D4")
+        val LineVertical: PhosphorGlyph = PhosphorGlyph("\uED70", PhosphorIconWeight.Duotone, "\uED70", "\uED70")
+        val Link: PhosphorGlyph = PhosphorGlyph("\uE2E2", PhosphorIconWeight.Duotone, "\uE2E2", "\uE2E2")
+        val LinkBreak: PhosphorGlyph = PhosphorGlyph("\uE2E4", PhosphorIconWeight.Duotone, "\uE2E4", "\uE2E4")
+        val LinkSimple: PhosphorGlyph = PhosphorGlyph("\uE2E6", PhosphorIconWeight.Duotone, "\uE2E6", "\uE2E6")
+        val LinkSimpleBreak: PhosphorGlyph = PhosphorGlyph("\uE2E8", PhosphorIconWeight.Duotone, "\uE2E8", "\uE2E8")
+        val LinkSimpleHorizontal: PhosphorGlyph = PhosphorGlyph("\uE2EA", PhosphorIconWeight.Duotone, "\uE2EA", "\uE2EA")
+        val LinkSimpleHorizontalBreak: PhosphorGlyph = PhosphorGlyph("\uE2EC", PhosphorIconWeight.Duotone, "\uE2EC", "\uE2EC")
+        val LinkedinLogo: PhosphorGlyph = PhosphorGlyph("\uE2EE", PhosphorIconWeight.Duotone, "\uE2EE", "\uE2EE")
+        val LinktreeLogo: PhosphorGlyph = PhosphorGlyph("\uEDEE", PhosphorIconWeight.Duotone, "\uEDEE", "\uEDEE")
+        val LinuxLogo: PhosphorGlyph = PhosphorGlyph("\uEB02", PhosphorIconWeight.Duotone, "\uEB02", "\uEB02")
+        val List: PhosphorGlyph = PhosphorGlyph("\uE2F0", PhosphorIconWeight.Duotone, "\uE2F0", "\uE2F0")
+        val ListBullets: PhosphorGlyph = PhosphorGlyph("\uE2F2", PhosphorIconWeight.Duotone, "\uE2F2", "\uE2F2")
+        val ListChecks: PhosphorGlyph = PhosphorGlyph("\uEADC", PhosphorIconWeight.Duotone, "\uEADC", "\uEADC")
+        val ListDashes: PhosphorGlyph = PhosphorGlyph("\uE2F4", PhosphorIconWeight.Duotone, "\uE2F4", "\uE2F4")
+        val ListHeart: PhosphorGlyph = PhosphorGlyph("\uEBDE", PhosphorIconWeight.Duotone, "\uEBDE", "\uEBDE")
+        val ListMagnifyingGlass: PhosphorGlyph = PhosphorGlyph("\uEBE0", PhosphorIconWeight.Duotone, "\uEBE0", "\uEBE0")
+        val ListNumbers: PhosphorGlyph = PhosphorGlyph("\uE2F6", PhosphorIconWeight.Duotone, "\uE2F6", "\uE2F6")
+        val ListPlus: PhosphorGlyph = PhosphorGlyph("\uE2F8", PhosphorIconWeight.Duotone, "\uE2F8", "\uE2F8")
+        val ListStar: PhosphorGlyph = PhosphorGlyph("\uEBDC", PhosphorIconWeight.Duotone, "\uEBDC", "\uEBDC")
+        val Lock: PhosphorGlyph = PhosphorGlyph("\uE2FA", PhosphorIconWeight.Duotone, "\uE2FA", "\uE2FA")
+        val LockKey: PhosphorGlyph = PhosphorGlyph("\uE2FE", PhosphorIconWeight.Duotone, "\uE2FE", "\uE2FE")
+        val LockKeyOpen: PhosphorGlyph = PhosphorGlyph("\uE300", PhosphorIconWeight.Duotone, "\uE300", "\uE300")
+        val LockLaminated: PhosphorGlyph = PhosphorGlyph("\uE302", PhosphorIconWeight.Duotone, "\uE302", "\uE302")
+        val LockLaminatedOpen: PhosphorGlyph = PhosphorGlyph("\uE304", PhosphorIconWeight.Duotone, "\uE304", "\uE304")
+        val LockOpen: PhosphorGlyph = PhosphorGlyph("\uE306", PhosphorIconWeight.Duotone, "\uE306", "\uE306")
+        val LockSimple: PhosphorGlyph = PhosphorGlyph("\uE308", PhosphorIconWeight.Duotone, "\uE308", "\uE308")
+        val LockSimpleOpen: PhosphorGlyph = PhosphorGlyph("\uE30A", PhosphorIconWeight.Duotone, "\uE30A", "\uE30A")
+        val Lockers: PhosphorGlyph = PhosphorGlyph("\uECB8", PhosphorIconWeight.Duotone, "\uECB8", "\uECB8")
+        val Log: PhosphorGlyph = PhosphorGlyph("\uED82", PhosphorIconWeight.Duotone, "\uED82", "\uED82")
+        val MagicWand: PhosphorGlyph = PhosphorGlyph("\uE6B6", PhosphorIconWeight.Duotone, "\uE6B6", "\uE6B6")
+        val Magnet: PhosphorGlyph = PhosphorGlyph("\uE680", PhosphorIconWeight.Duotone, "\uE680", "\uE680")
+        val MagnetStraight: PhosphorGlyph = PhosphorGlyph("\uE682", PhosphorIconWeight.Duotone, "\uE682", "\uE682")
+        val MagnifyingGlass: PhosphorGlyph = PhosphorGlyph("\uE30C", PhosphorIconWeight.Duotone, "\uE30C", "\uE30C")
+        val MagnifyingGlassMinus: PhosphorGlyph = PhosphorGlyph("\uE30E", PhosphorIconWeight.Duotone, "\uE30E", "\uE30E")
+        val MagnifyingGlassPlus: PhosphorGlyph = PhosphorGlyph("\uE310", PhosphorIconWeight.Duotone, "\uE310", "\uE310")
+        val Mailbox: PhosphorGlyph = PhosphorGlyph("\uEC1E", PhosphorIconWeight.Duotone, "\uEC1E", "\uEC1E")
+        val MapPin: PhosphorGlyph = PhosphorGlyph("\uE316", PhosphorIconWeight.Duotone, "\uE316", "\uE316")
+        val MapPinArea: PhosphorGlyph = PhosphorGlyph("\uEE3A", PhosphorIconWeight.Duotone, "\uEE3A", "\uEE3A")
+        val MapPinLine: PhosphorGlyph = PhosphorGlyph("\uE318", PhosphorIconWeight.Duotone, "\uE318", "\uE318")
+        val MapPinPlus: PhosphorGlyph = PhosphorGlyph("\uE314", PhosphorIconWeight.Duotone, "\uE314", "\uE314")
+        val MapPinSimple: PhosphorGlyph = PhosphorGlyph("\uEE3E", PhosphorIconWeight.Duotone, "\uEE3E", "\uEE3E")
+        val MapPinSimpleArea: PhosphorGlyph = PhosphorGlyph("\uEE3C", PhosphorIconWeight.Duotone, "\uEE3C", "\uEE3C")
+        val MapPinSimpleLine: PhosphorGlyph = PhosphorGlyph("\uEE38", PhosphorIconWeight.Duotone, "\uEE38", "\uEE38")
+        val MapTrifold: PhosphorGlyph = PhosphorGlyph("\uE31A", PhosphorIconWeight.Duotone, "\uE31A", "\uE31A")
+        val MarkdownLogo: PhosphorGlyph = PhosphorGlyph("\uE508", PhosphorIconWeight.Duotone, "\uE508", "\uE508")
+        val MarkerCircle: PhosphorGlyph = PhosphorGlyph("\uE640", PhosphorIconWeight.Duotone, "\uE640", "\uE640")
+        val Martini: PhosphorGlyph = PhosphorGlyph("\uE31C", PhosphorIconWeight.Duotone, "\uE31C", "\uE31C")
+        val MaskHappy: PhosphorGlyph = PhosphorGlyph("\uE9F4", PhosphorIconWeight.Duotone, "\uE9F4", "\uE9F4")
+        val MaskSad: PhosphorGlyph = PhosphorGlyph("\uEB9E", PhosphorIconWeight.Duotone, "\uEB9E", "\uEB9E")
+        val MastodonLogo: PhosphorGlyph = PhosphorGlyph("\uED68", PhosphorIconWeight.Duotone, "\uED68", "\uED68")
+        val MathOperations: PhosphorGlyph = PhosphorGlyph("\uE31E", PhosphorIconWeight.Duotone, "\uE31E", "\uE31E")
+        val MatrixLogo: PhosphorGlyph = PhosphorGlyph("\uED64", PhosphorIconWeight.Duotone, "\uED64", "\uED64")
+        val Medal: PhosphorGlyph = PhosphorGlyph("\uE320", PhosphorIconWeight.Duotone, "\uE320", "\uE320")
+        val MedalMilitary: PhosphorGlyph = PhosphorGlyph("\uECFC", PhosphorIconWeight.Duotone, "\uECFC", "\uECFC")
+        val MediumLogo: PhosphorGlyph = PhosphorGlyph("\uE322", PhosphorIconWeight.Duotone, "\uE322", "\uE322")
+        val Megaphone: PhosphorGlyph = PhosphorGlyph("\uE324", PhosphorIconWeight.Duotone, "\uE324", "\uE324")
+        val MegaphoneSimple: PhosphorGlyph = PhosphorGlyph("\uE642", PhosphorIconWeight.Duotone, "\uE642", "\uE642")
+        val MemberOf: PhosphorGlyph = PhosphorGlyph("\uEDC2", PhosphorIconWeight.Duotone, "\uEDC2", "\uEDC2")
+        val Memory: PhosphorGlyph = PhosphorGlyph("\uE9C4", PhosphorIconWeight.Duotone, "\uE9C4", "\uE9C4")
+        val MessengerLogo: PhosphorGlyph = PhosphorGlyph("\uE6D8", PhosphorIconWeight.Duotone, "\uE6D8", "\uE6D8")
+        val MetaLogo: PhosphorGlyph = PhosphorGlyph("\uED02", PhosphorIconWeight.Duotone, "\uED02", "\uED02")
+        val Meteor: PhosphorGlyph = PhosphorGlyph("\uE9BA", PhosphorIconWeight.Duotone, "\uE9BA", "\uE9BA")
+        val Metronome: PhosphorGlyph = PhosphorGlyph("\uEC8E", PhosphorIconWeight.Duotone, "\uEC8E", "\uEC8E")
+        val Microphone: PhosphorGlyph = PhosphorGlyph("\uE326", PhosphorIconWeight.Duotone, "\uE326", "\uE326")
+        val MicrophoneSlash: PhosphorGlyph = PhosphorGlyph("\uE328", PhosphorIconWeight.Duotone, "\uE328", "\uE328")
+        val MicrophoneStage: PhosphorGlyph = PhosphorGlyph("\uE75C", PhosphorIconWeight.Duotone, "\uE75C", "\uE75C")
+        val Microscope: PhosphorGlyph = PhosphorGlyph("\uEC7A", PhosphorIconWeight.Duotone, "\uEC7A", "\uEC7A")
+        val MicrosoftExcelLogo: PhosphorGlyph = PhosphorGlyph("\uEB6C", PhosphorIconWeight.Duotone, "\uEB6C", "\uEB6C")
+        val MicrosoftOutlookLogo: PhosphorGlyph = PhosphorGlyph("\uEB70", PhosphorIconWeight.Duotone, "\uEB70", "\uEB70")
+        val MicrosoftPowerpointLogo: PhosphorGlyph = PhosphorGlyph("\uEACE", PhosphorIconWeight.Duotone, "\uEACE", "\uEACE")
+        val MicrosoftTeamsLogo: PhosphorGlyph = PhosphorGlyph("\uEB66", PhosphorIconWeight.Duotone, "\uEB66", "\uEB66")
+        val MicrosoftWordLogo: PhosphorGlyph = PhosphorGlyph("\uEB6A", PhosphorIconWeight.Duotone, "\uEB6A", "\uEB6A")
+        val Minus: PhosphorGlyph = PhosphorGlyph("\uE32A", PhosphorIconWeight.Duotone, "\uE32A", "\uE32A")
+        val MinusCircle: PhosphorGlyph = PhosphorGlyph("\uE32C", PhosphorIconWeight.Duotone, "\uE32C", "\uE32C")
+        val MinusSquare: PhosphorGlyph = PhosphorGlyph("\uED4C", PhosphorIconWeight.Duotone, "\uED4C", "\uED4C")
+        val Money: PhosphorGlyph = PhosphorGlyph("\uE588", PhosphorIconWeight.Duotone, "\uE588", "\uE588")
+        val MoneyWavy: PhosphorGlyph = PhosphorGlyph("\uEE68", PhosphorIconWeight.Duotone, "\uEE68", "\uEE68")
+        val Monitor: PhosphorGlyph = PhosphorGlyph("\uE32E", PhosphorIconWeight.Duotone, "\uE32E", "\uE32E")
+        val MonitorArrowUp: PhosphorGlyph = PhosphorGlyph("\uE58A", PhosphorIconWeight.Duotone, "\uE58A", "\uE58A")
+        val MonitorPlay: PhosphorGlyph = PhosphorGlyph("\uE58C", PhosphorIconWeight.Duotone, "\uE58C", "\uE58C")
+        val Moon: PhosphorGlyph = PhosphorGlyph("\uE330", PhosphorIconWeight.Duotone, "\uE330", "\uE330")
+        val MoonStars: PhosphorGlyph = PhosphorGlyph("\uE58E", PhosphorIconWeight.Duotone, "\uE58E", "\uE58E")
+        val Moped: PhosphorGlyph = PhosphorGlyph("\uE824", PhosphorIconWeight.Duotone, "\uE824", "\uE824")
+        val MopedFront: PhosphorGlyph = PhosphorGlyph("\uE822", PhosphorIconWeight.Duotone, "\uE822", "\uE822")
+        val Mosque: PhosphorGlyph = PhosphorGlyph("\uECEE", PhosphorIconWeight.Duotone, "\uECEE", "\uECEE")
+        val Motorcycle: PhosphorGlyph = PhosphorGlyph("\uE80A", PhosphorIconWeight.Duotone, "\uE80A", "\uE80A")
+        val Mountains: PhosphorGlyph = PhosphorGlyph("\uE7AE", PhosphorIconWeight.Duotone, "\uE7AE", "\uE7AE")
+        val Mouse: PhosphorGlyph = PhosphorGlyph("\uE33A", PhosphorIconWeight.Duotone, "\uE33A", "\uE33A")
+        val MouseLeftClick: PhosphorGlyph = PhosphorGlyph("\uE334", PhosphorIconWeight.Duotone, "\uE334", "\uE334")
+        val MouseMiddleClick: PhosphorGlyph = PhosphorGlyph("\uE338", PhosphorIconWeight.Duotone, "\uE338", "\uE338")
+        val MouseRightClick: PhosphorGlyph = PhosphorGlyph("\uE336", PhosphorIconWeight.Duotone, "\uE336", "\uE336")
+        val MouseScroll: PhosphorGlyph = PhosphorGlyph("\uE332", PhosphorIconWeight.Duotone, "\uE332", "\uE332")
+        val MouseSimple: PhosphorGlyph = PhosphorGlyph("\uE644", PhosphorIconWeight.Duotone, "\uE644", "\uE644")
+        val MusicNote: PhosphorGlyph = PhosphorGlyph("\uE33C", PhosphorIconWeight.Duotone, "\uE33C", "\uE33C")
+        val MusicNoteSimple: PhosphorGlyph = PhosphorGlyph("\uE33E", PhosphorIconWeight.Duotone, "\uE33E", "\uE33E")
+        val MusicNotes: PhosphorGlyph = PhosphorGlyph("\uE340", PhosphorIconWeight.Duotone, "\uE340", "\uE340")
+        val MusicNotesMinus: PhosphorGlyph = PhosphorGlyph("\uEE0C", PhosphorIconWeight.Duotone, "\uEE0C", "\uEE0C")
+        val MusicNotesPlus: PhosphorGlyph = PhosphorGlyph("\uEB7C", PhosphorIconWeight.Duotone, "\uEB7C", "\uEB7C")
+        val MusicNotesSimple: PhosphorGlyph = PhosphorGlyph("\uE342", PhosphorIconWeight.Duotone, "\uE342", "\uE342")
+        val NavigationArrow: PhosphorGlyph = PhosphorGlyph("\uEADE", PhosphorIconWeight.Duotone, "\uEADE", "\uEADE")
+        val Needle: PhosphorGlyph = PhosphorGlyph("\uE82E", PhosphorIconWeight.Duotone, "\uE82E", "\uE82E")
+        val Network: PhosphorGlyph = PhosphorGlyph("\uEDDE", PhosphorIconWeight.Duotone, "\uEDDE", "\uEDDE")
+        val NetworkSlash: PhosphorGlyph = PhosphorGlyph("\uEDDC", PhosphorIconWeight.Duotone, "\uEDDC", "\uEDDC")
+        val NetworkX: PhosphorGlyph = PhosphorGlyph("\uEDDA", PhosphorIconWeight.Duotone, "\uEDDA", "\uEDDA")
+        val Newspaper: PhosphorGlyph = PhosphorGlyph("\uE344", PhosphorIconWeight.Duotone, "\uE344", "\uE344")
+        val NewspaperClipping: PhosphorGlyph = PhosphorGlyph("\uE346", PhosphorIconWeight.Duotone, "\uE346", "\uE346")
+        val NotEquals: PhosphorGlyph = PhosphorGlyph("\uEDA6", PhosphorIconWeight.Duotone, "\uEDA6", "\uEDA6")
+        val NotMemberOf: PhosphorGlyph = PhosphorGlyph("\uEDAE", PhosphorIconWeight.Duotone, "\uEDAE", "\uEDAE")
+        val NotSubsetOf: PhosphorGlyph = PhosphorGlyph("\uEDB0", PhosphorIconWeight.Duotone, "\uEDB0", "\uEDB0")
+        val NotSupersetOf: PhosphorGlyph = PhosphorGlyph("\uEDB2", PhosphorIconWeight.Duotone, "\uEDB2", "\uEDB2")
+        val Notches: PhosphorGlyph = PhosphorGlyph("\uED3A", PhosphorIconWeight.Duotone, "\uED3A", "\uED3A")
+        val Note: PhosphorGlyph = PhosphorGlyph("\uE348", PhosphorIconWeight.Duotone, "\uE348", "\uE348")
+        val NoteBlank: PhosphorGlyph = PhosphorGlyph("\uE34A", PhosphorIconWeight.Duotone, "\uE34A", "\uE34A")
+        val NotePencil: PhosphorGlyph = PhosphorGlyph("\uE34C", PhosphorIconWeight.Duotone, "\uE34C", "\uE34C")
+        val Notebook: PhosphorGlyph = PhosphorGlyph("\uE34E", PhosphorIconWeight.Duotone, "\uE34E", "\uE34E")
+        val Notepad: PhosphorGlyph = PhosphorGlyph("\uE63E", PhosphorIconWeight.Duotone, "\uE63E", "\uE63E")
+        val Notification: PhosphorGlyph = PhosphorGlyph("\uE6FA", PhosphorIconWeight.Duotone, "\uE6FA", "\uE6FA")
+        val NotionLogo: PhosphorGlyph = PhosphorGlyph("\uE9A0", PhosphorIconWeight.Duotone, "\uE9A0", "\uE9A0")
+        val NuclearPlant: PhosphorGlyph = PhosphorGlyph("\uED7C", PhosphorIconWeight.Duotone, "\uED7C", "\uED7C")
+        val NumberCircleEight: PhosphorGlyph = PhosphorGlyph("\uE352", PhosphorIconWeight.Duotone, "\uE352", "\uE352")
+        val NumberCircleFive: PhosphorGlyph = PhosphorGlyph("\uE358", PhosphorIconWeight.Duotone, "\uE358", "\uE358")
+        val NumberCircleFour: PhosphorGlyph = PhosphorGlyph("\uE35E", PhosphorIconWeight.Duotone, "\uE35E", "\uE35E")
+        val NumberCircleNine: PhosphorGlyph = PhosphorGlyph("\uE364", PhosphorIconWeight.Duotone, "\uE364", "\uE364")
+        val NumberCircleOne: PhosphorGlyph = PhosphorGlyph("\uE36A", PhosphorIconWeight.Duotone, "\uE36A", "\uE36A")
+        val NumberCircleSeven: PhosphorGlyph = PhosphorGlyph("\uE370", PhosphorIconWeight.Duotone, "\uE370", "\uE370")
+        val NumberCircleSix: PhosphorGlyph = PhosphorGlyph("\uE376", PhosphorIconWeight.Duotone, "\uE376", "\uE376")
+        val NumberCircleThree: PhosphorGlyph = PhosphorGlyph("\uE37C", PhosphorIconWeight.Duotone, "\uE37C", "\uE37C")
+        val NumberCircleTwo: PhosphorGlyph = PhosphorGlyph("\uE382", PhosphorIconWeight.Duotone, "\uE382", "\uE382")
+        val NumberCircleZero: PhosphorGlyph = PhosphorGlyph("\uE388", PhosphorIconWeight.Duotone, "\uE388", "\uE388")
+        val NumberEight: PhosphorGlyph = PhosphorGlyph("\uE350", PhosphorIconWeight.Duotone, "\uE350", "\uE350")
+        val NumberFive: PhosphorGlyph = PhosphorGlyph("\uE356", PhosphorIconWeight.Duotone, "\uE356", "\uE356")
+        val NumberFour: PhosphorGlyph = PhosphorGlyph("\uE35C", PhosphorIconWeight.Duotone, "\uE35C", "\uE35C")
+        val NumberNine: PhosphorGlyph = PhosphorGlyph("\uE362", PhosphorIconWeight.Duotone, "\uE362", "\uE362")
+        val NumberOne: PhosphorGlyph = PhosphorGlyph("\uE368", PhosphorIconWeight.Duotone, "\uE368", "\uE368")
+        val NumberSeven: PhosphorGlyph = PhosphorGlyph("\uE36E", PhosphorIconWeight.Duotone, "\uE36E", "\uE36E")
+        val NumberSix: PhosphorGlyph = PhosphorGlyph("\uE374", PhosphorIconWeight.Duotone, "\uE374", "\uE374")
+        val NumberSquareEight: PhosphorGlyph = PhosphorGlyph("\uE354", PhosphorIconWeight.Duotone, "\uE354", "\uE354")
+        val NumberSquareFive: PhosphorGlyph = PhosphorGlyph("\uE35A", PhosphorIconWeight.Duotone, "\uE35A", "\uE35A")
+        val NumberSquareFour: PhosphorGlyph = PhosphorGlyph("\uE360", PhosphorIconWeight.Duotone, "\uE360", "\uE360")
+        val NumberSquareNine: PhosphorGlyph = PhosphorGlyph("\uE366", PhosphorIconWeight.Duotone, "\uE366", "\uE366")
+        val NumberSquareOne: PhosphorGlyph = PhosphorGlyph("\uE36C", PhosphorIconWeight.Duotone, "\uE36C", "\uE36C")
+        val NumberSquareSeven: PhosphorGlyph = PhosphorGlyph("\uE372", PhosphorIconWeight.Duotone, "\uE372", "\uE372")
+        val NumberSquareSix: PhosphorGlyph = PhosphorGlyph("\uE378", PhosphorIconWeight.Duotone, "\uE378", "\uE378")
+        val NumberSquareThree: PhosphorGlyph = PhosphorGlyph("\uE37E", PhosphorIconWeight.Duotone, "\uE37E", "\uE37E")
+        val NumberSquareTwo: PhosphorGlyph = PhosphorGlyph("\uE384", PhosphorIconWeight.Duotone, "\uE384", "\uE384")
+        val NumberSquareZero: PhosphorGlyph = PhosphorGlyph("\uE38A", PhosphorIconWeight.Duotone, "\uE38A", "\uE38A")
+        val NumberThree: PhosphorGlyph = PhosphorGlyph("\uE37A", PhosphorIconWeight.Duotone, "\uE37A", "\uE37A")
+        val NumberTwo: PhosphorGlyph = PhosphorGlyph("\uE380", PhosphorIconWeight.Duotone, "\uE380", "\uE380")
+        val NumberZero: PhosphorGlyph = PhosphorGlyph("\uE386", PhosphorIconWeight.Duotone, "\uE386", "\uE386")
+        val Numpad: PhosphorGlyph = PhosphorGlyph("\uE3C8", PhosphorIconWeight.Duotone, "\uE3C8", "\uE3C8")
+        val Nut: PhosphorGlyph = PhosphorGlyph("\uE38C", PhosphorIconWeight.Duotone, "\uE38C", "\uE38C")
+        val NyTimesLogo: PhosphorGlyph = PhosphorGlyph("\uE646", PhosphorIconWeight.Duotone, "\uE646", "\uE646")
+        val Octagon: PhosphorGlyph = PhosphorGlyph("\uE38E", PhosphorIconWeight.Duotone, "\uE38E", "\uE38E")
+        val OfficeChair: PhosphorGlyph = PhosphorGlyph("\uEA46", PhosphorIconWeight.Duotone, "\uEA46", "\uEA46")
+        val Onigiri: PhosphorGlyph = PhosphorGlyph("\uEE2C", PhosphorIconWeight.Duotone, "\uEE2C", "\uEE2C")
+        val OpenAiLogo: PhosphorGlyph = PhosphorGlyph("\uE7D2", PhosphorIconWeight.Duotone, "\uE7D2", "\uE7D2")
+        val Option: PhosphorGlyph = PhosphorGlyph("\uE8A8", PhosphorIconWeight.Duotone, "\uE8A8", "\uE8A8")
+        val Orange: PhosphorGlyph = PhosphorGlyph("\uEE40", PhosphorIconWeight.Duotone, "\uEE40", "\uEE40")
+        val OrangeSlice: PhosphorGlyph = PhosphorGlyph("\uED36", PhosphorIconWeight.Duotone, "\uED36", "\uED36")
+        val Oven: PhosphorGlyph = PhosphorGlyph("\uED8C", PhosphorIconWeight.Duotone, "\uED8C", "\uED8C")
+        val Package: PhosphorGlyph = PhosphorGlyph("\uE390", PhosphorIconWeight.Duotone, "\uE390", "\uE390")
+        val PaintBrush: PhosphorGlyph = PhosphorGlyph("\uE6F0", PhosphorIconWeight.Duotone, "\uE6F0", "\uE6F0")
+        val PaintBrushBroad: PhosphorGlyph = PhosphorGlyph("\uE590", PhosphorIconWeight.Duotone, "\uE590", "\uE590")
+        val PaintBrushHousehold: PhosphorGlyph = PhosphorGlyph("\uE6F2", PhosphorIconWeight.Duotone, "\uE6F2", "\uE6F2")
+        val PaintBucket: PhosphorGlyph = PhosphorGlyph("\uE392", PhosphorIconWeight.Duotone, "\uE392", "\uE392")
+        val PaintRoller: PhosphorGlyph = PhosphorGlyph("\uE6F4", PhosphorIconWeight.Duotone, "\uE6F4", "\uE6F4")
+        val Palette: PhosphorGlyph = PhosphorGlyph("\uE6C8", PhosphorIconWeight.Duotone, "\uE6C8", "\uE6C8")
+        val Panorama: PhosphorGlyph = PhosphorGlyph("\uEAA2", PhosphorIconWeight.Duotone, "\uEAA2", "\uEAA2")
+        val Pants: PhosphorGlyph = PhosphorGlyph("\uEC88", PhosphorIconWeight.Duotone, "\uEC88", "\uEC88")
+        val PaperPlane: PhosphorGlyph = PhosphorGlyph("\uE394", PhosphorIconWeight.Duotone, "\uE394", "\uE394")
+        val PaperPlaneRight: PhosphorGlyph = PhosphorGlyph("\uE396", PhosphorIconWeight.Duotone, "\uE396", "\uE396")
+        val PaperPlaneTilt: PhosphorGlyph = PhosphorGlyph("\uE398", PhosphorIconWeight.Duotone, "\uE398", "\uE398")
+        val Paperclip: PhosphorGlyph = PhosphorGlyph("\uE39A", PhosphorIconWeight.Duotone, "\uE39A", "\uE39A")
+        val PaperclipHorizontal: PhosphorGlyph = PhosphorGlyph("\uE592", PhosphorIconWeight.Duotone, "\uE592", "\uE592")
+        val Parachute: PhosphorGlyph = PhosphorGlyph("\uEA7C", PhosphorIconWeight.Duotone, "\uEA7C", "\uEA7C")
+        val Paragraph: PhosphorGlyph = PhosphorGlyph("\uE960", PhosphorIconWeight.Duotone, "\uE960", "\uE960")
+        val Parallelogram: PhosphorGlyph = PhosphorGlyph("\uECC6", PhosphorIconWeight.Duotone, "\uECC6", "\uECC6")
+        val Park: PhosphorGlyph = PhosphorGlyph("\uECB2", PhosphorIconWeight.Duotone, "\uECB2", "\uECB2")
+        val Password: PhosphorGlyph = PhosphorGlyph("\uE752", PhosphorIconWeight.Duotone, "\uE752", "\uE752")
+        val Path: PhosphorGlyph = PhosphorGlyph("\uE39C", PhosphorIconWeight.Duotone, "\uE39C", "\uE39C")
+        val PatreonLogo: PhosphorGlyph = PhosphorGlyph("\uE98A", PhosphorIconWeight.Duotone, "\uE98A", "\uE98A")
+        val Pause: PhosphorGlyph = PhosphorGlyph("\uE39E", PhosphorIconWeight.Duotone, "\uE39E", "\uE39E")
+        val PauseCircle: PhosphorGlyph = PhosphorGlyph("\uE3A0", PhosphorIconWeight.Duotone, "\uE3A0", "\uE3A0")
+        val PawPrint: PhosphorGlyph = PhosphorGlyph("\uE648", PhosphorIconWeight.Duotone, "\uE648", "\uE648")
+        val PaypalLogo: PhosphorGlyph = PhosphorGlyph("\uE98C", PhosphorIconWeight.Duotone, "\uE98C", "\uE98C")
+        val Peace: PhosphorGlyph = PhosphorGlyph("\uE3A2", PhosphorIconWeight.Duotone, "\uE3A2", "\uE3A2")
+        val Pen: PhosphorGlyph = PhosphorGlyph("\uE3AA", PhosphorIconWeight.Duotone, "\uE3AA", "\uE3AA")
+        val PenNib: PhosphorGlyph = PhosphorGlyph("\uE3AC", PhosphorIconWeight.Duotone, "\uE3AC", "\uE3AC")
+        val PenNibStraight: PhosphorGlyph = PhosphorGlyph("\uE64A", PhosphorIconWeight.Duotone, "\uE64A", "\uE64A")
+        val Pencil: PhosphorGlyph = PhosphorGlyph("\uE3AE", PhosphorIconWeight.Duotone, "\uE3AE", "\uE3AE")
+        val PencilCircle: PhosphorGlyph = PhosphorGlyph("\uE3B0", PhosphorIconWeight.Duotone, "\uE3B0", "\uE3B0")
+        val PencilLine: PhosphorGlyph = PhosphorGlyph("\uE3B2", PhosphorIconWeight.Duotone, "\uE3B2", "\uE3B2")
+        val PencilRuler: PhosphorGlyph = PhosphorGlyph("\uE906", PhosphorIconWeight.Duotone, "\uE906", "\uE906")
+        val PencilSimple: PhosphorGlyph = PhosphorGlyph("\uE3B4", PhosphorIconWeight.Duotone, "\uE3B4", "\uE3B4")
+        val PencilSimpleLine: PhosphorGlyph = PhosphorGlyph("\uEBC6", PhosphorIconWeight.Duotone, "\uEBC6", "\uEBC6")
+        val PencilSimpleSlash: PhosphorGlyph = PhosphorGlyph("\uECF6", PhosphorIconWeight.Duotone, "\uECF6", "\uECF6")
+        val PencilSlash: PhosphorGlyph = PhosphorGlyph("\uECF8", PhosphorIconWeight.Duotone, "\uECF8", "\uECF8")
+        val Pentagon: PhosphorGlyph = PhosphorGlyph("\uEC7E", PhosphorIconWeight.Duotone, "\uEC7E", "\uEC7E")
+        val Pentagram: PhosphorGlyph = PhosphorGlyph("\uEC5C", PhosphorIconWeight.Duotone, "\uEC5C", "\uEC5C")
+        val Pepper: PhosphorGlyph = PhosphorGlyph("\uE94A", PhosphorIconWeight.Duotone, "\uE94A", "\uE94A")
+        val Percent: PhosphorGlyph = PhosphorGlyph("\uE3B6", PhosphorIconWeight.Duotone, "\uE3B6", "\uE3B6")
+        val Person: PhosphorGlyph = PhosphorGlyph("\uE3A8", PhosphorIconWeight.Duotone, "\uE3A8", "\uE3A8")
+        val PersonArmsSpread: PhosphorGlyph = PhosphorGlyph("\uECFE", PhosphorIconWeight.Duotone, "\uECFE", "\uECFE")
+        val PersonSimple: PhosphorGlyph = PhosphorGlyph("\uE72E", PhosphorIconWeight.Duotone, "\uE72E", "\uE72E")
+        val PersonSimpleBike: PhosphorGlyph = PhosphorGlyph("\uE734", PhosphorIconWeight.Duotone, "\uE734", "\uE734")
+        val PersonSimpleCircle: PhosphorGlyph = PhosphorGlyph("\uEE58", PhosphorIconWeight.Duotone, "\uEE58", "\uEE58")
+        val PersonSimpleHike: PhosphorGlyph = PhosphorGlyph("\uED54", PhosphorIconWeight.Duotone, "\uED54", "\uED54")
+        val PersonSimpleRun: PhosphorGlyph = PhosphorGlyph("\uE730", PhosphorIconWeight.Duotone, "\uE730", "\uE730")
+        val PersonSimpleSki: PhosphorGlyph = PhosphorGlyph("\uE71C", PhosphorIconWeight.Duotone, "\uE71C", "\uE71C")
+        val PersonSimpleSnowboard: PhosphorGlyph = PhosphorGlyph("\uE71E", PhosphorIconWeight.Duotone, "\uE71E", "\uE71E")
+        val PersonSimpleSwim: PhosphorGlyph = PhosphorGlyph("\uE736", PhosphorIconWeight.Duotone, "\uE736", "\uE736")
+        val PersonSimpleTaiChi: PhosphorGlyph = PhosphorGlyph("\uED5C", PhosphorIconWeight.Duotone, "\uED5C", "\uED5C")
+        val PersonSimpleThrow: PhosphorGlyph = PhosphorGlyph("\uE732", PhosphorIconWeight.Duotone, "\uE732", "\uE732")
+        val PersonSimpleWalk: PhosphorGlyph = PhosphorGlyph("\uE73A", PhosphorIconWeight.Duotone, "\uE73A", "\uE73A")
+        val Perspective: PhosphorGlyph = PhosphorGlyph("\uEBE6", PhosphorIconWeight.Duotone, "\uEBE6", "\uEBE6")
+        val Phone: PhosphorGlyph = PhosphorGlyph("\uE3B8", PhosphorIconWeight.Duotone, "\uE3B8", "\uE3B8")
+        val PhoneCall: PhosphorGlyph = PhosphorGlyph("\uE3BA", PhosphorIconWeight.Duotone, "\uE3BA", "\uE3BA")
+        val PhoneDisconnect: PhosphorGlyph = PhosphorGlyph("\uE3BC", PhosphorIconWeight.Duotone, "\uE3BC", "\uE3BC")
+        val PhoneIncoming: PhosphorGlyph = PhosphorGlyph("\uE3BE", PhosphorIconWeight.Duotone, "\uE3BE", "\uE3BE")
+        val PhoneList: PhosphorGlyph = PhosphorGlyph("\uE3CC", PhosphorIconWeight.Duotone, "\uE3CC", "\uE3CC")
+        val PhoneOutgoing: PhosphorGlyph = PhosphorGlyph("\uE3C0", PhosphorIconWeight.Duotone, "\uE3C0", "\uE3C0")
+        val PhonePause: PhosphorGlyph = PhosphorGlyph("\uE3CA", PhosphorIconWeight.Duotone, "\uE3CA", "\uE3CA")
+        val PhonePlus: PhosphorGlyph = PhosphorGlyph("\uEC56", PhosphorIconWeight.Duotone, "\uEC56", "\uEC56")
+        val PhoneSlash: PhosphorGlyph = PhosphorGlyph("\uE3C2", PhosphorIconWeight.Duotone, "\uE3C2", "\uE3C2")
+        val PhoneTransfer: PhosphorGlyph = PhosphorGlyph("\uE3C6", PhosphorIconWeight.Duotone, "\uE3C6", "\uE3C6")
+        val PhoneX: PhosphorGlyph = PhosphorGlyph("\uE3C4", PhosphorIconWeight.Duotone, "\uE3C4", "\uE3C4")
+        val PhosphorLogo: PhosphorGlyph = PhosphorGlyph("\uE3CE", PhosphorIconWeight.Duotone, "\uE3CE", "\uE3CE")
+        val Pi: PhosphorGlyph = PhosphorGlyph("\uEC80", PhosphorIconWeight.Duotone, "\uEC80", "\uEC80")
+        val PianoKeys: PhosphorGlyph = PhosphorGlyph("\uE9C8", PhosphorIconWeight.Duotone, "\uE9C8", "\uE9C8")
+        val PicnicTable: PhosphorGlyph = PhosphorGlyph("\uEE26", PhosphorIconWeight.Duotone, "\uEE26", "\uEE26")
+        val PictureInPicture: PhosphorGlyph = PhosphorGlyph("\uE64C", PhosphorIconWeight.Duotone, "\uE64C", "\uE64C")
+        val PiggyBank: PhosphorGlyph = PhosphorGlyph("\uEA04", PhosphorIconWeight.Duotone, "\uEA04", "\uEA04")
+        val Pill: PhosphorGlyph = PhosphorGlyph("\uE700", PhosphorIconWeight.Duotone, "\uE700", "\uE700")
+        val PingPong: PhosphorGlyph = PhosphorGlyph("\uEA42", PhosphorIconWeight.Duotone, "\uEA42", "\uEA42")
+        val PintGlass: PhosphorGlyph = PhosphorGlyph("\uEDD0", PhosphorIconWeight.Duotone, "\uEDD0", "\uEDD0")
+        val PinterestLogo: PhosphorGlyph = PhosphorGlyph("\uE64E", PhosphorIconWeight.Duotone, "\uE64E", "\uE64E")
+        val Pinwheel: PhosphorGlyph = PhosphorGlyph("\uEB9C", PhosphorIconWeight.Duotone, "\uEB9C", "\uEB9C")
+        val Pipe: PhosphorGlyph = PhosphorGlyph("\uED86", PhosphorIconWeight.Duotone, "\uED86", "\uED86")
+        val PipeWrench: PhosphorGlyph = PhosphorGlyph("\uED88", PhosphorIconWeight.Duotone, "\uED88", "\uED88")
+        val PixLogo: PhosphorGlyph = PhosphorGlyph("\uECC2", PhosphorIconWeight.Duotone, "\uECC2", "\uECC2")
+        val Pizza: PhosphorGlyph = PhosphorGlyph("\uE796", PhosphorIconWeight.Duotone, "\uE796", "\uE796")
+        val Placeholder: PhosphorGlyph = PhosphorGlyph("\uE650", PhosphorIconWeight.Duotone, "\uE650", "\uE650")
+        val Planet: PhosphorGlyph = PhosphorGlyph("\uE652", PhosphorIconWeight.Duotone, "\uE652", "\uE652")
+        val Plant: PhosphorGlyph = PhosphorGlyph("\uEBAE", PhosphorIconWeight.Duotone, "\uEBAE", "\uEBAE")
+        val Play: PhosphorGlyph = PhosphorGlyph("\uE3D0", PhosphorIconWeight.Duotone, "\uE3D0", "\uE3D0")
+        val PlayCircle: PhosphorGlyph = PhosphorGlyph("\uE3D2", PhosphorIconWeight.Duotone, "\uE3D2", "\uE3D2")
+        val PlayPause: PhosphorGlyph = PhosphorGlyph("\uE8BE", PhosphorIconWeight.Duotone, "\uE8BE", "\uE8BE")
+        val Playlist: PhosphorGlyph = PhosphorGlyph("\uE6AA", PhosphorIconWeight.Duotone, "\uE6AA", "\uE6AA")
+        val Plug: PhosphorGlyph = PhosphorGlyph("\uE946", PhosphorIconWeight.Duotone, "\uE946", "\uE946")
+        val PlugCharging: PhosphorGlyph = PhosphorGlyph("\uEB5C", PhosphorIconWeight.Duotone, "\uEB5C", "\uEB5C")
+        val Plugs: PhosphorGlyph = PhosphorGlyph("\uEB56", PhosphorIconWeight.Duotone, "\uEB56", "\uEB56")
+        val PlugsConnected: PhosphorGlyph = PhosphorGlyph("\uEB5A", PhosphorIconWeight.Duotone, "\uEB5A", "\uEB5A")
+        val Plus: PhosphorGlyph = PhosphorGlyph("\uE3D4", PhosphorIconWeight.Duotone, "\uE3D4", "\uE3D4")
+        val PlusCircle: PhosphorGlyph = PhosphorGlyph("\uE3D6", PhosphorIconWeight.Duotone, "\uE3D6", "\uE3D6")
+        val PlusMinus: PhosphorGlyph = PhosphorGlyph("\uE3D8", PhosphorIconWeight.Duotone, "\uE3D8", "\uE3D8")
+        val PlusSquare: PhosphorGlyph = PhosphorGlyph("\uED4A", PhosphorIconWeight.Duotone, "\uED4A", "\uED4A")
+        val PokerChip: PhosphorGlyph = PhosphorGlyph("\uE594", PhosphorIconWeight.Duotone, "\uE594", "\uE594")
+        val PoliceCar: PhosphorGlyph = PhosphorGlyph("\uEC4A", PhosphorIconWeight.Duotone, "\uEC4A", "\uEC4A")
+        val Polygon: PhosphorGlyph = PhosphorGlyph("\uE6D0", PhosphorIconWeight.Duotone, "\uE6D0", "\uE6D0")
+        val Popcorn: PhosphorGlyph = PhosphorGlyph("\uEB4E", PhosphorIconWeight.Duotone, "\uEB4E", "\uEB4E")
+        val Popsicle: PhosphorGlyph = PhosphorGlyph("\uEBBE", PhosphorIconWeight.Duotone, "\uEBBE", "\uEBBE")
+        val PottedPlant: PhosphorGlyph = PhosphorGlyph("\uEC22", PhosphorIconWeight.Duotone, "\uEC22", "\uEC22")
+        val Power: PhosphorGlyph = PhosphorGlyph("\uE3DA", PhosphorIconWeight.Duotone, "\uE3DA", "\uE3DA")
+        val Prescription: PhosphorGlyph = PhosphorGlyph("\uE7A2", PhosphorIconWeight.Duotone, "\uE7A2", "\uE7A2")
+        val Presentation: PhosphorGlyph = PhosphorGlyph("\uE654", PhosphorIconWeight.Duotone, "\uE654", "\uE654")
+        val PresentationChart: PhosphorGlyph = PhosphorGlyph("\uE656", PhosphorIconWeight.Duotone, "\uE656", "\uE656")
+        val Printer: PhosphorGlyph = PhosphorGlyph("\uE3DC", PhosphorIconWeight.Duotone, "\uE3DC", "\uE3DC")
+        val Prohibit: PhosphorGlyph = PhosphorGlyph("\uE3DE", PhosphorIconWeight.Duotone, "\uE3DE", "\uE3DE")
+        val ProhibitInset: PhosphorGlyph = PhosphorGlyph("\uE3E0", PhosphorIconWeight.Duotone, "\uE3E0", "\uE3E0")
+        val ProjectorScreen: PhosphorGlyph = PhosphorGlyph("\uE658", PhosphorIconWeight.Duotone, "\uE658", "\uE658")
+        val ProjectorScreenChart: PhosphorGlyph = PhosphorGlyph("\uE65A", PhosphorIconWeight.Duotone, "\uE65A", "\uE65A")
+        val Pulse: PhosphorGlyph = PhosphorGlyph("\uE000", PhosphorIconWeight.Duotone, "\uE000", "\uE000")
+        val PushPin: PhosphorGlyph = PhosphorGlyph("\uE3E2", PhosphorIconWeight.Duotone, "\uE3E2", "\uE3E2")
+        val PushPinSimple: PhosphorGlyph = PhosphorGlyph("\uE65C", PhosphorIconWeight.Duotone, "\uE65C", "\uE65C")
+        val PushPinSimpleSlash: PhosphorGlyph = PhosphorGlyph("\uE65E", PhosphorIconWeight.Duotone, "\uE65E", "\uE65E")
+        val PushPinSlash: PhosphorGlyph = PhosphorGlyph("\uE3E4", PhosphorIconWeight.Duotone, "\uE3E4", "\uE3E4")
+        val PuzzlePiece: PhosphorGlyph = PhosphorGlyph("\uE596", PhosphorIconWeight.Duotone, "\uE596", "\uE596")
+        val QrCode: PhosphorGlyph = PhosphorGlyph("\uE3E6", PhosphorIconWeight.Duotone, "\uE3E6", "\uE3E6")
+        val Question: PhosphorGlyph = PhosphorGlyph("\uE3E8", PhosphorIconWeight.Duotone, "\uE3E8", "\uE3E8")
+        val QuestionMark: PhosphorGlyph = PhosphorGlyph("\uE3E9", PhosphorIconWeight.Duotone, "\uE3E9", "\uE3E9")
+        val Queue: PhosphorGlyph = PhosphorGlyph("\uE6AC", PhosphorIconWeight.Duotone, "\uE6AC", "\uE6AC")
+        val Quotes: PhosphorGlyph = PhosphorGlyph("\uE660", PhosphorIconWeight.Duotone, "\uE660", "\uE660")
+        val Rabbit: PhosphorGlyph = PhosphorGlyph("\uEAC2", PhosphorIconWeight.Duotone, "\uEAC2", "\uEAC2")
+        val Racquet: PhosphorGlyph = PhosphorGlyph("\uEE02", PhosphorIconWeight.Duotone, "\uEE02", "\uEE02")
+        val Radical: PhosphorGlyph = PhosphorGlyph("\uE3EA", PhosphorIconWeight.Duotone, "\uE3EA", "\uE3EA")
+        val Radio: PhosphorGlyph = PhosphorGlyph("\uE77E", PhosphorIconWeight.Duotone, "\uE77E", "\uE77E")
+        val RadioButton: PhosphorGlyph = PhosphorGlyph("\uEB08", PhosphorIconWeight.Duotone, "\uEB08", "\uEB08")
+        val Radioactive: PhosphorGlyph = PhosphorGlyph("\uE9DC", PhosphorIconWeight.Duotone, "\uE9DC", "\uE9DC")
+        val Rainbow: PhosphorGlyph = PhosphorGlyph("\uE598", PhosphorIconWeight.Duotone, "\uE598", "\uE598")
+        val RainbowCloud: PhosphorGlyph = PhosphorGlyph("\uE59A", PhosphorIconWeight.Duotone, "\uE59A", "\uE59A")
+        val Ranking: PhosphorGlyph = PhosphorGlyph("\uED62", PhosphorIconWeight.Duotone, "\uED62", "\uED62")
+        val ReadCvLogo: PhosphorGlyph = PhosphorGlyph("\uED0C", PhosphorIconWeight.Duotone, "\uED0C", "\uED0C")
+        val Receipt: PhosphorGlyph = PhosphorGlyph("\uE3EC", PhosphorIconWeight.Duotone, "\uE3EC", "\uE3EC")
+        val ReceiptX: PhosphorGlyph = PhosphorGlyph("\uED40", PhosphorIconWeight.Duotone, "\uED40", "\uED40")
+        val Record: PhosphorGlyph = PhosphorGlyph("\uE3EE", PhosphorIconWeight.Duotone, "\uE3EE", "\uE3EE")
+        val Rectangle: PhosphorGlyph = PhosphorGlyph("\uE3F0", PhosphorIconWeight.Duotone, "\uE3F0", "\uE3F0")
+        val RectangleDashed: PhosphorGlyph = PhosphorGlyph("\uE3F2", PhosphorIconWeight.Duotone, "\uE3F2", "\uE3F2")
+        val Recycle: PhosphorGlyph = PhosphorGlyph("\uE75A", PhosphorIconWeight.Duotone, "\uE75A", "\uE75A")
+        val RedditLogo: PhosphorGlyph = PhosphorGlyph("\uE59C", PhosphorIconWeight.Duotone, "\uE59C", "\uE59C")
+        val Repeat: PhosphorGlyph = PhosphorGlyph("\uE3F6", PhosphorIconWeight.Duotone, "\uE3F6", "\uE3F6")
+        val RepeatOnce: PhosphorGlyph = PhosphorGlyph("\uE3F8", PhosphorIconWeight.Duotone, "\uE3F8", "\uE3F8")
+        val ReplitLogo: PhosphorGlyph = PhosphorGlyph("\uEB8A", PhosphorIconWeight.Duotone, "\uEB8A", "\uEB8A")
+        val Resize: PhosphorGlyph = PhosphorGlyph("\uED6E", PhosphorIconWeight.Duotone, "\uED6E", "\uED6E")
+        val Rewind: PhosphorGlyph = PhosphorGlyph("\uE6A8", PhosphorIconWeight.Duotone, "\uE6A8", "\uE6A8")
+        val RewindCircle: PhosphorGlyph = PhosphorGlyph("\uE3FA", PhosphorIconWeight.Duotone, "\uE3FA", "\uE3FA")
+        val RoadHorizon: PhosphorGlyph = PhosphorGlyph("\uE838", PhosphorIconWeight.Duotone, "\uE838", "\uE838")
+        val Robot: PhosphorGlyph = PhosphorGlyph("\uE762", PhosphorIconWeight.Duotone, "\uE762", "\uE762")
+        val Rocket: PhosphorGlyph = PhosphorGlyph("\uE3FC", PhosphorIconWeight.Duotone, "\uE3FC", "\uE3FC")
+        val RocketLaunch: PhosphorGlyph = PhosphorGlyph("\uE3FE", PhosphorIconWeight.Duotone, "\uE3FE", "\uE3FE")
+        val Rows: PhosphorGlyph = PhosphorGlyph("\uE5A2", PhosphorIconWeight.Duotone, "\uE5A2", "\uE5A2")
+        val RowsPlusBottom: PhosphorGlyph = PhosphorGlyph("\uE59E", PhosphorIconWeight.Duotone, "\uE59E", "\uE59E")
+        val RowsPlusTop: PhosphorGlyph = PhosphorGlyph("\uE5A0", PhosphorIconWeight.Duotone, "\uE5A0", "\uE5A0")
+        val Rss: PhosphorGlyph = PhosphorGlyph("\uE400", PhosphorIconWeight.Duotone, "\uE400", "\uE400")
+        val RssSimple: PhosphorGlyph = PhosphorGlyph("\uE402", PhosphorIconWeight.Duotone, "\uE402", "\uE402")
+        val Rug: PhosphorGlyph = PhosphorGlyph("\uEA1A", PhosphorIconWeight.Duotone, "\uEA1A", "\uEA1A")
+        val Ruler: PhosphorGlyph = PhosphorGlyph("\uE6B8", PhosphorIconWeight.Duotone, "\uE6B8", "\uE6B8")
+        val Sailboat: PhosphorGlyph = PhosphorGlyph("\uE78A", PhosphorIconWeight.Duotone, "\uE78A", "\uE78A")
+        val Scales: PhosphorGlyph = PhosphorGlyph("\uE750", PhosphorIconWeight.Duotone, "\uE750", "\uE750")
+        val Scan: PhosphorGlyph = PhosphorGlyph("\uEBB6", PhosphorIconWeight.Duotone, "\uEBB6", "\uEBB6")
+        val ScanSmiley: PhosphorGlyph = PhosphorGlyph("\uEBB4", PhosphorIconWeight.Duotone, "\uEBB4", "\uEBB4")
+        val Scissors: PhosphorGlyph = PhosphorGlyph("\uEAE0", PhosphorIconWeight.Duotone, "\uEAE0", "\uEAE0")
+        val Scooter: PhosphorGlyph = PhosphorGlyph("\uE820", PhosphorIconWeight.Duotone, "\uE820", "\uE820")
+        val Screencast: PhosphorGlyph = PhosphorGlyph("\uE404", PhosphorIconWeight.Duotone, "\uE404", "\uE404")
+        val Screwdriver: PhosphorGlyph = PhosphorGlyph("\uE86E", PhosphorIconWeight.Duotone, "\uE86E", "\uE86E")
+        val Scribble: PhosphorGlyph = PhosphorGlyph("\uE806", PhosphorIconWeight.Duotone, "\uE806", "\uE806")
+        val ScribbleLoop: PhosphorGlyph = PhosphorGlyph("\uE662", PhosphorIconWeight.Duotone, "\uE662", "\uE662")
+        val Scroll: PhosphorGlyph = PhosphorGlyph("\uEB7A", PhosphorIconWeight.Duotone, "\uEB7A", "\uEB7A")
+        val Seal: PhosphorGlyph = PhosphorGlyph("\uE604", PhosphorIconWeight.Duotone, "\uE604", "\uE604")
+        val SealCheck: PhosphorGlyph = PhosphorGlyph("\uE606", PhosphorIconWeight.Duotone, "\uE606", "\uE606")
+        val SealPercent: PhosphorGlyph = PhosphorGlyph("\uE60A", PhosphorIconWeight.Duotone, "\uE60A", "\uE60A")
+        val SealQuestion: PhosphorGlyph = PhosphorGlyph("\uE608", PhosphorIconWeight.Duotone, "\uE608", "\uE608")
+        val SealWarning: PhosphorGlyph = PhosphorGlyph("\uE60C", PhosphorIconWeight.Duotone, "\uE60C", "\uE60C")
+        val Seat: PhosphorGlyph = PhosphorGlyph("\uEB8E", PhosphorIconWeight.Duotone, "\uEB8E", "\uEB8E")
+        val Seatbelt: PhosphorGlyph = PhosphorGlyph("\uEDFE", PhosphorIconWeight.Duotone, "\uEDFE", "\uEDFE")
+        val SecurityCamera: PhosphorGlyph = PhosphorGlyph("\uECA4", PhosphorIconWeight.Duotone, "\uECA4", "\uECA4")
+        val Selection: PhosphorGlyph = PhosphorGlyph("\uE69A", PhosphorIconWeight.Duotone, "\uE69A", "\uE69A")
+        val SelectionAll: PhosphorGlyph = PhosphorGlyph("\uE746", PhosphorIconWeight.Duotone, "\uE746", "\uE746")
+        val SelectionBackground: PhosphorGlyph = PhosphorGlyph("\uEAF8", PhosphorIconWeight.Duotone, "\uEAF8", "\uEAF8")
+        val SelectionForeground: PhosphorGlyph = PhosphorGlyph("\uEAF6", PhosphorIconWeight.Duotone, "\uEAF6", "\uEAF6")
+        val SelectionInverse: PhosphorGlyph = PhosphorGlyph("\uE744", PhosphorIconWeight.Duotone, "\uE744", "\uE744")
+        val SelectionPlus: PhosphorGlyph = PhosphorGlyph("\uE69C", PhosphorIconWeight.Duotone, "\uE69C", "\uE69C")
+        val SelectionSlash: PhosphorGlyph = PhosphorGlyph("\uE69E", PhosphorIconWeight.Duotone, "\uE69E", "\uE69E")
+        val Shapes: PhosphorGlyph = PhosphorGlyph("\uEC5E", PhosphorIconWeight.Duotone, "\uEC5E", "\uEC5E")
+        val Share: PhosphorGlyph = PhosphorGlyph("\uE406", PhosphorIconWeight.Duotone, "\uE406", "\uE406")
+        val ShareFat: PhosphorGlyph = PhosphorGlyph("\uED52", PhosphorIconWeight.Duotone, "\uED52", "\uED52")
+        val ShareNetwork: PhosphorGlyph = PhosphorGlyph("\uE408", PhosphorIconWeight.Duotone, "\uE408", "\uE408")
+        val Shield: PhosphorGlyph = PhosphorGlyph("\uE40A", PhosphorIconWeight.Duotone, "\uE40A", "\uE40A")
+        val ShieldCheck: PhosphorGlyph = PhosphorGlyph("\uE40C", PhosphorIconWeight.Duotone, "\uE40C", "\uE40C")
+        val ShieldCheckered: PhosphorGlyph = PhosphorGlyph("\uE708", PhosphorIconWeight.Duotone, "\uE708", "\uE708")
+        val ShieldChevron: PhosphorGlyph = PhosphorGlyph("\uE40E", PhosphorIconWeight.Duotone, "\uE40E", "\uE40E")
+        val ShieldPlus: PhosphorGlyph = PhosphorGlyph("\uE706", PhosphorIconWeight.Duotone, "\uE706", "\uE706")
+        val ShieldSlash: PhosphorGlyph = PhosphorGlyph("\uE410", PhosphorIconWeight.Duotone, "\uE410", "\uE410")
+        val ShieldStar: PhosphorGlyph = PhosphorGlyph("\uEC34", PhosphorIconWeight.Duotone, "\uEC34", "\uEC34")
+        val ShieldWarning: PhosphorGlyph = PhosphorGlyph("\uE412", PhosphorIconWeight.Duotone, "\uE412", "\uE412")
+        val ShippingContainer: PhosphorGlyph = PhosphorGlyph("\uE78C", PhosphorIconWeight.Duotone, "\uE78C", "\uE78C")
+        val ShirtFolded: PhosphorGlyph = PhosphorGlyph("\uEA92", PhosphorIconWeight.Duotone, "\uEA92", "\uEA92")
+        val ShootingStar: PhosphorGlyph = PhosphorGlyph("\uECFA", PhosphorIconWeight.Duotone, "\uECFA", "\uECFA")
+        val ShoppingBag: PhosphorGlyph = PhosphorGlyph("\uE416", PhosphorIconWeight.Duotone, "\uE416", "\uE416")
+        val ShoppingBagOpen: PhosphorGlyph = PhosphorGlyph("\uE418", PhosphorIconWeight.Duotone, "\uE418", "\uE418")
+        val ShoppingCart: PhosphorGlyph = PhosphorGlyph("\uE41E", PhosphorIconWeight.Duotone, "\uE41E", "\uE41E")
+        val ShoppingCartSimple: PhosphorGlyph = PhosphorGlyph("\uE420", PhosphorIconWeight.Duotone, "\uE420", "\uE420")
+        val Shovel: PhosphorGlyph = PhosphorGlyph("\uE9E6", PhosphorIconWeight.Duotone, "\uE9E6", "\uE9E6")
+        val Shower: PhosphorGlyph = PhosphorGlyph("\uE776", PhosphorIconWeight.Duotone, "\uE776", "\uE776")
+        val Shrimp: PhosphorGlyph = PhosphorGlyph("\uEAB4", PhosphorIconWeight.Duotone, "\uEAB4", "\uEAB4")
+        val Shuffle: PhosphorGlyph = PhosphorGlyph("\uE422", PhosphorIconWeight.Duotone, "\uE422", "\uE422")
+        val ShuffleAngular: PhosphorGlyph = PhosphorGlyph("\uE424", PhosphorIconWeight.Duotone, "\uE424", "\uE424")
+        val ShuffleSimple: PhosphorGlyph = PhosphorGlyph("\uE426", PhosphorIconWeight.Duotone, "\uE426", "\uE426")
+        val Sidebar: PhosphorGlyph = PhosphorGlyph("\uEAB6", PhosphorIconWeight.Duotone, "\uEAB6", "\uEAB6")
+        val SidebarSimple: PhosphorGlyph = PhosphorGlyph("\uEC24", PhosphorIconWeight.Duotone, "\uEC24", "\uEC24")
+        val Sigma: PhosphorGlyph = PhosphorGlyph("\uEAB8", PhosphorIconWeight.Duotone, "\uEAB8", "\uEAB8")
+        val SignIn: PhosphorGlyph = PhosphorGlyph("\uE428", PhosphorIconWeight.Duotone, "\uE428", "\uE428")
+        val SignOut: PhosphorGlyph = PhosphorGlyph("\uE42A", PhosphorIconWeight.Duotone, "\uE42A", "\uE42A")
+        val Signature: PhosphorGlyph = PhosphorGlyph("\uEBAC", PhosphorIconWeight.Duotone, "\uEBAC", "\uEBAC")
+        val Signpost: PhosphorGlyph = PhosphorGlyph("\uE89C", PhosphorIconWeight.Duotone, "\uE89C", "\uE89C")
+        val SimCard: PhosphorGlyph = PhosphorGlyph("\uE664", PhosphorIconWeight.Duotone, "\uE664", "\uE664")
+        val Siren: PhosphorGlyph = PhosphorGlyph("\uE9B8", PhosphorIconWeight.Duotone, "\uE9B8", "\uE9B8")
+        val SketchLogo: PhosphorGlyph = PhosphorGlyph("\uE42C", PhosphorIconWeight.Duotone, "\uE42C", "\uE42C")
+        val SkipBack: PhosphorGlyph = PhosphorGlyph("\uE5A4", PhosphorIconWeight.Duotone, "\uE5A4", "\uE5A4")
+        val SkipBackCircle: PhosphorGlyph = PhosphorGlyph("\uE42E", PhosphorIconWeight.Duotone, "\uE42E", "\uE42E")
+        val SkipForward: PhosphorGlyph = PhosphorGlyph("\uE5A6", PhosphorIconWeight.Duotone, "\uE5A6", "\uE5A6")
+        val SkipForwardCircle: PhosphorGlyph = PhosphorGlyph("\uE430", PhosphorIconWeight.Duotone, "\uE430", "\uE430")
+        val Skull: PhosphorGlyph = PhosphorGlyph("\uE916", PhosphorIconWeight.Duotone, "\uE916", "\uE916")
+        val SkypeLogo: PhosphorGlyph = PhosphorGlyph("\uE8DC", PhosphorIconWeight.Duotone, "\uE8DC", "\uE8DC")
+        val SlackLogo: PhosphorGlyph = PhosphorGlyph("\uE5A8", PhosphorIconWeight.Duotone, "\uE5A8", "\uE5A8")
+        val Sliders: PhosphorGlyph = PhosphorGlyph("\uE432", PhosphorIconWeight.Duotone, "\uE432", "\uE432")
+        val SlidersHorizontal: PhosphorGlyph = PhosphorGlyph("\uE434", PhosphorIconWeight.Duotone, "\uE434", "\uE434")
+        val Slideshow: PhosphorGlyph = PhosphorGlyph("\uED32", PhosphorIconWeight.Duotone, "\uED32", "\uED32")
+        val Smiley: PhosphorGlyph = PhosphorGlyph("\uE436", PhosphorIconWeight.Duotone, "\uE436", "\uE436")
+        val SmileyAngry: PhosphorGlyph = PhosphorGlyph("\uEC62", PhosphorIconWeight.Duotone, "\uEC62", "\uEC62")
+        val SmileyBlank: PhosphorGlyph = PhosphorGlyph("\uE438", PhosphorIconWeight.Duotone, "\uE438", "\uE438")
+        val SmileyMeh: PhosphorGlyph = PhosphorGlyph("\uE43A", PhosphorIconWeight.Duotone, "\uE43A", "\uE43A")
+        val SmileyMelting: PhosphorGlyph = PhosphorGlyph("\uEE56", PhosphorIconWeight.Duotone, "\uEE56", "\uEE56")
+        val SmileyNervous: PhosphorGlyph = PhosphorGlyph("\uE43C", PhosphorIconWeight.Duotone, "\uE43C", "\uE43C")
+        val SmileySad: PhosphorGlyph = PhosphorGlyph("\uE43E", PhosphorIconWeight.Duotone, "\uE43E", "\uE43E")
+        val SmileySticker: PhosphorGlyph = PhosphorGlyph("\uE440", PhosphorIconWeight.Duotone, "\uE440", "\uE440")
+        val SmileyWink: PhosphorGlyph = PhosphorGlyph("\uE666", PhosphorIconWeight.Duotone, "\uE666", "\uE666")
+        val SmileyXEyes: PhosphorGlyph = PhosphorGlyph("\uE442", PhosphorIconWeight.Duotone, "\uE442", "\uE442")
+        val SnapchatLogo: PhosphorGlyph = PhosphorGlyph("\uE668", PhosphorIconWeight.Duotone, "\uE668", "\uE668")
+        val Sneaker: PhosphorGlyph = PhosphorGlyph("\uE80C", PhosphorIconWeight.Duotone, "\uE80C", "\uE80C")
+        val SneakerMove: PhosphorGlyph = PhosphorGlyph("\uED60", PhosphorIconWeight.Duotone, "\uED60", "\uED60")
+        val Snowflake: PhosphorGlyph = PhosphorGlyph("\uE5AA", PhosphorIconWeight.Duotone, "\uE5AA", "\uE5AA")
+        val SoccerBall: PhosphorGlyph = PhosphorGlyph("\uE716", PhosphorIconWeight.Duotone, "\uE716", "\uE716")
+        val Sock: PhosphorGlyph = PhosphorGlyph("\uECCE", PhosphorIconWeight.Duotone, "\uECCE", "\uECCE")
+        val SolarPanel: PhosphorGlyph = PhosphorGlyph("\uED7A", PhosphorIconWeight.Duotone, "\uED7A", "\uED7A")
+        val SolarRoof: PhosphorGlyph = PhosphorGlyph("\uED7B", PhosphorIconWeight.Duotone, "\uED7B", "\uED7B")
+        val SortAscending: PhosphorGlyph = PhosphorGlyph("\uE444", PhosphorIconWeight.Duotone, "\uE444", "\uE444")
+        val SortDescending: PhosphorGlyph = PhosphorGlyph("\uE446", PhosphorIconWeight.Duotone, "\uE446", "\uE446")
+        val SoundcloudLogo: PhosphorGlyph = PhosphorGlyph("\uE8DE", PhosphorIconWeight.Duotone, "\uE8DE", "\uE8DE")
+        val Spade: PhosphorGlyph = PhosphorGlyph("\uE448", PhosphorIconWeight.Duotone, "\uE448", "\uE448")
+        val Sparkle: PhosphorGlyph = PhosphorGlyph("\uE6A2", PhosphorIconWeight.Duotone, "\uE6A2", "\uE6A2")
+        val SpeakerHifi: PhosphorGlyph = PhosphorGlyph("\uEA08", PhosphorIconWeight.Duotone, "\uEA08", "\uEA08")
+        val SpeakerHigh: PhosphorGlyph = PhosphorGlyph("\uE44A", PhosphorIconWeight.Duotone, "\uE44A", "\uE44A")
+        val SpeakerLow: PhosphorGlyph = PhosphorGlyph("\uE44C", PhosphorIconWeight.Duotone, "\uE44C", "\uE44C")
+        val SpeakerNone: PhosphorGlyph = PhosphorGlyph("\uE44E", PhosphorIconWeight.Duotone, "\uE44E", "\uE44E")
+        val SpeakerSimpleHigh: PhosphorGlyph = PhosphorGlyph("\uE450", PhosphorIconWeight.Duotone, "\uE450", "\uE450")
+        val SpeakerSimpleLow: PhosphorGlyph = PhosphorGlyph("\uE452", PhosphorIconWeight.Duotone, "\uE452", "\uE452")
+        val SpeakerSimpleNone: PhosphorGlyph = PhosphorGlyph("\uE454", PhosphorIconWeight.Duotone, "\uE454", "\uE454")
+        val SpeakerSimpleSlash: PhosphorGlyph = PhosphorGlyph("\uE456", PhosphorIconWeight.Duotone, "\uE456", "\uE456")
+        val SpeakerSimpleX: PhosphorGlyph = PhosphorGlyph("\uE458", PhosphorIconWeight.Duotone, "\uE458", "\uE458")
+        val SpeakerSlash: PhosphorGlyph = PhosphorGlyph("\uE45A", PhosphorIconWeight.Duotone, "\uE45A", "\uE45A")
+        val SpeakerX: PhosphorGlyph = PhosphorGlyph("\uE45C", PhosphorIconWeight.Duotone, "\uE45C", "\uE45C")
+        val Speedometer: PhosphorGlyph = PhosphorGlyph("\uEE74", PhosphorIconWeight.Duotone, "\uEE74", "\uEE74")
+        val Sphere: PhosphorGlyph = PhosphorGlyph("\uEE66", PhosphorIconWeight.Duotone, "\uEE66", "\uEE66")
+        val Spinner: PhosphorGlyph = PhosphorGlyph("\uE66A", PhosphorIconWeight.Duotone, "\uE66A", "\uE66A")
+        val SpinnerBall: PhosphorGlyph = PhosphorGlyph("\uEE28", PhosphorIconWeight.Duotone, "\uEE28", "\uEE28")
+        val SpinnerGap: PhosphorGlyph = PhosphorGlyph("\uE66C", PhosphorIconWeight.Duotone, "\uE66C", "\uE66C")
+        val Spiral: PhosphorGlyph = PhosphorGlyph("\uE9FA", PhosphorIconWeight.Duotone, "\uE9FA", "\uE9FA")
+        val SplitHorizontal: PhosphorGlyph = PhosphorGlyph("\uE872", PhosphorIconWeight.Duotone, "\uE872", "\uE872")
+        val SplitVertical: PhosphorGlyph = PhosphorGlyph("\uE876", PhosphorIconWeight.Duotone, "\uE876", "\uE876")
+        val SpotifyLogo: PhosphorGlyph = PhosphorGlyph("\uE66E", PhosphorIconWeight.Duotone, "\uE66E", "\uE66E")
+        val SprayBottle: PhosphorGlyph = PhosphorGlyph("\uE7E4", PhosphorIconWeight.Duotone, "\uE7E4", "\uE7E4")
+        val Square: PhosphorGlyph = PhosphorGlyph("\uE45E", PhosphorIconWeight.Duotone, "\uE45E", "\uE45E")
+        val SquareHalf: PhosphorGlyph = PhosphorGlyph("\uE462", PhosphorIconWeight.Duotone, "\uE462", "\uE462")
+        val SquareHalfBottom: PhosphorGlyph = PhosphorGlyph("\uEB16", PhosphorIconWeight.Duotone, "\uEB16", "\uEB16")
+        val SquareLogo: PhosphorGlyph = PhosphorGlyph("\uE690", PhosphorIconWeight.Duotone, "\uE690", "\uE690")
+        val SquareSplitHorizontal: PhosphorGlyph = PhosphorGlyph("\uE870", PhosphorIconWeight.Duotone, "\uE870", "\uE870")
+        val SquareSplitVertical: PhosphorGlyph = PhosphorGlyph("\uE874", PhosphorIconWeight.Duotone, "\uE874", "\uE874")
+        val SquaresFour: PhosphorGlyph = PhosphorGlyph("\uE464", PhosphorIconWeight.Duotone, "\uE464", "\uE464")
+        val Stack: PhosphorGlyph = PhosphorGlyph("\uE466", PhosphorIconWeight.Duotone, "\uE466", "\uE466")
+        val StackMinus: PhosphorGlyph = PhosphorGlyph("\uEDF4", PhosphorIconWeight.Duotone, "\uEDF4", "\uEDF4")
+        val StackOverflowLogo: PhosphorGlyph = PhosphorGlyph("\uEB78", PhosphorIconWeight.Duotone, "\uEB78", "\uEB78")
+        val StackPlus: PhosphorGlyph = PhosphorGlyph("\uEDF6", PhosphorIconWeight.Duotone, "\uEDF6", "\uEDF6")
+        val StackSimple: PhosphorGlyph = PhosphorGlyph("\uE468", PhosphorIconWeight.Duotone, "\uE468", "\uE468")
+        val Stairs: PhosphorGlyph = PhosphorGlyph("\uE8EC", PhosphorIconWeight.Duotone, "\uE8EC", "\uE8EC")
+        val Stamp: PhosphorGlyph = PhosphorGlyph("\uEA48", PhosphorIconWeight.Duotone, "\uEA48", "\uEA48")
+        val StandardDefinition: PhosphorGlyph = PhosphorGlyph("\uEA90", PhosphorIconWeight.Duotone, "\uEA90", "\uEA90")
+        val Star: PhosphorGlyph = PhosphorGlyph("\uE46A", PhosphorIconWeight.Duotone, "\uE46A", "\uE46A")
+        val StarAndCrescent: PhosphorGlyph = PhosphorGlyph("\uECF4", PhosphorIconWeight.Duotone, "\uECF4", "\uECF4")
+        val StarFour: PhosphorGlyph = PhosphorGlyph("\uE6A4", PhosphorIconWeight.Duotone, "\uE6A4", "\uE6A4")
+        val StarHalf: PhosphorGlyph = PhosphorGlyph("\uE70A", PhosphorIconWeight.Duotone, "\uE70A", "\uE70A")
+        val StarOfDavid: PhosphorGlyph = PhosphorGlyph("\uE89E", PhosphorIconWeight.Duotone, "\uE89E", "\uE89E")
+        val SteamLogo: PhosphorGlyph = PhosphorGlyph("\uEAD4", PhosphorIconWeight.Duotone, "\uEAD4", "\uEAD4")
+        val SteeringWheel: PhosphorGlyph = PhosphorGlyph("\uE9AC", PhosphorIconWeight.Duotone, "\uE9AC", "\uE9AC")
+        val Steps: PhosphorGlyph = PhosphorGlyph("\uECBE", PhosphorIconWeight.Duotone, "\uECBE", "\uECBE")
+        val Stethoscope: PhosphorGlyph = PhosphorGlyph("\uE7EA", PhosphorIconWeight.Duotone, "\uE7EA", "\uE7EA")
+        val Sticker: PhosphorGlyph = PhosphorGlyph("\uE5AC", PhosphorIconWeight.Duotone, "\uE5AC", "\uE5AC")
+        val Stool: PhosphorGlyph = PhosphorGlyph("\uEA44", PhosphorIconWeight.Duotone, "\uEA44", "\uEA44")
+        val Stop: PhosphorGlyph = PhosphorGlyph("\uE46C", PhosphorIconWeight.Duotone, "\uE46C", "\uE46C")
+        val StopCircle: PhosphorGlyph = PhosphorGlyph("\uE46E", PhosphorIconWeight.Duotone, "\uE46E", "\uE46E")
+        val Storefront: PhosphorGlyph = PhosphorGlyph("\uE470", PhosphorIconWeight.Duotone, "\uE470", "\uE470")
+        val Strategy: PhosphorGlyph = PhosphorGlyph("\uEA3A", PhosphorIconWeight.Duotone, "\uEA3A", "\uEA3A")
+        val StripeLogo: PhosphorGlyph = PhosphorGlyph("\uE698", PhosphorIconWeight.Duotone, "\uE698", "\uE698")
+        val Student: PhosphorGlyph = PhosphorGlyph("\uE73E", PhosphorIconWeight.Duotone, "\uE73E", "\uE73E")
+        val SubsetOf: PhosphorGlyph = PhosphorGlyph("\uEDC0", PhosphorIconWeight.Duotone, "\uEDC0", "\uEDC0")
+        val SubsetProperOf: PhosphorGlyph = PhosphorGlyph("\uEDB6", PhosphorIconWeight.Duotone, "\uEDB6", "\uEDB6")
+        val Subtitles: PhosphorGlyph = PhosphorGlyph("\uE1A8", PhosphorIconWeight.Duotone, "\uE1A8", "\uE1A8")
+        val SubtitlesSlash: PhosphorGlyph = PhosphorGlyph("\uE1A6", PhosphorIconWeight.Duotone, "\uE1A6", "\uE1A6")
+        val Subtract: PhosphorGlyph = PhosphorGlyph("\uEBD6", PhosphorIconWeight.Duotone, "\uEBD6", "\uEBD6")
+        val SubtractSquare: PhosphorGlyph = PhosphorGlyph("\uEBD4", PhosphorIconWeight.Duotone, "\uEBD4", "\uEBD4")
+        val Subway: PhosphorGlyph = PhosphorGlyph("\uE498", PhosphorIconWeight.Duotone, "\uE498", "\uE498")
+        val Suitcase: PhosphorGlyph = PhosphorGlyph("\uE5AE", PhosphorIconWeight.Duotone, "\uE5AE", "\uE5AE")
+        val SuitcaseRolling: PhosphorGlyph = PhosphorGlyph("\uE9B0", PhosphorIconWeight.Duotone, "\uE9B0", "\uE9B0")
+        val SuitcaseSimple: PhosphorGlyph = PhosphorGlyph("\uE5B0", PhosphorIconWeight.Duotone, "\uE5B0", "\uE5B0")
+        val Sun: PhosphorGlyph = PhosphorGlyph("\uE472", PhosphorIconWeight.Duotone, "\uE472", "\uE472")
+        val SunDim: PhosphorGlyph = PhosphorGlyph("\uE474", PhosphorIconWeight.Duotone, "\uE474", "\uE474")
+        val SunHorizon: PhosphorGlyph = PhosphorGlyph("\uE5B6", PhosphorIconWeight.Duotone, "\uE5B6", "\uE5B6")
+        val Sunglasses: PhosphorGlyph = PhosphorGlyph("\uE816", PhosphorIconWeight.Duotone, "\uE816", "\uE816")
+        val SupersetOf: PhosphorGlyph = PhosphorGlyph("\uEDB8", PhosphorIconWeight.Duotone, "\uEDB8", "\uEDB8")
+        val SupersetProperOf: PhosphorGlyph = PhosphorGlyph("\uEDB4", PhosphorIconWeight.Duotone, "\uEDB4", "\uEDB4")
+        val Swap: PhosphorGlyph = PhosphorGlyph("\uE83C", PhosphorIconWeight.Duotone, "\uE83C", "\uE83C")
+        val Swatches: PhosphorGlyph = PhosphorGlyph("\uE5B8", PhosphorIconWeight.Duotone, "\uE5B8", "\uE5B8")
+        val SwimmingPool: PhosphorGlyph = PhosphorGlyph("\uECB6", PhosphorIconWeight.Duotone, "\uECB6", "\uECB6")
+        val Sword: PhosphorGlyph = PhosphorGlyph("\uE5BA", PhosphorIconWeight.Duotone, "\uE5BA", "\uE5BA")
+        val Synagogue: PhosphorGlyph = PhosphorGlyph("\uECEC", PhosphorIconWeight.Duotone, "\uECEC", "\uECEC")
+        val Syringe: PhosphorGlyph = PhosphorGlyph("\uE968", PhosphorIconWeight.Duotone, "\uE968", "\uE968")
+        val TShirt: PhosphorGlyph = PhosphorGlyph("\uE670", PhosphorIconWeight.Duotone, "\uE670", "\uE670")
+        val Table: PhosphorGlyph = PhosphorGlyph("\uE476", PhosphorIconWeight.Duotone, "\uE476", "\uE476")
+        val Tabs: PhosphorGlyph = PhosphorGlyph("\uE778", PhosphorIconWeight.Duotone, "\uE778", "\uE778")
+        val Tag: PhosphorGlyph = PhosphorGlyph("\uE478", PhosphorIconWeight.Duotone, "\uE478", "\uE478")
+        val TagChevron: PhosphorGlyph = PhosphorGlyph("\uE672", PhosphorIconWeight.Duotone, "\uE672", "\uE672")
+        val TagSimple: PhosphorGlyph = PhosphorGlyph("\uE47A", PhosphorIconWeight.Duotone, "\uE47A", "\uE47A")
+        val Target: PhosphorGlyph = PhosphorGlyph("\uE47C", PhosphorIconWeight.Duotone, "\uE47C", "\uE47C")
+        val Taxi: PhosphorGlyph = PhosphorGlyph("\uE902", PhosphorIconWeight.Duotone, "\uE902", "\uE902")
+        val TeaBag: PhosphorGlyph = PhosphorGlyph("\uE8E6", PhosphorIconWeight.Duotone, "\uE8E6", "\uE8E6")
+        val TelegramLogo: PhosphorGlyph = PhosphorGlyph("\uE5BC", PhosphorIconWeight.Duotone, "\uE5BC", "\uE5BC")
+        val Television: PhosphorGlyph = PhosphorGlyph("\uE754", PhosphorIconWeight.Duotone, "\uE754", "\uE754")
+        val TelevisionSimple: PhosphorGlyph = PhosphorGlyph("\uEAE6", PhosphorIconWeight.Duotone, "\uEAE6", "\uEAE6")
+        val TennisBall: PhosphorGlyph = PhosphorGlyph("\uE720", PhosphorIconWeight.Duotone, "\uE720", "\uE720")
+        val Tent: PhosphorGlyph = PhosphorGlyph("\uE8BA", PhosphorIconWeight.Duotone, "\uE8BA", "\uE8BA")
+        val Terminal: PhosphorGlyph = PhosphorGlyph("\uE47E", PhosphorIconWeight.Duotone, "\uE47E", "\uE47E")
+        val TerminalWindow: PhosphorGlyph = PhosphorGlyph("\uEAE8", PhosphorIconWeight.Duotone, "\uEAE8", "\uEAE8")
+        val TestTube: PhosphorGlyph = PhosphorGlyph("\uE7A0", PhosphorIconWeight.Duotone, "\uE7A0", "\uE7A0")
+        val TextAUnderline: PhosphorGlyph = PhosphorGlyph("\uED34", PhosphorIconWeight.Duotone, "\uED34", "\uED34")
+        val TextAa: PhosphorGlyph = PhosphorGlyph("\uE6EE", PhosphorIconWeight.Duotone, "\uE6EE", "\uE6EE")
+        val TextAlignCenter: PhosphorGlyph = PhosphorGlyph("\uE480", PhosphorIconWeight.Duotone, "\uE480", "\uE480")
+        val TextAlignJustify: PhosphorGlyph = PhosphorGlyph("\uE482", PhosphorIconWeight.Duotone, "\uE482", "\uE482")
+        val TextAlignLeft: PhosphorGlyph = PhosphorGlyph("\uE484", PhosphorIconWeight.Duotone, "\uE484", "\uE484")
+        val TextAlignRight: PhosphorGlyph = PhosphorGlyph("\uE486", PhosphorIconWeight.Duotone, "\uE486", "\uE486")
+        val TextB: PhosphorGlyph = PhosphorGlyph("\uE5BE", PhosphorIconWeight.Duotone, "\uE5BE", "\uE5BE")
+        val TextColumns: PhosphorGlyph = PhosphorGlyph("\uEC96", PhosphorIconWeight.Duotone, "\uEC96", "\uEC96")
+        val TextH: PhosphorGlyph = PhosphorGlyph("\uE6BA", PhosphorIconWeight.Duotone, "\uE6BA", "\uE6BA")
+        val TextHFive: PhosphorGlyph = PhosphorGlyph("\uE6C4", PhosphorIconWeight.Duotone, "\uE6C4", "\uE6C4")
+        val TextHFour: PhosphorGlyph = PhosphorGlyph("\uE6C2", PhosphorIconWeight.Duotone, "\uE6C2", "\uE6C2")
+        val TextHOne: PhosphorGlyph = PhosphorGlyph("\uE6BC", PhosphorIconWeight.Duotone, "\uE6BC", "\uE6BC")
+        val TextHSix: PhosphorGlyph = PhosphorGlyph("\uE6C6", PhosphorIconWeight.Duotone, "\uE6C6", "\uE6C6")
+        val TextHThree: PhosphorGlyph = PhosphorGlyph("\uE6C0", PhosphorIconWeight.Duotone, "\uE6C0", "\uE6C0")
+        val TextHTwo: PhosphorGlyph = PhosphorGlyph("\uE6BE", PhosphorIconWeight.Duotone, "\uE6BE", "\uE6BE")
+        val TextIndent: PhosphorGlyph = PhosphorGlyph("\uEA1E", PhosphorIconWeight.Duotone, "\uEA1E", "\uEA1E")
+        val TextItalic: PhosphorGlyph = PhosphorGlyph("\uE5C0", PhosphorIconWeight.Duotone, "\uE5C0", "\uE5C0")
+        val TextOutdent: PhosphorGlyph = PhosphorGlyph("\uEA1C", PhosphorIconWeight.Duotone, "\uEA1C", "\uEA1C")
+        val TextStrikethrough: PhosphorGlyph = PhosphorGlyph("\uE5C2", PhosphorIconWeight.Duotone, "\uE5C2", "\uE5C2")
+        val TextSubscript: PhosphorGlyph = PhosphorGlyph("\uEC98", PhosphorIconWeight.Duotone, "\uEC98", "\uEC98")
+        val TextSuperscript: PhosphorGlyph = PhosphorGlyph("\uEC9A", PhosphorIconWeight.Duotone, "\uEC9A", "\uEC9A")
+        val TextT: PhosphorGlyph = PhosphorGlyph("\uE48A", PhosphorIconWeight.Duotone, "\uE48A", "\uE48A")
+        val TextTSlash: PhosphorGlyph = PhosphorGlyph("\uE488", PhosphorIconWeight.Duotone, "\uE488", "\uE488")
+        val TextUnderline: PhosphorGlyph = PhosphorGlyph("\uE5C4", PhosphorIconWeight.Duotone, "\uE5C4", "\uE5C4")
+        val Textbox: PhosphorGlyph = PhosphorGlyph("\uEB0A", PhosphorIconWeight.Duotone, "\uEB0A", "\uEB0A")
+        val Thermometer: PhosphorGlyph = PhosphorGlyph("\uE5C6", PhosphorIconWeight.Duotone, "\uE5C6", "\uE5C6")
+        val ThermometerCold: PhosphorGlyph = PhosphorGlyph("\uE5C8", PhosphorIconWeight.Duotone, "\uE5C8", "\uE5C8")
+        val ThermometerHot: PhosphorGlyph = PhosphorGlyph("\uE5CA", PhosphorIconWeight.Duotone, "\uE5CA", "\uE5CA")
+        val ThermometerSimple: PhosphorGlyph = PhosphorGlyph("\uE5CC", PhosphorIconWeight.Duotone, "\uE5CC", "\uE5CC")
+        val ThreadsLogo: PhosphorGlyph = PhosphorGlyph("\uED9E", PhosphorIconWeight.Duotone, "\uED9E", "\uED9E")
+        val ThreeD: PhosphorGlyph = PhosphorGlyph("\uEA5A", PhosphorIconWeight.Duotone, "\uEA5A", "\uEA5A")
+        val ThumbsDown: PhosphorGlyph = PhosphorGlyph("\uE48C", PhosphorIconWeight.Duotone, "\uE48C", "\uE48C")
+        val ThumbsUp: PhosphorGlyph = PhosphorGlyph("\uE48E", PhosphorIconWeight.Duotone, "\uE48E", "\uE48E")
+        val Ticket: PhosphorGlyph = PhosphorGlyph("\uE490", PhosphorIconWeight.Duotone, "\uE490", "\uE490")
+        val TidalLogo: PhosphorGlyph = PhosphorGlyph("\uED1C", PhosphorIconWeight.Duotone, "\uED1C", "\uED1C")
+        val TiktokLogo: PhosphorGlyph = PhosphorGlyph("\uEAF2", PhosphorIconWeight.Duotone, "\uEAF2", "\uEAF2")
+        val Tilde: PhosphorGlyph = PhosphorGlyph("\uEDA8", PhosphorIconWeight.Duotone, "\uEDA8", "\uEDA8")
+        val Timer: PhosphorGlyph = PhosphorGlyph("\uE492", PhosphorIconWeight.Duotone, "\uE492", "\uE492")
+        val TipJar: PhosphorGlyph = PhosphorGlyph("\uE7E2", PhosphorIconWeight.Duotone, "\uE7E2", "\uE7E2")
+        val Tipi: PhosphorGlyph = PhosphorGlyph("\uED30", PhosphorIconWeight.Duotone, "\uED30", "\uED30")
+        val Tire: PhosphorGlyph = PhosphorGlyph("\uEDD2", PhosphorIconWeight.Duotone, "\uEDD2", "\uEDD2")
+        val ToggleLeft: PhosphorGlyph = PhosphorGlyph("\uE674", PhosphorIconWeight.Duotone, "\uE674", "\uE674")
+        val ToggleRight: PhosphorGlyph = PhosphorGlyph("\uE676", PhosphorIconWeight.Duotone, "\uE676", "\uE676")
+        val Toilet: PhosphorGlyph = PhosphorGlyph("\uE79A", PhosphorIconWeight.Duotone, "\uE79A", "\uE79A")
+        val ToiletPaper: PhosphorGlyph = PhosphorGlyph("\uE79C", PhosphorIconWeight.Duotone, "\uE79C", "\uE79C")
+        val Toolbox: PhosphorGlyph = PhosphorGlyph("\uECA0", PhosphorIconWeight.Duotone, "\uECA0", "\uECA0")
+        val Tooth: PhosphorGlyph = PhosphorGlyph("\uE9CC", PhosphorIconWeight.Duotone, "\uE9CC", "\uE9CC")
+        val Tornado: PhosphorGlyph = PhosphorGlyph("\uE88C", PhosphorIconWeight.Duotone, "\uE88C", "\uE88C")
+        val Tote: PhosphorGlyph = PhosphorGlyph("\uE494", PhosphorIconWeight.Duotone, "\uE494", "\uE494")
+        val ToteSimple: PhosphorGlyph = PhosphorGlyph("\uE678", PhosphorIconWeight.Duotone, "\uE678", "\uE678")
+        val Towel: PhosphorGlyph = PhosphorGlyph("\uEDE6", PhosphorIconWeight.Duotone, "\uEDE6", "\uEDE6")
+        val Tractor: PhosphorGlyph = PhosphorGlyph("\uEC6E", PhosphorIconWeight.Duotone, "\uEC6E", "\uEC6E")
+        val Trademark: PhosphorGlyph = PhosphorGlyph("\uE9F0", PhosphorIconWeight.Duotone, "\uE9F0", "\uE9F0")
+        val TrademarkRegistered: PhosphorGlyph = PhosphorGlyph("\uE3F4", PhosphorIconWeight.Duotone, "\uE3F4", "\uE3F4")
+        val TrafficCone: PhosphorGlyph = PhosphorGlyph("\uE9A8", PhosphorIconWeight.Duotone, "\uE9A8", "\uE9A8")
+        val TrafficSign: PhosphorGlyph = PhosphorGlyph("\uE67A", PhosphorIconWeight.Duotone, "\uE67A", "\uE67A")
+        val TrafficSignal: PhosphorGlyph = PhosphorGlyph("\uE9AA", PhosphorIconWeight.Duotone, "\uE9AA", "\uE9AA")
+        val Train: PhosphorGlyph = PhosphorGlyph("\uE496", PhosphorIconWeight.Duotone, "\uE496", "\uE496")
+        val TrainRegional: PhosphorGlyph = PhosphorGlyph("\uE49E", PhosphorIconWeight.Duotone, "\uE49E", "\uE49E")
+        val TrainSimple: PhosphorGlyph = PhosphorGlyph("\uE4A0", PhosphorIconWeight.Duotone, "\uE4A0", "\uE4A0")
+        val Tram: PhosphorGlyph = PhosphorGlyph("\uE9EC", PhosphorIconWeight.Duotone, "\uE9EC", "\uE9EC")
+        val Translate: PhosphorGlyph = PhosphorGlyph("\uE4A2", PhosphorIconWeight.Duotone, "\uE4A2", "\uE4A2")
+        val Trash: PhosphorGlyph = PhosphorGlyph("\uE4A6", PhosphorIconWeight.Duotone, "\uE4A6", "\uE4A6")
+        val TrashSimple: PhosphorGlyph = PhosphorGlyph("\uE4A8", PhosphorIconWeight.Duotone, "\uE4A8", "\uE4A8")
+        val Tray: PhosphorGlyph = PhosphorGlyph("\uE4AA", PhosphorIconWeight.Duotone, "\uE4AA", "\uE4AA")
+        val TrayArrowDown: PhosphorGlyph = PhosphorGlyph("\uE010", PhosphorIconWeight.Duotone, "\uE010", "\uE010")
+        val TrayArrowUp: PhosphorGlyph = PhosphorGlyph("\uEE52", PhosphorIconWeight.Duotone, "\uEE52", "\uEE52")
+        val TreasureChest: PhosphorGlyph = PhosphorGlyph("\uEDE2", PhosphorIconWeight.Duotone, "\uEDE2", "\uEDE2")
+        val Tree: PhosphorGlyph = PhosphorGlyph("\uE6DA", PhosphorIconWeight.Duotone, "\uE6DA", "\uE6DA")
+        val TreeEvergreen: PhosphorGlyph = PhosphorGlyph("\uE6DC", PhosphorIconWeight.Duotone, "\uE6DC", "\uE6DC")
+        val TreePalm: PhosphorGlyph = PhosphorGlyph("\uE91A", PhosphorIconWeight.Duotone, "\uE91A", "\uE91A")
+        val TreeStructure: PhosphorGlyph = PhosphorGlyph("\uE67C", PhosphorIconWeight.Duotone, "\uE67C", "\uE67C")
+        val TreeView: PhosphorGlyph = PhosphorGlyph("\uEE48", PhosphorIconWeight.Duotone, "\uEE48", "\uEE48")
+        val TrendDown: PhosphorGlyph = PhosphorGlyph("\uE4AC", PhosphorIconWeight.Duotone, "\uE4AC", "\uE4AC")
+        val TrendUp: PhosphorGlyph = PhosphorGlyph("\uE4AE", PhosphorIconWeight.Duotone, "\uE4AE", "\uE4AE")
+        val Triangle: PhosphorGlyph = PhosphorGlyph("\uE4B0", PhosphorIconWeight.Duotone, "\uE4B0", "\uE4B0")
+        val TriangleDashed: PhosphorGlyph = PhosphorGlyph("\uE4B2", PhosphorIconWeight.Duotone, "\uE4B2", "\uE4B2")
+        val Trolley: PhosphorGlyph = PhosphorGlyph("\uE5B2", PhosphorIconWeight.Duotone, "\uE5B2", "\uE5B2")
+        val TrolleySuitcase: PhosphorGlyph = PhosphorGlyph("\uE5B4", PhosphorIconWeight.Duotone, "\uE5B4", "\uE5B4")
+        val Trophy: PhosphorGlyph = PhosphorGlyph("\uE67E", PhosphorIconWeight.Duotone, "\uE67E", "\uE67E")
+        val Truck: PhosphorGlyph = PhosphorGlyph("\uE4B4", PhosphorIconWeight.Duotone, "\uE4B4", "\uE4B4")
+        val TruckTrailer: PhosphorGlyph = PhosphorGlyph("\uE4B6", PhosphorIconWeight.Duotone, "\uE4B6", "\uE4B6")
+        val TumblrLogo: PhosphorGlyph = PhosphorGlyph("\uE8D4", PhosphorIconWeight.Duotone, "\uE8D4", "\uE8D4")
+        val TwitchLogo: PhosphorGlyph = PhosphorGlyph("\uE5CE", PhosphorIconWeight.Duotone, "\uE5CE", "\uE5CE")
+        val TwitterLogo: PhosphorGlyph = PhosphorGlyph("\uE4BA", PhosphorIconWeight.Duotone, "\uE4BA", "\uE4BA")
+        val Umbrella: PhosphorGlyph = PhosphorGlyph("\uE684", PhosphorIconWeight.Duotone, "\uE684", "\uE684")
+        val UmbrellaSimple: PhosphorGlyph = PhosphorGlyph("\uE686", PhosphorIconWeight.Duotone, "\uE686", "\uE686")
+        val Union: PhosphorGlyph = PhosphorGlyph("\uEDBE", PhosphorIconWeight.Duotone, "\uEDBE", "\uEDBE")
+        val Unite: PhosphorGlyph = PhosphorGlyph("\uE87E", PhosphorIconWeight.Duotone, "\uE87E", "\uE87E")
+        val UniteSquare: PhosphorGlyph = PhosphorGlyph("\uE878", PhosphorIconWeight.Duotone, "\uE878", "\uE878")
+        val Upload: PhosphorGlyph = PhosphorGlyph("\uE4BE", PhosphorIconWeight.Duotone, "\uE4BE", "\uE4BE")
+        val UploadSimple: PhosphorGlyph = PhosphorGlyph("\uE4C0", PhosphorIconWeight.Duotone, "\uE4C0", "\uE4C0")
+        val Usb: PhosphorGlyph = PhosphorGlyph("\uE956", PhosphorIconWeight.Duotone, "\uE956", "\uE956")
+        val User: PhosphorGlyph = PhosphorGlyph("\uE4C2", PhosphorIconWeight.Duotone, "\uE4C2", "\uE4C2")
+        val UserCheck: PhosphorGlyph = PhosphorGlyph("\uEAFA", PhosphorIconWeight.Duotone, "\uEAFA", "\uEAFA")
+        val UserCircle: PhosphorGlyph = PhosphorGlyph("\uE4C4", PhosphorIconWeight.Duotone, "\uE4C4", "\uE4C4")
+        val UserCircleCheck: PhosphorGlyph = PhosphorGlyph("\uEC38", PhosphorIconWeight.Duotone, "\uEC38", "\uEC38")
+        val UserCircleDashed: PhosphorGlyph = PhosphorGlyph("\uEC36", PhosphorIconWeight.Duotone, "\uEC36", "\uEC36")
+        val UserCircleGear: PhosphorGlyph = PhosphorGlyph("\uE4C6", PhosphorIconWeight.Duotone, "\uE4C6", "\uE4C6")
+        val UserCircleMinus: PhosphorGlyph = PhosphorGlyph("\uE4C8", PhosphorIconWeight.Duotone, "\uE4C8", "\uE4C8")
+        val UserCirclePlus: PhosphorGlyph = PhosphorGlyph("\uE4CA", PhosphorIconWeight.Duotone, "\uE4CA", "\uE4CA")
+        val UserFocus: PhosphorGlyph = PhosphorGlyph("\uE6FC", PhosphorIconWeight.Duotone, "\uE6FC", "\uE6FC")
+        val UserGear: PhosphorGlyph = PhosphorGlyph("\uE4CC", PhosphorIconWeight.Duotone, "\uE4CC", "\uE4CC")
+        val UserList: PhosphorGlyph = PhosphorGlyph("\uE73C", PhosphorIconWeight.Duotone, "\uE73C", "\uE73C")
+        val UserMinus: PhosphorGlyph = PhosphorGlyph("\uE4CE", PhosphorIconWeight.Duotone, "\uE4CE", "\uE4CE")
+        val UserPlus: PhosphorGlyph = PhosphorGlyph("\uE4D0", PhosphorIconWeight.Duotone, "\uE4D0", "\uE4D0")
+        val UserRectangle: PhosphorGlyph = PhosphorGlyph("\uE4D2", PhosphorIconWeight.Duotone, "\uE4D2", "\uE4D2")
+        val UserSound: PhosphorGlyph = PhosphorGlyph("\uECA8", PhosphorIconWeight.Duotone, "\uECA8", "\uECA8")
+        val UserSquare: PhosphorGlyph = PhosphorGlyph("\uE4D4", PhosphorIconWeight.Duotone, "\uE4D4", "\uE4D4")
+        val UserSwitch: PhosphorGlyph = PhosphorGlyph("\uE756", PhosphorIconWeight.Duotone, "\uE756", "\uE756")
+        val Users: PhosphorGlyph = PhosphorGlyph("\uE4D6", PhosphorIconWeight.Duotone, "\uE4D6", "\uE4D6")
+        val UsersFour: PhosphorGlyph = PhosphorGlyph("\uE68C", PhosphorIconWeight.Duotone, "\uE68C", "\uE68C")
+        val UsersThree: PhosphorGlyph = PhosphorGlyph("\uE68E", PhosphorIconWeight.Duotone, "\uE68E", "\uE68E")
+        val Van: PhosphorGlyph = PhosphorGlyph("\uE826", PhosphorIconWeight.Duotone, "\uE826", "\uE826")
+        val Vault: PhosphorGlyph = PhosphorGlyph("\uE76E", PhosphorIconWeight.Duotone, "\uE76E", "\uE76E")
+        val VectorThree: PhosphorGlyph = PhosphorGlyph("\uEE62", PhosphorIconWeight.Duotone, "\uEE62", "\uEE62")
+        val VectorTwo: PhosphorGlyph = PhosphorGlyph("\uEE64", PhosphorIconWeight.Duotone, "\uEE64", "\uEE64")
+        val Vibrate: PhosphorGlyph = PhosphorGlyph("\uE4D8", PhosphorIconWeight.Duotone, "\uE4D8", "\uE4D8")
+        val Video: PhosphorGlyph = PhosphorGlyph("\uE740", PhosphorIconWeight.Duotone, "\uE740", "\uE740")
+        val VideoCamera: PhosphorGlyph = PhosphorGlyph("\uE4DA", PhosphorIconWeight.Duotone, "\uE4DA", "\uE4DA")
+        val VideoCameraSlash: PhosphorGlyph = PhosphorGlyph("\uE4DC", PhosphorIconWeight.Duotone, "\uE4DC", "\uE4DC")
+        val VideoConference: PhosphorGlyph = PhosphorGlyph("\uEDCE", PhosphorIconWeight.Duotone, "\uEDCE", "\uEDCE")
+        val Vignette: PhosphorGlyph = PhosphorGlyph("\uEBA2", PhosphorIconWeight.Duotone, "\uEBA2", "\uEBA2")
+        val VinylRecord: PhosphorGlyph = PhosphorGlyph("\uECAC", PhosphorIconWeight.Duotone, "\uECAC", "\uECAC")
+        val VirtualReality: PhosphorGlyph = PhosphorGlyph("\uE7B8", PhosphorIconWeight.Duotone, "\uE7B8", "\uE7B8")
+        val Virus: PhosphorGlyph = PhosphorGlyph("\uE7D6", PhosphorIconWeight.Duotone, "\uE7D6", "\uE7D6")
+        val Visor: PhosphorGlyph = PhosphorGlyph("\uEE2A", PhosphorIconWeight.Duotone, "\uEE2A", "\uEE2A")
+        val Voicemail: PhosphorGlyph = PhosphorGlyph("\uE4DE", PhosphorIconWeight.Duotone, "\uE4DE", "\uE4DE")
+        val Volleyball: PhosphorGlyph = PhosphorGlyph("\uE726", PhosphorIconWeight.Duotone, "\uE726", "\uE726")
+        val Wall: PhosphorGlyph = PhosphorGlyph("\uE688", PhosphorIconWeight.Duotone, "\uE688", "\uE688")
+        val Wallet: PhosphorGlyph = PhosphorGlyph("\uE68A", PhosphorIconWeight.Duotone, "\uE68A", "\uE68A")
+        val Warehouse: PhosphorGlyph = PhosphorGlyph("\uECD4", PhosphorIconWeight.Duotone, "\uECD4", "\uECD4")
+        val Warning: PhosphorGlyph = PhosphorGlyph("\uE4E0", PhosphorIconWeight.Duotone, "\uE4E0", "\uE4E0")
+        val WarningCircle: PhosphorGlyph = PhosphorGlyph("\uE4E2", PhosphorIconWeight.Duotone, "\uE4E2", "\uE4E2")
+        val WarningDiamond: PhosphorGlyph = PhosphorGlyph("\uE7FC", PhosphorIconWeight.Duotone, "\uE7FC", "\uE7FC")
+        val WarningOctagon: PhosphorGlyph = PhosphorGlyph("\uE4E4", PhosphorIconWeight.Duotone, "\uE4E4", "\uE4E4")
+        val WashingMachine: PhosphorGlyph = PhosphorGlyph("\uEDE8", PhosphorIconWeight.Duotone, "\uEDE8", "\uEDE8")
+        val Watch: PhosphorGlyph = PhosphorGlyph("\uE4E6", PhosphorIconWeight.Duotone, "\uE4E6", "\uE4E6")
+        val WaveSawtooth: PhosphorGlyph = PhosphorGlyph("\uEA9C", PhosphorIconWeight.Duotone, "\uEA9C", "\uEA9C")
+        val WaveSine: PhosphorGlyph = PhosphorGlyph("\uEA9A", PhosphorIconWeight.Duotone, "\uEA9A", "\uEA9A")
+        val WaveSquare: PhosphorGlyph = PhosphorGlyph("\uEA9E", PhosphorIconWeight.Duotone, "\uEA9E", "\uEA9E")
+        val WaveTriangle: PhosphorGlyph = PhosphorGlyph("\uEAA0", PhosphorIconWeight.Duotone, "\uEAA0", "\uEAA0")
+        val Waveform: PhosphorGlyph = PhosphorGlyph("\uE802", PhosphorIconWeight.Duotone, "\uE802", "\uE802")
+        val WaveformSlash: PhosphorGlyph = PhosphorGlyph("\uE800", PhosphorIconWeight.Duotone, "\uE800", "\uE800")
+        val Waves: PhosphorGlyph = PhosphorGlyph("\uE6DE", PhosphorIconWeight.Duotone, "\uE6DE", "\uE6DE")
+        val Webcam: PhosphorGlyph = PhosphorGlyph("\uE9B2", PhosphorIconWeight.Duotone, "\uE9B2", "\uE9B2")
+        val WebcamSlash: PhosphorGlyph = PhosphorGlyph("\uECDC", PhosphorIconWeight.Duotone, "\uECDC", "\uECDC")
+        val WebhooksLogo: PhosphorGlyph = PhosphorGlyph("\uECAE", PhosphorIconWeight.Duotone, "\uECAE", "\uECAE")
+        val WechatLogo: PhosphorGlyph = PhosphorGlyph("\uE8D2", PhosphorIconWeight.Duotone, "\uE8D2", "\uE8D2")
+        val WhatsappLogo: PhosphorGlyph = PhosphorGlyph("\uE5D0", PhosphorIconWeight.Duotone, "\uE5D0", "\uE5D0")
+        val Wheelchair: PhosphorGlyph = PhosphorGlyph("\uE4E8", PhosphorIconWeight.Duotone, "\uE4E8", "\uE4E8")
+        val WheelchairMotion: PhosphorGlyph = PhosphorGlyph("\uE89A", PhosphorIconWeight.Duotone, "\uE89A", "\uE89A")
+        val WifiHigh: PhosphorGlyph = PhosphorGlyph("\uE4EA", PhosphorIconWeight.Duotone, "\uE4EA", "\uE4EA")
+        val WifiLow: PhosphorGlyph = PhosphorGlyph("\uE4EC", PhosphorIconWeight.Duotone, "\uE4EC", "\uE4EC")
+        val WifiMedium: PhosphorGlyph = PhosphorGlyph("\uE4EE", PhosphorIconWeight.Duotone, "\uE4EE", "\uE4EE")
+        val WifiNone: PhosphorGlyph = PhosphorGlyph("\uE4F0", PhosphorIconWeight.Duotone, "\uE4F0", "\uE4F0")
+        val WifiSlash: PhosphorGlyph = PhosphorGlyph("\uE4F2", PhosphorIconWeight.Duotone, "\uE4F2", "\uE4F2")
+        val WifiX: PhosphorGlyph = PhosphorGlyph("\uE4F4", PhosphorIconWeight.Duotone, "\uE4F4", "\uE4F4")
+        val Wind: PhosphorGlyph = PhosphorGlyph("\uE5D2", PhosphorIconWeight.Duotone, "\uE5D2", "\uE5D2")
+        val Windmill: PhosphorGlyph = PhosphorGlyph("\uE9F8", PhosphorIconWeight.Duotone, "\uE9F8", "\uE9F8")
+        val WindowsLogo: PhosphorGlyph = PhosphorGlyph("\uE692", PhosphorIconWeight.Duotone, "\uE692", "\uE692")
+        val Wine: PhosphorGlyph = PhosphorGlyph("\uE6B2", PhosphorIconWeight.Duotone, "\uE6B2", "\uE6B2")
+        val Wrench: PhosphorGlyph = PhosphorGlyph("\uE5D4", PhosphorIconWeight.Duotone, "\uE5D4", "\uE5D4")
+        val X: PhosphorGlyph = PhosphorGlyph("\uE4F6", PhosphorIconWeight.Duotone, "\uE4F6", "\uE4F6")
+        val XCircle: PhosphorGlyph = PhosphorGlyph("\uE4F8", PhosphorIconWeight.Duotone, "\uE4F8", "\uE4F8")
+        val XLogo: PhosphorGlyph = PhosphorGlyph("\uE4BC", PhosphorIconWeight.Duotone, "\uE4BC", "\uE4BC")
+        val XSquare: PhosphorGlyph = PhosphorGlyph("\uE4FA", PhosphorIconWeight.Duotone, "\uE4FA", "\uE4FA")
+        val Yarn: PhosphorGlyph = PhosphorGlyph("\uED9A", PhosphorIconWeight.Duotone, "\uED9A", "\uED9A")
+        val YinYang: PhosphorGlyph = PhosphorGlyph("\uE92A", PhosphorIconWeight.Duotone, "\uE92A", "\uE92A")
+        val YoutubeLogo: PhosphorGlyph = PhosphorGlyph("\uE4FC", PhosphorIconWeight.Duotone, "\uE4FC", "\uE4FC")
     }
 
     val Acorn: PhosphorGlyph = Regular.Acorn

@@ -101,24 +101,50 @@ def write_catalog_file(output_dir: Path, scripts_dir: Path) -> None:
     file_path = output_dir / "app" / "cortena" / "icons" / "catalog" / "PhosphorIconCatalog.kt"
     file_path.parent.mkdir(parents=True, exist_ok=True)
 
-    chunk_fns: list[str] = []
+    chunk_fns_by_weight: dict[str, list[str]] = {}
     chunk_blocks: list[str] = []
 
     for weight in WEIGHTS:
+        chunk_fns: list[str] = []
         names = load_variant_names(scripts_dir, weight)
         for chunk_index, start in enumerate(range(0, len(names), CHUNK_SIZE)):
             chunk = names[start : start + CHUNK_SIZE]
             block, fn_name = chunk_lines(weight, names, chunk_index, chunk)
             chunk_blocks.extend(block)
             chunk_fns.append(fn_name)
+        chunk_fns_by_weight[weight] = chunk_fns
 
     builder_lines = [
-        "/** Full list of Phosphor icons exposed by the library, generated from selection.json. */",
-        "val PhosphorIconCatalog: List<PhosphorIconEntry> = buildList {",
+        "/** Demo-only generated icon lists, built lazily per selected weight. */",
     ]
-    for fn in chunk_fns:
-        builder_lines.append(f"    addAll({fn}())")
-    builder_lines.append("}")
+    for weight in WEIGHTS:
+        property_name = f"{weight}Icons"
+        builder_lines.append(f"private val {property_name}: List<PhosphorIconEntry> by lazy {{")
+        builder_lines.append("    buildList {")
+        for fn in chunk_fns_by_weight[weight]:
+            builder_lines.append(f"        addAll({fn}())")
+        builder_lines.append("    }")
+        builder_lines.append("}")
+        builder_lines.append("")
+
+    builder_lines.extend(
+        [
+            "fun phosphorIconCatalog(weight: PhosphorIconWeight?): List<PhosphorIconEntry> =",
+            "    when (weight) {",
+            "        PhosphorIconWeight.Regular -> regularIcons",
+            "        PhosphorIconWeight.Bold -> boldIcons",
+            "        PhosphorIconWeight.Light -> lightIcons",
+            "        PhosphorIconWeight.Fill -> fillIcons",
+            "        PhosphorIconWeight.Thin -> thinIcons",
+            "        PhosphorIconWeight.Duotone -> duotoneIcons",
+            "        null -> PhosphorIconCatalog",
+            "    }",
+            "",
+            "val PhosphorIconCatalog: List<PhosphorIconEntry> by lazy {",
+            "    regularIcons + boldIcons + lightIcons + fillIcons + thinIcons + duotoneIcons",
+            "}",
+        ]
+    )
 
     body = "\n".join(
         [

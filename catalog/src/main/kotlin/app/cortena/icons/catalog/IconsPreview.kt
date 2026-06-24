@@ -16,7 +16,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
@@ -63,16 +62,7 @@ fun IconCatalogScreen() {
     // Icon display size controlled by the slider.
     var iconSize by rememberSaveable { mutableFloatStateOf(42f) }
 
-    // Derive the filtered icon list from the catalog.
-    val filteredIcons by
-        remember(selectedWeight) {
-            derivedStateOf {
-                PhosphorIconCatalog.filter { entry ->
-                    val matchesWeight = selectedWeight == null || entry.weight == selectedWeight
-                    matchesWeight
-                }
-            }
-        }
+    val icons = remember(selectedWeight) { phosphorIconCatalog(selectedWeight) }
 
     Column(modifier = Modifier.fillMaxSize()) {
         SafeArea {
@@ -91,7 +81,7 @@ fun IconCatalogScreen() {
             }
         }
         // Icon grid
-        IconGrid(entries = filteredIcons, iconSize = iconSize.dp)
+        IconGrid(entries = icons, iconSize = iconSize.dp)
     }
 }
 
@@ -161,7 +151,7 @@ private fun IconGrid(entries: List<PhosphorIconEntry>, iconSize: Dp) {
         contentPadding = PaddingValues(8.dp),
         modifier = Modifier.fillMaxWidth(),
     ) {
-        items(entries.size) { index ->
+        items(entries.size, key = { index -> "${entries[index].weight}:${entries[index].name}" }) { index ->
             val entry = entries[index]
             IconCell(name = entry.name, glyph = entry.glyph, iconSize = iconSize)
         }
@@ -171,7 +161,7 @@ private fun IconGrid(entries: List<PhosphorIconEntry>, iconSize: Dp) {
 @Composable
 private fun IconCell(name: String, glyph: PhosphorGlyph, iconSize: Dp) {
     val colors = LocalColors.current
-    val render = PhosphorIcon(glyph = glyph)
+    val render = remember(glyph) { PhosphorIcon(glyph = glyph) }
     Column(
         modifier =
             Modifier.fillMaxWidth()
