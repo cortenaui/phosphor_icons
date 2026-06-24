@@ -102,6 +102,7 @@ private val WeightOptions: List<Pair<String, PhosphorIconWeight?>> =
         "Light" to PhosphorIconWeight.Light,
         "Fill" to PhosphorIconWeight.Fill,
         "Thin" to PhosphorIconWeight.Thin,
+        "Duotone" to PhosphorIconWeight.Duotone,
     )
 
 @Composable
@@ -116,6 +117,7 @@ private fun WeightFilterRow(
                 Button(
                     onClick = { onWeightSelected(weight) },
                     style = if (isSelected) ButtonStyle.Primary else ButtonStyle.Ghost,
+                    interactive = false,
                     variant = if (isSelected) ButtonVariant.Default else ButtonVariant.Soft,
                     modifier = Modifier.defaultMinSize(minWidth = 72.dp)
                 ) {

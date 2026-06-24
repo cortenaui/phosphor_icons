@@ -17,6 +17,7 @@ enum class PhosphorIconWeight {
     Light,
     Fill,
     Thin,
+    Duotone,
 }
 
 /**

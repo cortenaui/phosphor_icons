@@ -20,6 +20,7 @@ Public shape:
         object Light   { ... }
         object Fill    { ... }
         object Thin    { ... }
+        object DuoTone { ... }
     }
 """
 
@@ -30,7 +31,7 @@ import shutil
 from pathlib import Path
 
 # Ordered so the generated file is deterministic.
-WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "thin")
+WEIGHTS: tuple[str, ...] = ("regular", "bold", "light", "fill", "thin", "duotone")
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
