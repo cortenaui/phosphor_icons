@@ -49,19 +49,50 @@ fun PhosphorIcon(
             modifier = modifier.size(size).alpha(if (enabled) 1f else 0.38f),
             contentAlignment = Alignment.Center,
         ) {
-            BasicText(
-                text = glyph.code,
-                style =
-                    TextStyle(
-                        color = tint,
-                        fontFamily = fontFamily,
-                        fontSize = size.value.sp,
-                        lineHeight = size.value.sp,
-                        textAlign = TextAlign.Center,
-                    ),
-            )
+            if (glyph.weight == PhosphorIconWeight.Duotone) {
+                // ponytail: duotone is regular over fill; generate paths only if font layering
+                // falls short.
+                glyph.secondaryCode?.let { code ->
+                    PhosphorGlyphText(
+                        code = code,
+                        tint = tint.copy(alpha = tint.alpha * DuotoneSecondaryAlpha),
+                        fontFamily = FontFamily(Font(Res.font.phosphor_fill)),
+                        size = size,
+                    )
+                }
+                PhosphorGlyphText(
+                    code = glyph.primaryCode ?: glyph.code,
+                    tint = tint,
+                    fontFamily = FontFamily(Font(Res.font.phosphor_regular)),
+                    size = size,
+                )
+            } else {
+                PhosphorGlyphText(
+                    code = glyph.code,
+                    tint = tint,
+                    fontFamily = fontFamily,
+                    size = size
+                )
+            }
         }
     }
+
+@Composable
+private fun PhosphorGlyphText(code: String, tint: Color, fontFamily: FontFamily, size: Dp) {
+    BasicText(
+        text = code,
+        style =
+            TextStyle(
+                color = tint,
+                fontFamily = fontFamily,
+                fontSize = size.value.sp,
+                lineHeight = size.value.sp,
+                textAlign = TextAlign.Center,
+            ),
+    )
+}
+
+private const val DuotoneSecondaryAlpha = 0.2f
 
 /** Maps a [PhosphorIconWeight] to its bundled font resource. */
 private fun fontResourceFor(weight: PhosphorIconWeight): FontResource =

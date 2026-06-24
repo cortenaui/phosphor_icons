@@ -35,6 +35,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 def strip_weight_suffix(raw_name: str, weight: str) -> str:
+    raw_name = raw_name.split(",", 1)[0]
     if weight == "regular":
         return raw_name
     suffix = f"-{weight}"

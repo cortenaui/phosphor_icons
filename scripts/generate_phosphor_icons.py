@@ -40,6 +40,7 @@ def parse_args() -> argparse.Namespace:
 
 def strip_weight_suffix(raw_name: str, weight: str) -> str:
     """Remove the trailing `-<weight>` segment that non-regular variants carry."""
+    raw_name = raw_name.split(",", 1)[0]
     if weight == "regular":
         return raw_name
     suffix = f"-{weight}"
@@ -94,14 +95,19 @@ def load_variant(scripts_dir: Path, weight: str) -> dict[str, str]:
         mapping[icon_name] = f"\\u{code_point:04X}"
     return mapping
 
-def render_variant_object(weight: str, icons: dict[str, str]) -> list[str]:
+def render_variant_object(weight: str, icons: dict[str, str], variants: dict[str, dict[str, str]]) -> list[str]:
     object_name = weight.capitalize()
     weight_token = f"PhosphorIconWeight.{object_name}"
     lines = [f"    object {object_name} {{"]
     for name, code in icons.items():
-        lines.append(
-            f'        val {name}: PhosphorGlyph = PhosphorGlyph("{code}", {weight_token})'
-        )
+        if weight == "duotone":
+            lines.append(
+                f'        val {name}: PhosphorGlyph = PhosphorGlyph("{code}", {weight_token}, "{variants["regular"][name]}", "{variants["fill"][name]}")'
+            )
+        else:
+            lines.append(
+                f'        val {name}: PhosphorGlyph = PhosphorGlyph("{code}", {weight_token})'
+            )
     lines.append("    }")
     return lines
 
@@ -123,7 +129,7 @@ def write_icons_file(output_dir: Path, variants: dict[str, dict[str, str]]) -> N
         "object PhosphorIcons {",
     ]
     for weight in WEIGHTS:
-        lines.extend(render_variant_object(weight, variants[weight]))
+        lines.extend(render_variant_object(weight, variants[weight], variants))
         lines.append("")
 
     # Aliases must come after Regular is declared, but Kotlin object members
