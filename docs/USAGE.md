@@ -20,7 +20,7 @@ Icon(
 
 ## Icon Weights
 
-Every icon is available in 5 weights. You can access them through the respective object under `PhosphorIcons`:
+Every icon is available in 6 weights. You can access them through the respective object under `PhosphorIcons`:
 
 ```kotlin
 // Regular
@@ -37,6 +37,9 @@ PhosphorIcon(PhosphorIcons.Fill.Heart)
 
 // Thin
 PhosphorIcon(PhosphorIcons.Thin.Heart)
+
+// Duotone
+PhosphorIcon(PhosphorIcons.Duotone.Heart)
 ```
 
 ## How it Works
