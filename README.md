@@ -6,7 +6,7 @@ This library bundles thousands of high-quality vector-like icons from [Phosphor 
 
 ## Features
 
-- **5 Icon Weights**: Regular, Bold, Light, Fill, and Thin styles for every single icon.
+- **6 Icon Weights**: Regular, Bold, Light, Fill, Thin, and Duotone styles for every single icon.
 - **Compose Native**: Built specifically for Compose Multiplatform with a simple composable API.
 - **Lightweight**: Uses a font-based backend instead of individual SVG/vector drawables, vastly reducing APK/app size.
 - **CortenaUI Integrated**: Designed to work flawlessly with `framework.cortena.ui.components.Icon`.
